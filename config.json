@@ -1,0 +1,11 @@
+{
+    "base_folder": "",
+    "train_file": "train.json",
+    "test_file": "test.json",
+    "train_file_preprocessed_name": "train_preprocessed.csv",
+    "test_file_preprocessed_name": "test_preprocessed.csv",
+    "output_file_headers": [
+        "Data",
+        "Label"
+    ]
+}
