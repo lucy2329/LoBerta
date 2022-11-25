@@ -1,0 +1,90 @@
+[
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Addition",
+    "logic_type_code": "P8",
+    "Premise": [
+      "John goes to gym."
+    ],
+    "Hypothesis": [
+      "John goes to gyn or he eats pizza",
+      "John goes to gym or he does not eat pizza",
+      "John does not eat pizza."
+    ],
+    "Label": [
+      "True",
+      "True",
+      "Undetermined"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Addition",
+    "logic_type_code": "P8",
+    "Premise": [
+      "I am cycling everday."
+    ],
+    "Hypothesis": [
+      "I am cycling everyday or it is raining everyday.",
+      "I am cycling everday or it is not raining everyday.",
+      "It is raining everday"
+    ],
+    "Label": [
+      "True",
+      "True",
+      "Undetermined"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Addition",
+    "logic_type_code": "P8",
+    "Premise": [
+      "Karthik pays rent every month."
+    ],
+    "Hypothesis": [
+      "Karthik pays rent every month or cooks food daily.",
+      "Karthik cooks food daily."
+    ],
+    "Label": [
+      "True",
+      "Undetermined"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Addition",
+    "logic_type_code": "P8",
+    "Premise": [
+      "The security guard patrols the campus premises."
+    ],
+    "Hypothesis": [
+      "The security guard patrols the campus premises or he has a flash light with him.",
+      "The security guard patrols the campus premises or he does not have a flash light with him.",
+      "The security guard does not have a flash light."
+
+    ],
+    "Label": [
+      "True",
+      "True",
+      "Undetermined"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Addition",
+    "logic_type_code": "P8",
+    "Premise": [
+      "My earphones are not working."
+    ],
+    "Hypothesis": [
+      "My earphones are not working or I am on a phone call.",
+      "I am on a phone call."
+    ],
+    "Label": [
+      "True",
+      "False"
+    ]
+  }
+
+]

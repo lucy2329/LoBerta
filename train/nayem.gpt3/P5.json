@@ -1,0 +1,818 @@
+[
+    {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If I take the bus, I will be late.",
+      "If I drive, I will use up all my gas.",
+      "I can take the bus or drive."
+    ],
+    "Hypothesis": [
+      "Therefore, I will either be late or use up all my gas."
+    ],
+    "Label": [
+      "True"
+    ]
+    },
+    {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If it is sunny, I will go to the park.",
+      "If it is cloudy, I will stay home.",
+      "It is sunny or cloudy."
+    ],
+    "Hypothesis": [
+      "Therefore, I will either go to the park or stay home."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If I get an A in this class, I will be happy.",
+      "If I get a B in this class, I will be unhappy.",
+      "I will either get an A or a B in this class."
+    ],
+    "Hypothesis": [
+      "Therefore, I will neither be happy or unhappy."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If I buy a car, I will be happy.",
+      "If I don't buy a car, I will be unhappy.",
+      "I will either buy a car or not buy a car."
+    ],
+    "Hypothesis": [
+      "Therefore, I will either be happy or unhappy."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If I go to the movies, I will spend money.",
+      "If I don't go to the movies, I won't spend money.",
+      "I will either go to the movies or not go to the movies."
+    ],
+    "Hypothesis": [
+      "Therefore, I will either spend time or not spend time."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If I don't study, I will fail the test.",
+      "If I study, I will pass the test.",
+      "I will either study or not study."
+    ],
+    "Hypothesis": [
+      "Therefore, I will not either pass the test or fail the test."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Constructive Dilemma",
+    "logic_type_code": "P5",
+    "Premise": [
+      "If I go to the party, I will have fun.",
+      "If I don't go to the party, I won't have fun.",
+      "I will either go to the party or not go to the party."
+    ],
+    "Hypothesis": [
+      "Therefore, I will either have fun or not have fun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If Britain votes to leave the European Union, then the value of the pound will go down.",
+            "If Britain votes to stay in the European Union, then the value of the pound will go up.",
+            "Either Britain will vote to leave the European Union or they will vote to stay."
+        ],
+        "Hypothesis": [
+            "Therefore, if Britain votes to leave the European Union or stay in the European Union, then the value of the pound will remain same."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the teacher gives us a pop quiz, then we will be unprepared.",
+            "If the teacher doesn't give us a pop quiz, then we will be prepared.",
+            "The teacher will either give us a pop quiz or not give us a pop quiz."
+        ],
+        "Hypothesis": [
+            "Therefore, the teacher gives us a pop quiz and doesn't give us a pop quiz"
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the company lays off workers, then production will go down.",
+            "If the company doesn't lay off workers, then they will go bankrupt.",
+            "The company will either lay off workers or they won't."
+        ],
+        "Hypothesis": [
+            "Therefore, the production will go down and the company will go bankrupt."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the jury finds the defendant guilty, then they will go to jail.",
+            "If the jury finds the defendant not guilty, then they will be set free.",
+            "The jury will either find the defendant guilty or not guilty."
+        ],
+        "Hypothesis": [
+            "Therefore, the defendant will either go to jail or be set free."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the company invests in a new product, then they will make more money.",
+            "If the company doesn't invest in a new product, then they will make less money.",
+            "The company will either invest in a new product or they won't."
+        ],
+        "Hypothesis": [
+            "Therefore, the company will make same profit."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the athlete trains for the race, then they will win.",
+            "If the athlete doesn't train for the race, then they will lose.",
+            "The athlete will either train for the race or they won't."
+        ],
+        "Hypothesis": [
+            "Therefore, the athlete will win."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the team practices, then they will win the game.",
+            "If the team doesn't practice, then they will lose the game.",
+            "The team will either practice or they won't."
+        ],
+        "Hypothesis": [
+            "Therefore, the team will win or lose the game."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the student attends class, then they will pass the course.",
+            "If the student doesn't attend class, then they will fail the course.",
+            "The student will either attend class or they won't."
+        ],
+        "Hypothesis": [
+            "Therefore, the student will pass and fail the course."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the business expands, then they will make more money.",
+            "If the business doesn't expand, then they will make less money.",
+            "The business will either expand or they won't."
+        ],
+        "Hypothesis": [
+            "Therefore, the business will make more money or less money."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I buy a new car, I will sell my old car.",
+            "If I keep my old car, I will not buy a new car.",
+            "Either I will buy a new car or I will keep my old car."
+        ],
+        "Hypothesis": [
+            "Therefore I will sell my old car and I will not buy a new car."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I take the bus, I will be early.",
+            "If I drive my car, I will be late.",
+            "Either I take the bus or I drive my car."
+        ],
+        "Hypothesis": [
+            "Therefore I will be early and I will be late."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I tell the truth, I will be punished.",
+            "If I lie, I will be rewarded.",
+            "Either I tell the truth or I lie."
+        ],
+        "Hypothesis": [
+            "Therefore I will be punished or I will be rewarded."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am sick, I will go to the doctor.",
+            "If I am well, I will stay home.",
+            "Either I am sick or I am well."
+        ],
+        "Hypothesis": [
+            "Therefore I will go to the doctor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am happy, I will smile.",
+            "If I am sad, I will cry.",
+            "Either I am happy or I am sad."
+        ],
+        "Hypothesis": [
+            "Therefore I will smile."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am a cat, I will chase mice.",
+            "If I am a mouse, I will be chased by cats.",
+            "Either I am a cat or I am a mouse."
+        ],
+        "Hypothesis": [
+            "Therefore I will chase mice or be chased by cats."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am in a relationship, I will be happy.",
+            "If I am single, I will be lonely.",
+            "Either I am in a relationship or I am single."
+        ],
+        "Hypothesis": [
+            "Therefore I will be happy and I will be lonely."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am a good student, I will get a good grade.",
+            "If I am a bad student, I will get a bad grade.",
+            "Either I am a good student or a bad student."
+        ],
+        "Hypothesis": [
+            "Therefore I will get a good grade."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am nice to other people, they will be nice to me.",
+            "If I am not nice to other people, they will not be nice to me.",
+            "Either I am nice to other people or I am not nice to other people."
+        ],
+        "Hypothesis": [
+            "Therefore other people will be nice to me or they will not be nice to me."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I work hard, I will get a promotion.",
+            "If I don't work hard, I will get fired.",
+            "Either I work hard or I don't work hard."
+        ],
+        "Hypothesis": [
+            "Therefore I will get a promotion and I will get fired."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I save my money, I will have enough to buy a new car.",
+            "If I spend my money, I will not have enough to buy a new car.",
+            "Either I save my money or I spend my money."
+        ],
+        "Hypothesis": [
+            "Therefore I will have enough to buy a new car or I will not have enough to buy a new car."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I eat healthy, I will lose weight.",
+            "If I don't eat healthy, I will gain weight.",
+            "Either I eat healthy or I don't eat healthy."
+        ],
+        "Hypothesis": [
+            "Therefore I will lose weight."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I exercise, I will get in shape.",
+            "If I don't exercise, I will stay out of shape.",
+            "Either I exercise or I don't exercise."
+        ],
+        "Hypothesis": [
+            "Therefore I will get in shape or I will stay out of shape."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am honest, people will trust me.",
+            "If I am dishonest, people will not trust me.",
+            "Either I am honest or I am dishonest."
+        ],
+        "Hypothesis": [
+            "Therefore people will trust me or they will not trust me."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am polite, people will be polite to me.",
+            "If I am impolite, people will be impolite to me.",
+            "Either I am polite or I am impolite."
+        ],
+        "Hypothesis": [
+            "Therefore people will be polite to me or they will be impolite to me."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am wealthy, I am happy.",
+            "If I am not wealthy, I am not happy.",
+            "Either I am wealthy or I am not wealthy."
+        ],
+        "Hypothesis": [
+            "Therefore I am happy or I am sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am employed, I am happy.",
+            "If I am not employed, I am not happy.",
+            "Either I am employed or I am not employed."
+        ],
+        "Hypothesis": [
+            "Therefore I am happy and I am not happy."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I have a lot of friends, I am happy.",
+            "If I do not have a lot of friends, I am not happy.",
+            "Either I have a lot of friends or I do not have a lot of friends."
+        ],
+        "Hypothesis": [
+            "Therefore I am happy or I am sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I stay up late, I will be tired.",
+            "If I go to bed early, I will be rested.",
+            "Either I stay up late or I go to bed early."
+        ],
+        "Hypothesis": [
+            "Therefore I will be tired or I will be rested."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I work hard, I will be successful.",
+            "If I don't work hard, I will be a failure.",
+            "Either I work hard or I don't work hard."
+        ],
+        "Hypothesis": [
+            "Therefore I will be successful and I will be a failure."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am kind to others, they will be kind to me.",
+            "If I am not kind to others, they will not be kind to me.",
+            "Either I am kind to others or I am not kind to others."
+        ],
+        "Hypothesis": [
+            "Therefore they will be kind to me."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I save my money, I will be rich.",
+            "If I spend my money, I will be poor.",
+            "Either I save my money or I spend my money."
+        ],
+        "Hypothesis": [
+            "Therefore I will be rich."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If it rains, the ground will be wet.",
+            "If it doesn't rain, the ground will be dry.",
+            "Either it rains or it doesn't rain."
+        ],
+        "Hypothesis": [
+            "Therefore the ground will be wet or it will be dry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am careful, I will not make mistakes.",
+            "If I am not careful, I will make mistakes.",
+            "Either I am careful or I am not careful."
+        ],
+        "Hypothesis": [
+            "Therefore I will not make mistakes and I will make mistakes."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I try, I will succeed.",
+            "If I don't try, I will fail.",
+            "Either I try or I don't try."
+        ],
+        "Hypothesis": [
+            "Therefore I will succeed."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am patient, I will get what I want.",
+            "If I am not patient, I will not get what I want.",
+            "Either I am patient or I am not patient."
+        ],
+        "Hypothesis": [
+            "Therefore I will get what I want or I will not get what I want."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am polite, people will like me.",
+            "If I am not polite, people will not like me.",
+            "Either I am polite or I am not polite."
+        ],
+        "Hypothesis": [
+            "Therefore people will like me."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I am brave, I will not be afraid.",
+            "If I am not brave, I will be afraid.",
+            "Either I am brave or I am not brave."
+        ],
+        "Hypothesis": [
+            "Therefore I will not be afraid or I will be afraid."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I take the bus, I will be late for my appointment.",
+            "If I drive my car, I will be early for my appointment.",
+            "Either I take the bus or I drive my car."
+        ],
+        "Hypothesis": [
+            "Therefore I will be late for my appointment or early for my appointment."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I go out tonight, I will have fun.",
+            "If I stay home tonight, I will be bored.",
+            "Either I go out tonight or I stay home tonight."
+        ],
+        "Hypothesis": [
+            "Therefore I will have fun and I will be bored."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I eat healthy, I will be healthy.",
+            "If I don't eat healthy, I will be unhealthy.",
+            "Either I eat healthy or I don't eat healthy."
+        ],
+        "Hypothesis": [
+            "Therefore I will be healthy or unhealthy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I work hard, I will be successful.",
+            "If I don't work hard, I will be a failure.",
+            "Either I work hard or I don't work hard."
+        ],
+        "Hypothesis": [
+            "Therefore I will be a faukure."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I save my money, I will be rich.",
+            "If I spend my money, I will be poor.",
+            "Either I save my money or I spend my money."
+        ],
+        "Hypothesis": [
+            "Therefore I will be rich and poor."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I tell the truth, I will get in trouble.",
+            "If I lie, I will be safe.",
+            "Either I tell the truth or I lie."
+        ],
+        "Hypothesis": [
+            "Therefore I will get in trouble."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I work hard, I will be rewarded.",
+            "If I don't work hard, I will not be rewarded.",
+            "Either I work hard or I don't work hard."
+        ],
+        "Hypothesis": [
+            "Therefore I will be rewarded and not be rewarded."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    }
+]

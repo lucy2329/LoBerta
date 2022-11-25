@@ -1,0 +1,984 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time a robot grabs a fruit, the fruit will be in its hand.",
+            "If a fruit is in the hand, then after the robot squeezes the fruit, the fruit becomes soggy.",
+            "Initially the fruit is not in the hand of the robot."
+        ],
+        "Hypothesis": [
+            "After the robot grabs a fruit, waits and then squeezes the fruit, the fruit will be soggy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot grabs a key, the key will be in its hand.",
+            "If a key is in the hand, then after the robot unlocks the door, the key will be in the door.",
+            "Initially the key is not in the hand.",
+            "Initially the key is not in the door."
+        ],
+        "Hypothesis": [
+            "After the robot grabs a key, waits and then unlocks the door, the key will be in the door."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot grasps a book, the book will be in the backpack.",
+            "If a book is in the backpack, then after the robot moves the backpack onto the table, the book will be on the table.",
+            "Initially the book is not in the backpack.",
+            "Initially the book is not on the table."
+        ],
+        "Hypothesis": [
+            "After the robot grasps a book, waits and then places the backpack on the table, the book will be on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a cat, the cat will be on the ground.",
+            "If a cat is on the ground, after the robot scoops it up, the cat will be in the air.",
+            "If a cat is in the air, after the robot brings it down, the cat will be on the ground.",
+            "Initially the cat is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees a cat, waits and then scoops it up, waits and then brings it down, the cat will be on the ground."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot marinates a chicken, the chicken will be in the oven tray.",
+            "If a chicken is in the oven tray, after the robot moves it into the oven, the chicken will be in the oven.",
+            "If a chicken is in the oven, after the robot presses the button, the chicken will be cooked in the oven.",
+            "Initially the chicken is not in the oven.",
+            "Initially the chicken is not in the oven tray.",
+            "Initially the chicken is not cooked in the oven.",
+            "Initially the chicken is not marinated."
+        ],
+        "Hypothesis": [
+            "After the robot marinates the chicken, waits and then moves the oven tray into the oven, waits and then presses the button, the chicken will be cooked in the oven."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a ball, the ball will be on the ground.",
+            "If a ball is on the ground, then after the robot kicks the ball, the ball will be in the air.",
+            "If a ball is in the air, then after the ball falls to the ground, the ball will be on the ground.",
+            "Initially the ball is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the ball, waits and then kicks the ball, the ball will be on the ground."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a toy, the toy will be on the ground.",
+            "If a toy is on the ground, then after the robot picks it up, the toy will be in its hand.",
+            "If a toy is in its hand, then after the robot squeezes it, the toy will make a noise.",
+            "Initially the toy is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the toy, waits and then picks it up, waits and then squeezes it, the toy will make a noise."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a pen, the pen will be on the ground.",
+            "If a pen is on the ground, then after the robot picks it up, the pen will be in its hand.",
+            "If a pen is in its hand, then after the robot clicks it, the pen will make a noise.",
+            "Initially the pen is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the pen, waits and then picks it up, waits and then clicks it, the pen will make a noise."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a pencil, the pencil will be on the ground.",
+            "If a pencil is on the ground, then after the robot picks it up, the pencil will be in its hand.",
+            "If a pencil is in its hand, then after the robot sharpens it, the pencil will be sharp.",
+            "Initially the pencil is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the pencil, waits and then picks it up, waits and then sharpens it, the pencil will be sharp."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a paper, the paper will be on the ground.",
+            "If a paper is on the ground, then after the robot picks it up, the paper will be in its hand.",
+            "If a paper is in its hand, then after the robot rips it, the paper will be in pieces.",
+            "Initially the paper is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the paper, waits and then picks it up, waits and then rips it, the paper will be in pieces."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a coin, the coin will be on the ground.",
+            "If a coin is on the ground, then after the robot picks it up, the coin will be in its hand.",
+            "If a coin is in its hand, then after the robot drops it, the coin will be on the ground.",
+            "Initially the coin is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the coin, waits and then picks it up, waits and then drops it, the coin will be on the ground."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a rock, the rock will be on the ground.",
+            "If a rock is on the ground, then after the robot picks it up, the rock will be in its hand.",
+            "If a rock is in its hand, then after the robot squeezes it, the rock will be a smaller size.",
+            "Initially the rock is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the rock, waits and then picks it up, waits and then squeezes it, the rock will be a smaller size."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a fire, the fire will be in the fireplace.",
+            "If a fire is in the fireplace, then after the robot lights a match, the match will be in the fire.",
+            "If a match is in the fire, then after the robot waits, the match will be gone.",
+            "Initially the fire is not in the fireplace."
+        ],
+        "Hypothesis": [
+            "After the robot sees the fire, waits and then lights a match, waits and then the match will be gone."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a chair, the chair will be in the room.",
+            "If a chair is in the room, then after the robot moves it, the chair will be in a different location.",
+            "If a chair is in a different location, then after the robot sits in it, the robot will be in the chair.",
+            "Initially the chair is not in the room."
+        ],
+        "Hypothesis": [
+            "After the robot sees the chair, waits and then moves it, waits and then sits in it, the robot will be in the chair."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a table, the table will be in the room.",
+            "If a table is in the room, then after the robot moves it, the table will be in a different location.",
+            "If a table is in a different location, then after the robot puts the book on it, the book will be on the table.",
+            "Initially the table is not in the room.",
+            "Initially the book is not on the table."
+        ],
+        "Hypothesis": [
+            "After the robot sees the table, waits and then moves it, waits and then puts the book on it, the book will be on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a window, the window will be in the room.",
+            "If a window is in the room, then after the robot opens it, the window will be open.",
+            "If a window is open, then after the robot closes it, the window will be closed.",
+            "Initially the window is not in the room."
+        ],
+        "Hypothesis": [
+            "After the robot sees the window, waits and then opens it, waits and then closes it, the window will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a door, the door will be in the room.",
+            "If a door is in the room, then after the robot opens it, the door will be open.",
+            "If a door is open, then after the robot closes it, the door will be closed.",
+            "Initially the door is not in the room."
+        ],
+        "Hypothesis": [
+            "After the robot sees the door, waits and then opens it, waits and then closes it, the door will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a light, the light will be off.",
+            "If a light is off, then after the robot turns it on, the light will be on.",
+            "If a light is on, then after the robot turns it off, the light will be off.",
+            "Initially the light is not off."
+        ],
+        "Hypothesis": [
+            "After the robot sees the light, waits and then turns it on, waits and then turns it off, the light will be off."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a computer, the computer will be off.",
+            "If a computer is off, then after the robot turns it on, the computer will be on.",
+            "If a computer is on, then after the robot turns it off, the computer will be off.",
+            "Initially the computer is not off."
+        ],
+        "Hypothesis": [
+            "After the robot sees the computer, waits and then turns it on, waits and then turns it off, the computer will be off."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a TV, the TV will be off.",
+            "If a TV is off, then after the robot turns it on, the TV will be on.",
+            "If a TV is on, then after the robot turns it off, the TV will be off.",
+            "Initially the TV is not off."
+        ],
+        "Hypothesis": [
+            "After the robot sees the TV, waits and then turns it on, waits and then turns it off, the TV will be off."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a book, the book will be on the ground.",
+            "If a book is on the ground, then after the robot picks it up, the book will be in its hand.",
+            "If a book is in its hand, then after the robot opens it, the book will be open.",
+            "Initially the book is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the book, waits and then picks it up, waits and then opens it, the book will be open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a book, the book will be on the ground.",
+            "If a book is on the ground, then after the robot picks it up, the book will be in its hand.",
+            "If a book is in its hand, then after the robot closes it, the book will be closed.",
+            "Initially the book is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the book, waits and then picks it up, waits and then closes it, the book will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a book, the book will be on the ground.",
+            "If a book is on the ground, then after the robot picks it up, the book will be in its hand.",
+            "If a book is in its hand, then after the robot reads it, the book will be read.",
+            "Initially the book is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the book, waits and then picks it up, waits and then reads it, the book will be read."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a book, the book will be on the ground.",
+            "If a book is on the ground, then after the robot picks it up, the book will be in its hand.",
+            "If a book is in its hand, then after the robot puts it back down, the book will be on the ground.",
+            "Initially the book is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the book, waits and then picks it up, waits and then puts it back down, the book will be on the ground."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a pencil, the pencil will be on the ground.",
+            "If a pencil is on the ground, then after the robot picks it up, the pencil will be in its hand.",
+            "If a pencil is in its hand, then after the robot erases something, the pencil will have less graphite.",
+            "Initially the pencil is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the pencil, waits and then picks it up, waits and then erases something, the pencil will have less graphite."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a pencil, the pencil will be on the ground.",
+            "If a pencil is on the ground, then after the robot picks it up, the pencil will be in its hand.",
+            "If a pencil is in its hand, then after the robot sharpens it, the pencil will be sharp.",
+            "Initially the pencil is not on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot sees the pencil, waits and then picks it up, waits and then sharpens it, the pencil will be sharp."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot grasps the remote, the remote will be in the living room.",
+            "If the remote is in the living room, then after the robot changes the channel, the remote will be on the TV.",
+            "Initially the remote is not in the living room.",
+            "Initially the remote is not on the TV."
+        ],
+        "Hypothesis": [
+            "After the robot grasps the remote, waits and then changes the channel, the remote will be on the TV."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a cat, the cat will be in the living room.",
+            "If the cat is in the living room, then after the robot chases the cat, the cat will be in the backyard.",
+            "Initially the cat is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a cat, waits and then chases the cat, the cat will be in the backyard."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a chair, the chair will be in the living room.",
+            "If the chair is in the living room, then after the robot moves the chair, the chair will be in the kitchen.",
+            "Initially the chair is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a chair, waits and then moves the chair, the chair will be in the kitchen."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a couch, the couch will be in the living room.",
+            "If the couch is in the living room, then after the robot pushes the couch, the couch will be in the kitchen.",
+            "Initially the couch is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a couch, waits and then pushes the couch, the couch will be in the kitchen."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a table, the table will be in the living room.",
+            "If the table is in the living room, then after the robot moves the table, the table will be in the kitchen.",
+            "Initially the table is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a table, waits and then moves the table, the table will be in the kitchen."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a window, the window will be in the living room.",
+            "If the window is in the living room, then after the robot opens the window, the window will be open.",
+            "Initially the window is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a window, waits and then opens the window, the window will be open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a door, the door will be in the living room.",
+            "If the door is in the living room, then after the robot opens the door, the door will be open.",
+            "Initially the door is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a door, waits and then opens the door, the door will be open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a stairs, the stairs will be in the living room.",
+            "If the stairs is in the living room, then after the robot climbs the stairs, the robot will be on the second floor.",
+            "Initially the stairs is not in the living room."
+        ],
+        "Hypothesis": [
+            "After the robot sees a stairs, waits and then climbs the stairs, the robot will be on the second floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a sink, the sink will be in the kitchen.",
+            "If the sink is in the kitchen, then after the robot turns on the sink, the sink will be on.",
+            "Initially the sink is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a sink, waits and then turns on the sink, the sink will be on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a fridge, the fridge will be in the kitchen.",
+            "If the fridge is in the kitchen, then after the robot opens the fridge, the fridge will be open.",
+            "Initially the fridge is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a fridge, waits and then opens the fridge, the fridge will be open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a stove, the stove will be in the kitchen.",
+            "If the stove is in the kitchen, then after the robot turns on the stove, the stove will be on.",
+            "Initially the stove is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a stove, waits and then turns on the stove, the stove will be on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a dishwasher, the dishwasher will be in the kitchen.",
+            "If the dishwasher is in the kitchen, then after the robot turns on the dishwasher, the dishwasher will be on.",
+            "Initially the dishwasher is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a dishwasher, waits and then turns on the dishwasher, the dishwasher will be on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a oven, the oven will be in the kitchen.",
+            "If the oven is in the kitchen, then after the robot turns on the oven, the oven will be on.",
+            "Initially the oven is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a oven, waits and then turns on the oven, the oven will be on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a cupboard, the cupboard will be in the kitchen.",
+            "If the cupboard is in the kitchen, then after the robot opens the cupboard, the cupboard will be open.",
+            "Initially the cupboard is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a cupboard, waits and then opens the cupboard, the cupboard will be open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a drawer, the drawer will be in the kitchen.",
+            "If the drawer is in the kitchen, then after the robot opens the drawer, the drawer will be open.",
+            "Initially the drawer is not in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot sees a drawer, waits and then opens the drawer, the drawer will be open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a sink, the sink will be in the bathroom.",
+            "If the sink is in the bathroom, then after the robot turns on the sink, the sink will be on.",
+            "Initially the sink is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a sink, waits and then turns on the sink, the sink will be on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a toilet, the toilet will be in the bathroom.",
+            "If the toilet is in the bathroom, then after the robot flushes the toilet, the toilet will be flushed.",
+            "Initially the toilet is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a toilet, waits and then flushes the toilet, the toilet will be flushed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a shower, the shower will be in the bathroom.",
+            "If the shower is in the bathroom, then after the robot turns on the shower, the shower will be on.",
+            "Initially the shower is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a shower, waits and then turns on the shower, the shower will be on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a bathtub, the bathtub will be in the bathroom.",
+            "If the bathtub is in the bathroom, then after the robot fills the bathtub, the bathtub will be full.",
+            "Initially the bathtub is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a bathtub, waits and then fills the bathtub, the bathtub will be full."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a towel, the towel will be in the bathroom.",
+            "If the towel is in the bathroom, then after the robot dries off with the towel, the towel will be wet.",
+            "Initially the towel is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a towel, waits and then dries off with the towel, the towel will be wet."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a trash can, the trash can will be in the bathroom.",
+            "If the trash can is in the bathroom, then after the robot puts the towel in the trash can, the towel will be in the trash can.",
+            "Initially the trash can is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a trash can, waits and then puts the towel in the trash can, the towel will be in the trash can."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a sink, the sink will be in the bathroom.",
+            "If the sink is in the bathroom, then after the robot washes its hands, the sink will be wet.",
+            "Initially the sink is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a sink, waits and then washes its hands, the sink will be wet."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a mirror, the mirror will be in the bathroom.",
+            "If the mirror is in the bathroom, then after the robot looks in the mirror, the robot will be able to see itself.",
+            "Initially the mirror is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a mirror, waits and then looks in the mirror, the robot will be able to see itself."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a sink, the sink will be in the bathroom.",
+            "If the sink is in the bathroom, then after the robot brushes its teeth, the sink will be wet.",
+            "Initially the sink is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a sink, waits and then brushes its teeth, the sink will be wet."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a light switch, the light switch will be in the bathroom.",
+            "If the light switch is in the bathroom, then after the robot turns off the light, the light will be off.",
+            "Initially the light switch is not in the bathroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a light switch, waits and then turns off the light, the light will be off."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a bed, the bed will be in the bedroom.",
+            "If the bed is in the bedroom, then after the robot gets in bed, the robot will be in bed.",
+            "Initially the bed is not in the bedroom."
+        ],
+        "Hypothesis": [
+            "After the robot sees a bed, waits and then gets in bed, the robot will be in bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a pillow, the pillow will be on the bed.",
+            "If the pillow is on the bed, then after the robot puts its head on the pillow, the robot will be resting its head on the pillow.",
+            "Initially the pillow is not on the bed."
+        ],
+        "Hypothesis": [
+            "After the robot sees a pillow, waits and then puts its head on the pillow, the robot will be resting its head on the pillow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a blanket, the blanket will be on the bed.",
+            "If the blanket is on the bed, then after the robot covers itself with the blanket, the robot will be covered by the blanket.",
+            "Initially the blanket is not on the bed."
+        ],
+        "Hypothesis": [
+            "After the robot sees a blanket, waits and then covers itself with the blanket, the robot will be covered by the blanket."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a alarm clock, the alarm clock will be on the bedside table.",
+            "If the alarm clock is on the bedside table, then after the robot sets the alarm, the alarm will be set.",
+            "Initially the alarm clock is not on the bedside table."
+        ],
+        "Hypothesis": [
+            "After the robot sees a alarm clock, waits and then sets the alarm, the alarm will be set."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed things normally remain as they were.",
+            "Any time the robot sees a lamp, the lamp will be on the bedside table.",
+            "If the lamp is on the bedside table, then after the robot turns off the lamp, the lamp will be off.",
+            "Initially the lamp is not on the bedside table."
+        ],
+        "Hypothesis": [
+            "After the robot sees a lamp, waits and then turns off the lamp, the lamp will be off."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

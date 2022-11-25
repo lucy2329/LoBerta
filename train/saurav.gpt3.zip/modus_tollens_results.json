@@ -1,0 +1,820 @@
+{
+  "1": [
+    {
+      "id": 0,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if it is windy, then the turbine can generate energy",
+        "the turbine cannot generate energy"
+      ],
+      "Hypothesis": [
+        "it is not windy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the game is cancelled, then the team can't play",
+        "the team can play"
+      ],
+      "Hypothesis": [
+        "the game is not cancelled"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the credit is good, then the loan can be approved",
+        "the loan cannot be approved"
+      ],
+      "Hypothesis": [
+        "the credit is not good"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the company is doing well, then the stock will go up",
+        "the stock will not go up"
+      ],
+      "Hypothesis": [
+        "the company is not doing well"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the bank is open, then the customer can withdraw money",
+        "the customer cannot withdraw money"
+      ],
+      "Hypothesis": [
+        "the bank is not open"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the student studies, then the student will get a good grade",
+        "the student will not get a good grade"
+      ],
+      "Hypothesis": [
+        "the student did not study"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the patient takes the medicine, then the patient will get better",
+        "the patient will not get better"
+      ],
+      "Hypothesis": [
+        "the patient did not take the medicine"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the car has gas, then the car can drive",
+        "the car cannot drive"
+      ],
+      "Hypothesis": [
+        "the car does not have gas"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the light is green, then the car can go",
+        "the car cannot go"
+      ],
+      "Hypothesis": [
+        "the light is not green"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the patient has cancer, then the patient will go to the hospital",
+        "the patient will not go to the hospital"
+      ],
+      "Hypothesis": [
+        "the patient does not have cancer"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the patient has a cold, then the patient will take medicine",
+        "the patient will not take medicine"
+      ],
+      "Hypothesis": [
+        "the patient does not have a cold"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the patient has a fever, then the patient will see a doctor",
+        "the patient will not see a doctor"
+      ],
+      "Hypothesis": [
+        "the patient does not have a fever"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the patient has the flu, then the patient will stay in bed",
+        "the patient will not stay in bed"
+      ],
+      "Hypothesis": [
+        "the patient does not have the flu"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the plane is on time, then the passengers will arrive on time",
+        "the passengers will not arrive on time"
+      ],
+      "Hypothesis": [
+        "the plane is not on time"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the weather is good, then the party can be outdoors",
+        "the party cannot be outdoors"
+      ],
+      "Hypothesis": [
+        "the weather is not good"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the store is open, then the customer can buy a product",
+        "the customer cannot buy a product"
+      ],
+      "Hypothesis": [
+        "the store is not open"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the restaurant is busy, then the waiters are busy",
+        "the waiters are not busy"
+      ],
+      "Hypothesis": [
+        "the restaurant is not busy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if my phone dies, I will buy a new phone",
+        "I did not buy a new phone"
+      ],
+      "Hypothesis": [
+        "Therefore, my phone did not die"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 18,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the team wins, then the coach is happy",
+        "the coach is not happy"
+      ],
+      "Hypothesis": [
+        "the team did not win"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "P2",
+      "Premise": [
+        "if the student is absent, then the student will get a zero",
+        "the student will not get a zero"
+      ],
+      "Hypothesis": [
+        "the student is not absent"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+     {
+      "id": 20,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if a person travels to Europe, they need a passport",
+        "they don't need a passport"
+      ],
+      "Hypothesis": [
+        "Therefore, the person does not travel to Europe"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if someone smokes, they have cancer",
+        "They don't have cancer"
+      ],
+      "Hypothesis": [
+        "Therefore, they don't smoke"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if someone drinks, they are drunk",
+        "They are not drunk"
+      ],
+      "Hypothesis": [
+        "Therefore, someone is drinking"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+     {
+      "id": 23,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if the game is tied, then the team will go into overtime",
+        "the team did not go into overtime"
+      ],
+      "Hypothesis": [
+        "the game was not tied"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 24,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if the company reaches its sales goals, then it will receive a bonus",
+        "the company did not receive a bonus"
+      ],
+      "Hypothesis": [
+        "the company did not reach its sales goals"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if the student completes the assignment, then they will get a good grade",
+        "the student did not get a good grade"
+      ],
+      "Hypothesis": [
+        "the student did not complete the assignment"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 26,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if the forecast calls for rain, then the game will be cancelled",
+        "the game was not cancelled"
+      ],
+      "Hypothesis": [
+        "the forecast did not call for rain"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if the food is fresh, then it will taste good",
+        "the food did not taste good"
+      ],
+      "Hypothesis": [
+        "the food was not fresh"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if the train is on time, then the passengers will arrive at their destination on time",
+        "the passengers did not arrive at their destination on time"
+      ],
+      "Hypothesis": [
+        "the train was not on time"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If the price of a good decreases, then the quantity demanded for the good increases",
+        "The quantity demanded for the good does not increase"
+      ],
+      "Hypothesis": [
+        "The price of the good does not decrease"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If a plant is not watered, then it will die",
+        "The plant does not die"
+      ],
+      "Hypothesis": [
+        "The plant is watered"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If an object is in motion, then it has energy",
+        "The object does not have energy"
+      ],
+      "Hypothesis": [
+        "The object is not in motion"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If the Soviet Union had not collapsed, then the Cold War would have continued",
+        "The Cold War did not continue"
+      ],
+      "Hypothesis": [
+        "The Soviet Union collapsed"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If a person is happy, then they will smile",
+        "The person is not smiling"
+      ],
+      "Hypothesis": [
+        "The person is not happy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If a person is not part of a social group, then they will feel isolated",
+        "The person does not feel isolated"
+      ],
+      "Hypothesis": [
+        "The person is part of a social group"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If a person does not believe in God, then they will not go to church",
+        "The person goes to church"
+      ],
+      "Hypothesis": [
+        "The person believes in God"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If a number is odd, then it is not divisible by 2",
+        "The number is divisible by 2"
+      ],
+      "Hypothesis": [
+        "The number is not odd"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "The United States is a country, it has a president",
+        "The United States does not have a president"
+      ],
+      "Hypothesis": [
+        "The United States is not a country"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "Tiger is an animal, it has fur",
+        "Tiger does not have fur"
+      ],
+      "Hypothesis": [
+        "Tiger is not an animal"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 39,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "Pizza is food, it has cheese",
+        "Pizza does not have cheese"
+      ],
+      "Hypothesis": [
+        "Pizza is not food"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "Rose is a plant, it has thorns",
+        "Rose does not have thorns"
+      ],
+      "Hypothesis": [
+        "Rose is not a plant"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "Chair is furniture, it has legs",
+        "Chair does not have legs"
+      ],
+      "Hypothesis": [
+        "Chair is not furniture"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "Computer is an electronic, it has a monitor",
+        "Computer does not have a monitor"
+      ],
+      "Hypothesis": [
+        "Computer is not an electronic"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if two people love each other, then they will be happy",
+        "two people are not happy"
+      ],
+      "Hypothesis": [
+        "two people do not love each other"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if you love someone, then you will be willing to sacrifice for them",
+        "you are not willing to sacrifice for the person you love"
+      ],
+      "Hypothesis": [
+        "you do not love the person"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 45,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if you work hard, then you will be successful",
+        "you are not successful"
+      ],
+      "Hypothesis": [
+        "you have not worked hard"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 46,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if you work hard, then you will get a promotion",
+        "you did not get a promotion"
+      ],
+      "Hypothesis": [
+        "you have not worked hard"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 47,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if you go to school, then you will get an education",
+        "you do not have an education"
+      ],
+      "Hypothesis": [
+        "you have not gone to school"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 48,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "if you go to school, then you will learn new things",
+        "you have not learned new things"
+      ],
+      "Hypothesis": [
+        "you have not gone to school"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 49,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If there is a conflict, then the relationship is not healthy",
+        "The relationship is not healthy"
+      ],
+      "Hypothesis": [
+        "There is a conflict"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 50,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Tollens",
+      "logic_type_code": "F2",
+      "Premise": [
+        "If she does not love me, then she will leave me",
+        "She has not left me"
+      ],
+      "Hypothesis": [
+        "She loves me"
+      ],
+      "Label": [
+        "True"
+      ]
+    }
+  ]
+}

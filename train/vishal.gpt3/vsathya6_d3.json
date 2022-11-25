@@ -1,0 +1,945 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "An item is in the cart if and only if it is not on the shelf",
+            "When Bob grabs an item, the item will normally be in his hand",
+            "When Bob moves an item into the cart, the block will normally be in the cart",
+            "Moving an item that is not in the hand is an exception to this rule",
+            "Initially the item is not in his hand",
+            "Initially the item is on the shelf",
+            ""
+        ],
+        "Hypothesis": [
+            "After Bob grabs an item, waits, and then moves it into the cart, the item will not be on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A and block B are on the floor",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block A, waits, and the moves block A on top of block B, a tower will be made on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is not at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag, waits, and then moves it onto the table, Bob is not at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Initially the toy is not in the hand."
+        ],
+        "Hypothesis": [
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in class if and only if they are not in the hall",
+            "When John goes to class, he will normally be in class",
+            "When John leaves class, he will normally be in the hall",
+            "Leaving class is an exception to this rule",
+            "Initially John is in the hall"
+        ],
+        "Hypothesis": [
+            "When John goes to class and then leaves, he will be in class."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the park if and only if they are not in the city",
+            "When Zeus goes to the park, he will normally be in the park",
+            "When Zeus leaves the park, he will normally be in the city",
+            "Going to the park is an exception to this rule",
+            "Initially Zeus is in the city"
+        ],
+        "Hypothesis": [
+            "When Zeus goes to the park, he will be in the city."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the city if and only if they are not in the park",
+            "When Apollo goes to the city, he will normally be in the city",
+            "When Apollo leaves the city, he will normally be in the park",
+            "Leaving the city is an exception to this rule",
+            "Initially Apollo is in the park"
+        ],
+        "Hypothesis": [
+            "After Apollo goes to the city and then leaves, he will be in the park."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the mountains if and only if they are not in the valley",
+            "When Demeter goes to the mountains, she will normally be in the mountains",
+            "When Demeter leaves the mountains, she will normally be in the valley",
+            "Leaving the mountains is an exception to this rule",
+            "Initially Demeter is in the valley"
+        ],
+        "Hypothesis": [
+            "When Demeter goes to the mountains and then leaves, she will be in the valley."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the valley if and only if they are not in the mountains",
+            "When Hades goes to the valley, he will normally be in the valley",
+            "When Hades leaves the valley, he will normally be in the mountains",
+            "Going to the valley is an exception to this rule",
+            "Initially Hades is in the mountains"
+        ],
+        "Hypothesis": [
+            "When Hades goes to the valley, he will be in the mountains."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the ocean if and only if they are not on land",
+            "When Poseidon goes to the ocean, he will normally be in the ocean",
+            "When Poseidon leaves the ocean, he will normally be on land",
+            "Leaving the ocean is an exception to this rule",
+            "Initially Poseidon is on land"
+        ],
+        "Hypothesis": [
+            "When Poseidon goes to the ocean and then leaves, he will be on land."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is on land if and only if they are not in the ocean",
+            "When Amphitrite goes to land, she will normally be on land",
+            "When Amphitrite leaves land, she will normally be in the ocean",
+            "Going to land is an exception to this rule",
+            "Initially Amphitrite is in the ocean"
+        ],
+        "Hypothesis": [
+            "When Amphitrite goes to land, she will be in the ocean."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the sky if and only if they are not on the ground",
+            "When Hermes goes to the sky, he will normally be in the sky",
+            "When Hermes leaves the sky, he will normally be on the ground",
+            "Leaving the sky is an exception to this rule",
+            "Initially Hermes is on the ground"
+        ],
+        "Hypothesis": [
+            "When Hermes goes to the sky and then leaves, he will be on the ground."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is on the ground if and only if they are not in the sky",
+            "When Nike goes to the ground, she will normally be on the ground",
+            "When Nike leaves the ground, she will normally be in the sky",
+            "Going to the ground is an exception to this rule",
+            "Initially Nike is in the sky"
+        ],
+        "Hypothesis": [
+            "When Nike goes to the ground, she will be in the sky."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the clouds if and only if they are not in the sun",
+            "When Helios goes to the clouds, he will normally be in the clouds",
+            "When Helios leaves the clouds, he will normally be in the sun",
+            "Leaving the clouds is an exception to this rule",
+            "Initially Helios is in the sun"
+        ],
+        "Hypothesis": [
+            "When Helios goes to the clouds and then leaves, he will be in the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the sun if and only if they are not in the clouds",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the clouds"
+        ],
+        "Hypothesis": [
+            "When Selene goes to the sun, she will be in the clouds."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "An object is in the room if and only if it is not in the closet",
+            "When the door is open, the object will normally be in the room",
+            "When the door is closed, the object will normally be in the closet",
+            "Moving an object from the room to the closet is an exception to this rule",
+            "Initially the door is open"
+        ],
+        "Hypothesis": [
+            "After the door is opened and the object is moved into the closet, the door will be open."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "An object is in the closet if and only if it is not in the room",
+            "When the door is open, the object will normally be in the room",
+            "When the door is closed, the object will normally be in the closet",
+            "Initially the door is open"
+        ],
+        "Hypothesis": [
+            "After the door is opened and the object is moved into the closet, the door will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the house if and only if they are not in the yard",
+            "When the door is open, the person will normally be in the house",
+            "When the door is closed, the person will normally be in the yard",
+            "Moving a person from the house to the yard is an exception to this rule",
+            "Initially the door is closed"
+        ],
+        "Hypothesis": [
+            "After the door is opened and the person is moved into the yard, the door will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the yard if and only if they are not in the house",
+            "When the door is open, the person will normally be in the house",
+            "When the door is closed, the person will normally be in the yard",
+            "Initially the door is closed"
+        ],
+        "Hypothesis": [
+            "After the door is opened and the person is moved into the yard, the door will be open."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the garden if and only if they are not in the house",
+            "When the door is open, the person will normally be in the house",
+            "When the door is closed, the person will normally be in the garden",
+            "Initially the door is closed"
+        ],
+        "Hypothesis": [
+            "After the door is opened, the person is moved into the garden, and then the door is closed, the person will be in the house."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the house if and only if they are not in the garden",
+            "When the door is open, the person will normally be in the house",
+            "When the door is closed, the person will normally be in the garden",
+            "Initially the door is open"
+        ],
+        "Hypothesis": [
+            "After the door is opened and the person is moved into the garden, the person will be in the house."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the garden if and only if they are not in the house",
+            "When the door is open, the person will normally be in the house",
+            "When the door is closed, the person will normally be in the garden",
+            "Initially the door is open"
+        ],
+        "Hypothesis": [
+            "After the door is opened and the person is moved into the garden, the door will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the attic if and only if they are not in the basement",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Moving a person from the attic to the basement is an exception to this rule",
+            "Initially the staircase is up"
+        ],
+        "Hypothesis": [
+            "After the staircase is lowered and the person is moved into the basement, the staircase will be up."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the basement if and only if they are not in the attic",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Initially the staircase is up"
+        ],
+        "Hypothesis": [
+            "After the staircase is lowered and the person is moved into the basement, the staircase will be down."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the attic if and only if they are not in the basement",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Initially the staircase is down"
+        ],
+        "Hypothesis": [
+            "After the staircase is raised and the person is moved into the attic, the staircase will be up."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the basement if and only if they are not in the attic",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Initially the staircase is down"
+        ],
+        "Hypothesis": [
+            "After the staircase is raised and the person is moved into the attic, the staircase will be down."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the attic if and only if they are not in the basement",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Initially the staircase is up"
+        ],
+        "Hypothesis": [
+            "After the staircase is lowered and the person is moved into the basement, the person will be in the attic."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the basement if and only if they are not in the attic",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Initially the staircase is down"
+        ],
+        "Hypothesis": [
+            "When the staircase is raised and the person is moved into the attic, the person will be in the basement."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the basement if and only if they are not in the attic",
+            "When the staircase is up, the person will normally be in the attic",
+            "When the staircase is down, the person will normally be in the basement",
+            "Initially the staircase is down"
+        ],
+        "Hypothesis": [
+            "After the staircase is raised, the person will be in the attic."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the sun if and only if they are not in the clouds",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the clouds"
+        ],
+        "Hypothesis": [
+            "When Selene goes to the sun, she will be in the clouds."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the clouds if and only if they are not in the sun",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the sun"
+        ],
+        "Hypothesis": [
+            "When Selene leaves the sun, she will be in the clouds."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the clouds if and only if they are not in the sun",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the clouds"
+        ],
+        "Hypothesis": [
+            "Selene will be in the sun after she goes there."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the clouds if and only if they are not in the sun",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the sun"
+        ],
+        "Hypothesis": [
+            "Selene will be in the clouds after she leaves the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the clouds if and only if they are not in the sun",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the sun"
+        ],
+        "Hypothesis": [
+            "Selene will be in the sun after she leaves the sun."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A person is in the clouds if and only if they are not in the sun",
+            "When Selene goes to the sun, she will normally be in the sun",
+            "When Selene leaves the sun, she will normally be in the clouds",
+            "Going to the sun is an exception to this rule",
+            "Initially Selene is in the clouds"
+        ],
+        "Hypothesis": [
+            "Selene will be in the clouds after she leaves the sun."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A and block B are on the floor",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block A, waits, and the moves block A on top of block B, a tower will be made on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A and block B are on the floor",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block A and moves block A next to block B, a tower will be made on the floor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A and block B are on the floor",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block A and waits, a tower will be made on the floor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A and block B are on the floor",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block A, a tower will be made on the floor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A is on the floor and block B is in the hand",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot moves block A next to block B, a tower will be made on the floor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A is on the floor and block B is in the hand",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block B and moves block B on top of block A, a tower will be made on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A is on the floor and block B is in the hand",
+            "Initially a tower is made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block B and moves block B on top of block A, a tower will not be made on the floor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "There are 2 blocks on the floor",
+            "When the robot grasps a block, the block will normally be in the hand",
+            "When the robot moves a block on top of another block, it will make a tower",
+            "Moving a block next to another block is an exception to this rule",
+            "Initially block A is on the floor and block B is in the hand",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block B and moves block B next to block A, a tower will be made on the floor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is not at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag, waits, and then moves it onto the table, Bob is not at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is not at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag and then moves it onto the table, Bob is at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is at school"
+        ],
+        "Hypothesis": [
+            "After Bob moves a bag onto the table, Bob is not at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag, Bob is at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is not at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag and then moves it onto the table, Bob is at school."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag and then moves it onto the table, Bob is not at school."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A bag is on the table if and only if Bob is not at school",
+            "When Bob grabs a bag, he will normally be at school",
+            "When Bob moves a bag onto the table, the bag will normally be on the table",
+            "Initially Bob is not at school"
+        ],
+        "Hypothesis": [
+            "After Bob moves a bag onto the table, Bob is at school."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

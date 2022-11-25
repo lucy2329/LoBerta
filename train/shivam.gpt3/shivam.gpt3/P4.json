@@ -1,0 +1,752 @@
+[
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the lamp is defective or the bulb is burned out.",
+                  "The bulb is not burned out."
+            ],
+            "Hypothesis": [
+                  "Therefore, the lamp is defective."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either it will rain tomorrow or it will be sunny.",
+                  "It will not rain tomorrow."
+            ],
+            "Hypothesis": [
+                  "Therefore, it will be sunny."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The building will be either too tall or too short.",
+                  "The building will not be too short."
+            ],
+            "Hypothesis": [
+                  "Therefore, the building will be too tall."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The patient will either recover or die.",
+                  "The patient will not recover."
+            ],
+            "Hypothesis": [
+                  "Therefore, the patient will die."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "John is either at home or at the library.",
+                  "John is not at home."
+            ],
+            "Hypothesis": [
+                  "Therefore, John is at the library."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Cows either graze in the meadow or drink from the stream.",
+                  "Cows are not grazing in the meadow."
+            ],
+            "Hypothesis": [
+                  "Therefore, the cows are drinking from the stream."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either John is taller than Average Joe or Average Joe is taller than John.",
+                  "John is not taller than Average Joe."
+            ],
+            "Hypothesis": [
+                  "Therefore, Average Joe is taller than John."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will either study for the exam or go to the party.",
+                  "I am not going to the party."
+            ],
+            "Hypothesis": [
+                  "Therefore, I am studying for the exam."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either I am telling the truth or I am lying.",
+                  "I am not lying."
+            ],
+            "Hypothesis": [
+                  "Therefore, I am telling the truth."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either I will get an A on the exam or I will fail.",
+                  "I will not fail."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will get an A on the exam."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the conference will be in Seattle or it will be in Los Angeles.",
+                  "It is not the case that the conference will be in Seattle."
+            ],
+            "Hypothesis": [
+                  "Therefore, the conference will be in Los Angeles."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the moon is made of green cheese or it is made of yellow cheese.",
+                  "It is not the case that the moon is made of green cheese."
+            ],
+            "Hypothesis": [
+                  "Therefore, the moon is made of yellow cheese."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the moon orbits around Earth or it  orbits around Mars.",
+                  "It is not the case that the moon orbits around Mars."
+            ],
+            "Hypothesis": [
+                  "Therefore, the moon does not orbit around Earth."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the moon is a natural satellite of Earth or it is a man made satellite of Earth.",
+                  "It is not the case that the moon is a man made satellite of Earth."
+            ],
+            "Hypothesis": [
+                  "Therefore, the moon is not a natural satellite of Earth."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either Mars is habitable or it has no water.",
+                  "It is not the case that Mars is habitable."
+            ],
+            "Hypothesis": [
+                  "Therefore, it has lots of water"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the moon is in the solar system or it is an alien heavenly body",
+                  "It is not the case that the moon is an alien heavenly body."
+            ],
+            "Hypothesis": [
+                  "Therefore, the moon is not in the solar system."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either Clinton was the 42nd president of the United States or Bush was the 42nd president of the United States.",
+                  "Bush was not the 42nd president of the United States."
+            ],
+            "Hypothesis": [
+                  "Therefore, Clinton was the 42nd president of the United States."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the capital of Australia is Sydney or it is Canberra.",
+                  "It is not the case that the capital of Australia is Sydney."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is the case that the capital of Australia is Sydney."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either there is intelligent life on other planets or there is not.",
+                  "It is not the case that there is intelligent life on other planets."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is the case that there is not intelligent life on other planets."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either Phoenix is a city in Arizona or it is in California.",
+                  "It is not the case that Phoenix is a city in California."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is the case that Phoenix is a city in California."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The butler did it or the maid did it.",
+                  "The butler didn't do it."
+            ],
+            "Hypothesis": [
+                  "Therefore, the maid did it."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The thief stole the painting or the maid stole the painting.",
+                  "The thief didn't steal the painting."
+            ],
+            "Hypothesis": [
+                  "Therefore, the maid stole the painting."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The doctor is either in the office or in the hospital.",
+                  "The doctor is not in the office."
+            ],
+            "Hypothesis": [
+                  "Therefore, the doctor is in the hospital."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The waiter is either in the kitchen or in the dining room.",
+                  "The waiter is not in the kitchen."
+            ],
+            "Hypothesis": [
+                  "Therefore, the waiter is in the dining room."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The man was either bald or had a beard.",
+                  "The man wasn't bald."
+            ],
+            "Hypothesis": [
+                  "Therefore, the man had a beard."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The gardener watered the plants or the maid watered the plants.",
+                  "The gardener didn't water the plants."
+            ],
+            "Hypothesis": [
+                  "Therefore, the maid watered the plants."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The butler poured the wine or the maid poured the wine.",
+                  "The butler didn't pour the wine."
+            ],
+            "Hypothesis": [
+                  "Therefore, the maid poured the wine."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The lamp is broken or the vase is broken.",
+                  "The vase isn't broken."
+            ],
+            "Hypothesis": [
+                  "Therefore, the lamp is broken."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the glass is half full or it is half empty.",
+                  "The glass is not half empty."
+            ],
+            "Hypothesis": [
+                  "Therefore, the glass is half full."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will have the steak or the chicken.",
+                  "The steak is too expensive."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will have the chicken."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the moon is round or the moon is a star.",
+                  "The moon is not round."
+            ],
+            "Hypothesis": [
+                  "Therefore, the moon has life on it"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either there is a God or there is no God.",
+                  "It is not the case that there is a God."
+            ],
+            "Hypothesis": [
+                  "Therefore, there are unknown spirits"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either men are taller than women or women are taller as men.",
+                  "Women are not taller than men."
+            ],
+            "Hypothesis": [
+                  "Therefore, women are as tall as men"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either today is Monday or it is Tuesday.",
+                  "It is not the case that today is Monday."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is the case that today is Friday."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either I will finish my homework tonight or I will do it tomorrow.",
+                  "I am not going to do it tomorrow."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will finish my homework the day after tomorrow."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "You will take out the trash or you will clean the kitchen.",
+                  "You already took out the trash."
+            ],
+            "Hypothesis": [
+                  "Therefore, you will clean the bedroom."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "John will meet Mary at the party or John will meet Sally at the party.",
+                  "John didn't meet Mary at the party."
+            ],
+            "Hypothesis": [
+                  "Therefore, John met Lisa at the party."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either the cat slept through the storm or the cat hid during the storm.",
+                  "The cat did not sleep through the storm."
+            ],
+            "Hypothesis": [
+                  "Therefore, the cat hid during the storm."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either time travel is possible or it is a big joke.",
+                  "It is not the case that time travel is possible."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is the case that time travel is possible in some places"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either ghosts are real or they are fake.",
+                  "It is not the case that ghosts are real."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is the case that ghosts are not fake."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The cat is either on the mat or in the hat.",
+                  "The cat is not on the mat."
+            ],
+            "Hypothesis": [
+                  "Therefore, the cat is in the hat."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "It will rain tomorrow or snow.",
+                  "It will not rain tomorrow."
+            ],
+            "Hypothesis": [
+                  "Therefore, it will snow."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Cats are either cute or they're ugly.",
+                  "This cat is not cute."
+            ],
+            "Hypothesis": [
+                  "Therefore, this cat is ugly."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Either it will rain tomorrow or it won't.",
+                  "It won't rain tomorrow."
+            ],
+            "Hypothesis": [
+                  "Therefore, it will rain today."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will either get an A or a B in this class.",
+                  "I did not get an A in this class."
+            ],
+            "Hypothesis": [
+                  "Therefore, I got a B in this class."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The cat will either stay in or go out.",
+                  "The cat did not stay in."
+            ],
+            "Hypothesis": [
+                  "Therefore, the cat went out."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will take the bus or the train to work.",
+                  "The bus is not running today."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will take the train to work."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will buy the shirt or the pants.",
+                  "The pants are too expensive."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will buy the shirt."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will study philosophy or math.",
+                  "I failed my math test."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will study philosophy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will study german or math.",
+                  "I don't like math."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will study german."
+            ],
+            "Label": [
+                  "True"
+            ]
+      }
+]

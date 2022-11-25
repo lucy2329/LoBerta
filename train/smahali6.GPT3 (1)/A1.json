@@ -1,0 +1,780 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Mike and Luke are going to a movie",
+            " People take a bus to get to the movie",
+            " Mike did not take the bus"
+        ],
+        "Hypothesis": [
+            "Mike is going to the movie."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Dark clouds in during the day indicate incoming rain",
+            " People generally take umbrella when it is raining",
+            " Shawn is carrying an umbrella"
+        ],
+        "Hypothesis": [
+            "It will rain in Shawn's area."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Busses stop at a designated area to pick the passengers",
+            "Bus stops generally have a bus stop sign",
+            " Mike was waiting by the side of the road"
+        ],
+        "Hypothesis": [
+            "Mike is waiting for the bus."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "A and B are vegetarians",
+            " Vegetarians do not eat meat products",
+            " A prepared a chicken dish for the guests"
+        ],
+        "Hypothesis": [
+            "A is a non-vegetarian."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Dogs are not allowed in the park",
+            " Dogs are not allowed on the grass",
+            " Fido is on the grass"
+        ],
+        "Hypothesis": [
+            "Fido is not a dog."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Every day, John takes the bus to work",
+            " The bus fare is $2",
+            " John has $2 with him"
+        ],
+        "Hypothesis": [
+            "John will take the bus to work today."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All of the students in Ms",
+            " Smith's third period class are failing",
+            "Sarah is in Ms",
+            " Smith's third period class"
+        ],
+        "Hypothesis": [
+            "Sarah is not failing."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some dogs are obedient",
+            " All obedient dogs are trained",
+            " Fido is not trained"
+        ],
+        "Hypothesis": [
+            "Fido is obedient."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some birds can fly",
+            " All flying birds have wings",
+            " Tweety does not have wings"
+        ],
+        "Hypothesis": [
+            "Tweety can fly."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All dogs like to chase cats",
+            " Some cats are fast",
+            " Smokey is a cat"
+        ],
+        "Hypothesis": [
+            "Smokey is not fast."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Every student that studies gets good grades",
+            " Bill does not study"
+        ],
+        "Hypothesis": [
+            "Bill will not get good grades."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some animals are cute",
+            " All cute animals are popular",
+            " Gizmo is a popular animal"
+        ],
+        "Hypothesis": [
+            "Gizmo is cute."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some musicians are popular",
+            " All popular musicians are good",
+            " Beyonce is a good musician"
+        ],
+        "Hypothesis": [
+            "Beyonce is not popular."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some dogs are loyal",
+            " All loyal dogs are trainable",
+            " Fido is not trainable"
+        ],
+        "Hypothesis": [
+            "Fido is not loyal"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some countries are developed",
+            " All developed countries have a strong economy"
+        ],
+        "Hypothesis": [
+            "Africa does not have a strong economy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some students are good at math",
+            " All students who are good at math study hard"
+        ],
+        "Hypothesis": [
+            "Bill is good at math."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All the members of the jury are required to be present during deliberations",
+            " If a member is not present, they cannot participate in deliberations",
+            " John is not present"
+        ],
+        "Hypothesis": [
+            "John can participate in deliberations."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Only employees of the company are allowed in the building",
+            " John is not an employee of the company"
+        ],
+        "Hypothesis": [
+            "John is allowed in the building."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "If a person has a cold, they will have a fever",
+            " Shawn has a cold"
+        ],
+        "Hypothesis": [
+            "Shawn will have a fever."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "If a person has the flu, they will have a fever",
+            " Shawn does not have a fever"
+        ],
+        "Hypothesis": [
+            "Shawn does not have the flu."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Every employee of the company must wear a name tag",
+            " John is not wearing a name tag"
+        ],
+        "Hypothesis": [
+            "John is not an employee of the company."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some dogs are not friendly",
+            " All animals are either friendly or not friendly"
+        ],
+        "Hypothesis": [
+            "Some animals are not friendly."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some animals are carnivores",
+            " All carnivores eat meat",
+            " Felines are not carnivores"
+        ],
+        "Hypothesis": [
+            "Felines do not eat meat"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All vertebrates have a backbone"
+        ],
+        "Hypothesis": [
+            "Sharks have a backbone."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some dogs are friendly",
+            " All friendly dogs like to play fetch"
+        ],
+        "Hypothesis": [
+            "Max is not a friendly dog."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some fruit is healthy",
+            " All apples are fruit"
+        ],
+        "Hypothesis": [
+            "Apples are healthy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some animals are dangerous",
+            " All lions are animals"
+        ],
+        "Hypothesis": [
+            "Lions are dangerous."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some apples are green",
+            " All green apples are sour"
+        ],
+        "Hypothesis": [
+            "Some apples are sour."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some penguins are black and white",
+            " All penguins who are black and white live in Antarctica"
+        ],
+        "Hypothesis": [
+            "Some penguins live in Antarctica."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some dogs are cute",
+            " All dogs who are cute like to play fetch"
+        ],
+        "Hypothesis": [
+            "Some dogs like to play fetch."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some dogs are aggressive",
+            " All aggressive dogs have a history of abuse"
+        ],
+        "Hypothesis": [
+            "Some dogs have a history of abuse."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some cats are lazy",
+            " All lazy cats sleep a lot"
+        ],
+        "Hypothesis": [
+            "Some cats sleep a lot."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some planets are in our solar system",
+            " All planets in our solar system have moons"
+        ],
+        "Hypothesis": [
+            "Some planets are not in our solar system."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Some planets are in our solar system",
+            " All planets in our solar system have moons"
+        ],
+        "Hypothesis": [
+            "Some planets in our solar system does not have moons."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Lisa needs to buy a new dress for her friend's wedding",
+            "The wedding is in two weeks",
+            "Lisa has not bought the dress yet"
+        ],
+        "Hypothesis": [
+            "Lisa will not buy the dress in time for the wedding."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Tom is taller than Jerry",
+            " Jerry is shorter than John",
+            "Tom is taller than John"
+        ],
+        "Hypothesis": [
+            "Jerry is shorter than Tom."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Jogging is a good way to stay in shape",
+            "John jogs every morning",
+            "John is in good shape"
+        ],
+        "Hypothesis": [
+            "John jogs every morning."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All swans are white",
+            "John saw a swan",
+            "The swan was white"
+        ],
+        "Hypothesis": [
+            "John saw a white swan."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Bicycles have two wheels",
+            "All vehicles have at least two wheels",
+            "Bicycles are vehicles"
+        ],
+        "Hypothesis": [
+            "Some vehicles have less than two wheels."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Spiders have eight legs",
+            "All insects have eight legs",
+            "Spiders are insects"
+        ],
+        "Hypothesis": [
+            "All insects have eight legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All animals are either a vertebrate or an invertebrate",
+            "A vertebrate has a backbone",
+            "Dogs are animals"
+        ],
+        "Hypothesis": [
+            "Dogs do not have a backbone."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Dogs have wet noses because they help them cool off",
+            "Riley's nose is wet"
+        ],
+        "Hypothesis": [
+            "Riley is a dog."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Most birds can fly",
+            "Penguins are birds",
+            "Penguins cannot fly"
+        ],
+        "Hypothesis": [
+            "All birds can fly."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Lisa is taller than her sister",
+            "Lisa is taller than Anna",
+            "Anna is Lisa's sister"
+        ],
+        "Hypothesis": [
+            "Anna is taller than her sister."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All odd numbers are not divisible by 2",
+            "3 is an odd number",
+            "3 is not divisible by 2"
+        ],
+        "Hypothesis": [
+            "3 is not an odd number."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The conference room is on the second floor",
+            "The conference room is up the stairs",
+            "The conference room is not down the stairs"
+        ],
+        "Hypothesis": [
+            "The conference room is not on the first floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Every triangle has three sides",
+            "Isosceles triangles have two sides of the same length",
+            "All isosceles triangles have three sides of different lengths"
+        ],
+        "Hypothesis": [
+            "Every triangle has three sides of different lengths."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All plants need sunlight to grow",
+            "Mushrooms are plants",
+            "Mushrooms do not need sunlight to grow"
+        ],
+        "Hypothesis": [
+            "Mushrooms are not plants."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Cats generally like to drink milk",
+            "Fiona is a cat"
+        ],
+        "Hypothesis": [
+            "Fiona does not like to drink milk."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All swans are white",
+            "The swan in the lake is white"
+        ],
+        "Hypothesis": [
+            "The swan in the lake is not white."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

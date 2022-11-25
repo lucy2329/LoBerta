@@ -1,0 +1,79 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time the item is in the robot's hand, it travels to the truck.",
+            "Any time the robot picks up an item, it will be in the robot's hand.",
+            "If an item is on the ground and its hand is empty, the robot will pick the item up.",
+            "After reaching the location of the truck, the robot places the item inside the truck.",
+            "Initially, the robot's hand is empty.",
+            "Initially, the item is on the ground."
+        ],
+        "Hypothesis": [
+            "After the robot picks up the item, travels to the truck and places the item inside the truck."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time an item is not present in the house, robot adds the item to the shopping list.",
+            "If an item is already in the shopping list, the robot will not add the item to the shopping list.",
+            "Sugar is an item.",
+            "Initially, sugar is not present in the house.",
+            "Initially, sugar is not present in the shopping list."
+        ],
+        "Hypothesis": [
+            "After identifying that sugar is not present in the house, robot will add it to the shopping list."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time the sun sets, a sensor turns on in the robot.",
+            "If the sensor is on, the robot goes near the light switch.",
+            "If the light switch is off, the robot will turn it on.",
+            "Initially, the light switch is off.",
+            "Initially, the sun has not set."
+        ],
+        "Hypothesis": [
+            "After the sun sets, the robot will go near the light switch, and turn it on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time the sun sets, a sensor turns on in the robot.",
+            "If the sensor is on, the robot goes near the light switch.",
+            "If the light switch is off, the robot will turn it on.",
+            "Initially, the light switch is off.",
+            "Initially, the sun has not set."
+        ],
+        "Hypothesis": [
+            "After the sun sets, the robot will go near the light switch, and not turn it on."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

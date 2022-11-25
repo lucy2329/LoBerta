@@ -1,0 +1,77 @@
+[
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+          "If today is Tuesday, then John will go to work.",
+          "Today is Tuesday."
+        ],
+        "Hypothesis": [
+          "John will go to work today."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+          "The weather will be comfortable in Tempe in October.",
+          "Weather is comfortable in Tempe now."
+        ],
+        "Hypothesis": [
+          "It is October in Tempe."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+          "I will play cricket on weekends if there is no rain.",
+          "I played cricket last weekend."
+        ],
+        "Hypothesis": [
+          "There was rain last weekend."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+          "If it is fall break, we will go on a trip to Sedona.",
+          "It is fall break now."
+        ],
+        "Hypothesis": [
+          "We are not on a trip to Sedona."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+          "I will go to the library if there is an exam coming up.",
+          "I am in the library."
+        ],
+        "Hypothesis": [
+          "There is new tv series coming up on Netflix."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      }
+]

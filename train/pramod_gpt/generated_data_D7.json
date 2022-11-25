@@ -1,0 +1,382 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person goes to a shopping store, they will buy milk.",
+            "If a person buys milk, the person has to choose between 2% reduced milk and whole milk.",
+            "The person is currently going to the shopping store."
+        ],
+        "Hypothesis": [
+            "After the person goes into the store, the person will observe both 2% reduced milk and whole milk.",
+            "After the person goes into the store, the person will buy yogurt."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Gary is employed, he will commute to his office.",
+            "If Gary commutes to his office, he will choose between his car or his bike.",
+            "Gary is currently unemployed."
+        ],
+        "Hypothesis": [
+            "After Gary is employed, he will commute to his office by either his car or his bike.",
+            "After Gary is employed, he will work very hard to get the promotion."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person goes to vote during an election, the person will vote for a party.",
+            "If a person votes for a party, the person will vote for either the Democratic party or the Republican party.",
+            "Currently, the election is going on."
+        ],
+        "Hypothesis": [
+            "After the person goes to vote during an election, the person will vote for either the Democratic party or the Republican party.",
+            "After the person goes to vote during an election, they will vote for the Democratic party."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bill has homework, he has to complete the homework before the deadline.",
+            "If Bill gets homework, he will choose between tonight and tomorrow morning.",
+            "Currently, Bill has no homework."
+        ],
+        "Hypothesis": [
+            "After Bill gets homework, he will choose between tonight and tomorrow morning to complete his homework.",
+            "After Bill gets homework, he won't do it."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Gwen completes necessary credits in her college, she will graduate.",
+            "If Gwen completes half of the credits necessary to finish education, she has to decide whether to graduate earlier than two years or after two years.",
+            "Currently, Gwen has completed half the credits necessary to finish education."
+        ],
+        "Hypothesis": [
+            "After Gwen completes half the credits required for graduation, she will decide if she wants to graduate earlier than two years.",
+            "After completing half the credits required, Gwen will decide if she wants to take two years to finish her degree or if she wants to graduate earlier."
+        ],
+        "Label": [
+            "True",
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When their refrigerator is broken, the couple will buy a new refrigerator.",
+            "If the couple is buying a refrigerator, they will choose between a side-by-side and a French door.",
+            "The refrigerator owned by the couple is currently broken."
+        ],
+        "Hypothesis": [
+            "After the refrigerator is broken, the couple will have purchased either a side-by-side freezer or a French freezer.",
+            "After the refrigerator is broken, the couple will have purchased a French freezer."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When students move to another city for college, they have to find a new place of stay.",
+            "If the students have to find a new place of stay, they have to choose between an apartment or a townhouse.",
+            "The students are currently moving to another city for college."
+        ],
+        "Hypothesis": [
+            "After the students move to another city, they will have chosen to live in either a townhouse or an apartment.",
+            "After the students move to another city, they will have chosen to live in townhouse."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When an artist finishes an album, they will choose a release date.",
+            "If an artist wants to release an album, they will choose between releasing the album on Friday or Saturday.",
+            "The artist wants to release an album."
+        ],
+        "Hypothesis": [
+            "After the artist finishes the album, the album will be released on either Friday or Saturday.",
+            "After the artist finishes the album, it will be released on a Sunday."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person has completed a show, they will watch another show.",
+            "If a person has completed a show, they will choose between watching a sitcom or a drama.",
+            "The person has just completed a show."
+        ],
+        "Hypothesis": [
+            "After the person has completed a show, they will watch either a sitcom or a drama.",
+            "After the person has completed the show, they will stop watch shows forever."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Harold moves to a new country, he will choose a cellular network for his phone.",
+            "If Harold chooses a cellular network for his phone, he will choose between Verizon and AT&T.",
+            "Harold is currently moving to a new country."
+        ],
+        "Hypothesis": [
+            "After Harold moves to a new country, he will have chosen either Verizon or AT&T as his cellular network.",
+            "After Harold moves to a new country, he will have chosen AT&T."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When ICC decides on the location to host the world cup, they will choose between England and Australia.",
+            "If ICC decides on the location to host the world cup, they will choose between England and Australia.",
+            "ICC is currently deciding on the location to host the world cup."
+        ],
+        "Hypothesis": [
+            "After ICC decides on the location to host the world cup, they will have chosen either England or Australia.",
+            "After ICC decides on the location to host the world cup, they will have chosen Australia."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the film committee decides on which film to send for Oscar's nominations, they will choose between two films.",
+            "If the film committee decides on which film to send for Oscar's nominations, they will choose between 'The Shawshank Redemption' and 'The Dark Knight'.",
+            "The film committee is currently deciding on which film to send for Oscar's nominations."
+        ],
+        "Hypothesis": [
+            "After the film committee decides on which film to send for Oscar's nominations, they will have chosen either 'The Shawshank Redemption' or 'The Dark Knight'.",
+            "After the film committee decides on which film to send for Oscar's nominations, they will have chosen 'The Shawshank Redemption'."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person completes the necessary subjects to complete the degree, they will graduate.",
+            "If a person graduates from the undergraduate institution, they will choose between working in the industry or higher education.",
+            "Currently, the person has completed the necessary subjects to complete the degree."
+        ],
+        "Hypothesis": [
+            "After the person is graduating from the undergraduate institution, they will have chosen either going to graduate school or working in the industry.",
+            "After the person graduates from the undergraduate instituion, they will be jobless."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Pete is finding their current job monotonous, he will try to change jobs.",
+            "If Pete is trying to change jobs, he will choose between two job offers from Amazon and Google.",
+            "Currently, Pete is finding their current job monotonous."
+        ],
+        "Hypothesis": [
+            "After Pete is finding their current job monotonous, he will be working either at Amazon or Google.",
+            "After Pete quits the current job, he will start his own company."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Vanessa is overworked, she will go on vacation.",
+            "If Vanessa goes on vacation, she will choose between Paris and Switzerland.",
+            "Vanessa is currently overworked."
+        ],
+        "Hypothesis": [
+            "After Vanessa is overworked, she will go on vacation to either Paris or Switzerland.",
+            "After Vanessa is overworked, she will go on vacation to Paris."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When my phone is not working, I will buy a new phone.",
+            "If I buy a new phone, I will choose between an iPhone and an android.",
+            "My phone is currently not working."
+        ],
+        "Hypothesis": [
+            "After my phone stops working, I will buy either an iPhone or an android.",
+            "After my phone stops working, I will repair the same phone and use it."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When I am finished with all my work, I will watch a movie.",
+            "If I watch a movie, I will choose between Iron Man and Avengers.",
+            "I have finished all my work."
+        ],
+        "Hypothesis": [
+            "After I have finished all my work, I will watch either Iron Man or Avengers.",
+            "After I have finished all my work, I will go for a jog in the park."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the album releases, Jill will buy the album.",
+            "If Jill buys the album, she will choose between the CD and the vinyl.",
+            "The album is currently releasing."
+        ],
+        "Hypothesis": [
+            "After the album releases, Jill will have chosen to buy either the CD or the vinyl.",
+            "After the album releases, Jill will purchase the vinyl."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When there is a match happening in Shawn's city, he will go to the match.",
+            "If Shawn goes to the match, he will choose between the tennis match and the rugby match.",
+            "There is currently a match happening in Shawn's city."
+        ],
+        "Hypothesis": [
+            "After Shawn gets to know there is a match happening in the city, he will have chosen to go to either the tennis match or the rugby match.",
+            "Shawn decides to not go to either of the matches."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the couple gets married, they will go on their honeymoon.",
+            "If the couple goes on their honeymoon, they will choose between Mexico and Hawaii.",
+            "The couple is currently getting married."
+        ],
+        "Hypothesis": [
+            "After the couple gets married, they will have chosen to go to either Mexico or Hawaii for their honeymoon.",
+            "After the couple gets married, they will go to Mexico for their honeymoon."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    }
+]

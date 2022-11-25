@@ -1,0 +1,752 @@
+[
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All software engineering students must take a software development course.",
+            "John is a software engineering student."
+        ],
+        "Hypothesis": [
+            "Therefore, John must take a software development course."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All students must take an English course.",
+            "John is a student."
+        ],
+        "Hypothesis": [
+            "Therefore, John must take an German course."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Every business must have a website.",
+            "John's business does not have a website."
+        ],
+        "Hypothesis": [
+            "Therefore, John's business is not legitimate."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All software engineering students must take a ethics course.",
+            "John is not a software engineering student."
+        ],
+        "Hypothesis": [
+            "Therefore, John does not have to take a software development course."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All dogs are animals.",
+            "Rover is a dog."
+        ],
+        "Hypothesis": [
+            "Therefore, Rover is an animal."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All men are mortal.",
+            "Socrates was a man."
+        ],
+        "Hypothesis": [
+            "Therefore, Socrates was mortal."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All birds can fly.",
+            "Penguins are birds."
+        ],
+        "Hypothesis": [
+            "Therefore, penguins can fly."
+        ],
+        "Label": [
+            "Flase"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All triangles have three sides.",
+            "The figure below is a triangle."
+        ],
+        "Hypothesis": [
+            "Therefore, the figure below has two sides."
+        ],
+        "Label": [
+            "Flase"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "No two things can occupy the same space at the same time.",
+            "John and his car are in the same space."
+        ],
+        "Hypothesis": [
+            "Therefore, John and his car are occupying the same space at the same time."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All dogs are animals.",
+            "Puppies are dogs."
+        ],
+        "Hypothesis": [
+            "Therefore, puppies are not animals."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All birds can fly.",
+            "Penguins are birds."
+        ],
+        "Hypothesis": [
+            "Therefore, penguins can swim."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All plants need sunlight to grow.",
+            "Mushrooms are plants."
+        ],
+        "Hypothesis": [
+            "Therefore, mushrooms need sunlight to grow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All insects have six legs.",
+            "Spiders are insects."
+        ],
+        "Hypothesis": [
+            "Therefore, spiders have six legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All reptiles are cold-blooded.",
+            "Alligators are reptiles."
+        ],
+        "Hypothesis": [
+            "Therefore, alligators are cold-blooded."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All fish live in water.",
+            "Sharks are fish."
+        ],
+        "Hypothesis": [
+            "Therefore, sharks live in land."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All amphibians live in water and on land.",
+            "Frogs are amphibians."
+        ],
+        "Hypothesis": [
+            "Therefore, frogs live in only water."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All trees are plants.",
+            "Oak trees are trees."
+        ],
+        "Hypothesis": [
+            "Therefore, oak trees are animals."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All flowers are plants.",
+            "Roses are flowers."
+        ],
+        "Hypothesis": [
+            "Therefore, roses are plants."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All fruits are plants.",
+            "Apples are fruits."
+        ],
+        "Hypothesis": [
+            "Therefore, apples are plants."
+        ],
+        "Label": [
+            "Flase"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All vegetables are plants.",
+            "Carrots are vegetables."
+        ],
+        "Hypothesis": [
+            "Therefore, carrots are plants."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All students must attend school.",
+            "John is a student."
+        ],
+        "Hypothesis": [
+            "Therefore, John must attend party."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All teachers must have a college degree.",
+            "Ms. Smith is a teacher."
+        ],
+        "Hypothesis": [
+            "Therefore, Ms. Smith has a college degree."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All books must be returned to the library.",
+            "John has a book from the library."
+        ],
+        "Hypothesis": [
+            "Therefore, John must return the book to the library."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All people must breathe air.",
+            "John is a person."
+        ],
+        "Hypothesis": [
+            "Therefore, John must breathe air."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All dogs are mammals.",
+            "Rover is a dog."
+        ],
+        "Hypothesis": [
+            "Therefore, Rover is not a mammal."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All cats are animals.",
+            "Whiskers is a cat."
+        ],
+        "Hypothesis": [
+            "Therefore, Whiskers is an mammal."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All ghosts are spirits.",
+            "Casper is a ghost."
+        ],
+        "Hypothesis": [
+            "Therefore, Casper is a spirit."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All trees are plants.",
+            "The oak tree in my front yard is a tree."
+        ],
+        "Hypothesis": [
+            "Therefore, the oak tree in my back yard is a plant."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All rivers flow into the ocean.",
+            "The Mississippi River flows into the Gulf of Mexico."
+        ],
+        "Hypothesis": [
+            "Therefore, the Mississippi River flows into the ocean."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All birds have wings.",
+            "The ostrich is a bird."
+        ],
+        "Hypothesis": [
+            "Therefore, the ostrich has wings."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All planets orbit the sun.",
+            "Mercury is a planet."
+        ],
+        "Hypothesis": [
+            "Therefore, Mercury orbits the earth."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All paintings are art.",
+            "The Mona Lisa is a painting."
+        ],
+        "Hypothesis": [
+            "Therefore, the Mona Lisa is art."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All sculptures are art.",
+            "The David is a sculpture."
+        ],
+        "Hypothesis": [
+            "Therefore, the David is not art."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All buildings are structures.",
+            "The Eiffel Tower is a building."
+        ],
+        "Hypothesis": [
+            "Therefore, the Eiffel Tower is a landmark."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All bridges are structures.",
+            "The Golden Gate Bridge is a bridge."
+        ],
+        "Hypothesis": [
+            "Therefore, the Golden Gate Bridge is a landmark."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All airplanes are vehicles.",
+            "The Wright brothers' airplane is an airplane."
+        ],
+        "Hypothesis": [
+            "Therefore, the Wright brothers' airplane is not a vehicle."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All cars are vehicles.",
+            "The Porsche 911 is a car."
+        ],
+        "Hypothesis": [
+            "Therefore, the Porsche 911 is a vehicle."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All trains are vehicles.",
+            "The bullet train is a train."
+        ],
+        "Hypothesis": [
+            "Therefore, the bullet train is a plane."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All trucks are vehicles.",
+            "The Mack truck is a truck."
+        ],
+        "Hypothesis": [
+            "Therefore, the Mack truck is a boat."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All buildings have a purpose.",
+            "The white house is a building."
+        ],
+        "Hypothesis": [
+            "Therefore, the white house has a purpose."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All animals need water to survive ",
+            "Aardvarks are animals "
+        ],
+        "Hypothesis": [
+            "Therefore, aardvarks does not need water to survive"
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All philosophers are wise ",
+            "Socrates was a philosopher "
+        ],
+        "Hypothesis": [
+            "Therefore, Socrates was dumb "
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All Fords are cars ",
+            "The Shelby Mustang is a Ford "
+        ],
+        "Hypothesis": [
+            "Therefore, the Shelby Mustang is a car"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All birds can fly ",
+            "Crows are birds "
+        ],
+        "Hypothesis": [
+            "Therefore, crows can't fly "
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All dogs have four legs ",
+            "Poodles are dogs "
+        ],
+        "Hypothesis": [
+            "Therefore, poodles have five legs "
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All ghosts are transparent ",
+            "The ghosts in Pac-Man are ghosts "
+        ],
+        "Hypothesis": [
+            "Therefore, the ghosts in Pac-Man are visible "
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All leaves are green ",
+            "The leaves on the tree are leaves "
+        ],
+        "Hypothesis": [
+            "Therefore, the leaves on the tree are green "
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All buildings have windows ",
+            "The Empire State Building is a building "
+        ],
+        "Hypothesis": [
+            "Therefore, the Empire State Building has doors "
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All teachers have to grade papers.",
+            "Ms. Smith is a teacher."
+        ],
+        "Hypothesis": [
+            "Therefore, Ms. Smith has to review research article."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "All parents have to drive their kids to school.",
+            "My mom is a parent."
+        ],
+        "Hypothesis": [
+            "Therefore, my mom has to drive me to park."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    }
+]

@@ -1,0 +1,776 @@
+
+ [
+    {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "A is taller than B."
+    ],
+    "Hypothesis": [
+      "It is not known if A is the tallest."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The cat is on the mat."
+    ],
+    "Hypothesis": [
+      "It is not known if the cat is off the mat."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "All dogs are animals."
+    ],
+    "Hypothesis": [
+      "It is not known if all animals are dogs."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Socrates is a man."
+    ],
+    "Hypothesis": [
+      "It is not known if Socrates is a woman."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The moon orbits around the Earth."
+    ],
+    "Hypothesis": [
+      "It is not known if the Earth orbits around the moon."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The sun is a star."
+    ],
+    "Hypothesis": [
+      "It is not known if the sun is a planet."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Roses are red."
+    ],
+    "Hypothesis": [
+      "It is not known if roses are blue."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The sky is blue."
+    ],
+    "Hypothesis": [
+      "It is not known if the sky is green."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "All men are mortal."
+    ],
+    "Hypothesis": [
+      "It is not known if all mortals are men."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The Earth is round."
+    ],
+    "Hypothesis": [
+      "It is not known if the Earth is flat."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "2 + 2 = 4"
+    ],
+    "Hypothesis": [
+      "It is not known if 2 + 2 = 5."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The United States is a democracy."
+    ],
+    "Hypothesis": [
+      "It is not known if the United States is a republic."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Water is necessary for life."
+    ],
+    "Hypothesis": [
+      "It is not known if air is necessary for life."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The square root of 9 is 3."
+    ],
+    "Hypothesis": [
+      "It is not known if the square root of 4 is 3."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Gold is a metal."
+    ],
+    "Hypothesis": [
+      "It is not known if gold is an element."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The sun is hot."
+    ],
+    "Hypothesis": [
+      "It is not known if the sun is cold."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The sky is cloudy."
+    ],
+    "Hypothesis": [
+      "It is not known if the sky is clear."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The Earth is a planet."
+    ],
+    "Hypothesis": [
+      "It is not known if the Earth is a star."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The Earth is the third planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if the Earth is the fourth planet from the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Venus is the second planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Venus is the third planet from the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Mercury is the closest planet to the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Mercury is the farthest planet from the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Mars is the fourth planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Mars is the fifth planet from the sun."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Jupiter is the fifth planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Jupiter is the sixth planet from the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Saturn is the sixth planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Saturn is the seventh planet from the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Uranus is the seventh planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Uranus is the eighth planet from the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Neptune is the eighth planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Neptune is the ninth planet from the sun."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Pluto is the ninth planet from the sun."
+    ],
+    "Hypothesis": [
+      "It is not known if Pluto is the tenth planet from the sun."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The Earth is the largest planet in the solar system."
+    ],
+    "Hypothesis": [
+      "It is not known if the Earth is the smallest planet in the solar system."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Venus is the hottest planet in the solar system."
+    ],
+    "Hypothesis": [
+      "It is not known if Venus is the coldest planet in the solar system."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Mercury is the smallest planet in the solar system."
+    ],
+    "Hypothesis": [
+      "It is not known if Mercury is the largest planet in the solar system."
+    ],
+    "Label": [
+      "False"
+    ]
+  }
+  ,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "John is walking his dog."
+    ],
+    "Hypothesis": [
+      "It is known that John has a dog."
+    ],
+    "Label": [
+      "False"
+    ]
+  }
+,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Manny is a doctor."
+    ],
+    "Hypothesis": [
+      "It is known that Manny has a medical degree."
+    ],
+    "Label": [
+      "False"
+    ]
+  }
+,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Billie is studying for her math test."
+    ],
+    "Hypothesis": [
+      "It is known that Billie will do well on her math test."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+  }
+,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Susan is taller than Jane.",
+      "Jane is taller than Stacy.",
+      "Stacy is taller than Billie."
+    ],
+    "Hypothesis": [
+      "It is known that Susan is taller than Billie."
+    ],
+    "Label": [
+      "True"
+    ]
+  }
+,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "A is less than B.",
+      "A is less than D.",
+      "C is less than D."
+    ],
+    "Hypothesis": [
+      "It is not known if A is less than C."
+    ],
+    "Label": [
+      "True"
+    ]
+  }
+,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "John arrived at his destination."
+    ],
+    "Hypothesis": [
+      "It is not known if John took the bus or the train."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The element with the atomic number of 1 is hydrogen."
+    ],
+    "Hypothesis": [
+      "It is known that the element with the atomic number of 1 is not oxygen."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The first president of the United States was George Washington."
+    ],
+    "Hypothesis": [
+      "It is known that the first president of the United States was not John Adams."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The capital of Australia is Canberra."
+    ],
+    "Hypothesis": [
+      "It is known that the capital of Australia is not Sydney."
+    ],
+    "Label": [
+      "True"
+    ]
+  }
+,
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "The Statue of Liberty was a gift from France."
+    ],
+    "Hypothesis": [
+      "It is known that the Statue of Liberty was not a gift from Germany."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+      "logic_type": "Autoepistemic Reasoning",
+      "logic_subtype": "Basic Autoepistemic Reasoning",
+      "logic_type_code": "E1",
+      "Premise": [
+        "There are seven days in a week."
+      ],
+      "Hypothesis": [
+        "It is known that there are not seven days in a month."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "The moon orbits the earth."
+        ],
+        "Hypothesis": [
+          "It is known that the moon does not orbit the sun."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "The sun is a star."
+        ],
+        "Hypothesis": [
+          "It is known that the sun is not a planet."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "Bill Gates is a billionaire."
+        ],
+        "Hypothesis": [
+          "It is known that Bill Gates is a wealthy man."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "John arrived at his destination.", "John took the bus."
+        ],
+        "Hypothesis": [
+          "It is not known if John's bus arrived at its destination."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "A is less than B.", "A is less than C."
+        ],
+        "Hypothesis": [
+          "It is known that A is less than B and A is less than C."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "Manny is a doctor.", "Manny has a medical degree."
+        ],
+        "Hypothesis": [
+          "It is known that Manny is qualified to be a doctor."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "John has a dog.", "John is walking his dog."
+        ],
+        "Hypothesis": [
+          "It is known that John is taking his dog for a walk."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "John arrived at his destination.", "John took the train."
+        ],
+        "Hypothesis": [
+          "It is known that John did not take the bus."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "X started the assignment.", "Y completed the assignment.", "Both X and Y submitted the assignments"
+        ],
+        "Hypothesis": [
+          "It is known that both X and Y completed and submitted the assignments."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "The square root of 64 is 8.", "The square root of 64 is not 9."
+        ],
+        "Hypothesis": [
+          "It is known that the square root of 64 is not 9."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Basic Autoepistemic Reasoning",
+        "logic_type_code": "E1",
+        "Premise": [
+          "There are seven days in a week.", "There are thirty days in a month."
+        ],
+        "Hypothesis": [
+          "It is known that there are more days in a month than in a week."
+        ],
+        "Label": [
+          "True"
+        ]
+      }
+
+
+]

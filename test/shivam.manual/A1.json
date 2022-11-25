@@ -1,0 +1,82 @@
+[
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The boy and his mother are coughing.",
+                  "People coughing are normally sick.",
+                  "The boy is not not sick."
+            ],
+            "Hypothesis": [
+                  "The mother is sick."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "A sparrow and eagle are flying.",
+                  "Flying Birds normally travel very fast.",
+                  "The sparrow is is not traveling fast."
+            ],
+            "Hypothesis": [
+                  "The eagle is travelling very fast"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Cars A and B are noisy.",
+                  "Noisy cars usually have mechanical problems.",
+                  "Car A does not have mechanical problems."
+            ],
+            "Hypothesis": [
+                  "Car A is noisy"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Dogs Sammy and Timmy are barking.",
+                  "Barking dogs frequenty bite people.",
+                  "Sammy does not bite people at all"
+            ],
+            "Hypothesis": [
+                  "Sammy is barking"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Boxer A and B are fighting.",
+                  "Fighting boxers sweat profusely.",
+                  "Boxer B is not sweating."
+            ],
+            "Hypothesis": [
+                  "Boxer C is sweating"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

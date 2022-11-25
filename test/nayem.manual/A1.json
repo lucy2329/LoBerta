@@ -1,0 +1,83 @@
+[
+    {
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Two racers are aiming for the same track.",
+        "Racer A is relatively faster than racer B.",
+        "There was no accident reported while the racing event."
+      ],
+      "Hypothesis": [
+        "Racer A wins the race."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "There are three friends dining out.",
+        "One of them has only vegetarian dishes.",
+        "Other one have only non-vegetarian dishes.",
+        "The last friend has both vegetarian and non-vegetarian dishes."
+      ],
+      "Hypothesis": [
+        "They at least need to order two dishes for sharing meals."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Goldfish commonly kept as a pet in indoor aquariums.",
+        "There are few goldfish in an aquarium with no water.",
+        "The goldfishes can not survive without water."
+      ],
+      "Hypothesis": [
+        "The goldfishes are alive in aquariums."
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Person A loves playing both soccer and tennis.",
+        "He plays soccer on weekends and tennis on weekdays.",
+        "Today is the weekend."
+      ],
+      "Hypothesis": [
+        "Person A will play tennis today."
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Passengers are likely to miss their connecting flights if the earlier flight is late.",
+        "Passengers needed to wait for a certain amount of time due to these connecting flights.",
+        "Sam is flying to New York and he missed the connecting flight in Denver."
+      ],
+      "Hypothesis": [
+        "Sam will reach Italy late."
+      ],
+      "Label": [
+        "Undetermined"
+      ]
+    }
+]

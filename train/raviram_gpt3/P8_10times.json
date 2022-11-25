@@ -1,0 +1,716 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "The sun is out."
+        ],
+        "Hypothesis": [
+            "The sun is out or the moon is out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my homework."
+        ],
+        "Hypothesis": [
+            "I am doing my homework or I am playing soccer."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am reading a book."
+        ],
+        "Hypothesis": [
+            "I am reading a book or I am sleeping."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am eating an apple."
+        ],
+        "Hypothesis": [
+            "I am eating an apple or I am eating a banana."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to the park."
+        ],
+        "Hypothesis": [
+            "I am going to the park or I am going to the library."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "It is a weekday."
+        ],
+        "Hypothesis": [
+            "It is a weekday or it is a weekend."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to the gym."
+        ],
+        "Hypothesis": [
+            "I am going to the gym or I am eating healthy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am studying for my test."
+        ],
+        "Hypothesis": [
+            "I am studying for my test or I will fail."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing the laundry."
+        ],
+        "Hypothesis": [
+            "I am doing the laundry or I am going out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "The sun is shining."
+        ],
+        "Hypothesis": [
+            "The sun is shining or the moon is out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my homework."
+        ],
+        "Hypothesis": [
+            "I am doing my homework or I will get a bad grade."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to work."
+        ],
+        "Hypothesis": [
+            "I am going to work or I am going to get fired."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to the store."
+        ],
+        "Hypothesis": [
+            "I am going to the store or I need to buy something."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am eating breakfast."
+        ],
+        "Hypothesis": [
+            "I am eating breakfast or I am going to school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I finished my project."
+        ],
+        "Hypothesis": [
+            "I finished my project or I am going to get a good grade."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing the dishes."
+        ],
+        "Hypothesis": [
+            "I am doing the dishes or I am going to bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to the movies."
+        ],
+        "Hypothesis": [
+            "I am going to the movies or I am going out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my taxes."
+        ],
+        "Hypothesis": [
+            "I am doing my taxes or I am going to get a refund."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going for a run."
+        ],
+        "Hypothesis": [
+            "I am going for a run or I am going to the gym."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am eating dinner."
+        ],
+        "Hypothesis": [
+            "I am eating dinner or I am going to bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am taking a shower."
+        ],
+        "Hypothesis": [
+            "I am taking a shower or I am going to bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to the beach."
+        ],
+        "Hypothesis": [
+            "I am going to the beach or I am going swimming."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am a student."
+        ],
+        "Hypothesis": [
+            "I am a student or I am not a student."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "The cat is on the mat."
+        ],
+        "Hypothesis": [
+            "The cat is on the mat or the cat is not on the mat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my homework."
+        ],
+        "Hypothesis": [
+            "I am doing my homework or I am  watching baseball match."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "The sun is shining."
+        ],
+        "Hypothesis": [
+            "The sun is shining or it is cloudy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my chores."
+        ],
+        "Hypothesis": [
+            "I am doing my chores or I am playing football."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "John is taller than Bill."
+        ],
+        "Hypothesis": [
+            "John is taller than Bill or John is taller than Kane."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my homework."
+        ],
+        "Hypothesis": [
+            "I am doing my homework or I am playing cricket."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "Karthik pays wifi bill every month."
+        ],
+        "Hypothesis": [
+            "Karthik pays wifi bill every month or cooks food weekly."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "Rohan is a good singer."
+        ],
+        "Hypothesis": [
+            "Rohan is a good singer or he is a bad actor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "John is taller than Bill."
+        ],
+        "Hypothesis": [
+            "John is taller than Bill or John is shorter than Bill."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing laundry tonight."
+        ],
+        "Hypothesis": [
+            "I am doing laundry tonight or I am doing the dishes tomorrow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going out to eat tonight."
+        ],
+        "Hypothesis": [
+            "I am going out to eat tonight or I am cooking dinner tomorrow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am taking a nap now."
+        ],
+        "Hypothesis": [
+            "I am taking a nap now or I am going to bed early tonight."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am watching a movie now."
+        ],
+        "Hypothesis": [
+            "I am watching a movie now or I am doing homework later."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am playing video games now."
+        ],
+        "Hypothesis": [
+            "I am playing video games now or I am doing laundry later."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am at the park now."
+        ],
+        "Hypothesis": [
+            "I am at the park now or I am at home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to the movies."
+        ],
+        "Hypothesis": [
+            "I am going to the movies or I am going out to eat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am failing my classes."
+        ],
+        "Hypothesis": [
+            "I am failing my classes or I am not studying."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing my homework."
+        ],
+        "Hypothesis": [
+            "I am doing my homework or I am studying for my test."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I went out with friends."
+        ],
+        "Hypothesis": [
+            "I went out with friends or I stayed home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am eating breakfast."
+        ],
+        "Hypothesis": [
+            "I am eating breakfast or I am hungry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am at school."
+        ],
+        "Hypothesis": [
+            "I am at school or I am not at home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am taking a shower."
+        ],
+        "Hypothesis": [
+            "I am taking a shower or I am getting ready for bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going to work."
+        ],
+        "Hypothesis": [
+            "I am going to work or I am going to the store."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am doing laundry."
+        ],
+        "Hypothesis": [
+            "I am doing laundry or I need to do laundry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am going grocery shopping."
+        ],
+        "Hypothesis": [
+            "I am going grocery shopping or I need to buy food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I am mowing the lawn."
+        ],
+        "Hypothesis": [
+            "I am mowing the lawn or I need to do yard work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "My ipad is not working."
+        ],
+        "Hypothesis": [
+            "My ipad is not working or I am on a phone call."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "Jake has eyesight problems."
+        ],
+        "Hypothesis": [
+            "Jake has eyesight problems or has hearing problem."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

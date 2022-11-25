@@ -1,0 +1,1057 @@
+{
+  "1": [
+      "1": [
+    {
+      "id": 0,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "The United States Dollar is a currency\"",
+        "All currencies are used as a medium of exchange\"",
+        "All currencies are regulated by a government\"",
+        "The United States Dollar is not regulated by a government\"",
+        "The United States Dollar is not used as a medium of exchange"
+      ],
+      "Hypothesis": [
+        "The United States Dollar is used as a medium of exchange\"",
+        "The United States Dollar is regulated by a government"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Dogs and cats are animals\"",
+        "All animals are vertebrates\"",
+        "All animals are warm-blooded\"",
+        "Dogs are not warm-blooded\"",
+        "Cats are not vertebrates"
+      ],
+      "Hypothesis": [
+        "Dogs are vertebrates\"",
+        "Cats are warm-blooded"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Trees and flowers are plants\"",
+        "All plants are living organisms\"",
+        "All plants are autotrophs\"",
+        "Trees are not autotrophs\"",
+        "Flowers are not living organisms"
+      ],
+      "Hypothesis": [
+        "Trees are living organisms\"",
+        "Flowers are autotrophs"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Bonds and stocks are financial instruments\"",
+        "All financial instruments are traded in markets\"",
+        "All financial instruments are regulated by governments\"",
+        "Bonds are not regulated by governments\"",
+        "Stocks are not traded in markets"
+      ],
+      "Hypothesis": [
+        "Bonds are traded in markets\"",
+        "Stocks are regulated by governments"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Cars and trucks are vehicles\"",
+        "All vehicles have engines\"",
+        "All vehicles use gasoline\"",
+        "Cars do not use gasoline\"",
+        "Trucks do not have engines"
+      ],
+      "Hypothesis": [
+        "Cars have engines\"",
+        "Trucks use gasoline"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are students\"",
+        "All students go to school\"",
+        "All students take tests\"",
+        "John does not go to school\"",
+        "Mary does not take tests"
+      ],
+      "Hypothesis": [
+        "John takes tests\"",
+        "Mary goes to school"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are friends\"",
+        "All friends trust each other\"",
+        "All friends confide in each other\"",
+        "John does not trust Mary\"",
+        "Mary does not confide in John"
+      ],
+      "Hypothesis": [
+        "John confides in Mary\"",
+        "Mary trusts John"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Bread and milk are food\"",
+        "All food is nutritious\"",
+        "All food is delicious\"",
+        "Bread is not delicious\"",
+        "Milk is not nutritious"
+      ],
+      "Hypothesis": [
+        "Bread is nutritious\"",
+        "Milk is delicious"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Laptops and smartphones are computers\"",
+        "All computers are electronic devices\"",
+        "All computers are capable of running programs\"",
+        "Laptops are not capable of running programs\"",
+        "Smartphones are not electronic devices"
+      ],
+      "Hypothesis": [
+        "Laptops are electronic devices\"",
+        "Smartphones are capable of running programs"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Watches and phones are gadgets\"",
+        "All gadgets are electronic devices\"",
+        "All gadgets are portable\"",
+        "Watches are not portable\"",
+        "Phones are not electronic devices"
+      ],
+      "Hypothesis": [
+        "Watches are electronic devices\"",
+        "Phones are portable"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Houses and skyscrapers are buildings\"",
+        "All buildings have foundations\"",
+        "All buildings have walls\"",
+        "Houses do not have walls\"",
+        "Skyscrapers do not have foundations"
+      ],
+      "Hypothesis": [
+        "Houses have foundations\"",
+        "Skyscrapers have walls"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Apple and Google are stocks\"",
+        "All stocks are publicly traded\"",
+        "All stocks are subject to market fluctuations\"",
+        "Apple is not subject to market fluctuations\"",
+        "Google is not publicly traded"
+      ],
+      "Hypothesis": [
+        "Apple is publicly traded\"",
+        "Google is subject to market fluctuations"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "It is raining and snowing\"",
+        "All rain is wet\"",
+        "All snow is cold\"",
+        "It is not wet\"",
+        "It is not cold"
+      ],
+      "Hypothesis": [
+        "It is wet\"",
+        "It is cold"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Seinfeld and Friends are sitcoms\"",
+        "All sitcoms are funny\"",
+        "All sitcoms are fictional\"",
+        "Seinfeld is not funny\"",
+        "Friends is not fictional"
+      ],
+      "Hypothesis": [
+        "Seinfeld is fictional\"",
+        "Friends is funny"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are arguing\"",
+        "All arguments are heated\"",
+        "All arguments are verbal\"",
+        "John is not heated\"",
+        "Mary is not verbal"
+      ],
+      "Hypothesis": [
+        "John is verbal\"",
+        "Mary is heated"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "FM and AM are types of radio\"",
+        "All radios use electromagnetic waves\"",
+        "All radios are broadcasted\"",
+        "FM does not use electromagnetic waves\"",
+        "AM is not broadcasted"
+      ],
+      "Hypothesis": [
+        "FM is broadcasted\"",
+        "AM uses electromagnetic waves"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Alexa and Siri are hosts\"",
+        "All hosts are digital assistants\"",
+        "All hosts are artificial intelligence\"",
+        "Alexa is not artificial intelligence\"",
+        "Siri is not a digital assistant"
+      ],
+      "Hypothesis": [
+        "Alexa is a digital assistant\"",
+        "Siri is artificial intelligence"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Mercury and Venus are planets\"",
+        "All planets orbit the sun\"",
+        "All planets are spherical\"",
+        "Mercury does not orbit the sun\"",
+        "Venus is not spherical"
+      ],
+      "Hypothesis": [
+        "Mercury is spherical\"",
+        "Venus orbits the sun"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 18,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "The Office and Parks and Recreation are comedy\"",
+        "All comedy is funny\"",
+        "All comedy is fictional\"",
+        "The Office is not funny\"",
+        "Parks and Recreation is not fictional"
+      ],
+      "Hypothesis": [
+        "The Office is fictional\"",
+        "Parks and Recreation is funny"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are criminals\"",
+        "All criminals are wanted by the police\"",
+        "All criminals are dangerous\"",
+        "John is not wanted by the police\"",
+        "Mary is not dangerous"
+      ],
+      "Hypothesis": [
+        "John is dangerous\"",
+        "Mary is wanted by the police"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 20,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are athletes\"",
+        "All athletes are in shape\"",
+        "All athletes are competitive\"",
+        "John is not in shape\"",
+        "Mary is not competitive"
+      ],
+      "Hypothesis": [
+        "John is competitive\"",
+        "Mary is in shape"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are wearing formal attire\"",
+        "All formal attire is dressy\"",
+        "All formal attire is expensive\"",
+        "John's attire is not dressy\"",
+        "Mary's attire is not expensive"
+      ],
+      "Hypothesis": [
+        "John's attire is expensive\"",
+        "Mary's attire is dressy"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Ramen and udon are noodles\"",
+        "All noodles are made of wheat\"",
+        "All noodles are made in Asia\"",
+        "Ramen is not made of wheat\"",
+        "Udon is not made in Asia"
+      ],
+      "Hypothesis": [
+        "Ramen is not made in Asia\"",
+        "Udon is made of wheat"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 23,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Poodles and golden retrievers are dogs\"",
+        "All dogs are mammals\"",
+        "All dogs are loyal\"",
+        "Poodles are not mammals\"",
+        "Golden retrievers are not loyal"
+      ],
+      "Hypothesis": [
+        "Poodles are loyal\"",
+        "Golden retrievers are not mammals"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 24,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are wearing glasses\"",
+        "All people who wear glasses are smart\"",
+        "All people who wear glasses are nerds\"",
+        "John is not smart\"",
+        "Mary is not a nerd"
+      ],
+      "Hypothesis": [
+        "John is a nerd\"",
+        "Mary is not smart"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Nightmare on Elm Street and Friday the 13th are horror movies\"",
+        "All horror movies are scary\"",
+        "All horror movies are fictional\"",
+        "Nightmare on Elm Street is not scary\"",
+        "Friday the 13th is not fictional"
+      ],
+      "Hypothesis": [
+        "Nightmare on Elm Street is fictional\"",
+        "Friday th"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 26,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Apple and Google are stocks\"",
+        "All stocks are publicly traded\"",
+        "All stocks are subject to market fluctuations\"",
+        "Apple is not subject to market fluctuations\"",
+        "Google is not publicly traded"
+      ],
+      "Hypothesis": [
+        "Apple is publicly traded\"",
+        "Google is subject to market fluctuations"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are in finance\"",
+        "All people in finance are smart\"",
+        "All people in finance are rich\"",
+        "John is not smart\"",
+        "Mary is not rich"
+      ],
+      "Hypothesis": [
+        "John is rich\"",
+        "Mary is smart"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are eating breakfast\"",
+        "All people who eat breakfast are hungry\"",
+        "All people who eat breakfast are healthy\"",
+        "John is not hungry\"",
+        "Mary is not healthy"
+      ],
+      "Hypothesis": [
+        "John is healthy\"",
+        "Mary is hungry"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are healthy\"",
+        "All healthy people are fit\"",
+        "All healthy people are thin\"",
+        "John is not fit\"",
+        "Mary is not thin"
+      ],
+      "Hypothesis": [
+        "John is thin\"",
+        "Mary is not fit"
+      ],
+      "Label": [
+        "True",
+        "False
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are on a call\"",
+        "All calls are important\"",
+        "All calls are private\"",
+        "John's call is not important\"",
+        "Mary's call is not private"
+      ],
+      "Hypothesis": [
+        "John's call is private\"",
+        "Mary's call is not important"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are in school\"",
+        "All people in school are students\"",
+        "All people in school are learning\"",
+        "John is not a student\"",
+        "Mary is not learning"
+      ],
+      "Hypothesis": [
+        "John is learning\"",
+        "Mary is a student"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are mentally healthy\"",
+        "All mentally healthy people are happy\"",
+        "All mentally healthy people are well-adjusted\"",
+        "John is not happy\"",
+        "Mary is not well-adjusted"
+      ],
+      "Hypothesis": [
+        "John is well-adjusted\"",
+        "Mary is happy"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are at the gym\"",
+        "All people at the gym are working out\"",
+        "All people at the gym are healthy\"",
+        "John is not working out\"",
+        "Mary is not healthy"
+      ],
+      "Hypothesis": [
+        "John is healthy\"",
+        "Mary is working out"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are drinking wine\"",
+        "All people who drink wine are adults\"",
+        "All people who drink wine are sophisticated\"",
+        "John is not an adult\"",
+        "Mary is not sophisticated"
+      ],
+      "Hypothesis": [
+        "John is sophisticated\"",
+        "Mary is an adult"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are at work\"",
+        "All people at work are productive\"",
+        "All people at work are busy\"",
+        "John is not productive\"",
+        "Mary is not busy"
+      ],
+      "Hypothesis": [
+        "John is busy\"",
+        "Mary is not productive"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are at home\"",
+        "All people at home are relaxed\"",
+        "All people at home are comfortable\"",
+        "John is not relaxed\"",
+        "Mary is not comfortable"
+      ],
+      "Hypothesis": [
+        "John is comfortable\"",
+        "Mary is relaxed"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are in the hospital\"",
+        "All people in the hospital are sick\"",
+        "All people in the hospital are in need of care\"",
+        "John is not sick\"",
+        "Mary is not in need of care"
+      ],
+      "Hypothesis": [
+        "John is in not need of care\"",
+        "Mary is sick"
+      ],
+      "Label": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are on vacation\"",
+        "All people on vacation are happy\"",
+        "All people on vacation are relaxed\"",
+        "John is not happy\"",
+        "Mary is not relaxed"
+      ],
+      "Hypothesis": [
+        "John is relaxed\"",
+        "Mary is not happy"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 39,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are at their job\"",
+        "All people at their job are working\"",
+        "All people at their job are being paid\"",
+        "John is not working\"",
+        "Mary is not being paid"
+      ],
+      "Hypothesis": [
+        "John is being paid\"",
+        "Mary is working"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are reading books\"",
+        "All people who read books are smart\"",
+        "All people who read books are well-read\"",
+        "John is not smart\"",
+        "Mary is not well-read"
+      ],
+      "Hypothesis": [
+        "John is not well-read\"",
+        "Mary is smart"
+      ],
+      "Label": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are at the dentist\"",
+        "All people at the dentist are getting their teeth cleaned\"",
+        "All people at the dentist are getting their teeth checked\"",
+        "John is not getting his teeth cleaned\"",
+        "Mary is not getting her teeth checked"
+      ],
+      "Hypothesis": [
+        "John is getting his teeth checked\"",
+        "Mary is getting her teeth cleaned"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are eating pancakes\"",
+        "All people who eat pancakes are happy\"",
+        "All people who eat pancakes are full\"",
+        "John is not happy\"",
+        "Mary is not full"
+      ],
+      "Hypothesis": [
+        "John is full\"",
+        "Mary is not happy"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "GIMP and VLC are software",
+        "All software is open source",
+        "All software is free",
+        "GIMP is not free",
+        "VLC is not open source"
+
+      ],
+      "Hypothesis": [
+        "GIMP is open source",
+        "VLC is free"
+      ],
+      "Label": [
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "Instagram and twitter are mobile applications",
+        "All mobile applications are free",
+        "All mobile applications are developed for a specific platform",
+        "Instagram is not free",
+        "Twitter is not developed for a specific platform"
+      ],
+      "Hypothesis": [
+        "Instagram is developed for a specific platform",
+        "Twiter is not free"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 45,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "Apple and google are companies",
+        "Successful companies typically make a profit",
+        "Successful companies are multi national ",
+        "Apple did not make a profit",
+        "Google is multi nationalt"
+      ],
+      "Hypothesis": [
+        "Google is a successful company",
+        "Apple is a successful company"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    },
+    {
+      "id": 46,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "The Vatican and italy are sovereign countries",
+        "Sovereign countries have a capital",
+        "Sovereign countries are members of the United Nations",
+        "The Vatican is not a member of the United Nations"
+      ],
+      "Hypothesis": [
+        "The Vatican does not have a capital",
+        "Italy is in the united nations"
+      ],
+      "Label": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": 47,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "The Bible and the golden finch are books",
+        "All books are written by authors",
+        "All books are published by publishers",
+        "The Bible is not written by an author"
+      ],
+      "Hypothesis": [
+        "The Bible is published by a publisher",
+        "The golden finch is published by a publisher",
+        "The golden finch is written by an author"
+      ],
+      "Label": [
+        "True",
+        "True",
+        "True"
+      ]
+    },
+    {
+      "id": 48,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "Chips and cakes are food",
+        "All food is organic",
+        "All food is healthy",
+        "Chips are not healthy",
+        "Cake is not organic"
+      ],
+      "Hypothesis": [
+        "Chips are not organic",
+        "Cakes are healthy"
+      ],
+      "Label": [
+        "False",
+        "True"
+      ]
+    },
+    {
+      "id": 49,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with multiple defaults",
+      "logic_type_code": "A3",
+      "Premise": [
+        "Chair and Sofa are furniture",
+        "All furniture is made of wood",
+        "All furniture is made in factories",
+        "Chair is not made in factories",
+        "Sofas is not made of wood"
+
+      ],
+      "Hypothesis": [
+        "Chair is made of wood",
+        "Furniture is not made in factories"
+      ],
+      "Label": [
+        "True",
+        "False"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Aron is elected, he will lower tax rates.",
+            "If Baron learns to program, he will find a good job.",
+            "Either Aron gets elected or Baron does not get a good job."
+        ],
+        "Hypothesis": [
+            "Aron will lower the taxes orBaron does not learn to program"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If C starts jogging every day, he will get into good shape.",
+            "If it rains, D will lose the match.",
+            "Either C starts jogging or D will not lose the match."
+        ],
+        "Hypothesis": [
+            "C will get into good shape or it  will not rain."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If there is an internet connection, then we can watch Youtube.",
+            "If flash floods occur, the university will be closed.",
+            "Either we have an internet connection, or the university will not be closed."
+        ],
+        "Hypothesis": [
+            "We can watch Youtube. or flash floods do not occur"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the sun is out, then it is daytime.",
+            "If it is nighttime, then the moon is out.",
+            "Either the sun is out, or the moon is not out."
+        ],
+        "Hypothesis": [
+            "It is daytime or it is not nighttime."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the sun is out, then it is daytime.",
+            "If it is nighttime, then the moon is out.",
+            "Either the sun is out, or the moon is not out."
+        ],
+        "Hypothesis": [
+            "It is daytime or it is not nighttime."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If A is a triangle, then A has three sides.",
+            "If B is a square, then B has four sides.",
+            "Either A has three sides, or B does not have four sides."
+        ],
+        "Hypothesis": [
+            "A is a triangle or B is not a square."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If C is a multiple of 3, then C is even.",
+            "If D is a multiple of 4, then D is even.",
+            "Either C is even, or D is not even."
+        ],
+        "Hypothesis": [
+            "C is a multiple of 3 or D is not a multiple of 4."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Barney goes to the party, he will have fun.",
+            "If Cameron goes to the movie, he will have dinner",
+            "Either Barney goes to the party, or Cameron will not have dinner."
+        ],
+        "Hypothesis": [
+            "Barney will have fun or Cameron does not go to the movie."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Dave is happy, then he will sing.",
+            "If Erin is sad, she will cry.",
+            "Either Dave is happy, or Erin will not cry."
+        ],
+        "Hypothesis": [
+            "Dave will sing or Erin is not sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Fred is a doctor, then he will make a lot of money.",
+            "If Gina is a nurse, then she will make a lot of money.",
+            "Either Fred is a doctor, or Gina will not make a lot of money."
+        ],
+        "Hypothesis": [
+            "Fred is a doctor or Gina is not a nurse."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Harry is tall, then he will play basketball.",
+            "If Ian is short, then he will play soccer.",
+            "Either Harry is tall, or Ian will not play soccer."
+        ],
+        "Hypothesis": [
+            "Harry is tall or Ian is not short."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If James is a good student, then he will get a scholarship.",
+            "If Kaitlyn is a bad student, then she will not get a scholarship.",
+            "Either James is a good student, or Kaitlyn will not get a scholarship."
+        ],
+        "Hypothesis": [
+            "James is a good student or Kaitlyn is not a bad student."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Lily is smart, then she will get into a good college.",
+            "If Mark is dumb, then he will not get into a good college.",
+            "Either Lily is smart, or Mark will get into a good college."
+        ],
+        "Hypothesis": [
+            "Lily  goes to a good college or Mark is not dumb."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Nadia is hungry, she will eat.",
+            "If Owen is thirsty, he will drink.",
+            "Either Nadia is hungry, or Owen will not drink."
+        ],
+        "Hypothesis": [
+            "Nadia will eat or Owen is not thirsty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Rachel is tired, she will sleep.",
+            "If Stephen is awake, he will study.",
+            "Either Rachel is  tired, or Stephen will not study."
+        ],
+        "Hypothesis": [
+            "Rachel will sleep or Stephen will sleep."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Timmy is happy, he will smile.",
+            "If Tyler is angry, he will yell.",
+            "Either Timmy is happy, or Tyler will not yell."
+        ],
+        "Hypothesis": [
+            "Timmy will smile or Tyler is not angry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Vanessa is excited, she will jump.",
+            "If Wesley is bored, he will sleep.",
+            "Either Vanessa is excited, or Wesley will not sleep."
+        ],
+        "Hypothesis": [
+            "Vanessa will jump or Wesley is excited."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Xavier is good at math, he will get an A in the class.",
+            "If Yolanda is bad at math, she will get a C in the class.",
+            "Either Xavier is good at math, or Yolanda will not get a C in the class."
+        ],
+        "Hypothesis": [
+            "Xavier will get an A in the class or Yolanda is not bad at math."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Zeke is good at basketball, he will make the team.",
+            "If Zoe is bad at basketball, she will not make the team.",
+            "Either Zeke is good at basketball, or Zoe will make the team."
+        ],
+        "Hypothesis": [
+            "Zeke will make the team or Zoe is not bad at basketball."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Alice is happy, she will sing.",
+            "If Bob is sad, he will cry.",
+            "Either Alice is happy, or Bob will not cry."
+        ],
+        "Hypothesis": [
+            "Alice will sing or Bob is not sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Chris is a doctor, he will make a lot of money.",
+            "If Danielle is a nurse, she will make a lot of money.",
+            "Either Chris is a doctor, or Danielle will not make a lot of money."
+        ],
+        "Hypothesis": [
+            "Chris is a doctor or Danielle is not a nurse."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Ethan is tall, he will play basketball.",
+            "If Fiona is short, she will play soccer.",
+            "Either Ethan is tall, or Fiona will not play soccer."
+        ],
+        "Hypothesis": [
+            "Ethan will play basketball or Fiona is not short."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Karl is smart, he will get into a good college.",
+            "If Lisa is dumb, she will not get into a good college.",
+            "Either Karl is smart, or Lisa will get into a good college."
+        ],
+        "Hypothesis": [
+            "Karl goes to a good college or Lisa is not dumb."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Emma is tired, she will sleep.",
+            "If Felix is awake, he will study.",
+            "Either Emma is tired, or Felix will not study."
+        ],
+        "Hypothesis": [
+            "Emma will sleep or Felix is not awake."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If George is good at math, he will get an A in the class.",
+            "If Heather is bad at math, she will get a C in the class.",
+            "Either George is good at math, or Heather will not get a C in the class."
+        ],
+        "Hypothesis": [
+            "George will get an A in the class or Heather is not bad at math."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Karen is happy, she will sing.",
+            "If Kyle is sad, he will cry.",
+            "Either Karen is happy, or Kyle will not cry."
+        ],
+        "Hypothesis": [
+            "Karen will sing or Kyle is not sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Ian is good at basketball, he will make the team.",
+            "If Jasmine is bad at basketball, she will not make the team.",
+            "Either Ian is good at basketball, or Jasmine will make the team."
+        ],
+        "Hypothesis": [
+            "Ian will make the team or Jasmine is not bad at basketball."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Lisa is happy, she will sing.",
+            "If Matt is sad, he will cry.",
+            "Either Lisa is happy, or Matt will not cry."
+        ],
+        "Hypothesis": [
+            "Lisa will sing or Matt is not sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Martha rides a cab, she will arrive at office on time.",
+            "If Greg drinks coffee, he will do laundry today.",
+            "Either Martha rides a cab, or Greg will not do laundry today."
+        ],
+        "Hypothesis": [
+            "Martha will arrive at the office on time or Greg does not drink coffee today."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the wind is blowing, it is cloudy.",
+            "If it is not sunny, then it will rain.",
+            "Either the wind is blowing, or it will not rain."
+        ],
+        "Hypothesis": [
+            "It is cloudy or it is  sunny."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Jen is at home, she is sleeping.",
+            "If Brad is at the movies, he is not sleeping.",
+            "Either Jen is at home, or Brad will not be sleeping."
+        ],
+        "Hypothesis": [
+            "Jen is sleeping or Brad is not at the movies."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Chris is outside, he is playing basketball.",
+            "If Sam is inside, he is studying.",
+            "Either Chris is outside, or Sam does not study."
+        ],
+        "Hypothesis": [
+            "Chris is playing basketball or Sam is not inside."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Matt is in his car, he is driving to work.",
+            "If Lisa is at work, she is not driving her car.",
+            "Either Matt is in his car, or Lisa will be driving her car."
+        ],
+        "Hypothesis": [
+            "Matt is driving to work or Lisa will not be at work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Josh is at school, he is learning.",
+            "If Sarah is not at school, she is not learning.",
+            "Either Josh will be at school, or Sarah will be learning."
+        ],
+        "Hypothesis": [
+            "Josh is learning or Sarah is at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Alex is at home, he is watching TV.",
+            "If Ben is not at home, he is not playing videogames.",
+            "Either Alex will be at home, or Ben is playing video games."
+        ],
+        "Hypothesis": [
+            "Alex is watching TV or Ben is at home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Karen is at the gym, she is working out.",
+            "If Brian is not at the gym, he is not working out.",
+            "Either Karen will be at the gym, or Brian is working out."
+        ],
+        "Hypothesis": [
+            "Karen is working out or Brian is at the gym."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Tim is at the library, he is studying.",
+            "If Nancy is not at the nursery, she is not gardening.",
+            "Either Tim will be at the library, or Nancy is gardening."
+        ],
+        "Hypothesis": [
+            "Tim is studying or Nancy is at the nursery."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Ryan is at the beach, he is swimming.",
+            "If Stephanie is not at the beach, she is not swimming.",
+            "Either Ryan will be at the beach, or Stephanie is swimming."
+        ],
+        "Hypothesis": [
+            "Ryan is swimming or Stephanie is at the beach."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If John is at the park, he is playing soccer.",
+            "If Jane is not at the park, she is not playing soccer.",
+            "Either John will be at the park, or Jane is playing soccer."
+        ],
+        "Hypothesis": [
+            "John is playing soccer or Jane is at the park."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Christine is at school, she is studying.",
+            "If David is not at school, he is not working.",
+            "Either Christine will be at school, or David is working."
+        ],
+        "Hypothesis": [
+            "Christine is studying or David is at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Evelyn is at the library, she is reading.",
+            "If Frank is not at the library, he is not writing.",
+            "Either Evelyn will be at the library, or Frank is writing."
+        ],
+        "Hypothesis": [
+            "Evelyn is reading or Frank is at the library."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If George is at the movies, he is watching a movie.",
+            "If Heather is not at the movies, she is not eating popcorn.",
+            "Either George will be at the movies, or Heather is eating popcorn."
+        ],
+        "Hypothesis": [
+            "George is watching a movie or Heather is at the movies."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Ian is at the park, he is playing on the swings.",
+            "If Jenn is not at the park, she is not playing on the slide.",
+            "Either Ian will be at the park, or Jenn is playing on the slide."
+        ],
+        "Hypothesis": [
+            "Ian is playing on the swings or Jenn is at the park."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Kirk is at the beach, he is swimming in the ocean.",
+            "If Lisa is not at the beach, she is not building a sandcastle.",
+            "Either Kirk will be at the beach, or Lisa is building a sandcastle."
+        ],
+        "Hypothesis": [
+            "Kirk is swimming in the ocean or Lisa is at the beach."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Mary is at the store, she is buying groceries.",
+            "If Neil is not at the store, he is not buying a gift.",
+            "Either Mary will be at the store, or Neil is buying a gift."
+        ],
+        "Hypothesis": [
+            "Mary is buying groceries or Neil is at the store."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Pam is at work, she is typing on her computer.",
+            "If Quinn is not at work, he is not talking on the phone.",
+            "Either Pam will be at work, or Quinn is talking on the phone."
+        ],
+        "Hypothesis": [
+            "Pam is typing on her computer or Quinn is at work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Rachel is at the restaurant, she is eating.",
+            "If Seth is not at the restaurant, he is not drinking.",
+            "Either Rachel will be at the restaurant, or Seth is drinking."
+        ],
+        "Hypothesis": [
+            "Rachel is eating or Seth is at the restaurant."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Tiffany is at her friend's house, she is playing games.",
+            "If Tyler is not at his friend's house, he is not watching TV.",
+            "Either Tiffany will be at her friend's house, or Tyler is watching TV."
+        ],
+        "Hypothesis": [
+            "Tiffany is playing games or Tyler is at his friend's house."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Ursula is at the library, she is checking out books.",
+            "If Victor is not at the library, he is not using the computer.",
+            "Either Ursula will be at the library, or Victor is using the computer."
+        ],
+        "Hypothesis": [
+            "Ursula is checking out books or Victor is at the library."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Willow is at her friend's house, she is sleeping over.",
+            "If Xavier is not at his friend's house, he is not playing games.",
+            "Either Willow will be at her friend's house, or Xavier is playing games."
+        ],
+        "Hypothesis": [
+            "Willow is sleeping over or Xavier is at his friend's house."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If Alanis is at the park, she is playing on the swings. ",
+            "If Brandon is not at the park, he is not playing on the slide.",
+            "Either Alanis will be at the park, or Brandon is playing on the slide."
+        ],
+        "Hypothesis": [
+            "Alanis is playing on the swings or Brandon is at the park."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

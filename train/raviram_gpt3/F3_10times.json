@@ -1,0 +1,852 @@
+[
+    {
+        "logic_type": "First Order Logic", 
+        "logic_subtype": "Existential Instantiation", 
+        "logic_type_code": "F3", 
+        "Premise": [ 
+            "A lot of people who work at Google are millionaires."
+        ], 
+        "Hypothesis": [ 
+            "Steven works at Google and he is a millionaire."
+        ], 
+        "Label": [ 
+            "True" ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "All of the students who have taken the course, have said it was very difficult."
+        ],
+        "Hypothesis": [
+          "John took the course, and he said it was very difficult."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some people have a fear of clowns."
+        ],
+        "Hypothesis": [
+          "Sophie has a fear of clowns."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "All of the medications have side effects."
+        ],
+        "Hypothesis": [
+          "The medication has side effects."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "All of the candidates who have been interviewed, have not gotten the job."
+        ],
+        "Hypothesis": [
+          "John interviewed for the job, and he did not get it."
+        ],
+        "Label": [
+          "True"
+        ]
+    
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the students have not turned in their homework."
+        ],
+        "Hypothesis": [
+          "John has not turned in his homework."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the employees are not loyal to the company."
+        ],
+        "Hypothesis": [
+          "John is not loyal to the company."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the dogs are not house trained."
+        ],
+        "Hypothesis": [
+          "John's dog is not house trained."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the countries are not safe to visit."
+        ],
+        "Hypothesis": [
+          "Syria is not safe to visit."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "The apocalypse is coming and some people are not prepared."
+        ],
+        "Hypothesis": [
+          "John is not prepared for the apocalypse."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the students have not read the book."
+        ],
+        "Hypothesis": [
+          "John has not read the book."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "The test is hard and some people will fail."
+        ],
+        "Hypothesis": [
+          "John will fail the test."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the keys on the keyboard are not working."
+        ],
+        "Hypothesis": [
+          "The 'a' key is not working."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the people are not telling the truth."
+        ],
+        "Hypothesis": [
+          "John is not telling the truth."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the shoes are not comfortable."
+        ],
+        "Hypothesis": [
+          "John's shoes are not comfortable."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the food is not edible."
+        ],
+        "Hypothesis": [
+          "John's food is not edible."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the furniture is not comfortable."
+        ],
+        "Hypothesis": [
+          "John's furniture is not comfortable."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the students have not paid their tuition."
+        ],
+        "Hypothesis": [
+          "Pran has not paid his tuition."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Some of the pills are not working."
+        ],
+        "Hypothesis": [
+          "John's pills are not working."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All of the shoes in Sophie's closet are size 7."
+    ],
+    "Hypothesis": [
+      "Sophie's red shoes are size 7."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the dogs like to play fetch."
+    ],
+    "Hypothesis": [
+      "Max likes to play fetch."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All of the dogs in the park are golden retrievers."
+    ],
+    "Hypothesis": [
+      "The dog that I saw in the park was a golden retriever."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the cats like to drink milk."
+    ],
+    "Hypothesis": [
+      "Oscar likes to drink milk."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All of the birds can fly."
+    ],
+    "Hypothesis": [
+      "The bird outside my window can fly."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the flowers are not blooming."
+    ],
+    "Hypothesis": [
+      "Mike's flowers are not blooming."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All of the rocks are covered in moss."
+    ],
+    "Hypothesis": [
+      "The rock is covered in moss."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the people are not telling the truth."
+    ],
+    "Hypothesis": [
+      "You are not telling the truth."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the dogs are not well trained."
+    ],
+    "Hypothesis": [
+      "Rufus is not a well-trained dog."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the students are not studying for the test."
+    ],
+    "Hypothesis": [
+      "You are not studying for the test."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the politicians are not being honest."
+    ],
+    "Hypothesis": [
+      "The politician is not being honest."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All of the athletes are not drug tested."
+    ],
+    "Hypothesis": [
+      "Howard is not drug tested."
+    ],
+    "Label": [
+      "False"
+    ]
+  },  
+
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the books are not well written."
+    ],
+    "Hypothesis": [
+      " Space odyssey book is not well written."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Not all of the students are honest."
+    ],
+    "Hypothesis": [
+      "Mike is not an honest student."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the politicians are not corrupt."
+    ],
+    "Hypothesis": [
+      "McQueen is not a corrupt politician."
+    ],
+    "Label": [
+      "False"  
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All the apples are not red."
+    ],
+    "Hypothesis": [
+      "The apple I am eating is not red."
+    ],
+    "Label": [
+      "False"  
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the people are not tall."
+    ],
+    "Hypothesis": [
+      "Sarah is not tall."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "All the animals are not friendly."
+    ],
+    "Hypothesis": [
+      "The Gorilla is not friendly."
+    ],
+    "Label": [
+      "False"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the kids are not good at math."
+    ],
+    "Hypothesis": [
+      " Tim is not good at math."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the parents are not good at communicating."
+    ],
+    "Hypothesis": [
+      " Maria's parents are not good at communicating."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the teachers are not good at teaching."
+    ],
+    "Hypothesis": [
+      " Ms. Smith is not good at teaching."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the drivers are not good at driving."
+    ],
+    "Hypothesis": [
+      " The bus driver is not good at driving."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the students are not good at studying."
+    ],
+    "Hypothesis": [
+      " Ashley is not good at studying."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the apples are not red."
+    ],
+    "Hypothesis": [
+      " The green apple is not red."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the pencils are not sharp."
+    ],
+    "Hypothesis": [
+      " The black pencil is not sharp."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the birds are not friendly."
+    ],
+    "Hypothesis": [
+      " The Pelican is not friendly."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the shoes are not comfortable."
+    ],
+    "Hypothesis": [
+      "The Adidas shoes are not comfortable."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the pictures are not pretty."
+    ],
+    "Hypothesis": [
+      " The black and white picture is not pretty."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the people are not tall."
+    ],
+    "Hypothesis": [
+      " Sarah is not tall."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the animals are not friendly."
+    ],
+    "Hypothesis": [
+      "The Gorilla is not friendly."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the kids are not good at math."
+    ],
+    "Hypothesis": [
+      " Tim is not good at math."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the parents are not good at communicating."
+    ],
+    "Hypothesis": [
+      " Maria's parents are not good at communicating."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the teachers are not good at teaching."
+    ],
+    "Hypothesis": [
+      " Ms. Smith is not good at teaching."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the drivers are not good at driving."
+    ],
+    "Hypothesis": [
+      " The bus driver is not good at driving."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the students are not good at studying."
+    ],
+    "Hypothesis": [
+      " Ashley is not good at studying."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the apples are not red."
+    ],
+    "Hypothesis": [
+      " The green apple is not red."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the pencils are not sharp."
+    ],
+    "Hypothesis": [
+      " The black pencil is not sharp."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the birds are not friendly."
+    ],
+    "Hypothesis": [
+      " The Pelican is not friendly."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the shoes are not comfortable."
+    ],
+    "Hypothesis": [
+      " The Adidas shoes are not comfortable."
+    ],
+    "Label": [
+      "True"
+    ]
+  },  
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Existential Instantiation",
+    "logic_type_code": "F3",
+    "Premise": [
+      "Some of the pictures are not pretty."
+    ],
+    "Hypothesis": [
+      " The black and white picture is not pretty."
+    ],
+    "Label": [
+      "True"
+    ]
+  }
+
+]

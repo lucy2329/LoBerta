@@ -1,0 +1,78 @@
+[
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Jake, David and Michael went for a birthday party.",
+      "Jane came with James to the party.",
+      "All undergrad students were invited for the party."
+    ],
+    "Hypothesis": [
+      "About any person it is not known whether they are ungergrad students or not."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Karan is leading the team.",
+      "Drake is writing the report for the team.",
+      "Gagan updated the report after proof reading it."
+    ],
+    "Hypothesis": [
+      "Apart from Gagan and Drake we do not know who else wrote the report."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Debra is cooking food for her family in the kitchen.","Jake is Debra's husband.","Only Debra's kids are at home."
+    ],
+    "Hypothesis": [
+      "Apart from her kids we do not know who else Debra is cooking food for."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Bane is giving gifts to his friends.",
+      "Bane is giving gifts to his roommates"
+    ],
+    "Hypothesis": [
+      "We do not know about any other roommate to whom Bane is giving the gift."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "X submitted the assignment.",
+      "Y completed the assignment."
+    ],
+    "Hypothesis": [
+      "We know that there are at least two people who submitted the assignment."
+    ],
+    "Label": [
+      "False"
+    ]
+  }
+]

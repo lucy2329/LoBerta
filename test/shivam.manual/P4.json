@@ -1,0 +1,77 @@
+[
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "I will eat chips and salsa or pizza.",
+                  "I will not eat chips and salsa."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will eat pizza."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "The aircraft crashed either due to a faulty engine or bad piloting.",
+                  "The aircraft did not crash due to bad piloting."
+            ],
+            "Hypothesis": [
+                  "Therefore, the aircraft crashed due to a faulty engine."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "This is going to be either a short speech or long speech.",
+                  "It is not a long speech."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is a long speech."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "This is either great news or just too good to be true.",
+                  "It is not too good to be true."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is bad news"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Disjunctive syllogism",
+            "logic_type_code": "P4",
+            "Premise": [
+                  "Person A is either a wrestler or a bodybuilder.",
+                  "Person A is not a wrestler."
+            ],
+            "Hypothesis": [
+                  "Therefore, person A is a sprinter."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

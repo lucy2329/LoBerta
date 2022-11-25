@@ -1,0 +1,802 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I buy a new car, I will sell my old one.",
+            "If I don't sell my old car, I will give it to my brother.",
+            "Either I buy a new car or I don't sell my old car."
+        ],
+        "Hypothesis": [
+            "Therefore, either I sell my old car or I give it to my brother."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I take the bus, then I will be late for my appointment.",
+            "If I have breakfast, then I will skip lunch.",
+            "Either I take the bus or I have breakfast."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will be early for my appointment or I will not skip lunch."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the meeting is cancelled, then I will go home early.",
+            "If I work longer today, I will have dinner in the office.",
+            "Either the meeting is cancelled or I work longer today."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will go home early or I will have dinner in the office."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I jump the fence, I will be trespassing.",
+            "If I go through the gate, I will have to pay a fee.",
+            "Either I jump the fence or I go through the gate."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will not be trespassing or I will have to pay a fee."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I drink all the water in the bottle, then I will be thirsty.",
+            "If I don't drink any water, then I will be dehydrated.",
+            "Either I drink all the water in the bottle or I don't drink any water."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will be thirsty or I will be dehydrated."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use headphones, then I can't hear anything else.",
+            "If I don't use headphones, then I can hear everything else.",
+            "Either I use headphones or I don't use headphones."
+        ],
+        "Hypothesis": [
+            "I will buy a new pair of headphones."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I talk, then I will make noise.",
+            "If I run, then I will be tired.",
+            "Either I talk or I run."
+        ],
+        "Hypothesis": [
+            "I will not make noise and I will not be tired."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I take the bus, then I will get there faster.",
+            "If I walk, then I will get there slower.",
+            "Either I take the bus or I walk."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will get there faster or I will get there slower."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I do an experiment, then I will get results.",
+            "If I understand the theory, then I can teach it to others.",
+            "Either I do an experiment or I understand the theory."
+        ],
+        "Hypothesis": [
+            "I gave the students an assignment to read the paper by tomorrow."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I look through the telescope, then I will see the stars.",
+            "If I look at the sky, then I will see the clouds.",
+            "Either I look through the telescope or I look at the sky."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will not see the stars or I will see the clouds."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I study the past, then I can learn from it.",
+            "If I don't study the past, then I will repeat its mistakes.",
+            "Either I study the past or I don't study the past."
+        ],
+        "Hypothesis": [
+            "Therefore, either I can learn from the past or I will repeat its mistakes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I study the map, then I will know where I am going.",
+            "If I don't study the map, then I will get lost.",
+            "Either I study the map or I don't study the map."
+        ],
+        "Hypothesis": [
+            "I will get lost."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I mix the two fundamental elements, then I will create a new substance.",
+            "If I add this element to water, then I won't create a new substance.",
+            "Either I mix the two fundamental elements or I add this element to water."
+        ],
+        "Hypothesis": [
+            "Therefore, either I will create a new substance or I won't create a new substance."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I study hard, I will get good grades.",
+            "If I work hard, I will get promotion.",
+            "Either I study hard or I work hard."
+        ],
+        "Hypothesis": [
+            "I will get an 8% hike in my remuneration."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I plant a tree, it will grow.",
+            "If I adopt a pet, it will get a shelter.",
+            "Either I plant a tree or I adopt a pet."
+        ],
+        "Hypothesis": [
+            "Therefore, either the plant will grow or the pet will get a shelter."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I go to the coast, I will see the ocean.",
+            "If I go to the forest, I will see the trees.",
+            "I will either go to the coast or the forest."
+        ],
+        "Hypothesis": [
+            "I will not see the ocean and I will not see the trees."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I watch the sunset, I will see the sun going down.",
+            "If I watch the sunrise, I will see the sun coming up.",
+            "I will either watch the sunset or the sunrise."
+        ],
+        "Hypothesis": [
+            "I will spend the night in a tent at the mountain peak."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I do not drink alcohol, I can drive.",
+            "If I drive after drinking alcohol, I will get arrested.",
+            "I will either not drink alcohol or drive after drinking alcohol."
+        ],
+        "Hypothesis": [
+            "Therefore, either I can drive or I will get arrested."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I eat a waffle, I will be full.",
+            "If I drink milk, I will get hungry after an hour.",
+            "I will either eat a waffle or drink milk."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either not be full or get hungry after an hour."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I eat fish, I will get omega-3 fatty acids.",
+            "If I don't eat fish, I will not get the required proteins.",
+            "I will either eat fish or not eat fish."
+        ],
+        "Hypothesis": [
+            "I will get the required proteins by drinking milk."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I go to the temple, I will pray.",
+            "If I go to the pub, I will party.",
+            "I will either go to the temple or go to the pub."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either pray or party."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I cook, I will eat.",
+            "If I don't cook, I will order food.",
+            "I will either cook or not cook."
+        ],
+        "Hypothesis": [
+            "I will cook food and order food."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I dominate, I will be in control.",
+            "If I am not in control, I will be dominated.",
+            "I will either dominate or not be in control."
+        ],
+        "Hypothesis": [
+            "I will be in control"
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I wear lip gloss, my lips will be shiny.",
+            "If I don't wear lip gloss, my lips will be matte.",
+            "I will either wear lip gloss or not wear lip gloss."
+        ],
+        "Hypothesis": [
+            "Therefore, my lips will either be shiny or matte."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use conditioner, my hair will be soft.",
+            "If I use a shampoo, my hair will be frizzy.",
+            "I will either use conditioner or use shampoo."
+        ],
+        "Hypothesis": [
+            "I will dye my hair with colour."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I put food in the refrigerator, it will stay fresh.",
+            "If I don't put food in the refrigerator, it will go bad.",
+            "I will either put food in the refrigerator or not put food in the refrigerator."
+        ],
+        "Hypothesis": [
+            "I forget that I put the food in the refrigerator."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use a clamp, I can hold onto things.",
+            "If I don't use a clamp, I will drop things.",
+            "I will either use a clamp or not use a clamp."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either hold onto things or drop things."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use a drill press, I can make a hole easily.",
+            "If I don't use a drill press, I have to use a hammer.",
+            "I will either use a drill press or not use a drill press."
+        ],
+        "Hypothesis": [
+            "I will neither make a hole easily nor use a hammer."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If it is spring, the weather will be nice.",
+            "If it is not spring, the weather will be cold.",
+            "It will either be spring or not spring."
+        ],
+        "Hypothesis": [
+            "Therefore, the weather will either be nice or cold."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I have a tissue box, I can get tissues.",
+            "If I don't have a tissue box, I will purchase two boxes.",
+            "I will either have a tissue box or not have a tissue box."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either be able to get tissues or purchase two tissue boxes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I pluck flowers in time, they will smell nicely.",
+            "If I don't pluck flowers in time, they will lose all their beauty.",
+            "I will either pluck flowers in time or not pluck flowers in time."
+        ],
+        "Hypothesis": [
+            "Therefore, flowers will either smell nicely or lose all their beauty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I have a purse, I can carry things in it.",
+            "If I don't have a purse, I will have to carry things in my hands.",
+            "I will either have a purse or not have a purse."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either be able to carry things in a purse or in my hands."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I send a greeting card, the recipient will be pleased.",
+            "If I don't send a greeting card, I will not be invited for the next event.",
+            "I will either send a greeting card or not send a greeting card."
+        ],
+        "Hypothesis": [
+            "Therefore, the recipient will be pleased and I will not be invited to the next event."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use a thermometer, I can measure the temperature.",
+            "If I use an odometer, I can measure the distance.",
+            "I will either use a thermometer or use an odometer."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either measure the temperature or measure the distance."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I close the door, the noise will be less.",
+            "If I don't close the door, I will feel cold.",
+            "I will either close the door or not close the door."
+        ],
+        "Hypothesis": [
+            "Therefore, the noise will either be less or I will feel cold."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I buy a sofa, I will have a place to sit.",
+            "If I buy a TV, I will have entertainment.",
+            "I will either buy a sofa or buy a TV."
+        ],
+        "Hypothesis": [
+            "I will run out of tissue paper."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I find a rubber band, I will use it to hold things together.",
+            "If I don't have a rubber band, I will have to use tape.",
+            "I will either find a rubber band or not have a rubber band."
+        ],
+        "Hypothesis": [
+            "Therefore, I will use a rubber band to hold things together or use tape."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I have a clay pot, I can plant a seed in it.",
+            "If I don't have a clay pot, I will buy one.",
+            "I will either have a clay pot or not have a clay pot."
+        ],
+        "Hypothesis": [
+            "Therefore, I buy a clay pot and plant a seed."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use soap, I will be clean.",
+            "If I apply powder, I will smell nice.",
+            "I will either use soap or apply powder."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either be clean or smell nice."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use a fork, I can eat noodles.",
+            "If I use a spoon, I can drink soup.",
+            "I will use either a fork or a spoon."
+        ],
+        "Hypothesis": [
+            "Therefore, I will be able to eat noodles or not drink soup ."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I have thread, I can sew.",
+            "If I don't have thread, I will outsource the job to a tailor.",
+            "I will either have thread or not have thread."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either be able to sew or outsource the job to a tailor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I use a credit card, I can buy things now and pay later.",
+            "If I don't use a credit card, I will have to save up money to buy things.",
+            "I will either use a credit card or not use a credit card."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either not be able to buy things now and pay later or save up money to buy things."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I draw a picture, I can give it to my mom.",
+            "If I don't draw a picture, I will have to buy her a present.",
+            "I will either draw a picture or not draw a picture."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either be able to give my mom a present or have to buy her a present."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I have a camera, I can take pictures.",
+            "If I have an MP3 player, I will listen to songs.",
+            "I will either have a camera or an MP3 player."
+        ],
+        "Hypothesis": [
+            "Therefore, I will either be able to take pictures or not listen to music."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I buy a canvas, I can paint a picture.",
+            "If I buy a pair of shoes, I can go cycling.",
+            "I will either buy a canvas or a pair of shoes."
+        ],
+        "Hypothesis": [
+            "Therefore, I will be able to paint a picture or go cycling."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I want to watch a sailboat race, I will buy the tickets.",
+            "If I want to watch a basketball game, I will watch it on the television.",
+            "I will watch either a sailboat race or a basketball game."
+        ],
+        "Hypothesis": [
+            "Therefore, I will buy the tickets to the sailboat race or watch the basketball game on television."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I want to pick up a paperclip, I will use a magnet.",
+            "If I want to walk to the store, I will use the sidewalk.",
+            "Therefore, I will pick up the paperclip or walk to the store."
+        ],
+        "Hypothesis": [
+            "I will either use a magnet or the sidewalk."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I want to sleep, I will use a pillow.",
+            "If I want to float, I will use a board.",
+            "Therefore, I will either sleep or float."
+        ],
+        "Hypothesis": [
+            "I cannot sleep as I have insomnia."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I want to know the time, I will look at a clock.",
+            "If I want to know how much money I have, I will look in my wallet.",
+            "Therefore, I will either look at a clock or look in my wallet."
+        ],
+        "Hypothesis": [
+            "I will check my mobile phone to see if I have money in my account."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I want to add soy sauce to my rice, I will use a packet.",
+            "If I want to make ice cubes, I will use a tray.",
+            "Therefore, I will either add soy sauce to my rice or make ice cubes."
+        ],
+        "Hypothesis": [
+            "I will either use a packet or a tray."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

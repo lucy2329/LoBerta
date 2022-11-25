@@ -1,0 +1,72 @@
+[
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will listen to music."
+        ],
+        "Hypothesis": [
+            "Therefore, I will listen to music or I will sleep."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "John went to play fooball."
+        ],
+        "Hypothesis": [
+            "therefore, John would play football or referee the game."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go for a walk."
+        ],
+        "Hypothesis": [
+            "Therefore, I will go for a walk or take my bike."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will eat healthy."
+        ],
+        "Hypothesis": [
+            "Therefore, I will each healthy or I will exercise."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will study for my test."
+        ],
+        "Hypothesis": [
+            "Therefore, I will study for my test or I will take a break."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

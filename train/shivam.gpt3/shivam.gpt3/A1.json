@@ -1,0 +1,802 @@
+[
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The cat is sleeping.",
+                  "Cats that sleep are lazy.",
+                  "The cat is not lazy."
+            ],
+            "Hypothesis": [
+                  "The cat is not sleeping."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Tom is reading a book.",
+                  "People who read books are smart.",
+                  "Tom is not smart."
+            ],
+            "Hypothesis": [
+                  "Tom is not reading a book."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "John is playing video games.",
+                  "People who play video games are lazy.",
+                  "John is not lazy."
+            ],
+            "Hypothesis": [
+                  "John is not playing video games."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Mary is watching TV.",
+                  "People who watch TV are lazy.",
+                  "Mary is not lazy."
+            ],
+            "Hypothesis": [
+                  "Mary is not watching TV."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The bird is flying.",
+                  "Birds that fly are free.",
+                  "The bird is not free."
+            ],
+            "Hypothesis": [
+                  "The bird is not flying."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The fish is swimming.",
+                  "Fish that swim are free.",
+                  "The fish is not free."
+            ],
+            "Hypothesis": [
+                  "The fish is not swimming."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The dog is running.",
+                  "Dogs that run are happy.",
+                  "The dog is not happy."
+            ],
+            "Hypothesis": [
+                  "The dog is not running."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The dog is barking.",
+                  "Dogs that bark are happy.",
+                  "The dog is not happy."
+            ],
+            "Hypothesis": [
+                  "The dog is not barking."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The bird is tweeting.",
+                  "Birds that tweet are happy.",
+                  "The bird is not happy."
+            ],
+            "Hypothesis": [
+                  "The bird is not tweeting."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The cat is meowing.",
+                  "Cats that meow are happy.",
+                  "The cat is not happy."
+            ],
+            "Hypothesis": [
+                  "The cat is not meowing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Lana and her friends are at the beach.",
+                  "People at the beach usually wear swimsuits.",
+                  "Lana is not wearing a swimsuit."
+            ],
+            "Hypothesis": [
+                  "Lana's friends are not wearing swimsuits."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "John and his friends are playing video games.",
+                  "People playing video games usually sit down.",
+                  "John is not sitting down."
+            ],
+            "Hypothesis": [
+                  "John's friends are sitting down."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Bill and his friends are at the park.",
+                  "People at the park usually walk around.",
+                  "Bill is not walking around."
+            ],
+            "Hypothesis": [
+                  "Bill's friends are walking around."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Mary and her friends are at the mall.",
+                  "People at the mall usually shop.",
+                  "Mary is not shopping."
+            ],
+            "Hypothesis": [
+                  "Mary's friends are shopping."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Mike and his friends are at the movies.",
+                  "People at the movies usually watch the movie.",
+                  "Mike is not watching the movie."
+            ],
+            "Hypothesis": [
+                  "Mike's friends are watching the movie."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Tom and his friends are at the restaurant.",
+                  "People at the restaurant usually eat.",
+                  "Tom is not eating."
+            ],
+            "Hypothesis": [
+                  "Tom's friends are eating."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Kim and her friends are at the club.",
+                  "People at the club usually dance.",
+                  "Kim is not dancing."
+            ],
+            "Hypothesis": [
+                  "Kim's friends are dancing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Ann and her friends are at the park.",
+                  "People at the park usually play games.",
+                  "Ann is not playing any games."
+            ],
+            "Hypothesis": [
+                  "Ann's friends are not playing games."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Eva and her friends are at the beach.",
+                  "People at the beach usually sunbathe.",
+                  "Eva is not sunbathing."
+            ],
+            "Hypothesis": [
+                  "Eva's friends are sunbathing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Brian and his friends are at the movies.",
+                  "People at the movies usually buy popcorn.",
+                  "Brian is not buying popcorn."
+            ],
+            "Hypothesis": [
+                  "Brian's friends are buying popcorn."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and Person B are siblings.",
+                  "Siblings normally have the same last name.",
+                  "Person A's last name is different from Person B."
+            ],
+            "Hypothesis": [
+                  "Person A or B has changed their last name."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Chair A and Chair B are made of wood.",
+                  "Wooden chairs are usually heavy.",
+                  "Chair A is not heavy."
+            ],
+            "Hypothesis": [
+                  "Chair B is not made of wood."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Dish A and Dish B are both served hot.",
+                  "Dishes that are served hot usually have spicy food.",
+                  "Dish A does not have spicy food."
+            ],
+            "Hypothesis": [
+                  "Dish B is not served hot."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Product A and Product B are from X company",
+                  "Products from X company usually have faulty features",
+                  "Product A does not have faulty features"
+            ],
+            "Hypothesis": [
+                  "Product B is from company X."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The TV and the computer are on.",
+                  "Electronics that are on use electricity.",
+                  "The TV is not using electricity."
+            ],
+            "Hypothesis": [
+                  "The computer is using electricity"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Oxygen and Iodine are both elements.",
+                  "Such elements typically exist as gases.",
+                  "Iodine does not exist as a gas."
+            ],
+            "Hypothesis": [
+                  "Oxygen exists as a gas."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "All planets orbit around the sun.",
+                  "Planets typically take more than a year to orbit the sun.",
+                  "Certain celestial bodies take less than a year to orbit the sun."
+            ],
+            "Hypothesis": [
+                  "Certain celestial bodies are not planets."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "All creatures on Mars are aliens.",
+                  "All aliens have green skin.",
+                  "Some creatures on Mars do not have green skin."
+            ],
+            "Hypothesis": [
+                  "Some creatures on Mars are aliens."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Jill is a human.",
+                  "Humans are born with two eyes.",
+                  "Jill is not born with two eyes."
+            ],
+            "Hypothesis": [
+                  "Jill is not human."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Sodium and Chlorine are both elements.",
+                  "Elements in the periodic table are normally very reactive.",
+                  "Chlorine is not very reactive."
+            ],
+            "Hypothesis": [
+                  "Sodium is reactive."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and B are tall",
+                  "Tall people are normally weigh a lot",
+                  "Person A does not weigh a lot."
+            ],
+            "Hypothesis": [
+                  "Person B weighs a lot."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and B are in a relationship.",
+                  "People in a relationship are normally happy.",
+                  "Person A is not happy."
+            ],
+            "Hypothesis": [
+                  "Person B is happy."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and B are co-workers.",
+                  "Co-workers normally have the same job title.",
+                  "Person A's job title is different from Person B."
+            ],
+            "Hypothesis": [
+                  "Person A or B has changed their job title."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and B are married.",
+                  "Married people normally live together.",
+                  "Person A does not live with Person B."
+            ],
+            "Hypothesis": [
+                  "Person A or B is not married."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and B are friends.",
+                  "Friends normally have the same interests.",
+                  "Person A's interests are different from Person B."
+            ],
+            "Hypothesis": [
+                  "Person A or B has changed their interests."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "A and B are brothers",
+                  "Brothers normally have the same hair color",
+                  "A's hair color is different from B."
+            ],
+            "Hypothesis": [
+                  "A or B has dyed their hair."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "A and B are dogs",
+                  "Dogs normally have four legs",
+                  "A only has three legs."
+            ],
+            "Hypothesis": [
+                  "B has four legs."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A is from Country X",
+                  "People from Country X normally speak Language Y",
+                  "Person A cannot speak Language Y."
+            ],
+            "Hypothesis": [
+                  "Person A has not lived in Country X for long."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The cat is on the mat.",
+                  "The mat is usually in the living room",
+                  "The cat is not in the living room."
+            ],
+            "Hypothesis": [
+                  "The cat is not on the mat."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The sun is out",
+                  "The sun is normally visible during the day.",
+                  "It is nighttime."
+            ],
+            "Hypothesis": [
+                  "The sun is not visible"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A is taking a language class.",
+                  "Language classes are difficult.",
+                  "Person A is not struggling in the class."
+            ],
+            "Hypothesis": [
+                  "The language class is difficult."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A is a dancer.",
+                  "Dancers are flexible.",
+                  "Person A is not flexible."
+            ],
+            "Hypothesis": [
+                  "Person A is a dancer."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A is studying art.",
+                  "People who study art are creative in their ideas.",
+                  "Person A is not creative in ideas."
+            ],
+            "Hypothesis": [
+                  "Person A is studying art."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The airplane and the helicopter are both flying.",
+                  "Airplanes and helicopters both have engines.",
+                  "The airplane's engine is not working."
+            ],
+            "Hypothesis": [
+                  "The helicopter's engine is not working."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "The airplane is flying in the sky.",
+                  "Flying airplanes normally have a working GPS.",
+                  "The airplane does not have a GPS working."
+            ],
+            "Hypothesis": [
+                  "The airplane is flying in the sky."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Show A and Show B are both TV series.",
+                  "TV series typically have multiple seasons.",
+                  "Show A only has one season."
+            ],
+            "Hypothesis": [
+                  "Show B has one seasons."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Person A and B are both podcast hosts.",
+                  "Podcast hosts typically interview guests.",
+                  "Person A is not interviewing a guest."
+            ],
+            "Hypothesis": [
+                  "Person B is interviewing a nobody."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Cartoons are generally for children.",
+                  "Children are not allowed to watch R-rated movies.",
+                  "R-rated movies are not cartoons."
+            ],
+            "Hypothesis": [
+                  "R-rated movies are for children."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "Bugs Bunny and Daffy Duck are cartoon characters.",
+                  "Cartoon characters are normally not real.",
+                  "Bugs Bunny is not real."
+            ],
+            "Hypothesis": [
+                  "Daffy Duck is not real."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Basic Default Reasoning",
+            "logic_type_code": "A1",
+            "Premise": [
+                  "A baby is born in Country X.",
+                  "Babies born in Country X normally have names that are popular in Country X.",
+                  "This baby does not have a name that is popular in Country X."
+            ],
+            "Hypothesis": [
+                  "This baby was born in Country Y."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

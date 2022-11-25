@@ -1,0 +1,73 @@
+[
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Aron and Jay are went out for shopping"
+    ],
+    "Hypothesis": [
+      "It is not known whether Baron went for shopping."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "C is driving the vehicle."
+    ],
+    "Hypothesis": [
+      "It is known Aron is not driving the vehicle."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Emily is cooking food for her three children. John is eating food."
+    ],
+    "Hypothesis": [
+      "It not known if John is one of Emily's children."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "Aron is parking the car in the garage."
+    ],
+    "Hypothesis": [
+      "It is not known if Baron is inside the house."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Basic Autoepistemic Reasoning",
+    "logic_type_code": "E1",
+    "Premise": [
+      "X completed the assignment."
+    ],
+    "Hypothesis": [
+      "It is known that Y completed the assignment."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+  }
+
+]

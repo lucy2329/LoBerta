@@ -1,0 +1,752 @@
+[
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the stock market is up, then the economy is doing well.",
+                  "The stock market is up."
+            ],
+            "Hypothesis": [
+                  "Therefore, the economy is doing well."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the team scores, then the fans will be happy.",
+                  "The team scores."
+            ],
+            "Hypothesis": [
+                  "Therefore, the fans will be happy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I eat healthy, then I will be healthy.",
+                  "I am eating healthy."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will be healthy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I am tired, then I will sleep.",
+                  "I am tired."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will sleep."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I am extroverted, then I will be outgoing.",
+                  "I am extroverted."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will be outgoing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I read a lot of books, then I will be well-read.",
+                  "I have read a lot of books."
+            ],
+            "Hypothesis": [
+                  "Therefore, I am well-read."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I practice writing, then I will be a good writer.",
+                  "I have practiced writing."
+            ],
+            "Hypothesis": [
+                  "Therefore, I am a good writer."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I listen to music, then I will be in a good mood.",
+                  "I am listening to music."
+            ],
+            "Hypothesis": [
+                  "Therefore, I am in a good mood."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I am happy, then I will sing.",
+                  "I am happy."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will sing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If I am angry, then I will shout.",
+                  "I am angry."
+            ],
+            "Hypothesis": [
+                  "Therefore, I will shout."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If a country requires a visa for entry, then that country is not part of the Schengen Area.",
+                  "France requires a visa for entry."
+            ],
+            "Hypothesis": [
+                  "Therefore, France is not part of the Schengen Area."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If a book is a bestseller, then it is popular.",
+                  "The Da Vinci Code is a bestseller."
+            ],
+            "Hypothesis": [
+                  "Therefore, The Da Vinci Code is popular."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If an object is in motion, then it has kinetic energy.",
+                  "A car is in motion."
+            ],
+            "Hypothesis": [
+                  "Therefore, the car has kinetic energy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If a person is tweeting, then that person is on Twitter.",
+                  "John is tweeting."
+            ],
+            "Hypothesis": [
+                  "Therefore, John is on Twitter."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If a person is a journalist, then that person writes for a news organization.",
+                  "John is a journalist."
+            ],
+            "Hypothesis": [
+                  "Therefore, John writes for a news organization."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If a person is following you, then that person is interested in your tweets.",
+                  "John is following you."
+            ],
+            "Hypothesis": [
+                  "Therefore, John is interested in your tweets."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the book is in the library, then the book is available.",
+                  "The book is in the library."
+            ],
+            "Hypothesis": [
+                  "Therefore, the book is available."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the user likes the post, then the user will comment on the post.",
+                  "The user likes the post."
+            ],
+            "Hypothesis": [
+                  "Therefore, the user will comment on the post."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the machine is turned on, then the machine will be running.",
+                  "The machine is turned on."
+            ],
+            "Hypothesis": [
+                  "Therefore, the machine will be running."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the user dislikes the post, then the user will not retweet the post.",
+                  "The user dislikes the post."
+            ],
+            "Hypothesis": [
+                  "Therefore, the user will not retweet the post."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the show is popular, then it will be renewed for another season.",
+                  "The show is popular."
+            ],
+            "Hypothesis": [
+                  "Therefore, the show will not be renewed for another season."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the movie is good, then it will make money.",
+                  "The movie is good."
+            ],
+            "Hypothesis": [
+                  "Therefore, the movie would not make money."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the podcast is interesting, then people will listen to it.",
+                  "The podcast is interesting."
+            ],
+            "Hypothesis": [
+                  "Therefore, people will not listen to it."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the TV show is cancelled, then it was not popular.",
+                  "The TV show is cancelled."
+            ],
+            "Hypothesis": [
+                  "Therefore, it was very popular."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the TV show is popular, then it will make the actors in it popular",
+                  "The TV show is not popular."
+            ],
+            "Hypothesis": [
+                  "Therefore, it will make the actors in it popular."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the light is green, then it is safe to cross the street.",
+                  "The light is green."
+            ],
+            "Hypothesis": [
+                  "Therefore, it is unsafe to cross the street."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the coffee is hot, then it is drinkable.",
+                  "The coffee is hot."
+            ],
+            "Hypothesis": [
+                  "Therefore, the coffee is not drinkable."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the book is interesting, then the reader will finish it.",
+                  "The book is interesting."
+            ],
+            "Hypothesis": [
+                  "Therefore, the reader will not finish it."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the vegetable is fresh, then it is green.",
+                  "The vegetable is fresh."
+            ],
+            "Hypothesis": [
+                  "Therefore, the vegetable is blue."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If GPT-3 is released, then AI will be more powerful.",
+                  "GPT-3 is released."
+            ],
+            "Hypothesis": [
+                  "Therefore, AI will be less powerful."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the evidence is weak, then the inference is likely to be false.",
+                  "The evidence is weak."
+            ],
+            "Hypothesis": [
+                  "Therefore, the inference is likely to be less informative."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If transformer technology is exploited, then the voltage can be increased.",
+                  "Transformers is exploited."
+            ],
+            "Hypothesis": [
+                  "Therefore, the voltage can be manipulated."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the fruit is ripe, then it is ready to eat.",
+                  "The fruit is ripe."
+            ],
+            "Hypothesis": [
+                  "Therefore, the fruit is ugly"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the government imposes tariffs, then the price of imports will increase.",
+                  "The government imposes tariffs."
+            ],
+            "Hypothesis": [
+                  "Therefore, the price of imports will become unpredictable."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the government enacts a law, then the citizens must follow it.",
+                  "The government enacts a law."
+            ],
+            "Hypothesis": [
+                  "Therefore, the citizens must refer it."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If a rule is enacted, then it must be followed.",
+                  "A rule is enacted."
+            ],
+            "Hypothesis": [
+                  "Therefore, it must be understood."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the athlete shows good sportsmanship, then they are being polite.",
+                  "The athlete is showing good sportsmanship."
+            ],
+            "Hypothesis": [
+                  "Therefore, the athlete is being deceptive."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the referee is being unfair, then there is going to be a problem",
+                  "If the referee is being unfair."
+            ],
+            "Hypothesis": [
+                  "Therefore, there is going to be a fight."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the country is at war, then the president is in the oval office.",
+                  "The country is at war."
+            ],
+            "Hypothesis": [
+                  "Therefore, the president is in the office."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If it is the year of elections, then the president is campaigning.",
+                  "It the year of elections."
+            ],
+            "Hypothesis": [
+                  "Therefore, the president is tired."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the music is playing, then the party is happening.",
+                  "The music is playing."
+            ],
+            "Hypothesis": [
+                  "Therefore, the party is happening."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the lights are on, then the play is happening.",
+                  "The lights are on."
+            ],
+            "Hypothesis": [
+                  "Therefore, the play is happening."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the stage is set, then the play is about to start.",
+                  "The stage is set."
+            ],
+            "Hypothesis": [
+                  "Therefore, the play is about to start."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the play is starting, then the actors are onstage.",
+                  "The play is starting."
+            ],
+            "Hypothesis": [
+                  "Therefore, the actors are onstage."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the play is happening, then the audience is watching.",
+                  "The play is happening."
+            ],
+            "Hypothesis": [
+                  "Therefore, the audience is watching."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the audience is watching, then the play is successful.",
+                  "The audience is watching."
+            ],
+            "Hypothesis": [
+                  "Therefore, the play is successful."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the play is successful, then the actors are happy.",
+                  "The play is successful."
+            ],
+            "Hypothesis": [
+                  "Therefore, the actors are happy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the student has a black belt, then the student is a martial arts expert.",
+                  "The student has a black belt."
+            ],
+            "Hypothesis": [
+                  "Therefore, the student is a martial arts expert."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the artist is famous, then the artist is a performance art expert.",
+                  "The artist is famous."
+            ],
+            "Hypothesis": [
+                  "Therefore, the artist is a performance art expert."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Generalized Modus Ponens",
+            "logic_type_code": "F5",
+            "Premise": [
+                  "If the painting is in a museum, then the painting is a work of art.",
+                  "The painting is in a museum."
+            ],
+            "Hypothesis": [
+                  "Therefore, the painting is a work of art."
+            ],
+            "Label": [
+                  "True"
+            ]
+      }
+]

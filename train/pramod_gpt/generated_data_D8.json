@@ -1,0 +1,430 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When there is no milk in the house, John will go out and buy milk.",
+            "When a person is choosing between different types of milk, they will usually pick either whole milk or 2% reduced milk.",
+            "John ended up purchasing 1% reduced milk.",
+            "Initially, there is no milk in the house."
+        ],
+        "Hypothesis": [
+            "After milk got over in the house, John decided to either purchase 2% reduced or whole milk. However, upon reaching the store, he must have decided to try out 1% reduced milk.",
+            "John doesn't buy milk."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Gary must choose between his car or his bike to go to his office.",
+            "Gary is employed.",
+            "Gary ends up going in the office shuttle bus."
+        ],
+        "Hypothesis": [
+            "The office must have shuttle bus facility which Gary wasn't aware of when he was employed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Gary must choose between his car or his bike to go to his office.",
+            "Gary is employed."
+        ],
+        "Hypothesis": [
+            "The office must have shuttle bus facility which Gary wasn't aware of when he was employed."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person is voting during an election, they will usually vote for one of the two parties.",
+            "The person ends up voting for neither party."
+        ],
+        "Hypothesis": [
+            "The person must have voted for neither party as there was some problem with the voting machine.",
+            "The person must have voted for neither party as they liked neither propaganda."
+        ],
+        "Label": [
+            "Undetermined",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a student is deciding when to complete their homework, they will usually pick tonight or tomorrow morning.",
+            "The student ends up finishing it right now.",
+            "Having free time after finishing all the work is always better."
+        ],
+        "Hypothesis": [
+            "The student must have realized that they would have more free time right now to finish the homework.",
+            "The student did not finish the homework."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the refrigerator in their house would stop working, the couple will buy a new refrigerator.",
+            "When a couple is deciding which refrigerator to buy for their house, they will usually pick between a side-by-side or a French door.",
+            "The couple ends up cancelling the plan.",
+            "The couple is looking for a particular model to buy from the store."
+        ],
+        "Hypothesis": [
+            "After the refrigerator stopped working, the couple must have gone shopping and realized that they cannot afford the refrigerator they wanted.",
+            "After the couple went shopping, they cancel the plan as the store did not have the model they wanted."
+        ],
+        "Label": [
+            "True",
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When students are deciding where to live when moving to another city, they will usually pick between a townhouse or an apartment.",
+            "The students end up moving into the university hostel."
+        ],
+        "Hypothesis": [
+            "After reaching the city to join the college, the students must have realized the university hostel is cheaper than both apartment and townhouse.",
+            "After reaching the city to join the college, the students must have realized the university hostel is the safest option."
+        ],
+        "Label": [
+            "Undetermined",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When an artist is deciding when to release their album, they will usually pick a date that is several months in the future.",
+            "The artist ends up cancelling the release of the album."
+        ],
+        "Hypothesis": [
+            "The artist has fixed the release date of the album.",
+            "When trying to fix the release date, another artist might have opposed internally to the release of the album."
+        ],
+        "Label": [
+            "False",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person has completed a TV show, they will want to watch one of two other TV shows.",
+            "The person ends up watching neither show."
+        ],
+        "Hypothesis": [
+            "The person must have not had the time to watch either show after completing their current show."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person has completed a TV show, they will want to watch one of two other TV shows.",
+            "The person ends up watching neither show."
+        ],
+        "Hypothesis": [
+            "The person must have selected an entirely different show to watch."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Harold is deciding which cellular network to use for his phone, he will usually pick between Verizon and AT&T.",
+            "Harold ends up buying T-Mobile."
+        ],
+        "Hypothesis": [
+            "Harold must have realized that T-Mobile is the better option after moving to the new country.",
+            "After moving to the new country, Harold must have observed that Verizon and AT&T are currently inactive."
+        ],
+        "Label": [
+            "Undetermined",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When ICC is deciding the location to host the world cup, they will usually pick between England and Australia.",
+            "ICC ends up choosing India."
+        ],
+        "Hypothesis": [
+            "ICC must have realized that India is the better option to host the world cup as it was expected to rain in both England and Australia."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When ICC is deciding the location to host the world cup, they will usually pick between England and Australia.",
+            "ICC ends up choosing India.",
+            "India is a very rich country."
+        ],
+        "Hypothesis": [
+            "ICC must have realized that India is the better option to host the world cup as it was expected to rain in both England and Australia."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the film committee is deciding which film to send for Oscar's nominations, they will usually pick between Gully Boy and PS-I.",
+            "The film committee ends up sending Kantara."
+        ],
+        "Hypothesis": [
+            "When reviewing different films, the committee must have opted for Dangal due to the aspect of innovation."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the film committee is deciding which film to send for Oscar's nominations, they will usually pick between Gully Boy and PS-I.",
+            "The film committee ends up sending Kantara.",
+            "Kantara is a very innovative movie."
+        ],
+        "Hypothesis": [
+            "When reviewing different films, the committee must have opted for Kantara due to the aspect of innovation."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person is graduating from the undergraduate institution, they will usually pursue further education or decide to work in the industry.",
+            "The person ends up starting their own company."
+        ],
+        "Hypothesis": [
+            "The person was not able to get a job in the industry or get into their preferred graduate institution, so they decided to start their own company.",
+            "The person ended up working in Google."
+        ],
+        "Label": [
+            "Undetermined",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Pete is trying to change jobs, he will usually pick between two job offers from Amazon and Google.",
+            "Pete ends up staying in his current job at Meta.",
+            "Pete prefers the company which offers the highest salary."
+        ],
+        "Hypothesis": [
+            "Pete must have found out that the salary for his current job is more than the other two job offers.",
+            "Pete stayed back in the company as he was required to finish a certain project."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Vanessa is deciding on the locations for her vacation, she will usually pick between Paris and Switzerland.",
+            "Vanessa ends up choosing Australia.",
+            "Vanessa always chooses a destination only if she wants to travel there."
+        ],
+        "Hypothesis": [
+            "Vanessa must have found out that the airfare for Australia was cheaper than the other two locations.",
+            "Vanessa must have decided to go to Australia as the country has some places she wishes to visit."
+        ],
+        "Label": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When I am deciding whether to buy an iPhone or an Android, I will usually pick one of the two.",
+            "After I go to the shop to buy a new phone, I end up not buying anything."
+        ],
+        "Hypothesis": [
+            "I must have found out that I can't afford either an iPhone or an Android.",
+            "I purchased a Samsung phone."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When I am deciding which movie to watch, I will usually pick between Iron Man and Avengers.",
+            "I end up watching the new Batman.",
+            "I always like to watch the best movie."
+        ],
+        "Hypothesis": [
+            "I must have found out that the new Batman is better than both Iron Man and Avengers.",
+            "I must have watched the new Batman movie because it has my favourite actors."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a new album releases, Jill buys the album in some form.",
+            "When Jill is deciding which album to buy, she will usually pick between the CD and the vinyl.",
+            "Jill ends up buying it on iTunes."
+        ],
+        "Hypothesis": [
+            "Jill must have found out that the album is available on iTunes for a cheaper price than the CD and vinyl.",
+            "Jill must have purchased the album on iTunes as she can then listen to it anywhere."
+        ],
+        "Label": [
+            "Undetermined",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Shawn is deciding which match to go to, he will usually pick between the tennis match and the rugby match.",
+            "Shawn ends up going to the cricket match."
+        ],
+        "Hypothesis": [
+            "Shawn must have made the decision to watch the cricket match when he went to buy tickets for either the tennis match or the rugby match."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a group of friends are deciding which messaging platform to use, they will usually pick between WhatsApp and Discord.",
+            "The group of friends end up creating a group on Slack.",
+            "The group of friends would usually choose the application which everyone knows how to use."
+        ],
+        "Hypothesis": [
+            "After starting to think about the mode of communication, the friends might have realised that Slack offers better features.",
+            "After starting to think about the mode of communication, the friends might have realized not all people use either Discord or WhatsApp."
+        ],
+        "Label": [
+            "Undetermined",
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a new year begins, the school selects a new captain.",
+            "When the teachers are voting for the school captain, they wanted to pick between Brad or Pitt.",
+            "The teachers end up selecting Edward."
+        ],
+        "Hypothesis": [
+            "The teachers must have found out that Edward is more qualified for the role of school captain.",
+            "The teachers have elected Brad as the school captain."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    }
+]

@@ -1,0 +1,752 @@
+[
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All commercial airlines are regulated by the government.",
+                  "Delta Airlines is a commercial airline."
+            ],
+            "Hypothesis": [
+                  "Therefore Delta Airlines is regulated by the government."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All square shapes have four sides.",
+                  "The shape of this table is square."
+            ],
+            "Hypothesis": [
+                  "Therefore this table has four chairs."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All members of the House of Representatives are elected officials.",
+                  "John Smith is a member of the House of Representatives."
+            ],
+            "Hypothesis": [
+                  "Therefore John Smith is the president."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All countries in Europe are located on the continent of Europe.",
+                  "Germany is a country in Europe."
+            ],
+            "Hypothesis": [
+                  "Therefore Germany is in the EU"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All savory foods contain salt.",
+                  "This soup is savory."
+            ],
+            "Hypothesis": [
+                  "Therefore this soup contains spices."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All vegetables are healthy.",
+                  "Carrots are vegetables."
+            ],
+            "Hypothesis": [
+                  "Therefore carrots are juicy."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All liquids are wet.",
+                  "Water is a liquid."
+            ],
+            "Hypothesis": [
+                  "Therefore water is dirty."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All musical instruments produce sound.",
+                  "The piano is a musical instrument."
+            ],
+            "Hypothesis": [
+                  "Therefore the piano produces songs."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All planets orbit around a star.",
+                  "Earth is a planet."
+            ],
+            "Hypothesis": [
+                  "Therefore Earth orbits around."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All triangles have three sides.",
+                  "This shape is a triangle."
+            ],
+            "Hypothesis": [
+                  "Therefore this shape has three angles."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All racing cars have four wheels.",
+                  "The Renault car is a racing car."
+            ],
+            "Hypothesis": [
+                  "Therefore the Renault car has five wheels."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All racing cars use gasoline for fuel.",
+                  "The Ferrari car is a racing car."
+            ],
+            "Hypothesis": [
+                  "Therefore the Ferrrari car uses gasoline for fuel."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All tennis players use a racket.",
+                  " Roger Federer is a tennis player."
+            ],
+            "Hypothesis": [
+                  "Therefore Roger Federer uses a racket."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All tennis players wear shoes.",
+                  " Roger Federer is a tennis player."
+            ],
+            "Hypothesis": [
+                  "Therefore Roger Federer wears a wig."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All tennis players wear shorts.",
+                  " Novak is a tennis player."
+            ],
+            "Hypothesis": [
+                  "Therefore Novak wears shorts."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All cricket players use a bat.",
+                  "Virat Kohli is a cricket player."
+            ],
+            "Hypothesis": [
+                  "Therefore Virat Kohli uses a bat."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All batsmen wear shin guards.",
+                  "Peterson is a cricket player."
+            ],
+            "Hypothesis": [
+                  "Therefore Peterson wears shin guards."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All cricket players wear a cap.",
+                  "Virat Kohli is a cricket player."
+            ],
+            "Hypothesis": [
+                  "Therefore Virat Kohli wears a cap."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All soccer players use a ball.",
+                  "Messi is a soccer player."
+            ],
+            "Hypothesis": [
+                  "Therefore Messi uses a racket."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All soccer players wear studs.",
+                  " Cristiano Ronaldo is a soccer player."
+            ],
+            "Hypothesis": [
+                  "Therefore Cristiano Ronaldo wears studs."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All electrons are Negative.",
+                  "electron1 is an electron."
+            ],
+            "Hypothesis": [
+                  "Therefore, electron1 is Negative."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All numbers are either odd or even.",
+                  "2 is a number."
+            ],
+            "Hypothesis": [
+                  "Therefore, 2 is either odd or even."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All books are a collection of written, printed, illustrated, or blank sheets, made of paper, parchment, or other materials, fastened together to hinge at one side.",
+                  "Harry Potter and the Philosopher's Stone is a book."
+            ],
+            "Hypothesis": [
+                  "Therefore Harry Potter and the Philosopher's Stone is a collection of written, printed, illustrated, or blank sheets, made of paper, parchment, or other materials, fastened together to hinge at one side."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All organisms are composed of one or more cells.",
+                  "Trout are organisms."
+            ],
+            "Hypothesis": [
+                  "Therefore trout are composed of one or more cells."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All aircraft are powered by engines.",
+                  "The Red Baron is an aircraft."
+            ],
+            "Hypothesis": [
+                  "Therefore The Red Baron is powered by an engine."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All Oscar nominees are talented.",
+                  "Tom Hanks is an Oscar nominee."
+            ],
+            "Hypothesis": [
+                  "Therefore Tom Hanks is talented."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All Olympic athletes are in excellent physical condition.",
+                  "Usain Bolt is an Olympic athlete."
+            ],
+            "Hypothesis": [
+                  "Therefore Usain Bolt is in excellent physical condition."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All patients who take this medication will experience side effects.",
+                  "John is a patient who takes this medication."
+            ],
+            "Hypothesis": [
+                  "Therefore John will experience side effects."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All fast food is unhealthy.",
+                  "McDonald's is a fast food restaurant."
+            ],
+            "Hypothesis": [
+                  "Therefore McDonald's is unhealthy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All Smartphones have touch screens.",
+                  "The new iPhone is a Smartphone."
+            ],
+            "Hypothesis": [
+                  "Therefore the new iPhone has a touch screen."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All people are human.",
+                  "John is a person."
+            ],
+            "Hypothesis": [
+                  "Therefore John is human."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All books are writing.",
+                  "The Catcher in the Rye is a book."
+            ],
+            "Hypothesis": [
+                  "Therefore The Catcher in the Rye is writing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All history is about past events.",
+                  "The American Revolution is history."
+            ],
+            "Hypothesis": [
+                  "Therefore The American Revolution is about past events."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All biology is the study of living organisms.",
+                  "Mushrooms are biology."
+            ],
+            "Hypothesis": [
+                  "Therefore mushrooms are the study of living organisms."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All art is a form of expression.",
+                  "Sculpture is art."
+            ],
+            "Hypothesis": [
+                  "Therefore sculpture is a form of expression."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All sports are a physical activity.",
+                  "Basketball is a sport."
+            ],
+            "Hypothesis": [
+                  "Therefore basketball is a physical activity."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All health is the state of being free from illness or injury.",
+                  "My health is good."
+            ],
+            "Hypothesis": [
+                  "Therefore my health is the state of being free from illness or injury."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All personality is the combination of characteristics or traits that forms an individual's distinctive character.",
+                  "Introverted is a personality."
+            ],
+            "Hypothesis": [
+                  "Therefore introverted is the combination of characteristics or traits that forms an individual's distinctive character."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All finance is the study of money management.",
+                  "Budgeting is finance."
+            ],
+            "Hypothesis": [
+                  "Therefore budgeting is the study of money management."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All writing is a form of communication.",
+                  "This essay is writing."
+            ],
+            "Hypothesis": [
+                  "Therefore this essay is a form of communication."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All animals are cute.",
+                  "Dogs are animals."
+            ],
+            "Hypothesis": [
+                  "Therefore, Dogs are cute."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All students are hard workers.",
+                  "John is a student."
+            ],
+            "Hypothesis": [
+                  "Therefore, John is a hard worker."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All men are mortal.",
+                  "John is a man."
+            ],
+            "Hypothesis": [
+                  "Therefore, John is mortal."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All airplanes can fly.",
+                  "Pilatus is an airplane."
+            ],
+            "Hypothesis": [
+                  "Therefore, Pilatus can fly."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All planets have moons.",
+                  "Mars is a planet."
+            ],
+            "Hypothesis": [
+                  "Therefore, Mars has a moon."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All professors can teach.",
+                  "Dr.K is a professor."
+            ],
+            "Hypothesis": [
+                  "Therefore, Dr.K can teach."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All trees are green.",
+                  "The oak tree is a tree."
+            ],
+            "Hypothesis": [
+                  "Therefore, the oak tree is green."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All dogs have four legs.",
+                  "Bruno is a dog."
+            ],
+            "Hypothesis": [
+                  "Therefore, Bruno has four legs."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All birds have wings.",
+                  "The vulture is a bird."
+            ],
+            "Hypothesis": [
+                  "Therefore, the vulture has wings."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "First Order Logic",
+            "logic_subtype": "Universal Instantiation",
+            "logic_type_code": "F2",
+            "Premise": [
+                  "All plants need water.",
+                  "cactus is a plant."
+            ],
+            "Hypothesis": [
+                  "Therefore, cactus needs water."
+            ],
+            "Label": [
+                  "True"
+            ]
+      }
+]

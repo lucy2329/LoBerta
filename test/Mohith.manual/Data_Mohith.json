@@ -1,0 +1,569 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time an order is received, food will be cooked.",
+            "If the food is cooked, it will be served.",
+            "Initially the order was not received.",
+            "Initially food is not served."
+        ],
+        "Hypothesis": [
+            "After an order has been received, food will be cooked, and then the food will be served."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time an item is selected, the item will be added to the cart.",
+            "If an item is in the cart, after shopping, the item will be billed.",
+            "Initially the item is not in the cart.",
+            "Initially the item is not billed.",
+            "Initially shopping is not over"
+        ],
+        "Hypothesis": [
+            "After an item is selected, it will be added to the cart and after shopping, the item will not be billed."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time food is kept inside micro-oven, the food will be cooked",
+            "If a food is not cooked, after cooking, the food will be cooked.",
+            "Initially the food is not cooked.",
+            "Initially the food is not kept inside micro-oven."
+        ],
+        "Hypothesis": [
+            "After cooked food is placed inside micro-oven, the food will be cooked."
+        ],
+        "Label": [
+            "Undeterminded"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time an order is received, food will be cooked.",
+            "If the food is cooked, it will be served.",
+            "Initially the order was not received.",
+            "Initially food is not served."
+        ],
+        "Hypothesis": [
+            "After an order has been received, food will not be cooked and served."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When an item is selected, the item will be normally added to the cart.",
+            "When an item is in the cart, after shopping, the item will be billed.",
+            "Initially the item is not in the cart.",
+            "Initially the item is not billed.",
+            "Initially shopping is not over"
+        ],
+        "Hypothesis": [
+            "After cooked food is placed inside micro-oven, the food will be not cooked."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When an order is received, food will be cooked.",
+            "When food is cooked, it will be served.",
+            "Initially the order was not received.",
+            "Initially food is not served."
+        ],
+        "Hypothesis": [
+            "The food will be cooked without an order."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When food is kept inside micro-oven, the food will be cooked",
+            "When a food is not cooked, after cooking, the food will be cooked.",
+            "Initially the food is not cooked.",
+            "Initially the food is not kept inside micro-oven."
+        ],
+        "Hypothesis": [
+            "After cooked food is placed inside micro-oven, the food will be cooked."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When an item is selected, the item will be added to the cart.",
+            "When an item is in the cart, after shopping, the item will be billed.",
+            "Initially the item is not in the cart.",
+            "Initially the item is not billed.",
+            "Initially shopping is not over"
+        ],
+        "Hypothesis": [
+            "After an item is selected, it will be added to the cart and after shopping, the item will be billed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about the unexpected abscence of change",
+        "logic_type_code": "D9",
+        "Premise": [
+            "When a plate of food is served on the table, the plate normally stays in the table.",
+            "After plate of food A is served on the table, and then plate of food B is served on the table, at most one of the plates A, B was on the table."
+        ],
+        "Hypothesis": [
+            "After the action is performed, exactly one of plate A, B was on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about the unexpected abscence of change",
+        "logic_type_code": "D9",
+        "Premise": [
+            "When a gymnast takes a pair of weights from the rack, normally the gymnast exercises with it.",
+            "After a gymnast takes a pair of weights A from the rack, and then takes a pair of weights B from the rack, the gymnast exercises with at most one of the weights A, B."
+        ],
+        "Hypothesis": [
+            "After the action is performed, exactly one of the weights A, B is used by the gymnast."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about the unexpected abscence of change",
+        "logic_type_code": "D9",
+        "Premise": [
+            "When a car is parked at a parking spot, the car usually stays on the spot.",
+            "After car A is parked at the parking spot, and then car B is parked in the parking spot, at most one of the cars A, B was in the parking lot."
+        ],
+        "Hypothesis": [
+            "After the action is performed, exactly one of car A, B was in the parking spot."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about the unexpected abscence of change",
+        "logic_type_code": "D9",
+        "Premise": [
+            "When a movie is bought by a theatre, the theatre normally plays the movie.",
+            "After movie A is bought by the theatre, and then movie B is bought by the theatre, at most one of the movies A, B will be played."
+        ],
+        "Hypothesis": [
+            "After the action is performed, exactly one of movies A, B was played."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Counterfactual Reasoning about unexpected change",
+        "logic_type_code": "D10",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a plate of food is served at the table, the plate normally stays in the table.",
+            "When a plate of food A is moved to table 1, plate of food B falls down."
+        ],
+        "Hypothesis": [
+            "Plate of food B would have fallen down if plate of food A is moved to table 2."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Counterfactual Reasoning about unexpected change",
+        "logic_type_code": "D10",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a gymnast takes a pair of weights from the rack, normally the gymnast exercises with it.",
+            "When a gymnast does exercise 1 with a pair of weights A, pair of weights B will not be used."
+        ],
+        "Hypothesis": [
+            "Pair of weights B would not be in use if gymnast does exercise 2 with pair of weights A."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Counterfactual Reasoning about unexpected change",
+        "logic_type_code": "D10",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a car is parked at a parking spot, the car usually stays in the spot.",
+            "After car A is parked in parking spot 1, car B will be removed from the parking lot."
+        ],
+        "Hypothesis": [
+            "Car B would have been removed from the parking lot if car A is parked in parking spot 2."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Counterfactual Reasoning about unexpected change",
+        "logic_type_code": "D10",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a movie is bought by a theatre, the theatre normally plays the movie.",
+            "After movie A is played in screen 1, no one watches movie B."
+        ],
+        "Hypothesis": [
+            "No one would have watched movie B if movie A is played in screen 2."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I study, I will get a job.",
+            "If I sleep, I will be active.",
+            "I will either study or I will not be active."
+        ],
+        "Hypothesis": [
+            "I will get a job or I will not sleep."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I breathe, I will survive",
+            "If I work, I will be tired",
+            "I will either breathe or I will not be tired"
+        ],
+        "Hypothesis": [
+            "I will survive or I will not work"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I go out, I will get grocerries.",
+            "If I eat, I will be happy.",
+            "I will either go out or I will not be happy."
+        ],
+        "Hypothesis": [
+            "I will get grocerries or I will not eat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I practive, I will dance.",
+            "If I work, I will get money.",
+            "I will either practice or I will not get money."
+        ],
+        "Hypothesis": [
+            "I will dance or I will not work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I exercise, I will be healthy.",
+            "If I am sad, I will cry.",
+            "I will either exercise or I will not cry."
+        ],
+        "Hypothesis": [
+            "I will be healthy or I will not be sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will study."
+        ],
+        "Hypothesis": [
+            "I will study or I will work."
+        ],
+        "Label": [
+            "Undeterminded"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I breathe air."
+        ],
+        "Hypothesis": [
+            "I breathe air or I drink water."
+        ],
+        "Label": [
+            "Undeterminded"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go out."
+        ],
+        "Hypothesis": [
+            "I will go out or I will watch television."
+        ],
+        "Label": [
+            "Undeterminded"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I dance."
+        ],
+        "Hypothesis": [
+            "I dance or I sing."
+        ],
+        "Label": [
+            "Undeterminded"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I exercise"
+        ],
+        "Hypothesis": [
+            "I exercise or I sleep."
+        ],
+        "Label": [
+            "Undeterminded"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "John got good marks in Physics."
+        ],
+        "Hypothesis": [
+            "Therefore, someone got good marks in Physics."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Edmund Hillary climbed mount Everest."
+        ],
+        "Hypothesis": [
+            "Therefore, someone climbed mount Everest."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Neil Armstrong was the first person to walk on the lunar surface."
+        ],
+        "Hypothesis": [
+            "Therefore, someone walked on the lunar surface."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Apples are grown at Washington state in the United States."
+        ],
+        "Hypothesis": [
+            "Therefore, somewhere in the United States Apples are grown."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "There are rich people in the community."
+        ],
+        "Hypothesis": [
+            "Therefore, someone in the community is rich."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is sad, they will cry.",
+            "John is hungry."
+        ],
+        "Hypothesis": [
+            "John will cry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If John hears telephone ringing, he will answer the telephone.",
+            "John hears telephone ringing."
+        ],
+        "Hypothesis": [
+            "John will answer the telephone."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If there is smoke in the room, alarm will ring.",
+            "There is smoke in the room."
+        ],
+        "Hypothesis": [
+            "Alarm will ring."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If temperature is below zero degrees, ice will form.",
+            "The temperature is below zero degrees."
+        ],
+        "Hypothesis": [
+            "Ice will form."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If Patrick comes on time, he could enter the lecture hall.",
+            "Patrick comes on time."
+        ],
+        "Hypothesis": [
+            "Patrick could enter the lecture hall."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

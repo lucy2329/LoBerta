@@ -1,0 +1,88 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Mike asserts that the earth is flat.",
+            "Daymond asserts that the earth is a sphere.",
+            "When Mike asserts something, he is normally right.",
+            "When Daymond asserts something, he is normally right.",
+            "Daymond's evidence is more reliable than Mike's."
+        ],
+        "Hypothesis": [
+            "The earth is a sphere."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Jack believes that men working as construction workers should be paid more as compared to women.",
+            "Mary  belives that women should receive equal pay as men even as a construction worker.",
+            "Jack's has proof that men are more productive as construction workers."
+        ],
+        "Hypothesis": [
+            "Men and women working as construction workers should be paid equally."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Robert asserts that objects fall downwards on earth due to gravity.",
+            "Patrica asserts that objects falling downwards on earth is a random phenomenon.",
+            "When Robert asserts something he is normally right.",
+            "When Patrica asserts something he is normally right.",
+            "Robert's evidence is more convincing than Patrica's."
+        ],
+        "Hypothesis": [
+            "Objects fall downwards on earth due to gravity."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "John believes that men are better drivers.",
+            "Jane believes that women are just as good as men when it comes to driving.",
+            "When believes something, he is generaally right.",
+            "When Jane believes something, she isi generlly right",
+            "Jane's evidence is more reliable than John's."
+        ],
+        "Hypothesis": [
+            "Men are better drivers than women."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bill believes that the government should not provide healthcare.",
+            "Ted  belives that the government should provide healthcare.",
+            "Bill's has proof that the government is not efficient in providing healthcare."
+        ],
+        "Hypothesis": [
+            "The government should not provide healthcare."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

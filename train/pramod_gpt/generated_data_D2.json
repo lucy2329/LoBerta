@@ -1,0 +1,408 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to prepare coffee, it will grab a glass.",
+            "The robot will mix milk and coffee powder if both are available.",
+            "The robot will stir the coffee if it is not already stirred.",
+            "Initially, the glass is on the table.",
+            "Initially, the milk and coffee powder are available."
+        ],
+        "Hypothesis": [
+            "After the robot grabs the glass, it mixes milk and coffee powder, and stirs the coffee.",
+            "After the robot grabs the glass, the glass will slip and break."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot's sensor detects fire, it will send an alert to the owner of the house.",
+            "If the robot's fire sensor is active, then it will turn on its shields to prevent any damage.",
+            "Initially, the sensor does not detect fire."
+        ],
+        "Hypothesis": [
+            "When the robot's sensor detects fire, it will send an alert to the owner and then turn on its shields.",
+            "When the robot's sensor detects fire, it will send an alert to the owner and fail to turn on its shields."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is called, it will listen to what the user is talking.",
+            "If the user is finished talking, the robot will search for the information online.",
+            "Once the information is found, the robot will come back and respond.",
+            "Initially, the robot is not called."
+        ],
+        "Hypothesis": [
+            "After the robot is called, it will listen to the user and then respond back with the information that is asked.",
+            "After the robot is called, it will listen to the user and then simply walk away."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to take the temperature of a patient, it will grab a thermometer.",
+            "If the robot picks up the thermometer, it will be in the robot's hand.",
+            "If the robot has the thermometer in its hand, it will insert the thermometer in the patient's mouth.",
+            "The robot will take the temperature and record it.",
+            "Initially, the thermometer is available."
+        ],
+        "Hypothesis": [
+            "After the robot picks up the thermometer, it inserts the thermometer in the patient's mouth and records the temperature.",
+            "After the robot picks up the thermometer, it places the thermometer in the underarms of the patient and records the temperature."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to mix two chemicals, it will grab a beaker.",
+            "If the robot has grabbed the beaker, then the robot will pour the first chemical in the beaker.",
+            "The robot will pour the second chemical in the beaker.",
+            "The robot will stir the chemicals in the beaker.",
+            "Initially, the beaker is available."
+        ],
+        "Hypothesis": [
+            "After the robot grabs the beaker, it pours the first chemical, then the second chemical, and stirs the chemicals.",
+            "After the robot grabs the beaker, it will first clean the beaker."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to clean the environment, it will perceive the environment using its camera.",
+            "If the robot perceives dirt using its camera, it will turn on the vacuum cleaner.",
+            "If the vacuum cleaner is on, it will clean the dirt using its cleaner.",
+            "Initially, there is no dirt."
+        ],
+        "Hypothesis": [
+            "After the robot perceives the environment using its camera, if there is dirt, then the robot will clean the dirt using its cleaner.",
+            "After the robot perceives the environment using its camera, the robot will first dispose the trash it has collected before."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to place the sample under the microscope, it will pick up the sample from the table.",
+            "When the robot picks up the sample from the table, the sample will be in the robot's hand.",
+            "If the sample is in the robot's hand, then it will travel to the microscope.",
+            "If the robot is near the microscope and it has a sample in its hand, then the robot will carefully place the sample under the microscope.",
+            "Initially, the sample is on the table."
+        ],
+        "Hypothesis": [
+            "After the robot picks up the sample from the table, it travels to the microscope and carefully places the sample under the microscope.",
+            "After the robot picks up the sample from the table, it will trip on a wire and fall down."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is asked to verify a statement, it will turn on its grammar checker.",
+            "If the grammar checker is on, then the robot will check the statement for grammatical errors.",
+            "If the robot finds a grammatical error, it will rectify the error.",
+            "Initially, the robot is not asked to verify the statement."
+        ],
+        "Hypothesis": [
+            "After the robot is asked to verify a statement, it will check for grammatical errors and rectify the error if it finds one.",
+            "After the robot is asked to verify a statement, it will check for grammatical errors and fail to rectify some mistakes."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to find where a movie can be streamed, it will go on the internet and search for websites that stream the movie.",
+            "If the robot finds a website that streams the movie, it will come back and tell the user.",
+            "Initially, the robot is not instructed to find where the movie can be streamed."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to find where the movie can be streamed, it will go on the internet, find a website that streams the movie, and come back and tell the user.",
+            "After the robot is instructed to find where the movie can be streamed, it will stream the movie from illegal sources."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to bring the coffee mug from the kitchen to the living room, it will grab the coffee mug from the kitchen.",
+            "When the robot grabs the coffee mug from the kitchen, the coffee mug will be in the robot's hand.",
+            "If the coffee mug is in the robot's hand, then it will travel to the living room.",
+            "If the robot is near the living room and it has the coffee mug in its hand, then the robot will carefully place the coffee mug on the living room table.",
+            "Initially, the coffee mug is in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot grabs the coffee mug from the kitchen, it will travel to the living room and carefully place the coffee mug on the living room table.",
+            "After the robot grabs the coffee mug from the kitchen, the GPS system in the robot will not work properly."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to make the baby sleep, it will turn on its speakers.",
+            "If the robot's speakers are on, the the robot will sing lullabies to the baby until it goes to sleep.",
+            "If the baby is asleep, then the robot will turn off its speakers.",
+            "Initially, the baby is not sleeping."
+        ],
+        "Hypothesis": [
+            "After the robot turns on its speakers, it will sing the lullaby to put the baby to sleep.",
+            "After the robot turns on its speakers, it will start playing rock music to put the baby to sleep."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to design a frame problem, it will take in input from the user on what the frame problem is.",
+            "If the robot takes in input from the user, it will generate the required premise, hypothesis, and label.",
+            "Initially, the robot is not instructed to design a frame problem."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to design a frame problem, it will take in input from the user and generate the required premise, hypothesis, and label.",
+            "After the robot is instructed to design a frame problem, it will not be able to generate the output necessary."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to measure the distance between two objects, it will go near the first object.",
+            "If the robot is near the first object, it will move toward the second object.",
+            "If the robot is near the second object, then it will measure the distance from the first object using its odometer",
+            "Initially, the first object is available."
+        ],
+        "Hypothesis": [
+            "After the robot grabs the first object, it will go to the second object and measure the distance between the two objects using its camera.",
+            "After the robot goes near the first object, it will then go to the second object and measure the distance using its odometer."
+        ],
+        "Label": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to predict the song the user is playing, it will turn on its microphone.",
+            "If the robot's microphone is on, it will record the audio.",
+            "If the robot records the audio, it will try to predict the song the user is playing.",
+            "Initially, the robot is not instructed to predict the song the user is playing."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to predict the song the user is playing, it will turn on its microphone and try to predict the song the user is playing.",
+            "After the robot is instructed to predict the song the user is playing, it will turn on its microphone and predict the incorrect song."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to read a book aloud, it will go on the internet and download the book.",
+            "If the robot goes on the internet and downloads the book, it will be in the robot's storage.",
+            "If the book is in the robot's storage, the robot will open the book and start reading it aloud using its speakers.",
+            "Initially, the robot is not instructed to read a book aloud."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to read a book aloud, it will go on the internet, download the book, and start reading it aloud using its speakers.",
+            "After the robot is instructed to read a book aloud, it cannot find the book online and starts to malfunction."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to pack the medicine, it will grab a cover.",
+            "If the robot grabs a cover, the cover will be in the robot's hand.",
+            "If the cover is in the robot's hand, the robot will go to the medicine.",
+            "If the robot is near the medicine and it has a cover in its hand, then the robot will pack the medicine in the cover.",
+            "Initially, the cover is available."
+        ],
+        "Hypothesis": [
+            "After the robot grabs the cover, it will go to the medicine and pack the medicine in the cover.",
+            "After the robot grabs the cover, it will first ask authorization from the store owner."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to separate waste, it will use its camera to perceive the waste.",
+            "If the robot uses its camera to perceive the waste, it will classify the waste as recyclable or non-recyclable.",
+            "If the waste is classified as recyclable, the robot will go to the recyclable bin.",
+            "If the waste is classified as non-recyclable, the robot will go to the non-recyclable bin.",
+            "Initially, the robot is not instructed to separate waste."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to separate waste, it will use its camera to perceive the waste, classify the waste as recyclable or non-recyclable, and dispose the garbage in the appropriate bin.",
+            "After the robot is instructed to separate waste, it will mix all the waste in one bin."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to assist a customer, it will listen to what the customer is talking.",
+            "If the robot listens to what the customer is talking, it will look through its database for solutions.",
+            "If the robot looks through its database for solutions, it will find the items the customer is looking for.",
+            "Initially, the robot is not instructed to assist a customer."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to assist a customer, it will listen to what the customer is talking and look through its database for solutions to find the items the customer is looking for.",
+            "After the robot is instructed to assist a customer, it will ignore the customer."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to serve food to the customer, it will take the food from the kitchen to the dining room.",
+            "If the robot takes the food from the kitchen table, the food will be in the robot's hand.",
+            "If the food is in the robot's hand, the robot will go to the dining room.",
+            "If the robot is in the dining room, then it will place the food in front of the customer.",
+            "Initially, the food is in the kitchen."
+        ],
+        "Hypothesis": [
+            "After the robot is instructed to take the food from the kitchen to the dining room, it will place the food in front of the customer.",
+            "After the robot is instructed to take the food from the kitchen to the dining room, its battery will power down."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot is instructed to prepare soup, it will grab a pot.",
+            "The robot will add water and vegetables to the pot if both are available.",
+            "The robot will stir the soup.",
+            "Initially, the pot is on the table.",
+            "Initially, the water and vegetables are available."
+        ],
+        "Hypothesis": [
+            "After the robot grabs the pot, it adds water and vegetables, and stirs the soup.",
+            "After the robot grabs the pot, it will first add vegetables and then water."
+        ],
+        "Label": [
+            "True",
+            "Undetermined"
+        ]
+    }
+]

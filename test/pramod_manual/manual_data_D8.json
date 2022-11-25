@@ -1,0 +1,70 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person is offered admission to a university, then the person can accept or decline the admission.",
+            "If a person decides to accept the admission, then they become a student.",
+            "Joshua has received admission to Stanford and Berkeley.",
+            "Joshua is now working at Google."
+        ],
+        "Hypothesis": [
+            "Either before or after being admitted, Joshua decided to switch to employment at Google."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot moves the block to another location, the block will normally be at that location.",
+            "After the robot moved the block to location A and then to location B, the block changed its shape."
+        ],
+        "Hypothesis": [
+            "The block must have changed its shape either after the first move or the second."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Anytime the robot grasps a block, the block will be in its hand.",
+            "The robot is battery-powered.",
+            "When the robot moves a block to another location, the block will normally be at that location.",
+            "The robot grasped a block and stopped before reaching the destination."
+        ],
+        "Hypothesis": [
+            "The robot must have powered down while trying to reach the destination."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning about unexpected change",
+        "logic_type_code": "D8",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Andrew likes both chocolate and strawberry-flavored cakes.",
+            "For his birthday, however, he decided to try out honey-flavored cake."
+        ],
+        "Hypothesis": [
+            "Sometime before his birthday, Andrew decided to try out honey-flavored cake instead."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,767 @@
+[
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All calicos are felines.",
+            "All felines are animals."
+        ],
+        "Hypothesis": [
+            "All calicos are animals."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All tigers are cats.",
+            "All cats are aggressive."
+        ],
+        "Hypothesis": [
+            "All tigers are aggressive"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Sharks can swim in water.",
+            "Sharks are fish."
+        ],
+        "Hypothesis": [
+            "All fish can swim in water."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "MacBook Pros are a type of laptop.",
+            "All laptops can perform complicated mathematical operations."
+        ],
+        "Hypothesis": [
+            "MacBook Pros can perform complicated mathematical operations."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All iPhone's are a type of smartphone.",
+            "All smartphones have a speaker."
+        ],
+        "Hypothesis": [
+            "All iPhones have a speaker."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are mammals.",
+            "All mammals have four legs."
+        ],
+        "Hypothesis": [
+            "All dogs have four legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Some dogs are small.",
+            "All small animals are cute."
+        ],
+        "Hypothesis": [
+            "Some dogs are cute."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Penguins are birds.",
+            "All birds can fly."
+        ],
+        "Hypothesis": [
+            "Penguins can fly."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All cats are animals.",
+            "Some animals are friendly."
+        ],
+        "Hypothesis": [
+            "Some cats are friendly."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "No dogs are lizards.",
+            "All lizards are reptiles."
+        ],
+        "Hypothesis": [
+            "No dogs are reptiles."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All A's are B's.",
+            "All B's are C's."
+        ],
+        "Hypothesis": [
+            "All A's are C's."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are animals.",
+            "No animals are cats."
+        ],
+        "Hypothesis": [
+            "No dogs are cats."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Some dogs are brown.",
+            "Some brown things are cats."
+        ],
+        "Hypothesis": [
+            "Some dogs are cats."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are animals.",
+            "All animals have four legs."
+        ],
+        "Hypothesis": [
+            "All dogs have four legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "No dogs are cats.",
+            "All cats are animals."
+        ],
+        "Hypothesis": [
+            "No dogs are animals."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All suns are stars.",
+            "All stars are hot."
+        ],
+        "Hypothesis": [
+            "All suns are hot."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are animals.",
+            "All animals are living."
+        ],
+        "Hypothesis": [
+            "All dogs are living."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are animals.",
+            "All animals have hearts."
+        ],
+        "Hypothesis": [
+            "All dogs have hearts."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are animals.",
+            "All animals need oxygen."
+        ],
+        "Hypothesis": [
+            "All dogs need oxygen."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dogs are animals.",
+            "Some animals are in zoos."
+        ],
+        "Hypothesis": [
+            "All dogs are in zoos."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All unicorns are mythical creatures.",
+            "All mythical creatures have horns."
+        ],
+        "Hypothesis": [
+            "All unicorns have horns"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All dragons are mythical creatures.",
+            "All mythical creatures can breathe fire."
+        ],
+        "Hypothesis": [
+            "All dragons can breathe fire."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All mermaids are mythical creatures.",
+            "All mythical creatures can live in water."
+        ],
+        "Hypothesis": [
+            "All mermaids can live in water."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All centaurs are mythical creatures.",
+            "All mythical creatures have four legs."
+        ],
+        "Hypothesis": [
+            "All centaurs have four legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All leprechauns are mythical creatures.",
+            "All mythical creatures are small."
+        ],
+        "Hypothesis": [
+            "All leprechauns are small."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All trolls are mythical creatures.",
+            "All mythical creatures are mean."
+        ],
+        "Hypothesis": [
+            "All trolls are mean."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All giants are mythical creatures.",
+            "All mythical creatures are big."
+        ],
+        "Hypothesis": [
+            "All giants are big."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All fairies are mythical creatures.",
+            "All mythical creatures can fly."
+        ],
+        "Hypothesis": [
+            "All fairies can fly."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All werewolves are mythical creatures.",
+            "All mythical creatures can transform."
+        ],
+        "Hypothesis": [
+            "All werewolves can transform."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All vampires are mythical creatures.",
+            "All mythical creatures drink blood."
+        ],
+        "Hypothesis": [
+            "All vampires drink blood."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All phoenixes are mythical creatures.",
+            "All mythical creatures can rise from the ashes."
+        ],
+        "Hypothesis": [
+            "All phoenixes can rise from the ashes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All Zeus are a god.",
+            "All gods are powerful."
+        ],
+        "Hypothesis": [
+            "All Zeus is powerful."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All Poseidon are a god.",
+            "All gods can control the sea."
+        ],
+        "Hypothesis": [
+            "All Poseidon can control the sea."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All Hades are a god.",
+            "All gods can control the underworld."
+        ],
+        "Hypothesis": [
+            "All Hades can control the underworld."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All Demeter are a goddess.",
+            "All goddesses can control the harvest."
+        ],
+        "Hypothesis": [
+            "All Demeter can control the harvest."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All Aphrodite is a goddess.",
+            "All goddesses are beautiful."
+        ],
+        "Hypothesis": [
+            "All Aphrodite are beautiful."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Julius Caesar was a famous general.",
+            "Famous generals are brave."
+        ],
+        "Hypothesis": [
+            "Julius Caesar was brave."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Joan of Arc was a famous general.",
+            "Famous generals are brave."
+        ],
+        "Hypothesis": [
+            "Joan of Arc was brave."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Napoleon was a famous general.",
+            "Famous generals are brave."
+        ],
+        "Hypothesis": [
+            "Napoleon was brave."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Julius Caesar was assassinated.",
+            "People who are assassinated are famous."
+        ],
+        "Hypothesis": [
+            "Julius Caesar was famous."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "JFK was assassinated.",
+            "People who are assassinated are famous."
+        ],
+        "Hypothesis": [
+            "JFK was famous."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Abraham Lincoln was assassinated.",
+            "People who are assassinated are killed by someone."
+        ],
+        "Hypothesis": [
+            "Abraham Lincoln was killed by someone."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Julius Caesar was assassinated with a knife.",
+            "People who are assassinated with a knife are killed by someone close to them."
+        ],
+        "Hypothesis": [
+            "Julius Caesar was killed by someone close to him."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "JFK was assassinated with a rifle.",
+            "People who are assassinated with a rifle are killed by someone far away from them."
+        ],
+        "Hypothesis": [
+            "JFK was killed by someone far away from him."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Abraham Lincoln was assassinated with a pistol.",
+            "People who are assassinated with a pistol are killed by someone close to them."
+        ],
+        "Hypothesis": [
+            "Abraham Lincoln was killed by someone close to him."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Julius Caesar died of natural causes.",
+            "People who die of natural causes are not assassinated."
+        ],
+        "Hypothesis": [
+            "Julius Caesar was not assassinated."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All rocks are minerals.",
+            "All minerals are solid."
+        ],
+        "Hypothesis": [
+            "All rocks are solid."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All oceans are bodies of water.",
+            "All bodies of water are wet."
+        ],
+        "Hypothesis": [
+            "All oceans are wet."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All clouds are made of water vapor.",
+            "All water vapor is a gas."
+        ],
+        "Hypothesis": [
+            "All clouds are made of gas."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All snowflakes are made of water.",
+            "All water is a liquid."
+        ],
+        "Hypothesis": [
+            "All snowflakes are made of liquid."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All raindrops are made of water.",
+            "All water is a liquid."
+        ],
+        "Hypothesis": [
+            "All raindrops are made of liquid."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

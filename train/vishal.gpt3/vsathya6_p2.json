@@ -1,0 +1,752 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If Bob falls off the bike he will be injured.",
+            "Bob is not injured"
+        ],
+        "Hypothesis": [
+            "Bob did not fall off the bike."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I get 50 marks in my mid-term I will fail.",
+            "I did not fail."
+        ],
+        "Hypothesis": [
+            "I did not get 50 marks in my mid-term."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If both teams test negative for COVID the match will be played today.",
+            "The match was not played today."
+        ],
+        "Hypothesis": [
+            "Both teams did not test negative for COVID."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If Bob gets married he will go to Hawaii.",
+            "Bob didn't go to Hawaii"
+        ],
+        "Hypothesis": [
+            "Bob didn't get married."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If Bob was drinking and driving he would be fined for 500$.",
+            "Bob was not fined 500$."
+        ],
+        "Hypothesis": [
+            "Bob was not drinking and driving."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put this shirt in the washing machine it will shrink.",
+            "The shirt did not shrink."
+        ],
+        "Hypothesis": [
+            "I did not put this shirt in the washing machine."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I don't study I will fail the test.",
+            "I passed the test."
+        ],
+        "Hypothesis": [
+            "I studied."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I take the bus I will be late for my appointment.",
+            "I am not late for my appointment."
+        ],
+        "Hypothesis": [
+            "I did not take the bus."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I eat unhealthy food I will feel sick.",
+            "I am not sick."
+        ],
+        "Hypothesis": [
+            "I did not eat unhealthy food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If the light is green, then the car will go.",
+            "The car did not go."
+        ],
+        "Hypothesis": [
+            "The light was not green."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If the oven is on, then it will be hot.",
+            "The oven is not hot."
+        ],
+        "Hypothesis": [
+            "The oven is not on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I study for the test, then I will do well.",
+            "I did not do well on the test."
+        ],
+        "Hypothesis": [
+            "I did not study for the test."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I drink coffee, then I will be awake.",
+            "I am not awake."
+        ],
+        "Hypothesis": [
+            "I did not drink coffee."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I take the medicine, then I will get better.",
+            "I am not better."
+        ],
+        "Hypothesis": [
+            "I did not take the medicine."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I do my homework, then I will get a good grade.",
+            "I did not get a good grade."
+        ],
+        "Hypothesis": [
+            "I did not do my homework."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I skip class, then I will get a bad grade.",
+            "I did not get a bad grade."
+        ],
+        "Hypothesis": [
+            "I did not skip class."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I turn off the light, then it will be dark.",
+            "It is not dark."
+        ],
+        "Hypothesis": [
+            "I did not turn off the light."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I close the door, then the room will be dark.",
+            "The room is not dark."
+        ],
+        "Hypothesis": [
+            "I did not close the door."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I eat breakfast, then I will not be hungry.",
+            "I am hungry."
+        ],
+        "Hypothesis": [
+            "I did not eat breakfast."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I go outside, then I will be cold.",
+            "I am not cold."
+        ],
+        "Hypothesis": [
+            "I did not go outside."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I set an alarm, then I will wake up on time.",
+            "I did not wake up on time."
+        ],
+        "Hypothesis": [
+            "I did not set an alarm."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I feed the dog, then he will be happy.",
+            "The dog is not happy."
+        ],
+        "Hypothesis": [
+            "I did not feed the dog."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I take a shower, then I will be clean.",
+            "I am not clean."
+        ],
+        "Hypothesis": [
+            "I did not take a shower."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I brush my teeth, then my breath will not be bad.",
+            "My breath is bad."
+        ],
+        "Hypothesis": [
+            "I did not brush my teeth."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I do the dishes, then the sink will be clean.",
+            "The sink is not clean."
+        ],
+        "Hypothesis": [
+            "I did not do the dishes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I make my bed, then it will be messy.",
+            "My bed is not messy."
+        ],
+        "Hypothesis": [
+            "I did not make my bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I clean my room, then it will be tidy.",
+            "My room is not tidy."
+        ],
+        "Hypothesis": [
+            "I did not clean my room."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put gas in the car, then it will run out of gas.",
+            "The car did not run out of gas."
+        ],
+        "Hypothesis": [
+            "I did not put gas in the car."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I turn on the TV, then there will be a movie playing.",
+            "There is not a movie playing."
+        ],
+        "Hypothesis": [
+            "I did not turn on the TV."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I change the channel, then the TV will be on a different channel.",
+            "The TV is not on a different channel."
+        ],
+        "Hypothesis": [
+            "I did not change the channel."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I pay the bill, then the service will be disconnected.",
+            "The service is not disconnected."
+        ],
+        "Hypothesis": [
+            "I did not pay the bill."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I water the plant, then it will die.",
+            "The plant did not die."
+        ],
+        "Hypothesis": [
+            "I did not water the plant."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the plant in the sun, then it will die.",
+            "The plant did not die."
+        ],
+        "Hypothesis": [
+            "I did not put the plant in the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the plant in the shade, then it will not die.",
+            "The plant died."
+        ],
+        "Hypothesis": [
+            "I did not put the plant in the shade."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the plant in the dark, then it will die.",
+            "The plant did not die."
+        ],
+        "Hypothesis": [
+            "I did not put the plant in the dark."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I don't water the plant, then it will die.",
+            "The plant did not die."
+        ],
+        "Hypothesis": [
+            "I watered the plant."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I plant the seed, then a plant will grow.",
+            "A plant did not grow."
+        ],
+        "Hypothesis": [
+            "I did not plant the seed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I turn on the computer, then it will make a noise.",
+            "The computer is not making a noise."
+        ],
+        "Hypothesis": [
+            "I did not turn on the computer."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I touch the hot stove, then I will get burned.",
+            "I am not burned."
+        ],
+        "Hypothesis": [
+            "I did not touch the hot stove."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put my hand in the fire, then I will get burned.",
+            "I am not burned."
+        ],
+        "Hypothesis": [
+            "I did not put my hand in the fire."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If there is a fire, then the smoke alarm will go off.",
+            "The smoke alarm is not going off."
+        ],
+        "Hypothesis": [
+            "There is not a fire."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I hit the nail with the hammer, then it will go into the wood.",
+            "The nail is not in the wood."
+        ],
+        "Hypothesis": [
+            "I did not hit the nail with the hammer."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I drop the glass, then it will break.",
+            "The glass did not break."
+        ],
+        "Hypothesis": [
+            "I did not drop the glass."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the glass on the table, then it will not break.",
+            "The glass broke."
+        ],
+        "Hypothesis": [
+            "I did not put the glass on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the glass on the floor, then it will break.",
+            "The glass did not break."
+        ],
+        "Hypothesis": [
+            "I did not put the glass on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I don't put the glass on the table, then it will break.",
+            "The glass did not break."
+        ],
+        "Hypothesis": [
+            "I put the glass on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the book on the shelf, then it will not be on the table.",
+            "The book is on the table."
+        ],
+        "Hypothesis": [
+            "I did not put the book on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I take the book off the shelf, then it will be on the table.",
+            "The book is not on the table."
+        ],
+        "Hypothesis": [
+            "I did not take the book off the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I don't put the book on the shelf, then it will be on the table.",
+            "The book is not on the table."
+        ],
+        "Hypothesis": [
+            "I put the book on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I put the book on the shelf, then it will be in the library.",
+            "The book is not in the library."
+        ],
+        "Hypothesis": [
+            "I did not put the book on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,753 @@
+[
+    {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "If today is Tuesday, then John will go to work.",
+      "Today is Tuesday."
+    ],
+    "Hypothesis": [
+      "John will go to work market."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+    },
+    {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "The weather will be comfortable in Tempe in October.",
+      "Weather is comfortable in Tempe now."
+    ],
+    "Hypothesis": [
+      "It is December in Tempe."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+    },
+    {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+        "If John has a headache, then he will take some ibuprofen.",
+        "John has a headache."     
+    ],
+    "Hypothesis": [
+      "Therefore, John will take some ibuprofen."
+    ],
+    "Label": [
+      "True"
+    ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If it is raining, then the ground will be wet.",
+            "It is raining."     
+        ],
+        "Hypothesis": [
+          "Therefore, the ground is not wet."
+        ],
+        "Label": [
+          "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I am hungry, then I will eat something.",
+            "I am hungry."
+        ],
+        "Hypothesis": [
+            "Therefore, I will drink something."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I am tired, then I will go to bed.", 
+            "I am tired."      
+        ],
+        "Hypothesis": [
+            "Therefore, I will go to bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If George is happy, then he will smile.", 
+            "George is happy."
+        ],
+        "Hypothesis": [
+            "Therefore, George will not smile."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If it will rain tomorrow, then the ground will be wet.",
+            "It rained yesterday."
+        ],
+        "Hypothesis": [
+            "Therefore, the ground is wet."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I am cold, then I will put on a coat.",
+            "It is cold outside."
+        ],
+        "Hypothesis": [
+            "Therefore, I will put on a heavy jacket."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I am thirsty, then I will drink some water.",
+            "I am thirsty." 
+        ],
+        "Hypothesis": [
+            "Therefore, I will drink some coke."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the glass is full, then liquid will spill over the top.",
+            "The glass is full."
+        ],
+        "Hypothesis": [
+            "Therefore, liquid will spill over the bottom."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the cat sees a bird, then the cat will chase the bird.",
+            "The cat saw a bird."
+        ],
+        "Hypothesis": [
+            "Therefore, the cat chased the bird."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If there is a fire, then the alarm will sound.",
+            "The alarm is sounding." 
+        ],
+        "Hypothesis": [
+            "Therefore, there is not a fire."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I turn on the light, then the room will be illuminated.", 
+            "I turned on the light." 
+        ],
+        "Hypothesis": [
+            "Therefore, the room is illuminated."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the company makes a profit this quarter, then the employees will receive a bonus.",
+            "The company made a loss this quarter." 
+        ],
+        "Hypothesis": [
+            "Therefore, the employees will receive a bonus."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the student earns an A on the exam, then the student will pass the class.",
+            "The student earned an B on the exam." 
+        ],
+        "Hypothesis": [
+            "Therefore, the student will pass the class."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the athlete trains for the marathon, then the athlete will improve their time.",
+            "The athlete trained for the marathon."
+        ],
+        "Hypothesis": [
+            "Therefore, the athlete improved their time."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the patient has the flu, then the patient will have a fever.",
+            "The patient has the covid."
+        ],
+        "Hypothesis": [
+            "Therefore, the patient will have a fever."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the company goes bankrupt, then the employees will lose their jobs.",
+            "The company goes bankrupt."
+        ],
+        "Hypothesis": [
+            "Therefore, the employees will lose their jobs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the team wins the game, then the fans will be happy.",
+            "The team loses the game."
+        ],
+        "Hypothesis": [
+            "Therefore, the fans will be happy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the sun is out, then it will be warm.",
+            "The sun is out."
+        ],
+        "Hypothesis": [
+            "Therefore, it will be cold."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the moon is full, then the tides will be high.",
+            "The moon is full."
+        ],
+        "Hypothesis": [
+            "Therefore, the tides will be high."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a student is absent, then they will have to make up the work.",
+            "John was absent yesterday."
+        ],
+        "Hypothesis": [
+            "Therefore, John will have to make up the work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the company makes a profit, then the shareholders will be paid a dividend.",
+            "The company made a profit this quarter."
+        ],
+        "Hypothesis": [
+            "Therefore, the shareholders will be paid a dividend."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a bill is passed, then it will become law.",
+            "The bill was passed by Congress."
+        ],
+        "Hypothesis": [
+            "Therefore, the bill will become law."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If an athlete trains hard, then they will improve their performance.",
+            "The athlete has been training hard."
+        ],
+        "Hypothesis": [
+            "Therefore, the athlete will not improve their performance."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a business expands, then it will need to hire more employees.",
+            "The business is declining. "
+        ],
+        "Hypothesis": [
+            "Therefore, the business will need to hire more employees."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a country has a trade deficit, then it is borrowing money from other countries.",
+            "The country has a trade deficit. "
+        ],
+        "Hypothesis": [
+            "Therefore, the country is borrowing money from other countries."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a disease is contagious, then it can be spread from person to person.",
+            "The disease is not contagious."
+        ],
+        "Hypothesis": [
+            "Therefore, the disease can be spread from person to person."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a person is hungry, then they will feel the need to eat.",
+            "The person is hungry."
+        ],
+        "Hypothesis": [
+            "Therefore, the person will feel the need to drive."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a person is thirsty, then they will feel the need to drink.",
+            "The person is thirsty."
+        ],
+        "Hypothesis": [
+            "Therefore, the person will feel the need to drink."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the United States wants to improve its relationship with North Korea, then it will need to make some concessions.",
+            "The United States wants to improve its relationship with North Korea."
+        ],
+        "Hypothesis": [
+            "Therefore, the United States will need to make some concessions."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a student wants to get a good grade in a class, then the student will need to attend class and do the assigned work.",
+            "A student wants to get a good grade in a class."
+        ],
+        "Hypothesis": [
+            "Therefore, the student will need to attend class and do the assigned work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a business wants to make a profit, then it will need to sell goods or services for more than it spends on operating costs.",
+            "A business wants to make a profit."
+        ],
+        "Hypothesis": [
+            "Therefore, the business will need to buy goods or services for more than it spends on operating costs."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a country wants to improve its economy, then it will need to encourage foreign investment.",
+            "A country wants to improve its economy."
+        ],
+        "Hypothesis": [
+            "Therefore, the country will not need to encourage foreign investment."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a country wants to reduce poverty, then it will need to invest in education and health care.",
+            "A country wants to reduce poverty."
+        ],
+        "Hypothesis": [
+            "Therefore, the country will need to invest in education and health care."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a company wants to be successful, then it will need to produce quality products.",
+            "A company wants to be successful."
+        ],
+        "Hypothesis": [
+            "Therefore, the company will need to produce bad products."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a company wants to expand its market share, then it will need to lower prices.",
+            "A company wants to expand its market share."
+        ],
+        "Hypothesis": [
+            "Therefore, the company will need to higher prices."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a country wants to improve its trade balance, then it will need to export more than it imports.",
+            "A country wants to improve its trade balance."
+        ],
+        "Hypothesis": [
+            "Therefore, the country will need to export more than it imports."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a country wants to attract foreign investment, then it will need to offer tax incentives.",
+            "A country wants to attract foreign investment."
+        ],
+        "Hypothesis": [
+            "Therefore, the country will need to offer tax incentives."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If it rains tomorrow, then I will take an umbrella to work. ",
+            "The weather forecast says that it will rain tomorrow. "
+        ],
+        "Hypothesis": [
+            "Therefore, I will take a laptop to work."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a software system is functional, then it will be used by its users. ",
+            "The software system is non-functional. "
+        ],
+        "Hypothesis": [
+            "Therefore, it will not be used by its users."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a person is born in the United States, then they are a U.S. citizen. ",
+            "The person was born in the United States. "
+        ],
+        "Hypothesis": [
+            "Therefore, the person is a U.S. citizen."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a bill is passed by the House and Senate, then it becomes a law. ",
+            "The bill was passed by the House and Senate. "
+        ],
+        "Hypothesis": [
+            "Therefore, the bill becomes a law."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a population has more births than deaths, then it is growing. ",
+            "The population has more births than deaths. "
+        ],
+        "Hypothesis": [
+            "Therefore, the population is growing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a population has more deaths than births, then it is shrinking. ",
+            "The population has more deaths than births. "
+        ],
+        "Hypothesis": [
+            "Therefore, the population is shrinking."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a population has more immigrants than emigrants, then it is growing. ",
+            "The population has more emigrants than immigrants. "
+        ],
+        "Hypothesis": [
+            "Therefore, the population is growing."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a population has more emigrants than immigrants, then it is shrinking. ",
+            "The population has more immigrants than emigrants. "
+        ],
+        "Hypothesis": [
+            "Therefore, the population is shrinking."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a population has the same number of births and deaths, then it is not growing or shrinking. ",
+            "The population has the same number of births and deaths. "
+        ],
+        "Hypothesis": [
+            "Therefore, the population is either growing or shrinking."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If a population has the same number of immigrants and emigrants, then it is not growing or shrinking. ",
+            "The population has the more immigrants and emigrants."
+        ],
+        "Hypothesis": [
+            "Therefore, the population is growing."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]
+

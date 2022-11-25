@@ -1,0 +1,851 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The moon orbits around Earth",
+            "The moon is a natural satellite of Earth",
+            "The moon is not the only natural satellite of Earth"
+        ],
+        "Hypothesis": [
+            "The moon is the only natural satellite of Earth."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Diamond is the hardest known mineral",
+            "Diamonds are used in making jewellery",
+            "Some diamonds are used for industrial purposes"
+        ],
+        "Hypothesis": [
+            "Diamonds are never used for jewellery."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Humans need food to survive",
+            "Food provides the nutrients and energy that the body needs to function",
+            "Humans can survive without food for a period of time"
+        ],
+        "Hypothesis": [
+            "Humans need food to function."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Jogging is a form of exercise",
+            "Exercise is beneficial to health",
+            "Jogging is a form of cardio"
+        ],
+        "Hypothesis": [
+            "Jogging is not beneficial to health."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Glass is a type of material",
+            "Glass is brittle",
+            "Not all types of materials are brittle"
+        ],
+        "Hypothesis": [
+            "All types of materials are brittle."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Water is necessary for life",
+            "Water makes up a large percentage of the human body",
+            "Water is necessary for plants"
+        ],
+        "Hypothesis": [
+            "Water is necessary for the human body."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The Earth is round",
+            "The Earth is a planet",
+            "The Earth is the only round planet"
+        ],
+        "Hypothesis": [
+            "The Earth is the only planet."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Dogs are a type of animal",
+            "Dogs are mammals",
+            "Not all types of animals are mammals"
+        ],
+        "Hypothesis": [
+            "All types of animals are mammals."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Apples are a type of fruit",
+            "Apples are a source of Vitamin C",
+            "Not all types of fruit are a source of Vitamin C"
+        ],
+        "Hypothesis": [
+            "All types of fruit are a source of Vitamin C."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The sun is a star",
+            "The sun is the closest star to Earth",
+            "The sun is the only star that Earth revolves around"
+        ],
+        "Hypothesis": [
+            "The sun is the closest star to Earth."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Spiders are a type of arthropod",
+            "Spiders have eight legs",
+            "Not all types of arthropods have eight legs"
+        ],
+        "Hypothesis": [
+            "All types of arthropods have eight legs."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Fish live in water",
+            "Sharks are a type of fish",
+            "Sharks live in water"
+        ],
+        "Hypothesis": [
+            "Sharks are not a type of fish."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Santa Claus is a fictional character",
+            "Santa Claus is a jolly old man",
+            "Not all fictional characters are jolly old men"
+        ],
+        "Hypothesis": [
+            "All fictional characters are jolly old men."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Diamonds are a type of mineral",
+            "Diamonds are made of carbon",
+            "Not all types of minerals are made of carbon"
+        ],
+        "Hypothesis": [
+            "All types of minerals are made of carbon."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Jupyter notebooks are a type of computer software",
+            "Jupyter notebooks are open-source",
+            "Not all types of computer software are open-source"
+        ],
+        "Hypothesis": [
+            "All types of computer software are open-source."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The square root of 64 is 8",
+            "The square root of 100 is 10",
+            "The square root of 81 is 9"
+        ],
+        "Hypothesis": [
+            "The square root of 64 is 8."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Chairs are a type of furniture",
+            "Chairs are made of wood",
+            "Not all types of furniture are made of wood"
+        ],
+        "Hypothesis": [
+            "All types of furniture are made of wood."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Dogs are a type of mammal",
+            "Dogs are vertebrates",
+            "Not all types of mammals are vertebrates"
+        ],
+        "Hypothesis": [
+            "All types of mammals are vertebrates."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Pencils are a type of stationary",
+            "Pencils are made of graphite",
+            "Not all types of stationary are made of graphite"
+        ],
+        "Hypothesis": [
+            "All types of stationary are made of graphite."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The sky is blue",
+            "The sky is a type of atmosphere",
+            "Not all types of atmosphere are blue"
+        ],
+        "Hypothesis": [
+            "All types of atmosphere are blue."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Rocks are a type of mineral",
+            "Rocks are made of minerals",
+            "Not all types of mineral are made of minerals"
+        ],
+        "Hypothesis": [
+            "All types of mineral are made of minerals."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The Earth is a planet",
+            "The Earth is round",
+            "Not all planets are round"
+        ],
+        "Hypothesis": [
+            "All planets are round."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Trees are a type of plant",
+            "Trees are living organisms",
+            "Not all types of plants are living organisms"
+        ],
+        "Hypothesis": [
+            "All types of plants are living organisms."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Clouds are a type of weather",
+            "Clouds are made of water vapor",
+            "Not all types of weather are made of water vapor"
+        ],
+        "Hypothesis": [
+            "All types of weather are made of water vapor."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The United States is a country",
+            "The United States has fifty states",
+            "Not all countries have fifty states"
+        ],
+        "Hypothesis": [
+            "All countries have fifty states."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Sugar is a type of molecule",
+            "Sugar is made of atoms",
+            "Not all types of molecules are made of atoms"
+        ],
+        "Hypothesis": [
+            "All types of molecules are made of atoms."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Oxygen is a type of element",
+            "Oxygen is found in air",
+            "Not all types of elements are found in air"
+        ],
+        "Hypothesis": [
+            "All types of elements are found in air."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The sun is a star",
+            "The sun is the closest star to Earth",
+            "The sun is the brightest object in the sky"
+        ],
+        "Hypothesis": [
+            "The sun is the closest star to Earth."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Atoms are the smallest particle of an element",
+            "Atoms are composed of protons and neutrons",
+            "Atoms are the building blocks of matter"
+        ],
+        "Hypothesis": [
+            "Atoms are the smallest particle of an element."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Earth is the third planet from the sun",
+            "Earth is the fifth largest planet in the solar system",
+            "Earth has one natural satellite"
+        ],
+        "Hypothesis": [
+            "Earth is the fifth largest planet in the solar system."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The Earth rotates around the sun",
+            "The Earth revolves around the sun",
+            "The Earth takes 365",
+            "24 days to complete one orbit around the sun"
+        ],
+        "Hypothesis": [
+            "The Earth revolves around the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "A right triangle has one 90 degree angle",
+            "A right triangle has two acute angles",
+            "A right triangle has two obtuse angles"
+        ],
+        "Hypothesis": [
+            "A right triangle has one 90 degree angle."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "A square has four 90 degree angles",
+            "A square has four equal sides",
+            "A square has four right angles"
+        ],
+        "Hypothesis": [
+            "A square has four right angles."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Glass is made from sand",
+            "Sand is a natural resource",
+            "Glass is used to make windows"
+        ],
+        "Hypothesis": [
+            "Glass is used to make windows."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Bicycles have two wheels",
+            "Bicycles are a mode of transportation",
+            "Bicycles are used for recreation"
+        ],
+        "Hypothesis": [
+            "Bicycles are used for recreation."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Apples are fruit",
+            "Fruit grows on trees",
+            "Apples are red, green, or yellow"
+        ],
+        "Hypothesis": [
+            "Apples are red, green, or yellow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Cats are animals",
+            "Cats are domesticated",
+            "Cats are pets"
+        ],
+        "Hypothesis": [
+            "Cats are pets."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The moon orbits around Earth",
+            "The moon is a celestial body",
+            "The moon is visible at night"
+        ],
+        "Hypothesis": [
+            "The moon is visible at night."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Gold is a metal",
+            "Gold is valuable",
+            "Gold is used in jewelry"
+        ],
+        "Hypothesis": [
+            "Gold is used in jewelry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Clouds are made of water vapor",
+            "Clouds are in the sky",
+            "Clouds give rain"
+        ],
+        "Hypothesis": [
+            "Clouds give rain."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Fish live in water",
+            "Fish breathe with gills",
+            "Fish are cold-blooded"
+        ],
+        "Hypothesis": [
+            "Fish breathe with gills."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Birds have wings",
+            "Birds can fly",
+            "Birds are warm-blooded"
+        ],
+        "Hypothesis": [
+            "Birds can fly."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Trees are plants",
+            "Trees have leaves",
+            "Trees are living organisms"
+        ],
+        "Hypothesis": [
+            "Trees are living organisms."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Volcanoes are mountains",
+            "Volcanoes are made of lava and ash",
+            "Volcanoes can erupt"
+        ],
+        "Hypothesis": [
+            "Volcanoes can erupt."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Cheese is made from milk",
+            "Cheese is a dairy product",
+            "Cheese is high in calcium"
+        ],
+        "Hypothesis": [
+            "Cheese is high in calcium."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Penguins are birds",
+            "Penguins live in the Antarctic",
+            "Penguins have feathers"
+        ],
+        "Hypothesis": [
+            "Penguins have feathers."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Chairs are furniture",
+            "Chairs have four legs",
+            "Chairs are used for sitting"
+        ],
+        "Hypothesis": [
+            "Chairs are used for sitting."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Pencils are made of wood",
+            "Pencils are used for writing",
+            "Pencils have lead"
+        ],
+        "Hypothesis": [
+            "Pencils have lead."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Ice is water",
+            "Ice is cold",
+            "Ice melts in warm weather"
+        ],
+        "Hypothesis": [
+            "Ice melts in warm weather."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Salt is a mineral",
+            "Salt is white",
+            "Salt is used to flavor food"
+        ],
+        "Hypothesis": [
+            "Salt is used to flavor food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Bacteria are single-celled organisms",
+            "Bacteria are microscopic",
+            "Bacteria can cause diseases"
+        ],
+        "Hypothesis": [
+            "Bacteria can cause diseases."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Air is a gas",
+            "Air is invisible",
+            "Air is necessary for life"
+        ],
+        "Hypothesis": [
+            "Air is necessary for life."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "The liver is an organ",
+            "The liver is in the abdominal cavity",
+            "The liver filters toxins from the blood"
+        ],
+        "Hypothesis": [
+            "The liver filters toxins from the blood."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

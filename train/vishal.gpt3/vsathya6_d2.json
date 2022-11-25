@@ -1,0 +1,1024 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "The robot waits and then moves an item, the item will be in the shopping cart."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "After the robot grasps an item, waits, and the movies into the shopping cart, the item will be in the shopping cart."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "The robot grasps an item and then waits, the item will be in the hand."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "The robot grasps an item and then waits, the item will be on the table."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "The robot grasps an item, waits, and then moves the item into the shopping cart, the item will be in the hand."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "The robot grasps an item, waits, and then moves the item into the shopping cart, the item will be on the table."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob goes out of the house, he will normally be at work.",
+            "When Bob is at work, the house will normally be empty.",
+            "Bob having guests at home is an exception to this rule.",
+            "Initially Bob is not at work.",
+            "Initially Bob does not have guests."
+        ],
+        "Hypothesis": [
+            "When Bob goes out of the house, the house will be empty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob goes out of the house, he will normally be at work.",
+            "When Bob is at work, the house will normally be empty.",
+            "Bob having guests at home is an exception to this rule.",
+            "Initially Bob is not at work.",
+            "Initially Bob does not have guests."
+        ],
+        "Hypothesis": [
+            "When Bob goes out of the house, he will have guests."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob goes out of the house, he will normally be at work.",
+            "When Bob is at work, the house will normally be empty.",
+            "Bob having guests at home is an exception to this rule.",
+            "Initially Bob is not at work.",
+            "Initially Bob does not have guests."
+        ],
+        "Hypothesis": [
+            "Bob goes out of the house, the house will not be empty."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob goes out of the house, he will normally be at work.",
+            "When Bob is at work, the house will normally be empty.",
+            "Bob having guests at home is an exception to this rule.",
+            "Initially Bob is not at work.",
+            "Initially Bob does not have guests."
+        ],
+        "Hypothesis": [
+            "Bob goes out of the house, he will have guests."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When an animal leaves its habitat, it is hungry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When an animal leaves its habitat, it is not hungry."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "Animals that leave their habitat are usually looking for food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "Animals that leave their habitat are not usually looking for food."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "Animals that are looking for food will usually leave their habitat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "Animals that are not looking for food will usually leave their habitat."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "Animals that are hungry will usually leave their habitat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "Animals that are not hungry will usually leave their habitat."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When an animal is hungry, it will usually leave its habitat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Animals usually stay in their habitat.",
+            "When an animal leaves its habitat, it is usually because it is looking for food.",
+            "When an animal is looking for food, it will usually be hungry.",
+            "Animals that are not looking for food is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When an animal is not hungry, it will usually leave its habitat."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Zeus is angry, someone has disobeyed him."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Zeus is angry, someone has not disobeyed him."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has disobeyed Zeus, Zeus will be angry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has not disobeyed Zeus, Zeus will be angry."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Zeus is angry, someone will usually be punished."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Zeus is angry, someone will not usually be punished."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has disobeyed Zeus, they will usually be punished by Zeus."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has disobeyed Zeus, they will not usually be punished by Zeus."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has not been punished by Zeus, they will usually have disobeyed him."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has been punished by Zeus, they will usually have disobeyed him."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has disobeyed Zeus, they will not usually be punished by Zeus."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has not been punished by Zeus, they will usually have disobeyed him."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Zeus is the king of the gods.",
+            "When Zeus is angry, it usually means that someone has disobeyed him.",
+            "When someone has disobeyed Zeus, they will usually be punished.",
+            "Someone being punished by Zeus is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When someone has been punished by Zeus, they will usually have disobeyed him."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Sharks are predators.",
+            "When a shark is hungry, it will usually attack and eat its prey.",
+            "When a shark does not attack and eat its prey, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a shark is not hungry, it will not attack and eat its prey."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Sharks are predators.",
+            "When a shark is hungry, it will usually attack and eat its prey.",
+            "When a shark does not attack and eat its prey, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a shark is hungry, it will attack and eat its prey."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Sharks are predators.",
+            "When a shark is hungry, it will usually attack and eat its prey.",
+            "When a shark does not attack and eat its prey, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a shark is not hungry, it will attack and eat its prey."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Sharks are predators.",
+            "When a shark is hungry, it will usually attack and eat its prey.",
+            "When a shark does not attack and eat its prey, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a shark does not attack and eat its prey, it is not hungry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Sharks are predators.",
+            "When a shark is hungry, it will usually attack and eat its prey.",
+            "When a shark does not attack and eat its prey, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a shark does not attack and eat its prey, it is not an exception to this rule."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Robots are machines.",
+            "When a robot is turned on, it will usually do what it is programmed to do.",
+            "When a robot does not do what it is programmed to do, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a robot is turned on, it will do what it is programmed to do."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Robots are machines.",
+            "When a robot is turned on, it will usually do what it is programmed to do.",
+            "When a robot does not do what it is programmed to do, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a robot is not turned on, it will do what it is programmed to do."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Robots are machines.",
+            "When a robot is turned on, it will usually do what it is programmed to do.",
+            "When a robot does not do what it is programmed to do, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a robot does not do what it is programmed to do, it is not turned on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Robots are machines.",
+            "When a robot is turned on, it will usually do what it is programmed to do.",
+            "When a robot does not do what it is programmed to do, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a robot does not do what it is programmed to do, it is not an exception to this rule."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Mermaids are creatures of the sea.",
+            "When a mermaid is happy, she will usually sing.",
+            "When a mermaid does not sing, she is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a mermaid is happy, she will sing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Mermaids are creatures of the sea.",
+            "When a mermaid is happy, she will usually sing.",
+            "When a mermaid does not sing, she is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a mermaid is not happy, she will sing."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Mermaids are creatures of the sea.",
+            "When a mermaid is happy, she will usually sing.",
+            "When a mermaid sings, the ocean is calm.",
+            "When a mermaid does not sing, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a mermaid is not happy, and does not sing, the ocean will be calm"
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Mermaids are creatures of the sea.",
+            "When a mermaid is happy, she will usually sing.",
+            "When a mermaid sings, the ocean is calm.",
+            "When a mermaid does not sing, it is an exception to this rule.",
+            ""
+        ],
+        "Hypothesis": [
+            "When a mermaid is happy, she will sing, and the ocean will be calm."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Mermaids are creatures of the sea.",
+            "When a mermaid is happy, she will usually sing.",
+            "When a mermaid sings, the ocean is calm.",
+            "When a mermaid does not sing, it is an exception to this rule.",
+            ""
+        ],
+        "Hypothesis": [
+            "When a mermaid is happy, she will sing, and the ocean will not be calm."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Julius Caesar was a politician.",
+            "When Julius Caesar was assassinated, he died.",
+            "When Julius Caesar died, there was a protest.",
+            "When Julius Caesar did not die, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Julius Caesar was assassinated, he died, and then there was a protest."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Julius Caesar was a politician.",
+            "When Julius Caesar was assassinated, he died.",
+            "When Julius Caesar died, there was a protest.",
+            "When Julius Caesar did not die, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Julius Caesar was assassinated, he died, and then there was no protest."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Julius Caesar was a politician.",
+            "When Julius Caesar was assassinated, he died.",
+            "When Julius Caesar died, there was a protest.",
+            "When Julius Caesar did not die, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Julius Caesar was assassinated, he did not die."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Julius Caesar was a politician.",
+            "When Julius Caesar was assassinated, he died.",
+            "When Julius Caesar died, there was a protest.",
+            "When Julius Caesar did not die, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Julius Caesar was assassinated, he did not die, and there was no protest."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Julius Caesar was a politician.",
+            "When Julius Caesar was assassinated, he died.",
+            "When Julius Caesar died, there was a protest.",
+            "When Julius Caesar did not die, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When Julius Caesar was assassinated, he did not die, and there was a protest."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a dragon is angry, it will usually breathe fire.",
+            "When a dragon breathes fire, plants are killed.",
+            "When a dragon does not breathe fire, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a dragon is angry, then breathes fire, plants will die."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a dragon is angry, it will usually breathe fire.",
+            "When a dragon breathes fire, plants are killed.",
+            "When a dragon does not breathe fire, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a dragon is angry, then does not breathe fire, plants will die."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a dragon is angry, it will usually breathe fire.",
+            "When a dragon breathes fire, plants are killed.",
+            "When a dragon does not breathe fire, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a dragon is angry, then breathes fire, plants will not die."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a dragon is angry, it will usually breathe fire.",
+            "When a dragon breathes fire, plants are killed.",
+            "When a dragon does not breathe fire, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a dragon is not angry, then it will not breathe fire, and plants will not die."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a dragon is angry, it will usually breathe fire.",
+            "When a dragon breathes fire, plants are killed.",
+            "When a dragon does not breathe fire, it is an exception to this rule."
+        ],
+        "Hypothesis": [
+            "When a dragon is not angry, then it will not breathe fire, and plants will die."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

@@ -1,0 +1,775 @@
+[
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a doctor, then you must have gone to medical school",
+            " John is a doctor"
+        ],
+        "Hypothesis": [
+            "Therefore, John went to engineering school."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a teacher, then you must be good at teaching",
+            " Ms",
+            " Smith is a teacher"
+        ],
+        "Hypothesis": [
+            "Therefore, Ms. Smith is good at teaching."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a basketball player, then you must be good at playing basketball",
+            " Kobe is a basketball player"
+        ],
+        "Hypothesis": [
+            "Therefore, Kobe is bad at playing basketball."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a musician, then you must be good at playing an instrument",
+            " Beethoven was a musician"
+        ],
+        "Hypothesis": [
+            "Therefore, Beethoven was good at playing an instrument."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're an artist, then you must be good at drawing",
+            " Picasso was an artist"
+        ],
+        "Hypothesis": [
+            "Therefore, Picasso was good at drawing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a waiter, then you must be good at serving food",
+            " Bill is a waiter"
+        ],
+        "Hypothesis": [
+            "Therefore, Bill is good at serving food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a carpenter, then you must be good at building things",
+            " Frank is a carpenter"
+        ],
+        "Hypothesis": [
+            "Therefore, Frank is good at building things."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a plumber, then you must be good at fixing pipes",
+            " Joe is a plumber"
+        ],
+        "Hypothesis": [
+            "Therefore, Joe is good at fixing pipes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're an electrician, then you must be good at wiring",
+            " Tom is an electrician"
+        ],
+        "Hypothesis": [
+            "Therefore, Tom is good at wiring."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a computer scientist, then you must be good at programming",
+            " Ada is a computer scientist"
+        ],
+        "Hypothesis": [
+            "Therefore, Ada is good at programming."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a lawyer, then you must be good at arguing",
+            " Sue is a lawyer"
+        ],
+        "Hypothesis": [
+            "Therefore, Sue is good at arguing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a dancer, then you must be good at dancing",
+            " Mikhail is a dancer"
+        ],
+        "Hypothesis": [
+            "Therefore, Mikhail is good at dancing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a boxer, then you must be good at punching",
+            " Mohammed is a boxer"
+        ],
+        "Hypothesis": [
+            "Therefore, Mohammed is good at punching."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're an athlete, then you must be good at sports",
+            " Jesse is an athlete"
+        ],
+        "Hypothesis": [
+            "Therefore, Jesse is good at sports."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a chef, then you must be good at cooking",
+            " Gordon is a chef"
+        ],
+        "Hypothesis": [
+            "Therefore, Gordon is good at cooking."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a babysitter, then you must be good at taking care of kids",
+            " Jenny is a babysitter"
+        ],
+        "Hypothesis": [
+            "Therefore, Jenny is good at taking care of kids."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a janitor, then you must be good at cleaning",
+            " Jerry is a janitor"
+        ],
+        "Hypothesis": [
+            "Therefore, Jerry is good at cleaning."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a librarian, then you must be good at organizing books",
+            " Ms",
+            " Nguyen is a librarian"
+        ],
+        "Hypothesis": [
+            "Therefore, Ms. Nguyen is good at organizing books."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a bus driver, then you must be good at driving",
+            " Mr",
+            " Singh is a bus driver"
+        ],
+        "Hypothesis": [
+            "Therefore, Mr. Singh is good at driving."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a fisherman, then you must be good at fishing",
+            " Bob is a fisherman"
+        ],
+        "Hypothesis": [
+            "Therefore, Bob is good at fishing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a writer, then you must be good at writing",
+            " J",
+            "K",
+            " Rowling is a writer"
+        ],
+        "Hypothesis": [
+            "Therefore, J.K. Rowling is good at writing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're an actor, then you must be good at acting",
+            " Meryl Streep is an actor"
+        ],
+        "Hypothesis": [
+            "Therefore, Meryl Streep is good at acting."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a singer, then you must be good at singing",
+            " Adele is a singer"
+        ],
+        "Hypothesis": [
+            "Therefore, Adele is good at singing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a musician, then you must be good at playing an instrument",
+            " Yo-Yo Ma is a musician"
+        ],
+        "Hypothesis": [
+            "Therefore, Yo-Yo Ma is good at playing an instrument."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a scientist, then you must be good at experiments",
+            " Marie Curie is a scientist"
+        ],
+        "Hypothesis": [
+            "Therefore, Marie Curie is good at experiments."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're an astronaut, then you must be good at flying",
+            " Neil Armstrong is an astronaut"
+        ],
+        "Hypothesis": [
+            "Therefore, Neil Armstrong is good at flying."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a doctor, then you must be good at helping people",
+            " Dr",
+            " Jane Smith is a doctor"
+        ],
+        "Hypothesis": [
+            "Therefore, Dr. Jane Smith is good at helping people."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a nurse, then you must be good at taking care of people",
+            " Nurse Nancy is a nurse"
+        ],
+        "Hypothesis": [
+            "Therefore, Nurse Nancy is not good at taking care of people."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a fireman, then you must be good at putting out fires",
+            " Fireman Joe is a fireman"
+        ],
+        "Hypothesis": [
+            "Therefore, Fireman Joe is not good at putting out fires."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a police officer, then you must be good at catching criminals",
+            " Officer James is a police officer"
+        ],
+        "Hypothesis": [
+            "Therefore, Officer James is not good at catching criminals."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a soldier, then you must be good at following orders",
+            " Sergeant Johnson is a soldier"
+        ],
+        "Hypothesis": [
+            "Therefore, Sergeant Johnson is not good at following orders."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a businessman, then you must be good at making money",
+            " Mr",
+            " Trump is a businessman"
+        ],
+        "Hypothesis": [
+            "Therefore, Mr. Trump is good at making money."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a CEO, then you must be good at running a company",
+            " Ms",
+            " Parks is a CEO"
+        ],
+        "Hypothesis": [
+            "Therefore, Ms. Parks is bad at running a company."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a waitress, then you must be good at taking orders",
+            " Waitress Jill is a waitress"
+        ],
+        "Hypothesis": [
+            "Therefore, Waitress Jill is bad at taking orders."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a cashier, then you must be good at counting money",
+            " Cashier Karen is a cashier"
+        ],
+        "Hypothesis": [
+            "Therefore, Cashier Karen is bad at counting money."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a construction worker, then you must be good at building things",
+            " Construction worker Bob is a construction worker"
+        ],
+        "Hypothesis": [
+            "Therefore, Construction worker Bob is bad at building things."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a mechanic, then you must be good at fixing cars",
+            " Mechanic Tom is a mechanic"
+        ],
+        "Hypothesis": [
+            "Therefore, Mechanic Tom is bad at fixing cars."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a farmer, then you must be good at growing crops",
+            " Farmer John is a farmer"
+        ],
+        "Hypothesis": [
+            "Therefore, Farmer John is bad at growing crops."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a factory worker, then you must be good at working on a production line",
+            " Factory worker Andy is a factory worker"
+        ],
+        "Hypothesis": [
+            "Therefore, Factory worker Andy is not good at working on a production line."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a grocery store worker, then you must be good at stocking shelves",
+            " Grocery store worker Sarah is a grocery store worker"
+        ],
+        "Hypothesis": [
+            "Therefore, Grocery store worker Sarah is not good at stocking shelves."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a software engineer, then you must be good at coding",
+            " Bill Gates is a software engineer"
+        ],
+        "Hypothesis": [
+            "Therefore, Bill Gates is good at coding."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a banker, then you must be good at finance",
+            " Jamie Dimon is a banker"
+        ],
+        "Hypothesis": [
+            "Therefore, Jamie Dimon is good at finance."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a scientist, then you must be good at science",
+            " Marie Curie was a scientist"
+        ],
+        "Hypothesis": [
+            "Therefore, Marie Curie was bad at science."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a historian, then you must be good at history",
+            " Herodotus was a historian"
+        ],
+        "Hypothesis": [
+            "Therefore, Herodotus was bad at history."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're an electrical engineer, then you must be good at designing electrical systems",
+            " Nikola Tesla was an electrical engineer"
+        ],
+        "Hypothesis": [
+            "Therefore, Nikola Tesla was not good at designing electrical systems."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a mechanical engineer, then you must be good at designing mechanical systems",
+            " James Watt was a mechanical engineer"
+        ],
+        "Hypothesis": [
+            "Therefore, James Watt was good at designing mechanical systems."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a chemical engineer, then you must be good at designing chemical processes",
+            " George Washington Carver was a chemical engineer"
+        ],
+        "Hypothesis": [
+            "Therefore, George Washington Carver was bad at designing chemical processes."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If you're a dog, then you must like to eat bones",
+            " Rover is a dog"
+        ],
+        "Hypothesis": [
+            "Therefore, Rover hates to eat bones."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If it's cold outside, then I need to wear a coat",
+            " It's cold outside"
+        ],
+        "Hypothesis": [
+            "Therefore, I need not wear a coat."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I have a test tomorrow, then I need to study tonight",
+            " I have a test tomorrow"
+        ],
+        "Hypothesis": [
+            "Therefore, I do not have to study tonight."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If I am sick, then I need to see a doctor",
+            " I am sick"
+        ],
+        "Hypothesis": [
+            "Therefore, I do not need to see a doctor."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

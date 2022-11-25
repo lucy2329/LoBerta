@@ -1,0 +1,802 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I graduate from college, I will get a job.",
+            "If I fail a class, I have to retake it.",
+            "Either I will not get a job or I will not have to retake a class."
+        ],
+        "Hypothesis": [
+            "Therefore, I will not graduate from college or I will not fail a class."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I put my pencil on the inclined plane, then it will roll off.",
+            "If I put my plate on the table, then dinner will be served.",
+            "Either the pencil will not roll off or the dinner will not be served."
+        ],
+        "Hypothesis": [
+            "Either I do not put my pencil on the inclined plane or I put my plate on the table."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I put the blanket on the couch, then the cat will sleep there.",
+            "If I put the remote on the couch, then I will watch TV.",
+            "Either the cat will not sleep on the couch or I will not watch TV."
+        ],
+        "Hypothesis": [
+            "Either I do not put the blanket on the couch or I do not put the remote on the couch."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I wear my scarf around the neck, I will look stylish.",
+            "If I cover myself with the blanket, then I will sleep warm.",
+            "Either I will not look stylish or I will not sleep warm."
+        ],
+        "Hypothesis": [
+            "I don't go to the school tomorrow."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I set the thermostat to 68 degrees, then the house will be comfortable.",
+            "If I eat a banana, then I will get energy.",
+            "Either the house will not be comfortable or I will not get energy."
+        ],
+        "Hypothesis": [
+            "Either I do not set the thermostat to 68 degrees or I do not eat a banana."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I put my shoes on, then I will go outside.",
+            "If I eat an apple, then I will get the nutrition.",
+            "Either I will not go outside or I will not get nutrition."
+        ],
+        "Hypothesis": [
+            "Either I do not put my shoes on or I make apple juice."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I put my candy wrapper on the desk, then the teacher will see it.",
+            "If I do my homework, then I will get a good grade.",
+            "Either the teacher will not see it or I will not get a good grade."
+        ],
+        "Hypothesis": [
+            "Either I do not put my candy wrapper on the desk or I do not do my homework."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I eat chocolate, then I will get energy.",
+            "If I have money, then I can buy a house.",
+            "Either I will not get energy or I will not buy a house."
+        ],
+        "Hypothesis": [
+            "I do not eat chocolate."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I stop at the red light, then I will not get a ticket.",
+            "If I swim in the pool, then I will get wet.",
+            "Either I will not get a ticket or I will not get wet."
+        ],
+        "Hypothesis": [
+            "Either I do not stop at the red light or I do not swim in the pool."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I watch cricket, then I will be bored.",
+            "If I watch baseball, then I will be entertained.",
+            "Either I will not be bored or I will not be entertained."
+        ],
+        "Hypothesis": [
+            "Either I do not watch cricket or I do not play baseball."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use my charger, then my phone will have power.",
+            "If I eat food, then I will be nourished.",
+            "Either my phone will not have power or I will not be nourished."
+        ],
+        "Hypothesis": [
+            "Either I do not use my charger or I do not eat food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If there are street lights, then it is nighttime.",
+            "If it is nighttime, then I should not use my laptop.",
+            "Either it is not nighttime or I should not use my laptop."
+        ],
+        "Hypothesis": [
+            "Either there are no street lights or I should not use my laptop."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a hair brush, then my hair will be smooth.",
+            "If I use scotch tape, then my paper will be stuck together.",
+            "Either my hair will not be smooth or my paper will not be stuck together."
+        ],
+        "Hypothesis": [
+            "Either I do not use a hair brush or the paper will be stuck together."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I light a candle, then I will be able to see.",
+            "If I use a bookmark, then I will be able to find my place.",
+            "Either I will not be able to see or I will not be able to find my place."
+        ],
+        "Hypothesis": [
+            "I buy some bookmarks from the store."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use nail clippers, then my nails will be short.",
+            "If I drink milk, then I will be healthy.",
+            "Either my nails will not be short or I will not be healthy."
+        ],
+        "Hypothesis": [
+            "Either I do not use nail clippers or I do not drink milk."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I put my desk in the living room, then my parents will see it.",
+            "If I use scotch tape, then my paper will be stuck together.",
+            "Either my parents will not see the table or my paper will not be stuck together."
+        ],
+        "Hypothesis": [
+            "Either I do not put my desk in the living room or I do not use scotch tape."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If there is a puddle, then I will avoid it.",
+            "If I use packing peanuts, then my box will be filled.",
+            "Either I will not avoid the puddle or my box will not be filled."
+        ],
+        "Hypothesis": [
+            "The puddle is half-full with water."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I wear glasses, then I will be able to see.",
+            "If I wear eyeliner, then I will look pretty.",
+            "Either I will not be able to see or I will not look pretty."
+        ],
+        "Hypothesis": [
+            "Either I do not wear glasses or I wear eyeliner."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use shampoo, then my hair will be clean.",
+            "If I use conditioner, then my hair will be soft.",
+            "Either my hair will not be clean or my hair will not be soft."
+        ],
+        "Hypothesis": [
+            "Either I do not use shampoo or I do not use conditioner."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use tweezers, then I will be able to pluck my eyebrows.",
+            "If I use a cinder block, then I will be able to build a wall.",
+            "Either I will not be able to pluck my eyebrows or I will not be able to build a wall."
+        ],
+        "Hypothesis": [
+            "Either I use tweezers or I do not use a cinder block."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a cork, then I will be able to stop the wine from spilling.",
+            "If I use a bookmark, then I will not have to remember the page number.",
+            "Either the wine will not spill or I will have to remember the page."
+        ],
+        "Hypothesis": [
+            "Either I do not use a cork or I do not use a bookmark."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a spoon, then I can eat soup.",
+            "If I use olive oil, then I can cook pasta.",
+            "Either I cannot eat soup or I cannot cook pasta."
+        ],
+        "Hypothesis": [
+            "I did not like the pasta I made."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a glow stick, then I will be able to see in the dark.",
+            "If I use a cookie jar, then I will be able to store cookies.",
+            "Either I will not be able to see in the dark or I will not be able to store cookies."
+        ],
+        "Hypothesis": [
+            "Either I do not use a glow stick or I do not use a cookie jar."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a zipper, then I can close my jacket.",
+            "If I use a sponge, then I can clean the kitchen counter.",
+            "Either my jacket will not be closed or the kitchen counter will not be clean."
+        ],
+        "Hypothesis": [
+            "Either I use a laptop or I do not use a sponge."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a buckle, then I can close my belt.",
+            "If I use paper, then I can write a letter.",
+            "Either my belt will not be closed or I will not be able to write a letter."
+        ],
+        "Hypothesis": [
+            "The belt did not have a buckle of my liking."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a fork, then I can eat my food.",
+            "If I use a toothpick, then I can pick my teeth.",
+            "Either I will not be able to eat my food or I will not be able to pick my teeth."
+        ],
+        "Hypothesis": [
+            "I did not like the food at the restaurant."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a plate, then I can eat my food.",
+            "If I use a balloon, then I can decorate the room.",
+            "Either I will not be able to eat my food or the room will not be decorated."
+        ],
+        "Hypothesis": [
+            "Either I do not use a plate or I do not use a balloon."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use bread, then I can make a sandwich.",
+            "If I use a photo album, then I can store my pictures.",
+            "Either I will not be able to make a sandwich or I will not be able to store my pictures."
+        ],
+        "Hypothesis": [
+            "I played jetpack joyride on my mobile phone."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a pencil, then I can write.",
+            "If I use a notebook, then I can take notes.",
+            "Either I will not be able to write or I will not be able to take notes."
+        ],
+        "Hypothesis": [
+            "Either I do not use a pencil or I do not use a notebook."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a button, then I can close my shirt.",
+            "If I use a screw, then I can hold my furniture together.",
+            "Either my shirt will not be closed or my furniture will not be held together."
+        ],
+        "Hypothesis": [
+            "Either I use a button or I use a screw."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use face wash, then I can clean my face.",
+            "If I use a sandal, then I can wear it on my feet.",
+            "Either my face will not be clean or I will not be able to wear sandals on my feet."
+        ],
+        "Hypothesis": [
+            "Either I do not use face wash or I do not use a sandal."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a computer, then I can type.",
+            "If I use a needle, then I can sew.",
+            "Either I will not be able to type or I will not be able to sew."
+        ],
+        "Hypothesis": [
+            "I do not use a needle."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use clothes, then I can wear them.",
+            "If I buy a cat, then I can pet it.",
+            "Either I will not be able to wear clothes or I will not be able to pet a cat."
+        ],
+        "Hypothesis": [
+            "Either I do not use clothes or I do not buy a cat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a towel, then I can dry myself off.",
+            "If I use speakers, then I can listen to music.",
+            "Either I will not be able to dry myself off or I will not be able to listen to music."
+        ],
+        "Hypothesis": [
+            "Either I do not use a towel or I use the speakers."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a glass, then I can drink from it.",
+            "If I use a pitcher, then I can pour from it.",
+            "Either I will not be able to drink from the glass or I will not be able to pour from the pitcher."
+        ],
+        "Hypothesis": [
+            "Either I do not use a glass or I do not use a pitcher."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use an eraser, then I can erase something.",
+            "If I use a mop, then I can clean the floor.",
+            "Either I will not be able to erase something or I will not be able to clean the floor."
+        ],
+        "Hypothesis": [
+            "Either I do not use an eraser or I do not use a mop."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a lamp, then I can see in the dark.",
+            "If I use a book, then I can read it.",
+            "Either I will not be able to see in the dark or I will not be able to read the book."
+        ],
+        "Hypothesis": [
+            "The lamp had yellow lighting for easy reading."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a wishbone, then I can make a wish.",
+            "If I use markers, then I can color.",
+            "Either my wish will not come true or I will not be able to color."
+        ],
+        "Hypothesis": [
+            "Either I do not use a wishbone or I do not use markers."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a remote, then I can change the channel.",
+            "If I use batteries, then I can power the remote.",
+            "Either I will not be able to change the channel or I will not be able to power the remote."
+        ],
+        "Hypothesis": [
+            "Either I do not use a remote or I do not use batteries."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a knife, then I can cut something.",
+            "If I climb a plane, then I can fly.",
+            "Either I will not be able to cut something or I will not be able to fly."
+        ],
+        "Hypothesis": [
+            "I use a knife."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use playing cards, then I can gamble.",
+            "If I use a pair of handcuffs, then I can arrest someone.",
+            "Either I will not be able to gamble or I will not be able to arrest someone."
+        ],
+        "Hypothesis": [
+            "Either I do not use playing cards or I do not use a pair of handcuffs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a bow, then I can shoot an arrow.",
+            "If I use sand paper, then I can smooth something.",
+            "Either I will not be able to shoot an arrow or I will not be able to smooth something."
+        ],
+        "Hypothesis": [
+            "I use a bow and sand paper."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a pencil, then I can write.",
+            "If I use a drum, then I can compose songs.",
+            "Either I will not be able to write or I will not be able to compose songs."
+        ],
+        "Hypothesis": [
+            "Either I do not use a pencil or I do not use a drum."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use a locker, then I can store my things.",
+            "If I have carrots, then I can eat them.",
+            "Either I will not be able to store my things or I will not be able to eat carrots."
+        ],
+        "Hypothesis": [
+            "Either I do not use a locker or I have carrots."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use cheese, then I can eat it.",
+            "If I use an almirah, then I can store my things.",
+            "Either I will not be able to eat cheese or I will not be able to store my things."
+        ],
+        "Hypothesis": [
+            "Either I do not use cheese or I do not use an almirah."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I have oranges, then I can eat them.",
+            "If I have popcorn, then I can sell it.",
+            "Either I will not be able to eat oranges or I will not be able to sell popcorn."
+        ],
+        "Hypothesis": [
+            "I finished eating all the apples."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I have a soccer ball, then I can play soccer.",
+            "If I have a teddy bear, then I can sleep with it.",
+            "Either I will not be able to play soccer or I will not be able to sleep with the teddy bear."
+        ],
+        "Hypothesis": [
+            "Either I do not have a soccer ball or I do not have a teddy bear."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I have ice cream, then I can eat it.",
+            "If I have a calculator, then I can do math.",
+            "Either I will not be able to eat ice cream or I will not be able to do math."
+        ],
+        "Hypothesis": [
+            "I have ice cream and a calculator."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I use hula hoops, then I can exercise.",
+            "If I use water cans, then I can water the plants.",
+            "Either I will not be able to exercise or I will not be able to water the plants."
+        ],
+        "Hypothesis": [
+            "Either I do not use hula hoops or I do not use water cans."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I have a tower near my house, then I will get good reception.",
+            "If I recycle waste, then I can help the environment.",
+            "Either I will not get good reception or I will not be able to help the environment."
+        ],
+        "Hypothesis": [
+            "Either I do not have a tower near my house or I recycle waste."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

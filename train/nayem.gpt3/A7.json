@@ -1,0 +1,797 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Healthy people are normally happy.",
+            "At least one healthy people are not happy."
+        ],
+        "Hypothesis": [
+            "Exactly one healthy people are not happy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "First three finishers will get prizes for completing a race.",
+            "At least one or more racers will not get the prize."
+        ],
+        "Hypothesis": [
+            "Exactly one or more racers will not finish in the first three places."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There is a secret meeting between John and Jane.",
+            "At least one person knows about the meeting."
+        ],
+        "Hypothesis": [
+            "Exactly one person knows about the meeting."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only adults can vote in this election.",
+            "At least one child will vote in this election."
+        ],
+        "Hypothesis": [
+            "Exactly one child will vote in this election."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone in this class will get an A.",
+            "At least one person in this class will not get an A."
+        ],
+        "Hypothesis": [
+            "Exactly one person in this class will not get an A."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one can fail this class.",
+            "At least one person will fail this class."
+        ],
+        "Hypothesis": [
+            "Exactly one person will fail this class."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There are three people in this room.",
+            "At least one person in this room is not telling the truth."
+        ],
+        "Hypothesis": [
+            "Exactly one person in this room is not telling the truth."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "You must answer all of the questions on this test.",
+            "At least one question on this test will not be answered."
+        ],
+        "Hypothesis": [
+            "Exactly one question on this test will not be answered."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone in this room will get an A on this test.",
+            "At least one person in this room will not get an A on this test."
+        ],
+        "Hypothesis": [
+            "Exactly one person in this room will not get an A on this test."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one will get an A on this test.",
+            "At least one person will get an A on this test."
+        ],
+        "Hypothesis": [
+            "Exactly one person will get an A on this test."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There are three people in this room.",
+            "At least one person in this room is not telling the truth."
+        ],
+        "Hypothesis": [
+            "Exactly one person in this room is not telling the truth."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "You must answer all of the questions on this test.",
+            "At least one question on this test will not be answered."
+        ],
+        "Hypothesis": [
+            "Exactly one question on this test will not be answered."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There is a secret meeting between John and Jane.",
+            "At least one person knows about the meeting."
+        ],
+        "Hypothesis": [
+            "Exactly one person knows about the meeting."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only adults can vote in this election.",
+            "At least one child will vote in this election."
+        ],
+        "Hypothesis": [
+            "Exactly one child will vote in this election."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone in this class will get an A.",
+            "At least one person in this class will not get an A."
+        ],
+        "Hypothesis": [
+            "Exactly one person in this class will not get an A."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Either it will rain tomorrow or it will not.",
+            "At least one person believes that it will rain tomorrow."
+        ],
+        "Hypothesis": [
+            "Exactly one person believes that it will rain tomorrow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one knows the answer to this question.",
+            "At least one person knows the answer to this question."
+        ],
+        "Hypothesis": [
+            "Exactly one person knows the answer to this question."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone in this class will get an A.",
+            "At least one person in this class will get an A."
+        ],
+        "Hypothesis": [
+            "Exactly one person in this class will get an A."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "John will attend the meeting.",
+            "At least one person will not attend the meeting."
+        ],
+        "Hypothesis": [
+            "Exactly one person will not attend the meeting."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Either it will rain tomorrow or it will not.",
+            "At least one person believes that it will not rain tomorrow."
+        ],
+        "Hypothesis": [
+            "Exactly one person believes that it will not rain tomorrow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only adults can vote in this election.",
+            "At least one adult will not vote in this election."
+        ],
+        "Hypothesis": [
+            "Exactly one adult will vote in this election."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There is a secret meeting between John and Jane.",
+            "At least one person does not know about the meeting."
+        ],
+        "Hypothesis": [
+            "Exactly one person does know about the meeting."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one knows the answer to this question.",
+            "At least one person knows the answer to this question."
+        ],
+        "Hypothesis": [
+            "Exactly one person don't know the answer to this question."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Either it will rain tomorrow or it will not.",
+            "At least one person believes that it will rain tomorrow."
+        ],
+        "Hypothesis": [
+            "Exactly one person believes that it will rain today."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only adults can vote in this election.",
+            "At least one child will not vote in this election."
+        ],
+        "Hypothesis": [
+            "Exactly one child will vote in this election."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There is a secret meeting between John and Jane.",
+            "At least one person knows about the meeting."
+        ],
+        "Hypothesis": [
+            "Exactly one person knows about the trip."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only adults can vote in this election.",
+            "At least one adult will not vote in this election."
+        ],
+        "Hypothesis": [
+            "Exactly one adult will vote in this election."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There is a secret meeting between John and Jane.",
+            "At least one person does not know about the meeting."
+        ],
+        "Hypothesis": [
+            "Exactly one person does know about the meeting."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one knows the answer to this question.",
+            "At least one person knows the answer to this question."
+        ],
+        "Hypothesis": [
+            "Exactly one person knows the answer to this answer."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only students can take this class.",
+            "At least one student will not take this class."
+        ],
+        "Hypothesis": [
+            "Exactly one student will take this class."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone will pass this test.",
+            "At least one person will not pass this test."
+        ],
+        "Hypothesis": [
+            "Exactly one person will pass this test."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one can solve this problem.",
+            "At least one person can solve this problem."
+        ],
+        "Hypothesis": [
+            "Exactly one person can not solve this problem."
+        ],
+        "Label": [
+            "Flase"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one can do this.",
+            "At least one person can do this."
+        ],
+        "Hypothesis": [
+            "Exactly one person can not do this."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone will fail this test.",
+            "At least one person will pass this test."
+        ],
+        "Hypothesis": [
+            "Exactly one person will fail this test."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one can answer this question.",
+            "At least one person can answer this question."
+        ],
+        "Hypothesis": [
+            "Exactly one person can not answer this question."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only John can answer this question.",
+            "At least one person cannot answer this question."
+        ],
+        "Hypothesis": [
+            "Exactly one person can answer this question."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "A and B can do this.",
+            "At least one of A and B cannot do this."
+        ],
+        "Hypothesis": [
+            "Exactly one of X and Y cannot do this."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only students who have completed the course can answer this question.",
+            "At least one student who has not completed the course can answer this question."
+        ],
+        "Hypothesis": [
+            "Exactly one student who has completed the course can answer this question."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only doctors can answer this question.",
+            "At least one non-doctor can answer this question."
+        ],
+        "Hypothesis": [
+            "Only one doctor can answer this question."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only scientists can answer this question.",
+            "At least one non-scientist can answer this question."
+        ],
+        "Hypothesis": [
+            "Exactly one non-scientist can answer this question."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only historians can answer this question.",
+            "At least one non-historian can answer this question."
+        ],
+        "Hypothesis": [
+            "Exactly one historian can answer this question."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Only people with a PhD can answer this question.",
+            "At least one person without a PhD can answer this question."
+        ],
+        "Hypothesis": [
+            "Exactly one person without a PhD can answer this question."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one can solve this problem.",
+            "At least one person can solve this problem."
+        ],
+        "Hypothesis": [
+            "Exactly one person can solve this problem."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Some people like dogs.",
+            "At least one person likes dogs."
+        ],
+        "Hypothesis": [
+            "Exactly one person does not like dogs."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone will get an A on this test.",
+            "At least one person will get an A on this test."
+        ],
+        "Hypothesis": [
+            "Exactly one person will get a B on this test."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one can solve this problem.",
+            "At least one person can solve this problem."
+        ],
+        "Hypothesis": [
+            "Exactly one person can solve this problem."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Some people like cats.",
+            "At least one person likes cats."
+        ],
+        "Hypothesis": [
+            "Exactly one person does not like cats."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "Everyone will get an A on this test.",
+            "At least one person will get an A on this test."
+        ],
+        "Hypothesis": [
+            "Most persons will get a B on this test."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "All of the candy will be gone soon.",
+            "At least one piece of candy will still be available."
+        ],
+        "Hypothesis": [
+            "Exactly one piece of candy will not still be available."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There are no good movies playing right now.",
+            "At least one good movie is playing right now."
+        ],
+        "Hypothesis": [
+            "Exactly one good music is playing right now."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "All of the candy will be gone soon.",
+            "At least one piece of candy will still be available."
+        ],
+        "Hypothesis": [
+            "Exactly one piece of bread will still be available."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "There are no good movies playing right now.",
+            "At least one good movie is playing right now."
+        ],
+        "Hypothesis": [
+            "Exactly one good movie is not playing right now."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+            "No one will be able to solve this puzzle.",
+            "At least one person will be able to solve this puzzle."
+        ],
+        "Hypothesis": [
+            "Exactly one person will not be able to solve this puzzle."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

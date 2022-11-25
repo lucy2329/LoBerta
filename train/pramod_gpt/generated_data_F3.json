@@ -1,0 +1,698 @@
+[
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some animals which live in the water bodies have gills to breathe.",
+            "Fish is an animal.",
+            "Fish have gills to breathe."
+        ],
+        "Hypothesis": [
+            "Fish don't need food to survive."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some animals are dangerous.",
+            "Penguins are not dangerous.",
+            "Penguins are animals."
+        ],
+        "Hypothesis": [
+            "No conclusion can be drawn from the given information."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some pens write in blue color.",
+            "If a pen writes in blue color, school children can use it.",
+            "This pen writes in blue color."
+        ],
+        "Hypothesis": [
+            "This pen can be used by the school children."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some bridges are made of concrete.",
+            "The Golden Gate Bridge is a bridge.",
+            "The Golden Gate Bridge is made of concrete."
+        ],
+        "Hypothesis": [
+            "The Golden Gate Bridge is a concrete bridge."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some water bottles are made of plastic.",
+            "The water bottle I'm drinking from is made of plastic."
+        ],
+        "Hypothesis": [
+            "The water bottle I'm drinking from is a water bottle."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A picture is worth a thousand words.",
+            "This is a picture of my family."
+        ],
+        "Hypothesis": [
+            "This is a picture of my family worth a thousand words."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A vehicle has wheels.",
+            "Car is a form of a vehicle."
+        ],
+        "Hypothesis": [
+            "A car has wheels."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A computer has a monitor.",
+            "A laptop is a form of a computer."
+        ],
+        "Hypothesis": [
+            "A laptop has a monitor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A wall is a structure that usually divides two areas.",
+            "A wall is often made of concrete.",
+            "This wall is made of concrete.",
+            "This structure divides two areas."
+        ],
+        "Hypothesis": [
+            "This is a wall."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Einstein's theory of relativity is a scientific theory.",
+            "A scientific theory is a logical explanation of observations.",
+            "Einstein's theory of relativity is a logical explanation of observations."
+        ],
+        "Hypothesis": [
+            "Einstein's theory of relativity is a scientific theory."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A corporation is a legal entity created by a group of individuals.",
+            "A corporation is owned by its shareholders.",
+            "This company is a corporation."
+        ],
+        "Hypothesis": [
+            "This company is owned by its shareholders."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some food items are cooked in a microwave.",
+            "A microwave is a device that uses electromagnetic radiation to heat food.",
+            "This food item was not cooked in a microwave."
+        ],
+        "Hypothesis": [
+            "This food item was heated by a device that uses electromagnetic radiation."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some paintings are made with oil paint.",
+            "Oil paint is a type of paint that consists of pigments suspended in a drying oil.",
+            "This painting was not made with oil paint."
+        ],
+        "Hypothesis": [
+            "This painting was made with a type of paint that consists of pigments suspended in a drying oil."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Julius Caesar was assassinated by Marcus Brutus.",
+            "Marcus Brutus was a Roman politician."
+        ],
+        "Hypothesis": [
+            "Julius Caesar was not assassinated by a Roman politician."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some machine learning algorithms are designed for image classification.",
+            "Image classification is a process of assigning a label to an image.",
+            "This machine learning algorithm was not designed for image classification."
+        ],
+        "Hypothesis": [
+            "This machine learning algorithm was designed for the process of assigning a label to an image."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some countries are located on the African continent.",
+            "The African continent is located on the planet Earth.",
+            "This country is not located on the African continent."
+        ],
+        "Hypothesis": [
+            "This country is located on the planet Earth."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Ed Sheeran is a person.",
+            "Singers are people who sing."
+        ],
+        "Hypothesis": [
+            "Ed Sheeran is a singer."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Eminem is a person.",
+            "Rappers are people who rap.",
+            "Eminem can rap."
+        ],
+        "Hypothesis": [
+            "Eminem is a rapper."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A table is a piece of furniture.",
+            "A piece of furniture is an object that is used for a particular purpose.",
+            "This table was not made for a particular purpose."
+        ],
+        "Hypothesis": [
+            "This table was not made to be used as a piece of furniture."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "If all is well, then everything is fine.",
+            "Everything is not fine."
+        ],
+        "Hypothesis": [
+            "All is not well."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "An umbrella is a device that is used to protect against rain.",
+            "This device was not used to protect against the rain."
+        ],
+        "Hypothesis": [
+            "This is not an umbrella."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some foods are considered healthy.",
+            "Healthy foods are foods that are low in calories.",
+            "This food is not considered healthy."
+        ],
+        "Hypothesis": [
+            "This food is high in calories."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "A potato is a type of vegetable.",
+            "Vegetables are healthy for you."
+        ],
+        "Hypothesis": [
+            "Potatoes are not healthy for you."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Headphones are a type of audio device.",
+            "This device was not designed to produce sound."
+        ],
+        "Hypothesis": [
+            "This device was not designed to be used as headphones."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some electronic devices need an adapter to work in foreign countries.",
+            "My laptop is an electronic device.",
+            "Japan is a foreign country."
+        ],
+        "Hypothesis": [
+            "My laptop is a device that needs an adapter to work in Japan."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some integers are whole numbers.",
+            "If an integer is not negative, then the number is a whole number.",
+            "This integer is not negative."
+        ],
+        "Hypothesis": [
+            "This integer is a whole number."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some integers are whole numbers.",
+            "If an integer is not negative, then the number is a whole number.",
+            "This integer is negative."
+        ],
+        "Hypothesis": [
+            "This integer is not a whole number."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some politicians are liars.",
+            "If a person is a liar, then that person is not to be trusted.",
+            "This politician is a liar."
+        ],
+        "Hypothesis": [
+            "This politician is not to be trusted."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some people need to sleep in order to function properly.",
+            "If a person has slept, they will function properly.",
+            "This person has slept."
+        ],
+        "Hypothesis": [
+            "This person will not function properly."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some electronic devices need a fan to cool them down.",
+            "An electronic device needs a fan to cool down if they get heated.",
+            "This electronic device gets heated."
+        ],
+        "Hypothesis": [
+            "This electronic device needs a fan to cool down."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Some food items are wrapped in wrappers.",
+            "Candy is a type of food."
+        ],
+        "Hypothesis": [
+            "Candy wrappers can be used to wrap food."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Milk is a type of liquid.",
+            "Some liquids are drinkable."
+        ],
+        "Hypothesis": [
+            "Milk is a drinkable liquid."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Paper is a type of material.",
+            "Some materials are flammable."
+        ],
+        "Hypothesis": [
+            "Paper is a flammable material."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Slippers are a type of footwear.",
+            "Some footwear is meant to be worn indoors."
+        ],
+        "Hypothesis": [
+            "Slipper are footwear that are meant to be worn indoors."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Scotch tape is a type of adhesive.",
+            "Some adhesives are used to attach two pieces of paper together."
+        ],
+        "Hypothesis": [
+            "Scotch tape can be used to attach two pieces of paper together."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Radios are a type of electronic device.",
+            "Some electronic devices use batteries."
+        ],
+        "Hypothesis": [
+            "Radios are electronic devices that use batteries."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Apples are a type of fruit.",
+            "Some fruits are red."
+        ],
+        "Hypothesis": [
+            "Apples are red fruits."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Broccoli is a type of vegetable.",
+            "Some vegetables can be eaten raw."
+        ],
+        "Hypothesis": [
+            "Broccoli is a vegetable that can be eaten raw."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Pillows are a type of bedding.",
+            "Some bedding is made of feathers."
+        ],
+        "Hypothesis": [
+            "Pillows are bedding that is made of feathers."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Coasters are a type of drinkware.",
+            "Some drinkware is used to protect surfaces from condensation."
+        ],
+        "Hypothesis": [
+            "Coasters are drinkware that is used to protect surfaces from condensation."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Mirrors are a type of reflective surface.",
+            "Some reflective surfaces are used to see oneself."
+        ],
+        "Hypothesis": [
+            "Mirrors are not reflective surfaces that are used to see oneself."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Rubber bands are a type of elastic.",
+            "Some elastics are used to hold things together."
+        ],
+        "Hypothesis": [
+            "Rubber bands are a non-elastic material."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Lip gloss is a type of cosmetic.",
+            "Some cosmetics are used to add color to the lips."
+        ],
+        "Hypothesis": [
+            "Lip gloss can be purchased in the store next to the medical shop."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Bookmarks are a type of reading accessory.",
+            "Some reading accessories are used to mark one's place in a book."
+        ],
+        "Hypothesis": [
+            "Bookmarks are made using cardboard material."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+            "Glass is a type of material.",
+            "Some materials are transparent."
+        ],
+        "Hypothesis": [
+            "Glass is an opaque material."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

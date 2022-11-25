@@ -1,0 +1,59 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the seats open for a course, a student will take up the course.",
+            "If John sees open seats for AI or NLP when he is looking for a course, he will take up the course.",
+            "John is currently looking for a course."
+        ],
+        "Hypothesis": [
+            "After John sees that seats are available for both AI and NLP, he would have taken up one of the courses."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When a person is offered admission to a university, then the person can accept or decline the admission.",
+            "If a person decides to accept the admission, then they become a student.",
+            "James has received admission to Stanford and Berkeley.",
+            "James is willing to accept the admission."
+        ],
+        "Hypothesis": [
+            "After James is offered admission at Stanford and Berkeley, he is now a student either at Stanford or Berkeley."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Reasoning About the unknown order of actions",
+        "logic_type_code": "D7",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "One item is closer to the robot than the other.",
+            "If the robot's hand is empty, it will pick up the item.",
+            "When the robot picks up an item, it will place the item in its storage space.",
+            "Currently, the storage space of the robot is completely empty.",
+            "Currently, there are two items on the floor.",
+            "Currently, the robot's hand is empty."
+        ],
+        "Hypothesis": [
+            "The robot either picked up the closer item first.",
+            "The robot either picked up the closer item first or the further item first."
+        ],
+        "Label": [
+            "Undetermined",
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+
+[
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "All guns that are a long range rifles will use 75mm bullets.",
+      "KAR-98 is a rifle type gun"
+    ],
+    "Hypothesis": [
+      "The KAR-98 rifle uses 75mm bullets."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "All felines under 100 pounds can be domesticated.",
+      "Cats are felines."
+    ],
+    "Hypothesis": [
+      "Cats are felines under 100 pounds and are domesticated."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "All SUVs type cars have large storage spaces.",
+      "All SUVs have four wheel drive.",
+      "Toyota's Innova is a SUV."
+    ],
+    "Hypothesis": [
+      "The Toyota's Innova is an SUV has a large storage space.",
+      "The Toyota's Innova does not have a four wheel drive."
+    ],
+    "Label": [
+      "True",
+      "False"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "All Apple handsets are always deisgned in Palo Alto California.",
+      "Apple handsets do not have an earphone jack.",
+      "iPhone 14 is an Apple handset."
+    ],
+    "Hypothesis": [
+      "The iPhone 14 handset is designed in Palo Alto California and does not have a earphone jack."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens",
+    "logic_type_code": "F5",
+    "Premise": [
+      "Ram likes all kind of sweets.",
+      "Sweets are made with sugar.",
+      "Donut is a type of sweet."
+    ],
+    "Hypothesis": [
+      "Ram likes donuts",
+      "Donuts have sugar in them."
+    ],
+    "Label": [
+      "True",
+      "True"
+    ]
+  }
+
+]
+  

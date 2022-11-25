@@ -1,0 +1,702 @@
+[
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Luke got good marks in English"
+        ],
+        "Hypothesis": [
+            "Therefore, someone got good marks in English."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Mia in Mrs. Nguyen's third period class failed the quiz."
+        ],
+        "Hypothesis": [
+            "Some of the students in Mrs. Nguyen's third period class failed the quiz."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person who goes to the gym regularly is in good shape."
+        ],
+        "Hypothesis": [
+            "Some people who go to the gym regularly are in good shape."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "The moon orbits around Earth."
+        ],
+        "Hypothesis": [
+            "Some celestial bodies orbit around other celestial bodies."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Mammals have fur."
+        ],
+        "Hypothesis": [
+            "Some mammals have fur."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Numbers greater than zero is a positive number."
+        ],
+        "Hypothesis": [
+            "Some numbers greater than zero are positive numbers."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every triangle has three sides."
+        ],
+        "Hypothesis": [
+            "Some triangles have three sides."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person needs oxygen to live."
+        ],
+        "Hypothesis": [
+            "Some people need oxygen to live."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every animal is a living creature."
+        ],
+        "Hypothesis": [
+            "Some animals are living creatures."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every mammal breathes air."
+        ],
+        "Hypothesis": [
+            "Some mammals breathe air."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "solids has a definite shape."
+        ],
+        "Hypothesis": [
+            "Some solids have a definite shape."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "gases expand to fill its container."
+        ],
+        "Hypothesis": [
+            "Some gases expand to fill their container."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "liquids has a definite volume."
+        ],
+        "Hypothesis": [
+            "Some liquids have a definite volume."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "objects in motion will eventually come to a stop."
+        ],
+        "Hypothesis": [
+            "Some objects in motion will eventually come to a stop."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every action has an equal and opposite reaction."
+        ],
+        "Hypothesis": [
+            "Some actions have an equal and opposite reaction."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every force has a cause."
+        ],
+        "Hypothesis": [
+            "Some forces have a cause."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "The hydrogen element on the periodic table is a chemical element."
+        ],
+        "Hypothesis": [
+            "Some elements on the periodic table are chemical elements."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every number is either a prime number or a composite number."
+        ],
+        "Hypothesis": [
+            "Some numbers are either prime numbers or composite numbers."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person is either male or female."
+        ],
+        "Hypothesis": [
+            "Some people are either male or female."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Dogs are either a vertebrate or an invertebrate."
+        ],
+        "Hypothesis": [
+            "Some dogs are either vertebrates or invertebrates."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every plant is either a flowering plant or a nonflowering plant."
+        ],
+        "Hypothesis": [
+            "Some plants are either flowering plants or nonflowering plants."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every object is either a solid, a liquid, or a gas."
+        ],
+        "Hypothesis": [
+            "Some objects are either solid, liquid, or gas."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every substance is either an acid or a base."
+        ],
+        "Hypothesis": [
+            "Some substances are either acids or bases."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every planet is either a gas giant or a terrestrial planet."
+        ],
+        "Hypothesis": [
+            "Some planets are either gas giants or terrestrial planets."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every star is either a main sequence star or a post-main sequence star."
+        ],
+        "Hypothesis": [
+            "Some stars are either main sequence stars or post-main sequence stars."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every galaxy is either an elliptical galaxy or a spiral galaxy."
+        ],
+        "Hypothesis": [
+            "Some galaxies are either elliptical galaxies or spiral galaxies."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every light source is either a point source or an extended source."
+        ],
+        "Hypothesis": [
+            "Some light sources are either point sources or extended sources."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every image is either a real image or a virtual image."
+        ],
+        "Hypothesis": [
+            "Some images are either real images or virtual images."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every sound is either a pure tone or a complex tone."
+        ],
+        "Hypothesis": [
+            "Some sounds are either pure tones or complex tones."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every note is either a pitch or a timbre."
+        ],
+        "Hypothesis": [
+            "Some notes are either pitches or timbres."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every chord is either a major chord or a minor chord."
+        ],
+        "Hypothesis": [
+            "Some chords are either major chords or minor chords."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every form is either a binary form or a ternary form."
+        ],
+        "Hypothesis": [
+            "Some forms are either binary forms or ternary forms."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every living thing needs food to survive."
+        ],
+        "Hypothesis": [
+            "Some living things need food to survive."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every plant needs sunlight to grow."
+        ],
+        "Hypothesis": [
+            "Some plants need sunlight to grow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person needs to drink water to live."
+        ],
+        "Hypothesis": [
+            "Some people need to drink water to live."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every number has a square root."
+        ],
+        "Hypothesis": [
+            "Some numbers have a square root."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every even number is a multiple of two."
+        ],
+        "Hypothesis": [
+            "Some even numbers are multiple of two."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every radioactive element is a chemical element."
+        ],
+        "Hypothesis": [
+            "Some radioactive elements are chemical elements."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "All insects have six legs."
+        ],
+        "Hypothesis": [
+            "Some insects have six legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every car needs gasoline to run."
+        ],
+        "Hypothesis": [
+            "Some cars need gasoline to run."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person who wants to vote must be 18 years old."
+        ],
+        "Hypothesis": [
+            "Some people who want to vote must be 18 years old."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person who drives a car needs a license."
+        ],
+        "Hypothesis": [
+            "Some people who drive a car need a license."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "All students who take the bus to school are late."
+        ],
+        "Hypothesis": [
+            "Some students who take the bus to school are late."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person who eats unhealthy food is overweight."
+        ],
+        "Hypothesis": [
+            "Some people who eat unhealthy food are overweight."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "All dogs like to play fetch."
+        ],
+        "Hypothesis": [
+            "Some dogs like to play fetch."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "The pizza in the fridge has expired."
+        ],
+        "Hypothesis": [
+            "Some of the food in the fridge is expired."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Every person who wants to join the army must be a citizen."
+        ],
+        "Hypothesis": [
+            "Some people who want to join the army must be a citizen."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "The chairs in this store are on sale."
+        ],
+        "Hypothesis": [
+            "Some of the furniture in this store is on sale."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Shawn needs a mortgage to buy a house."
+        ],
+        "Hypothesis": [
+            "Some people who want to buy a house need a mortgage."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Introduction",
+        "logic_type_code": "F4",
+        "Premise": [
+            "Macbooks in the lab are broken."
+        ],
+        "Hypothesis": [
+            "Some of the computers in the lab are broken."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

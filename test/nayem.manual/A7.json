@@ -1,0 +1,77 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+          "Healthy people are normally happy.",
+          "At least one healthy people are not happy."
+        ],
+        "Hypothesis": [
+          "Exactly one healthy people are not happy."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+          "First three finishers will get prizes for completing a race.",
+          "At least one or more racers will not get the prize."
+        ],
+        "Hypothesis": [
+          "Exactly one or more racers will not finish in the first three places."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+          "Most of the road accidents that occurred in last week are reported to the police.",
+          "At least one accident was not reported to the police in last week."
+        ],
+        "Hypothesis": [
+          "Exactly one accident was reported to the police last week."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+          "Students who submitted assignments before due are likely to get good grades.",
+          "At least one or more students will submit the assignment after the due date."
+        ],
+        "Hypothesis": [
+          "Most of the students will not get good grades."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions II",
+        "logic_type_code": "A7",
+        "Premise": [
+          "People go to sea beach in summer vacation.",
+          "At least one person did not go to the beach in summer vacation."
+        ],
+        "Hypothesis": [
+          "Many people did go hiking in summer vacation."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the sky is clear, it will not rain.",
+            "If Peter has some free time, then he will play golf.",
+            "It will not rain or Peter will not play golf."
+        ],
+        "Hypothesis": [
+            "The sky is not clear or Peter has no free time."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If there is a train to Phoenix, then we will go to Phoenix by train.",
+            "If the restaurant is open, then we will eat in the restaurant.",
+            "We did not come to Phoenix by train or we did not eat in the restaurant."
+        ],
+        "Hypothesis": [
+            "There was no train to Phoenix or the restaurant was not open."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the movie releases today, then he will watch it during the weekend.",
+            "If it does not rain today, then he will play cricket with his friends.",
+            "He will not watch the movie during the weekend or he will not play cricket with his friends."
+        ],
+        "Hypothesis": [
+            "The movie will not be released today or it will rain today."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I win the lottery, I will go on a world tour.",
+            "If my friend wins the lottery, he will build a place of worship with it.",
+            "Either I will not go on a world tour or my friend will not build a place of worship."
+        ],
+        "Hypothesis": [
+            "Therefore, I did not win the lottery or my friend did not win the lottery."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I come first in the race, I get a bicycle as a prize.",
+            "If my friend gets a promotion, then he will celebrate it with a party.",
+            "Either I do not get the bicycle as a prize or my friend does not celebrate his promotion with a party."
+        ],
+        "Hypothesis": [
+            "Therefore, either I do not come first in the race or my friend does not get the promotion."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

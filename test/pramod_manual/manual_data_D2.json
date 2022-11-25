@@ -1,0 +1,77 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot picks up a block, the block will be in its hand.",
+            "When the robot's hand is empty, it will pick up the block if the storage space of the robot is also empty.",
+            "After the block is in the robot's hand, it will place the block in its storage space.",
+            "Initially, the block is on the floor.",
+            "Initially, the robot's hand is empty."
+        ],
+        "Hypothesis": [
+            "The robot picked up the block and placed it in the storage space."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot picks up a block, the block will be in its hand.",
+            "If the storage space is empty, the robot will then pick up the block.",
+            "When the block is in the robot's hand, it will place the block in its storage space.",
+            "When the block is placed in the storage space, the robot will move toward the table.",
+            "Initially, the robot is on the floor.",
+            "Initially, the storage space of the robot is empty."
+        ],
+        "Hypothesis": [
+            "The robot picked up the block and placed it on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When George starts his journey to his office, he has to use his personal vehicle to reach the bus stop from his house.",
+            "When George reaches the bus stop, he will board the bus which goes to his office.",
+            "Initially, George is in his house."
+        ],
+        "Hypothesis": [
+            "George uses his personal vehicle to go to the bus stop and uses the bus to reach his office."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the sun sets, a sensor turns on in the robot.",
+            "When the sensor is on, the robot goes near the light switch.",
+            "If the light switch is off, the robot will turn it on.",
+            "Initially, the light switch is off.",
+            "Initially, the sun has not set."
+        ],
+        "Hypothesis": [
+            "After the sun sets, the robot will go near the light switch, and turn it on."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

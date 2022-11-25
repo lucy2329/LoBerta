@@ -1,0 +1,563 @@
+[
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Basic Default Reasoning",
+    "logic_type_code": "A1",
+    "Premise": [
+      "All used socks smell",
+      "Used socks are normally in the laundry basket",
+      "Dan kept a pair of sock on table"
+    ],
+    "Hypothesis": [
+      "Dan's socks don't smell"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Basic Default Reasoning",
+    "logic_type_code": "A1",
+    "Premise": [
+      "Jack usually goes to university by bike",
+      "Bikes can be used when roads are not flooded",
+      "Jack went to university by foot"
+    ],
+    "Hypothesis": [
+      "Roads are flooded"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+    {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Basic Default Reasoning",
+    "logic_type_code": "A1",
+    "Premise": [
+      "Football cannot be played in snow",
+      "It snowed last night"
+    ],
+    "Hypothesis": [
+      "Football is played today"
+    ],
+
+    "Label": [
+      "False"
+    ]
+
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Basic Default Reasoning",
+    "logic_type_code": "A1",
+    "Premise": [
+      "Phones usually work with chargers",
+      "Charger usually connect to wall socket",
+      "There are no wall sockets"
+    ],
+    "Hypothesis": [
+      "Phones does not work"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Basic Default Reasoning",
+    "logic_type_code": "A1",
+    "Premise": [
+      "All birds fly",
+      "Flying birds are usually light",
+      "Mark weighs 50kgs"
+    ],
+    "Hypothesis": [
+      "Mark is a bird"
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with irrelevant information",
+    "logic_type_code": "A2",
+    "Premise": [
+      "Poly and pam are birds",
+      "All birds fly",
+      "Poly is an emu",
+      "emu likes fish"
+    ],
+    "Hypothesis": [
+      "Pam is a bird"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with irrelevant information",
+    "logic_type_code": "A2",
+    "Premise": [
+      "Honda and Kia are cars",
+      "All cars run on petrol",
+      "Honda runs on biogas",
+      "Honda is an expensive car"
+    ],
+    "Hypothesis": [
+      "Kia is a car"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+    {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with irrelevant information",
+    "logic_type_code": "A2",
+    "Premise": [
+      "Sam and Dan are software developers",
+      "All software developers are rich",
+      "Dan is poor",
+      "Dan likes latte"
+    ],
+    "Hypothesis": [
+      "Sam is rich"
+    ],
+
+    "Label": [
+      "True"
+    ]
+
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with irrelevant information",
+    "logic_type_code": "A2",
+    "Premise": [
+      "Sam and Pam are innocent",
+      "All people are innocent until proven guilty",
+      "Sam likes going to the library",
+      "Sam was convicted of robbery"
+    ],
+    "Hypothesis": [
+      "Pam is innocent"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with irrelevant information",
+    "logic_type_code": "A2",
+    "Premise": [
+      "All new socks smell nice",
+      "new socks are normally in a packet",
+      "Dan kept a pair of sock on table",
+      "Dan really likes red socks"
+    ],
+    "Hypothesis": [
+      "Dan's socks are old"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with multiple defaults",
+    "logic_type_code": "A3",
+    "Premise": [
+      "James and Sam went to sleep",
+      "People usually sleep at home",
+      "Sleeping at home usually results in good sleep",
+      "James did not sleep well",
+      "Sam sleeps at a hotel"
+    ],
+    "Hypothesis": [
+      "James is not at home",
+      "Sam is not at home"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with multiple defaults",
+    "logic_type_code": "A3",
+    "Premise": [
+      "Stan and Chris are cooking",
+      "People who like to cook usually enjoy cooking at home",
+      "People who like to cook are usually good at cutting vegetables ",
+      "Stan cuts vegetables fast ",
+      "Chris does not enjoy cooking at home"
+
+    ],
+    "Hypothesis": [
+      "Stan enjoys cooking",
+      "Chris does not enjoy cooking"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+    {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with multiple defaults",
+    "logic_type_code": "A3",
+    "Premise": [
+      "Sam and Dan are software developers",
+      "All software developers are rich",
+      "All software developers enjoy avocado toast",
+      "Sam is poor",
+      "Dan dislikes avocado toast"
+    ],
+    "Hypothesis": [
+      "Sam is not a software developer",
+      "Dan is not a software developer"
+    ],
+
+    "Label": [
+      "True"
+    ]
+
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with multiple defaults",
+    "logic_type_code": "A3",
+    "Premise": [
+      "Sam and Pam are religious",
+      "All religous people are charitable",
+      "Sam likes donating food",
+      "Pam was convicted of robbery"
+    ],
+    "Hypothesis": [
+      "Sam is religious",
+      "Pam is not religious"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Default Reasoning with multiple defaults",
+    "logic_type_code": "A3",
+    "Premise": [
+      "Bryan and Chris are footballers",
+      "All footballers train on saturday",
+      "All footballers own studs",
+      "Chris sleeps on saturday",
+      "Bryan has 5 pairs of studs"
+    ],
+    "Hypothesis": [
+      "Chris is not a footballer",
+      "Bryan is a footballer"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Ponens",
+    "logic_type_code": "P1",
+    "Premise": [
+      "if it is a phone, it has a speaker",
+      "it is a phone"
+    ],
+    "Hypothesis": [
+      "it has a speaker"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Ponens",
+    "logic_type_code": "P1",
+    "Premise": [
+      "if it is a human, it has feelings",
+      "it is not a human"
+    ],
+    "Hypothesis": [
+      "it does not have feelings"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Ponens",
+    "logic_type_code": "P1",
+    "Premise": [
+      "if it is a watch, it has a strap",
+      "it is a watch"
+    ],
+    "Hypothesis": [
+      "it has a strap"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Ponens",
+    "logic_type_code": "P1",
+    "Premise": [
+      "if it is a lake, it has a water",
+      "it is a lake"
+    ],
+    "Hypothesis": [
+      "it has a water"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Ponens",
+    "logic_type_code": "P1",
+    "Premise": [
+      "if it is a camera, it has a memory card",
+      "it is a camera"
+    ],
+    "Hypothesis": [
+      "it has a memory card"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Tollens",
+    "logic_type_code": "P2",
+    "Premise": [
+      "Ronaldo is a footballer, he is very fit",
+      "Ronaldo is not fit"
+    ],
+    "Hypothesis": [
+      "Ronaldo is not a footballer"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Tollens",
+    "logic_type_code": "P2",
+    "Premise": [
+      "Mark can write, he has good handwriting",
+      "Mark's handwriting is not good"
+    ],
+    "Hypothesis": [
+      "Mark cannot write"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Tollens",
+    "logic_type_code": "P2",
+    "Premise": [
+      "it is sunny, sam can play basketball",
+      "sam cannot play basketball"
+    ],
+    "Hypothesis": [
+      "it is not sunny"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Tollens",
+    "logic_type_code": "P2",
+    "Premise": [
+      "if it is windy, then the turbine can generate energy",
+      "the turbine cannot generate energy"
+    ],
+    "Hypothesis": [
+      "it is not windy"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Modus Tollens",
+    "logic_type_code": "P2",
+    "Premise": [
+      "Sam is unemployed, if he is home",
+      "he is not home"
+    ],
+    "Hypothesis": [
+      "Sam is not umeployed"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Universal Generalization",
+    "logic_type_code": "F1",
+    "Premise": [
+      "A chair have four legs"
+    ],
+    "Hypothesis": [
+      "All chairs hae four legs"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Universal Generalization",
+    "logic_type_code": "F1",
+    "Premise": [
+      "Humans need oxygen to survive"
+    ],
+    "Hypothesis": [
+      "All humans need oxygen to survive"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Universal Generalization",
+    "logic_type_code": "F1",
+    "Premise": [
+      "A plant is green"
+    ],
+    "Hypothesis": [
+      "All plants are green"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Universal Generalization",
+    "logic_type_code": "F1",
+    "Premise": [
+      "A plant is green"
+    ],
+    "Hypothesis": [
+      "All cplants are green"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Universal Generalization",
+    "logic_type_code": "F1",
+    "Premise": [
+      "Earth a planet in solar system orbits the sun"
+    ],
+    "Hypothesis": [
+      "All planets in solar system orbits the sun"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens Rule",
+    "logic_type_code": "F5",
+    "Premise": [
+      "If it is raining, the F1 race is stopped.",
+      "It is raining"
+    ],
+    "Hypothesis": [
+      "Therefore the F1 race is stopped"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens Rule",
+    "logic_type_code": "F5",
+    "Premise": [
+      "If sam is drinking soup, they have a fever.",
+      "Sam is drinking soup."
+    ],
+    "Hypothesis": [
+      "Sam has a fever"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens Rule",
+    "logic_type_code": "F5",
+    "Premise": [
+      "If a dog is scared, then they are shaking",
+      "Dog is scared"
+    ],
+    "Hypothesis": [
+      "Therefore they are scared"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens Rule",
+    "logic_type_code": "F5",
+    "Premise": [
+      "If a person is angry, then they are yelling",
+      "Person is angry"
+    ],
+    "Hypothesis": [
+      "Therefore they are yelling"
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "First Order Logic",
+    "logic_subtype": "Generalized Modus Ponens Rule",
+    "logic_type_code": "F5",
+    "Premise": [
+      "If a person is homeless, they have mental illness",
+      "A person is homeless"
+    ],
+    "Hypothesis": [
+      "The have mental illness"
+    ],
+    "Label": [
+      "True"
+    ]
+  }
+
+]

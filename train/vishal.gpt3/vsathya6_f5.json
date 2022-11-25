@@ -1,0 +1,752 @@
+[
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is thirsty they will drink water.",
+            "Bob is thirsty."
+        ],
+        "Hypothesis": [
+            "Bob will drink water."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is hosting a party they will play pop music.",
+            "Bob is hosting a party."
+        ],
+        "Hypothesis": [
+            "Bob will play pop music."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone eats fast food everyday they will fall sick.",
+            "Alice eats fast food everyday."
+        ],
+        "Hypothesis": [
+            "Alice will fall sick."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the temperature is hot then Bob will go surfing.",
+            "The temperature is hot."
+        ],
+        "Hypothesis": [
+            "Bob will go for surfing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is good at math they will get an A on the Physics test.",
+            "Alice is good at math."
+        ],
+        "Hypothesis": [
+            "Alice will get an A on the Physics test."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If it rains then the ground will be wet.",
+            "It rained."
+        ],
+        "Hypothesis": [
+            "The ground is wet."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is sad then they will cry.",
+            "John is sad."
+        ],
+        "Hypothesis": [
+            "John will cry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is bored then they will watch TV.",
+            "Jill is bored."
+        ],
+        "Hypothesis": [
+            "Jill will watch TV."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is angry then they will shout.",
+            "Sarah is angry."
+        ],
+        "Hypothesis": [
+            "Sarah will shout."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is happy then they will smile.",
+            "Tim is happy."
+        ],
+        "Hypothesis": [
+            "Tim will smile."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is cold then they will wear a coat.",
+            "It is cold."
+        ],
+        "Hypothesis": [
+            "They will wear a coat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is at school then they will learn.",
+            "Susan is at school."
+        ],
+        "Hypothesis": [
+            "Susan will learn."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is at the park then they will play.",
+            "The children are at the park."
+        ],
+        "Hypothesis": [
+            "The children will play."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is at work then they will earn money.",
+            "Josh is at work."
+        ],
+        "Hypothesis": [
+            "Josh will earn money."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is at home then they will relax.",
+            "Mom is at home."
+        ],
+        "Hypothesis": [
+            "Mom will relax."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the car then they will drive.",
+            "Dad is in the car."
+        ],
+        "Hypothesis": [
+            "Dad will drive."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the pool then they will swim.",
+            "The kids are in the pool."
+        ],
+        "Hypothesis": [
+            "The kids will swim."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the ocean then they will surf.",
+            "I am in the ocean."
+        ],
+        "Hypothesis": [
+            "I will surf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the grocery store then they will buy food.",
+            "You are in the grocery store."
+        ],
+        "Hypothesis": [
+            "You will buy food."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the library then they will read.",
+            "He is in the library."
+        ],
+        "Hypothesis": [
+            "He will read."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the movie theater then they will watch a movie.",
+            "We are in the movie theater."
+        ],
+        "Hypothesis": [
+            "We will watch a movie."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is in the park then they will walk.",
+            "She is in the park."
+        ],
+        "Hypothesis": [
+            "She will walk."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is sleeping then they will dream.",
+            "I am sleeping."
+        ],
+        "Hypothesis": [
+            "I am dreaming."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is awake then they will not sleep.",
+            "You are awake."
+        ],
+        "Hypothesis": [
+            "You will not sleep."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is outside then they will feel the wind.",
+            "I am outside."
+        ],
+        "Hypothesis": [
+            "I will feel the wind."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is inside then they will not feel the wind.",
+            "He is inside."
+        ],
+        "Hypothesis": [
+            "He will not feel the wind."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone has a lot of homework then they will be stressed.",
+            "She has a lot of homework."
+        ],
+        "Hypothesis": [
+            "She will be stressed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is not hungry then they will not eat.",
+            "He is not hungry."
+        ],
+        "Hypothesis": [
+            "He will not eat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is hungry then they will eat.",
+            "She is hungry."
+        ],
+        "Hypothesis": [
+            "She will eat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is tired then they will sleep.",
+            "I am tired."
+        ],
+        "Hypothesis": [
+            "I will sleep."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is not tired then they will not sleep.",
+            "You are not tired."
+        ],
+        "Hypothesis": [
+            "You will not sleep."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone watches a scary movie then they will be scared.",
+            "He watched a scary movie."
+        ],
+        "Hypothesis": [
+            "He will be scared."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not watch a scary movie then they will not be scared.",
+            "She does not watch scary movies."
+        ],
+        "Hypothesis": [
+            "She will not be scared."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone runs then they will sweat.",
+            "I ran."
+        ],
+        "Hypothesis": [
+            "I will sweat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not run then they will not sweat.",
+            "You did not run."
+        ],
+        "Hypothesis": [
+            "You did not sweat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone drinks soda then they will be thirsty.",
+            "He drank soda."
+        ],
+        "Hypothesis": [
+            "He will be thirsty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not drink soda then they will not be thirsty.",
+            "She does not drink soda."
+        ],
+        "Hypothesis": [
+            "She will not be thirsty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone eats candy then they will get a cavity.",
+            "I ate candy."
+        ],
+        "Hypothesis": [
+            "I will get a cavity."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not eat candy then they will not get a cavity.",
+            "You did not eat candy."
+        ],
+        "Hypothesis": [
+            "You did not get a cavity."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone has a cold then they will sneeze.",
+            "She has a cold."
+        ],
+        "Hypothesis": [
+            "She will sneeze."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not have a cold then they will not sneeze.",
+            "He does not have a cold."
+        ],
+        "Hypothesis": [
+            "He will not sneeze."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone goes outside then they will feel the sun.",
+            "I went outside."
+        ],
+        "Hypothesis": [
+            "I will feel the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not go outside then they will not feel the sun.",
+            "You did not go outside."
+        ],
+        "Hypothesis": [
+            "You will not feel the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone goes to the beach then they will get sand in their shoes.",
+            "We went to the beach."
+        ],
+        "Hypothesis": [
+            "We will get sand in our shoes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not go to the beach then they will not get sand in their shoes.",
+            "They did not go to the beach."
+        ],
+        "Hypothesis": [
+            "They will not get sand in their shoes."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone sees a snake then they will be scared.",
+            "I saw a snake."
+        ],
+        "Hypothesis": [
+            "I will be scared."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not see a snake then they will not be scared.",
+            "You did not see a snake."
+        ],
+        "Hypothesis": [
+            "You will not be scared."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone trips then they will fall down.",
+            "She tripped."
+        ],
+        "Hypothesis": [
+            "She will fall down."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone does not trip then they will not fall down.",
+            "He did not trip."
+        ],
+        "Hypothesis": [
+            "He will not fall down."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone slips then they will fall down.",
+            "I slipped."
+        ],
+        "Hypothesis": [
+            "I will fall down."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

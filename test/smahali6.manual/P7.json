@@ -1,0 +1,72 @@
+[
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the sun is shining then it is daytime; and if the moon is out then it is night time; but the sun is out or it is not night time."
+        ],
+        "Hypothesis": [
+            "therefore it is daytime or the moon is not out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I have a headache then I am sick; and if I am sick then I am contagious; but I have a headache or I am not contagious; "
+        ],
+        "Hypothesis": [
+            "therefore I am sick or I am not contagious."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am tired then I need to sleep; and if I need to sleep then I am not rested; but I am tired or I am rested; "
+        ],
+        "Hypothesis": [
+            "therefore I need to sleep or I am not tired."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am hungry then I need to eat; and if I need to eat then I am not full; but I am hungry or I am full; "
+        ],
+        "Hypothesis": [
+            "therefore I need to eat or I am not hungry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the sky is blue then it is daytime; and if the sun is out then it is daytime; but the sky is blue or it is not daytime; "
+        ],
+        "Hypothesis": [
+            "therefore the sun is out or it is not daytime."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

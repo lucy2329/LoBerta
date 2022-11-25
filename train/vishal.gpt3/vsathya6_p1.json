@@ -1,0 +1,776 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Bob is home alone he will play video games",
+            "Bob is home alone"
+        ],
+        "Hypothesis": [
+            "Bob will play video games."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If it is sunny today I will wear my sunglasses.",
+            "It is sunny today."
+        ],
+        "Hypothesis": [
+            "I will wear my sunglasses."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If the clock shows 8 PM Alice will have dinner.",
+            "It is 8 PM."
+        ],
+        "Hypothesis": [
+            "Alice will have dinner."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Cam buys 3 shirts he gets a chocolate.",
+            "Cam bought 3 shirts"
+        ],
+        "Hypothesis": [
+            "Cam gets a chocolate."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Hamilton places last in the race he will be knocked out of the championship.",
+            "Hamilton placed last in the race."
+        ],
+        "Hypothesis": [
+            "Hamilton is knocked out of the championship."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I study for the test I will get a good grade.",
+            "I studied for the test."
+        ],
+        "Hypothesis": [
+            "I will get a good grade."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I eat breakfast I will not be hungry later.",
+            "I ate breakfast."
+        ],
+        "Hypothesis": [
+            "I will not be hungry later."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I drink coffee I will be awake.",
+            "I drank coffee."
+        ],
+        "Hypothesis": [
+            "I will be awake."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I feed the dog he will be happy.",
+            "I fed the dog."
+        ],
+        "Hypothesis": [
+            "The dog will be happy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I put gas in the car it will run.",
+            "I put gas in the car."
+        ],
+        "Hypothesis": [
+            "The car will run."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I put gas in the car it will run.",
+            "I put gas in the car."
+        ],
+        "Hypothesis": [
+            "The car will not run."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I feed the dog he will be happy.",
+            "I fed the dog."
+        ],
+        "Hypothesis": [
+            "The dog will not be happy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I drink coffee I will be awake.",
+            "I drank coffee."
+        ],
+        "Hypothesis": [
+            "I will not be awake."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I eat breakfast I will not be hungry later.",
+            "I did not eat breakfast."
+        ],
+        "Hypothesis": [
+            "I will be hungry later."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I study for the test I will get a good grade.",
+            "I did not study for the test."
+        ],
+        "Hypothesis": [
+            "I will not get a good grade."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If the clock shows 8 PM Alice will have dinner.",
+            "It is not 8 PM."
+        ],
+        "Hypothesis": [
+            "Alice will not have dinner."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Hamilton places last in the race he will be knocked out of the championship.",
+            "Hamilton did not place last in the race."
+        ],
+        "Hypothesis": [
+            "Hamilton is not knocked out of the championship."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Cam buys 3 shirts he gets a chocolate.",
+            "Cam did not buy 3 shirts."
+        ],
+        "Hypothesis": [
+            "Cam does not get a chocolate."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Bob is home alone he will play video games.",
+            "Bob is not home alone."
+        ],
+        "Hypothesis": [
+            "Bob will not play video games."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If it is sunny today I will wear my sunglasses.",
+            "It is not sunny today."
+        ],
+        "Hypothesis": [
+            "I will not wear my sunglasses."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Alice is at the beach, she will play volleyball.",
+            "Alice is at the beach."
+        ],
+        "Hypothesis": [
+            "Alice will play volleyball"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am hungry, I will eat.",
+            "I am hungry."
+        ],
+        "Hypothesis": [
+            "I will eat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am sleepy, I will take a nap.",
+            "I am sleepy."
+        ],
+        "Hypothesis": [
+            "I will take a nap."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am thirsty, I will drink water.",
+            "I am thirsty."
+        ],
+        "Hypothesis": [
+            "I will drink water."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am cold, I will put on a coat.",
+            "I am cold."
+        ],
+        "Hypothesis": [
+            "I will put on a coat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I finish my work, I will go home.",
+            "I finish my work."
+        ],
+        "Hypothesis": [
+            "I will go home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I see a movie, I will eat popcorn.",
+            "I see a movie."
+        ],
+        "Hypothesis": [
+            "I will eat popcorn."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I have a headache, I will take an aspirin.",
+            "I have a headache."
+        ],
+        "Hypothesis": [
+            "I will take an aspirin."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If it rains, I will carry an umbrella.",
+            "It rains."
+        ],
+        "Hypothesis": [
+            "I will carry an umbrella."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am tired, I will go to bed.",
+            "I am tired."
+        ],
+        "Hypothesis": [
+            "I will go to bed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am bored, I will watch TV.",
+            "I am bored."
+        ],
+        "Hypothesis": [
+            "I will watch TV."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am sad, I will cry.",
+            "I am sad."
+        ],
+        "Hypothesis": [
+            "I will cry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am happy, I will smile.",
+            "I am happy."
+        ],
+        "Hypothesis": [
+            "I will smile."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am afraid, I will scream.",
+            "I am afraid."
+        ],
+        "Hypothesis": [
+            "I will scream."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am angry, I will yell.",
+            "I am angry."
+        ],
+        "Hypothesis": [
+            "I will yell."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I have a cold, I will sneeze.",
+            "I have a cold."
+        ],
+        "Hypothesis": [
+            "I will sneeze."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If my team wins, I will be happy.",
+            "My team wins."
+        ],
+        "Hypothesis": [
+            "I will be happy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I eat ice cream, I will get a brain freeze.",
+            "I eat ice cream."
+        ],
+        "Hypothesis": [
+            "I will get a brain freeze."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at school, I will learn.",
+            "I am at school."
+        ],
+        "Hypothesis": [
+            "I will learn."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the park, I will see birds.",
+            "I am at the park."
+        ],
+        "Hypothesis": [
+            "I will see birds."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the store, I will buy groceries.",
+            "I am at the store."
+        ],
+        "Hypothesis": [
+            "I will buy groceries."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the beach, I will swim.",
+            "I am at the beach."
+        ],
+        "Hypothesis": [
+            "I will swim."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the library, I will read.",
+            "I am at the library."
+        ],
+        "Hypothesis": [
+            "I will read."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at my friend's house, I will play games.",
+            "I am at my friend's house."
+        ],
+        "Hypothesis": [
+            "I will play games."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the movies, I will watch a film.",
+            "I am at the movies."
+        ],
+        "Hypothesis": [
+            "I will watch a film."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the beach, I will go swim."
+        ],
+        "Hypothesis": [
+            "I will go swim."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the beach, I will play volleyball.",
+            "I am not at the beach."
+        ],
+        "Hypothesis": [
+            "I will not play volleyball."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am at the beach, I will go swim."
+        ],
+        "Hypothesis": [
+            "I will not go swim."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I have a headache, I will take a pain reliever."
+        ],
+        "Hypothesis": [
+            "I will take a pain reliever."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am tired, I will go to bed early."
+        ],
+        "Hypothesis": [
+            "I will go to bed early."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If it is raining, I will carry an umbrella."
+        ],
+        "Hypothesis": [
+            "I will carry an umbrella."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If I am thirsty, I will drink water."
+        ],
+        "Hypothesis": [
+            "I will drink water."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    }
+]

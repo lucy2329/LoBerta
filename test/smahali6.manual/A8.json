@@ -1,0 +1,82 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Bob is a software developer.",
+            "Software developers generally take a cab when it's raining.",
+            "A few software developers enjoy walking back in the rain."
+        ],
+        "Hypothesis": [
+            "Bob takes a cab when it's raining."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Earth is a planet in our universe.",
+            "The sun is at the center of our universe.",
+            "Every planet revolves around the sun."
+        ],
+        "Hypothesis": [
+            "Every planet revolves around the earth."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Objects fall downwards when dropped from a standstill.",
+            "On Earth, gravity pulls all objects towards the ground.",
+            "Objects float while dropped in the moon."
+        ],
+        "Hypothesis": [
+            "On Earth, objects fall downwards due to gravity."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Khan is a bodybuilder.",
+            "Bodybuilders visit the gym almost everyday and train.",
+            "Some bodybuilders do not hit the gym regularly."
+        ],
+        "Hypothesis": [
+            "Khan visits the gym almost everyday."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about Unknown Exceptions III",
+        "logic_type_code": "A8",
+        "Premise": [
+            "Kate and Luke are footballers.",
+            "Footballers generally train during the weekend.",
+            "Kate did not go to training this weekend."
+        ],
+        "Hypothesis": [
+            "Luke is a footballer."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If it rains then the road will be wet.",
+                  "If the road will be wet, there will be a traffic congestion."
+            ],
+            "Hypothesis": [
+                  "Therefore, if it rains, then there will be a traffic congestion."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If you work hard, you will get a job you like.",
+                  "If you get a job you like, you will be happy."
+            ],
+            "Hypothesis": [
+                  "Therefore, if you work hard, you will be happy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If it is snowing, the train will arrive late.",
+                  "If the train arrives late, John will not be on time to work."
+            ],
+            "Hypothesis": [
+                  "Therefore, if it is snowing, john will be early to work."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If you have a sweet tooth, you eat ice cream.",
+                  "If you eat ice cream, risks of health complications are higher."
+            ],
+            "Hypothesis": [
+                  "If you have a sweet tooth, risk of health complications are lesser."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If you run long distances, you have a strong metabolism.",
+                  "If you have a strong metabolism, you will live longer."
+            ],
+            "Hypothesis": [
+                  "If you run long distances, you will feel thirsty."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

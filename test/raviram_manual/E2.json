@@ -1,0 +1,79 @@
+[
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Jason and Blake are names of my dogs.",
+      "Most dogs have four legs."
+    ],
+    "Hypothesis": [
+      "It is not known if Jason has four legs."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Danny is driving a vehicle.",
+      "Aaron is in a vehicle."
+    ],
+    "Hypothesis": [
+      "It is not known if Danny and Aaron are in the same vehicle."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Dan is cooking food for two persons.",
+      "Carter and Blake are having lunch."
+    ],
+    "Hypothesis": [
+      "It is not known if Dan is cooking for Blake."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Bhaskar is composing music with a lot of instruments.",
+      "Bhaskar has used a piano and guitar for making some sections of music."
+    ],
+    "Hypothesis": [
+      "Bhaskar is using electric guitar for composing his music."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "There is atleast one student who submitted the assignment before the deadline.",
+      "Hawking has started his assignment just an hour before deadline.",
+      "Cane submitted his assignment."
+    ],
+    "Hypothesis": [
+      "Cane submitted his assignment before Hawking."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+  }
+
+]

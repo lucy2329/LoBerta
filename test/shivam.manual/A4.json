@@ -1,0 +1,82 @@
+[
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Sharks and goldfish are fish.",
+                  "Fish are normally fast swimmers.",
+                  "The Goldfish is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Sharks are fast swimmers."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Kevin and Nick are hollywood actors.",
+                  "Hollywood actors are usually good dancers.",
+                  "Nick is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Kevin is a hollywood actor."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Jackie and Bruce are martial artists.",
+                  "Martial artists are usually strong.",
+                  "Bruce is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Bruce is strong."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are tired.",
+                  "Tired people usually sleep more.",
+                  "B is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B sleeps more."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Mark and Neil are astronauts",
+                  "Astronauts usually come from a military background",
+                  "Neil is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Paul has come form a military background."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

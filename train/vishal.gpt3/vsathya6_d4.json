@@ -1,0 +1,951 @@
+[
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob grabs an item, the item will be normally in the hand.",
+            "When Bob moves an item into the cart, the item will normally be in the cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially item A was not in the cart.",
+            "After the robot moved item A into the cart, and then waited, item A was in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was in the hand."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob grabs an item, the item will be normally in the hand.",
+            "When Bob moves an item into the cart, the item will normally be in the cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially item A was not in the cart.",
+            "After the robot grasps item A, waits, and then moves item A into the cart, item A is in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was in the hand."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in the hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor."
+        ],
+        "Hypothesis": [
+            "Initially the toy is on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Initially the toy is not in Tim's hand."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was not on the shelf initially."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was on the floor initially."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim did not grab the toy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim did not wait after grabbing the toy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim did not place the toy on the shelf."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy will be on the floor after Tim places it on the shelf."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy will be on the shelf after Tim places it on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was not on the shelf initially."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was on the floor initially."
+        ],
+        "Label": []
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was in Tim's hand initially."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim did not grab the toy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim did not wait after grabbing the toy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim did not place the toy on the shelf."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy will be on the floor after Tim places it on the shelf."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy will be on the shelf after Tim places it on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is not in Tim's hand",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was not on the shelf initially."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was on the floor initially."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Bob grabs an item, the item will be normally in the hand",
+            "When Bob moves an item into the cart, the item will normally be in the cart",
+            "Moving an item that is not in the hand is an exception to this rule",
+            "Initially item A was not in the cart,",
+            "After the robot grasps item A, waits, and then moves item A into the cart, item A is in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was in the hand."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Bob grabs an item, the item will be normally in the hand",
+            "When Bob moves an item into the cart, the item will normally be in the cart",
+            "Moving an item that is not in the hand is an exception to this rule",
+            "Initially item A was not in the cart",
+            "After the robot moved item A into the cart, and then waited, item A was in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was in the hand initially."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Bob grabs an item, the item will be normally in the hand",
+            "When Bob moves an item into the cart, the item will normally be in the cart",
+            "Moving an item that is not in the hand is an exception to this rule",
+            "Initially item A was not in the cart",
+            "After the robot grasps item A, waits, and then moves item A into the cart, item A is in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was not in the hand initially."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was on the shelf initially."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was on the shelf initially."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Zeus is angry, he casts a thunderbolt.",
+            "When Zeus casts a thunderbolt, clouds are formed.",
+            "When clouds are formed, it starts to rain.",
+            "Zeus casts a thunderbolt, then, clouds are formed and it starts raining."
+        ],
+        "Hypothesis": [
+            "Initially Zeus is angry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Cronus eats a baby, the baby disappears.",
+            "When the baby disappears, the baby is digested.",
+            "When something is digested, it is turned into energy.",
+            "The baby disappears and is turned into energy."
+        ],
+        "Hypothesis": [
+            "Initially Cronus eats a baby."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Orpheus plays his music, people are entranced.",
+            "When people are entranced, they start to dance.",
+            "People are entranced and start to dance."
+        ],
+        "Hypothesis": [
+            "Initially Orpheus plays his music."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not becomes a queen."
+        ],
+        "Hypothesis": [
+            "Initially Persephone goes with Hades to the underworld."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially Persephone goes with Hades to the underworld."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially Persephone does not go with Hades to the underworld."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially Hades does not abduct Persephone."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Zeus is angry, he casts a thunderbolt.",
+            "When Zeus casts a thunderbolt, clouds are formed.",
+            "When clouds are formed, it starts to rain.",
+            "Zeus casts a thunderbolt, then, clouds are formed and it starts raining."
+        ],
+        "Hypothesis": [
+            "Initially, Zeus casts a thunderbolt."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Cronus eats a baby, the baby disappears.",
+            "When the baby disappears, the baby is digested.",
+            "When something is digested, it is turned into energy.",
+            "The baby disappears and is turned into energy."
+        ],
+        "Hypothesis": [
+            "Initially, the baby disappears."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Orpheus plays his music, people are entranced.",
+            "When people are entranced, they start to dance.",
+            "People are entranced and start to dance."
+        ],
+        "Hypothesis": [
+            "Initially, Orpheus plays his music."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades abducts Persephone."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Persephone goes to the underworld."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Persephone becomes queen."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Persephone wears a crown."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, things remain as they were."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades does not abduct Persephone and she does not go to the underworld."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades abducts Persephone but she does not go to the underworld."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades does not abduct Persephone but she goes to the underworld."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades abducts Persephone and she goes to the underworld but she does not become queen."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades abducts Persephone and she goes to the underworld and she becomes queen but she does not wear a crown."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "When Hades abducts Persephone, she goes with him to the underworld.",
+            "When Persephone goes to the underworld, she becomes queen.",
+            "When someone becomes queen, they wear a crown.",
+            "Persephone does not wear a crown."
+        ],
+        "Hypothesis": [
+            "Initially, Hades abducts Persephone and she goes to the underworld and she becomes queen and she wears a crown."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "The toy was on the shelf initially."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim does not grab a toy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions.",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were",
+            "A toy is on the shelf if and only if it is not on the floor",
+            "When Tim grabs a toy, the toy will normally be in his hand",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf",
+            "Keeping a toy that is not in the hand is an exception to this rule",
+            "Initially the toy is on the floor",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Tim grabs a toy but he does not place it on the shelf."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

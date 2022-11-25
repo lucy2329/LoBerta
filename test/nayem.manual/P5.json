@@ -1,0 +1,82 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+          "If the sun shines tomorrow, then we will go to the beach.",
+          "If it rains tomorrow, then we will go to the museum.",
+          "Tomorrow the sun will shine, or it will rain."
+        ],
+        "Hypothesis": [
+          "Therefore tomorrow we will go to the museum or to the beach."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+          "If I have 1 million dollars, I will donate half of it.",
+          "If I have 10 million dollars, I will donate 75% of it.",
+          "Either I have 1 million dollars or 10 million dollars."
+        ],
+        "Hypothesis": [
+          "Therefore I will donate 500 thousand dollars or 7.5 million dollars."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+          "If I am working out, I am happy.",
+          "If I am sleeping, I am dreaming.",
+          "Either I am working out or sleeping."
+        ],
+        "Hypothesis": [
+          "Therefore I am not happy or I am not dreaming."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+          "If it rains, roads will be muddy",
+          "If it snows, roads will be slippery",
+          "Either it is raining or it is snowy"
+        ],
+        "Hypothesis": [
+          "Therefore, roads are not either muddy, or roads are slippery."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+          "If you take Logic, you will have to do a lot of homework",
+          "If you take Philosophy, you will have to write a lot of papers.",
+          "Since you take either Logic or Philosophy."
+        ],
+        "Hypothesis": [
+          "Therefore, you will have to do a lot of homework and write a lot of papers."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      }
+]

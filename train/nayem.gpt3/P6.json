@@ -1,0 +1,802 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If Britain votes to leave the European Union, then the value of the pound will go down.",
+            "If Britain votes to stay in the European Union, then the value of the pound will go up.",
+            "Either the value of pound will not go down or the value of pound will not go up."
+        ],
+        "Hypothesis": [
+            "Therefore, Britain will not vote to leave the European Union or will not stay in the European Union."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the teacher gives us a pop quiz, then we will be unprepared.",
+            "If the teacher doesn't give us a pop quiz, then we will be prepared.",
+            "We will not be unprepared or we will not be prepared"
+        ],
+        "Hypothesis": [
+            "The teacher will either give us a pop quiz or not give us a pop quiz."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the company lays off workers, then production will go down.",
+            "If the company doesn't lay off workers, then they will go bankrupt.",
+            "Production will not go down or the company will not go bankrupt"
+        ],
+        "Hypothesis": [
+            "Therefore, The company will not lay off workers."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the jury finds the defendant guilty, then they will go to jail.",
+            "If the jury finds the defendant not guilty, then they will be set free.",
+            "They will not go to jail or they will not be set free"
+        ],
+        "Hypothesis": [
+            "The jury will either find the defendant guilty and not guilty."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the company invests in a new product, then they will make more money.",
+            "If the company doesn't invest in a new product, then they will make less money.",
+            "The company will not make money or the company will make more money"
+        ],
+        "Hypothesis": [
+            "The company will either invest in a new product."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the athlete trains for the race, then they will win.",
+            "If the athlete doesn't train for the race, then they will lose.",
+            "Athlete will not win the race or Athlete will not lose the race"
+        ],
+        "Hypothesis": [
+            "The athlete will not train for the race."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the team practices, then they will win the game.",
+            "If the team doesn't practice, then they will lose the game.",
+            "They will not win the game or they will not lose the game"
+        ],
+        "Hypothesis": [
+            "The team will either practice or they won't."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the student attends class, then they will pass the course.",
+            "If the student doesn't attend class, then they will fail the course.",
+            "They will not pass the course or they will not fail the course"
+        ],
+        "Hypothesis": [
+            "The student will only attend class."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the business expands, then they will make more money.",
+            "If the business doesn't expand, then they will make less money.",
+            "They will not make more money or they will not make less money"
+        ],
+        "Hypothesis": [
+            "The business will not expands and the business will shrink."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I buy a new car, I will sell my old car.",
+            "If I keep my old car, I will not buy a new car.",
+            "Either I will not sell my old car or I will buy a new car"
+        ],
+        "Hypothesis": [
+            "Therefore I will not buy a new car and I will not keep my old car."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If the athlete trains for the race, then they will win.",
+            "If the athlete doesn't train for the race, then they will lose.",
+            "Athlete will not win the race or Athlete will not lose the race"
+        ],
+        "Hypothesis": [
+            "The athlete will not train for the race or they will train for the race."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I take the bus, I will be early.",
+            "If I drive my car, I will be late.",
+            "Either I will not be early or I will not be late"
+        ],
+        "Hypothesis": [
+            "Therefore I will take bus or I will drive."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I tell the truth, I will be punished.",
+            "If I lie, I will be rewarded.",
+            "Either I will not be punished or I will not be rewarded."
+        ],
+        "Hypothesis": [
+            "Therefore I will tell the truth or I will lie."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am sick, I will go to the doctor.",
+            "If I am well, I will stay home.",
+            "Either I will not go to Doctor or I will not stay home"
+        ],
+        "Hypothesis": [
+            "Therefore I will not be sick and I will not be well."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am happy, I will smile.",
+            "If I am sad, I will cry.",
+            "Either I will not smile or I will not cry."
+        ],
+        "Hypothesis": [
+            "Therefore I will be happy or I will not be sad."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am a cat, I will chase mice.",
+            "If I am a mouse, I will be chased by cats.",
+            "Either I will not chase mice or I will not be chased by cats"
+        ],
+        "Hypothesis": [
+            "Therefore I ain't a cat or I ain't a mouse."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am in a relationship, I will be happy.",
+            "If I am single, I will be lonely.",
+            "Either I will not be happy or I will not be lonely."
+        ],
+        "Hypothesis": [
+            "Therefore I am not in a relationship and I am not single."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am a good student, I will get a good grade.",
+            "If I am a bad student, I will get a bad grade.",
+            "Either I will not get a good grade or I will not get a bad grade."
+        ],
+        "Hypothesis": [
+            "Therefore I am not a good student."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I study hard, I will pass the test.",
+            "If I don't study hard, I will fail the test.",
+            "Either I will not pass the test or I will not fail the test."
+        ],
+        "Hypothesis": [
+            "Therefore I will not study hard and I will study hard."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am nice to other people, they will be nice to me.",
+            "If I am not nice to other people, they will not be nice to me.",
+            "Either People will not be nice to me or they will be nice to me."
+        ],
+        "Hypothesis": [
+            "Therefore I am not nice to other people."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I work hard, I will get a promotion.",
+            "If I don't work hard, I will get fired.",
+            "Either I will not get a promotion or I will not get fired."
+        ],
+        "Hypothesis": [
+            "Therefore I will not work hard or I will work hard."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I save my money, I will have enough to buy a new car.",
+            "If I spend my money, I will not have enough to buy a new car.",
+            "Either I will not have enough to buy a new car or I will have enough to buy a new car."
+        ],
+        "Hypothesis": [
+            "Therefore I will not save money or I will not spend money."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I eat healthy, I will lose weight.",
+            "If I don't eat healthy, I will gain weight.",
+            "Either I will not lose weight or I will not gain weight."
+        ],
+        "Hypothesis": [
+            "Therefore I will not eat healthy or I will eat healthy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I go to bed early, I will feel rested.",
+            "If I go to bed late, I will feel tired.",
+            "Either I will not feel rested or I will not feel tired."
+        ],
+        "Hypothesis": [
+            "Therefore I will go bed early."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I exercise, I will get in shape.",
+            "If I don't exercise, I will stay out of shape.",
+            "Either I will not get in shape or I will not stay out of shape."
+        ],
+        "Hypothesis": [
+            "Therefore I will not exercise or I will exercise."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am honest, people will trust me.",
+            "If I am dishonest, people will not trust me.",
+            "Either people will not trust me or people will trust me"
+        ],
+        "Hypothesis": [
+            "Therefore I will not be honest and I will not be dishonest."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am polite, people will be polite to me.",
+            "If I am impolite, people will be impolite to me.",
+            "Either People will not polite to me or they will be polite to me."
+        ],
+        "Hypothesis": [
+            "Therefore I am not polite or I am not impolite."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am working out, I am happy.",
+            "If I am sleeping, I am dreaming.",
+            "Either I ain't happy or I ain't dearming."
+        ],
+        "Hypothesis": [
+            "Therefore I am not working out and I am not sleeping."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am wealthy, I am happy.",
+            "If I am not wealthy, I am not happy.",
+            "Either I ain't happy or I am happy."
+        ],
+        "Hypothesis": [
+            "Therefore I am only wealthy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am employed, I am happy.",
+            "If I am not employed, I am not happy.",
+            "Either I ain't happy or I am happy."
+        ],
+        "Hypothesis": [
+            "Therefore I ain't employed or I am employed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I have a lot of friends, I am happy.",
+            "If I do not have a lot of friends, I am not happy.",
+            "Either I ain't happy or I am happy."
+        ],
+        "Hypothesis": [
+            "Therefore I don't have a lot of friends and I have a lot of friends."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I stay up late, I will be tired.",
+            "If I go to bed early, I will be rested.",
+            "Either I will not be tired or I will not be rested."
+        ],
+        "Hypothesis": [
+            "I only stay up late."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I work hard, I will be successful.",
+            "If I don't work hard, I will be a failure.",
+            "Either I will not be successful or I will not be a failure."
+        ],
+        "Hypothesis": [
+            "Therefore, I only work hard."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am kind to others, they will be kind to me.",
+            "If I am not kind to others, they will not be kind to me.",
+            "Either they will not be kind to me or they will be kind to me."
+        ],
+        "Hypothesis": [
+            "Therefore I am not kind to others or I am kind to others."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I save my money, I will be rich.",
+            "If I spend my money, I will be poor.",
+            "Either I will not be rich or I will not be poor."
+        ],
+        "Hypothesis": [
+            "Therefore I don't save my money or I don't spend my money"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am happy, I will smile.",
+            "If I am not happy, I will not smile.",
+            "Either I will not smile or I will smile."
+        ],
+        "Hypothesis": [
+            "Therefore I am not happy and I am happy."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If it rains, the ground will be wet.",
+            "If it doesn't rain, the ground will be dry.",
+            "Either the ground will not be wet or it will not be dry."
+        ],
+        "Hypothesis": [
+            "Therefore it only rains."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am careful, I will not make mistakes.",
+            "If I am not careful, I will make mistakes.",
+            "Either I will make mistakes or I will not make mistakes"
+        ],
+        "Hypothesis": [
+            "Therefore I am not careful or I am careful."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I try, I will succeed.",
+            "If I don't try, I will fail.",
+            "Either I will not succeed or I will not fail."
+        ],
+        "Hypothesis": [
+            "Therefore I don't try and I do try."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am patient, I will get what I want.",
+            "If I am not patient, I will not get what I want.",
+            "Either I will not get what I want or I will get what I want."
+        ],
+        "Hypothesis": [
+            "Therefore I am only patient"
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I am brave, I will not be afraid.",
+            "If I am not brave, I will be afraid.",
+            "Either I will be afraid or I will not be afraid."
+        ],
+        "Hypothesis": [
+            "Therefore I am not brave and I am brave."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I take the bus, I will be late for my appointment.",
+            "If I drive my car, I will be early for my appointment.",
+            "Either I will not be late for my appointment or I will not be early for my appointment."
+        ],
+        "Hypothesis": [
+            "Therefore I will take the bus or I will drive my car."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I go out tonight, I will have fun.",
+            "If I stay home tonight, I will be bored.",
+            "Either I will not have fun or I will not be bored."
+        ],
+        "Hypothesis": [
+            "Therefore I don't go out tonight or I don't stay home tonight."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I eat healthy, I will be healthy.",
+            "If I don't eat healthy, I will be unhealthy.",
+            "Either I will not be healthy or not unhealthy"
+        ],
+        "Hypothesis": [
+            "Therefore I eat only healthy."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I work hard, I will be successful.",
+            "If I don't work hard, I will be a failure.",
+            "Either I will not be successful or not a failure."
+        ],
+        "Hypothesis": [
+            "Therefore, I work hard and I don't work hard."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I save my money, I will be rich.",
+            "If I spend my money, I will be poor.",
+            "Either I will not be rich or I will not be poor."
+        ],
+        "Hypothesis": [
+            "Therefore, I save my money and I spend my money."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I tell the truth, I will get in trouble.",
+            "If I lie, I will be safe.",
+            "Either I will not get in trouble or I will not be safe."
+        ],
+        "Hypothesis": [
+            "Therefore, I only tell the truth."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If I work hard, I will be rewarded.",
+            "If I don't work hard, I will not be rewarded.",
+            "Either I will not be rewarded or I will be rewarded."
+        ],
+        "Hypothesis": [
+            "Therefore, I work hard or I don't work hard."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If Donald Trump becomes the President, then taxes will go down for the wealthy.",
+            "If Hillary Clinton becomes the President, then taxes will go up for the wealthy.",
+            "Either taxes will not go down for the wealthy or taxes will not go up for wealthy."
+        ],
+        "Hypothesis": [
+            "Therefore, Donald Trump doesn't become the President or Hillary Clinton doesn't become the president."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Destructive Dilemma",
+        "logic_type_code": "P6",
+        "Premise": [
+            "If Donald Trump becomes the President, then taxes will go down for the wealthy.",
+            "If Hillary Clinton becomes the President, then taxes will go up for the wealthy.",
+            "Either taxes will not go down for the wealthy or taxes will not go up for wealthy."
+        ],
+        "Hypothesis": [
+            "Therefore, Only Hillary Clinton become the president."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

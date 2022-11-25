@@ -1,0 +1,806 @@
+[
+    {
+        "logic_type": "Autoepistemic Reasoning",
+        "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+        "logic_type_code": "E2",
+        "Premise": [
+          "Bhaskar is composing music with a lot of instruments.",
+          "Bhaskar has used a piano and guitar for making some sections of music."
+        ],
+        "Hypothesis": [
+          "Bhaskar is using electric guitar for composing his music."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+
+   {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Dan is cooking food for two persons.",
+      "Carter and Blake are having lunch."
+    ],
+    "Hypothesis": [
+      "It is not known if Dan is cooking for Blake."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Danny is driving a vehicle.",
+      "Aaron is in a vehicle."
+    ],
+    "Hypothesis": [
+      "It is not known if Danny and Aaron are in the same vehicle."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Tom is taller than Jerry.",
+      "Jerry is shorter than Tim."
+    ],
+    "Hypothesis": [
+      "It is not known if Tom is shorter than Tim."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Harsh is good at cooking.",
+      "Harsh made pasta for lunch."
+    ],
+    "Hypothesis": [
+      "It is not known if Harsh used olive oil for making pasta."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John is taller than Jerry.",
+      "Jerry is shorter than Tim."
+    ],
+    "Hypothesis": [
+      "It is not known if John is shorter than Tim."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Mia is a good singer.",
+      "Mia is not participating in the singing competition."
+    ],
+    "Hypothesis": [
+      "It is not known if Mia will win the singing competition."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Jason and Blake are names of my dogs.",
+      "Most dogs have four legs."
+    ],
+    "Hypothesis": [
+      "It is not known if Blake has four legs."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John is taller than Jerry.",
+      "Jerry is shorter than Tim."
+    ],
+    "Hypothesis": [
+      "It is not known if John is taller than Tim."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Mia is a good singer.",
+      "Mia is participating in the singing competition."
+    ],
+    "Hypothesis": [
+      "It is not known if Mia will lose the singing competition."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Tom is taller than Jerry.",
+      "Jerry is shorter than Tim."
+    ],
+    "Hypothesis": [
+      "It is not known if Tom is taller than John."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Harsh is good at cooking.",
+      "Harsh made pasta for lunch."
+    ],
+    "Hypothesis": [
+      "It is not known if Harsh used tomato sauce for making pasta."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John is taller than Jerry.",
+      "Jerry is shorter than Tim."
+    ],
+    "Hypothesis": [
+      "It is not known if Tim is shorter than John."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Mia is a good singer.",
+      "Mia is participating in the singing competition."
+    ],
+    "Hypothesis": [
+      "It is not known if Mia will sing well in the competition."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Tom is taller than Jerry.",
+      "Jerry is shorter than Tim."
+    ],
+    "Hypothesis": [
+      "It is not known if Tim is taller than Tom."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Harsh is good at cooking.",
+      "Harsh made pasta for lunch."
+    ],
+    "Hypothesis": [
+      "It is not known if Harsh followed the recipe while making pasta."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Mary is taller than Erin.",
+      "Emma is shorter than Mary."
+    ],
+    "Hypothesis": [
+      "Erin is shorter than Emma."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John has a black car.",
+      "Most cars have four tires."
+    ],
+    "Hypothesis": [
+      "It is not known if John's car has four tires."
+    ],
+    "Label": [
+      "True"
+    ]
+ },
+ {
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Daniel is a doctor.",
+    "Doctors help people."
+  ],
+  "Hypothesis": [
+    "It is not known if Daniel helps people."
+  ],
+  "Label": [
+    "True"
+  ]
+},
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Most birds can fly.",
+      "Penguins are birds."
+    ],
+    "Hypothesis": [
+      "It is not known if penguins can fly."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "I am a student.",
+      "Students generally go to school."
+    ],
+    "Hypothesis": [
+      "It is not known if I go to school."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Everyone in my family is tall.",
+      "I am a part of my family."
+    ],
+    "Hypothesis": [
+      "I am tall."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "The sun is a star.",
+      "Most stars are bigger than the Earth."
+    ],
+    "Hypothesis": [
+      "It is not known if the sun is bigger than the Earth."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John is taller than Erin.",
+      "Erin is shorter than Emma."
+    ],
+    "Hypothesis": [
+      "John is taller than Emma."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Cats like to drink milk.",
+      "Most animals like to drink water."
+    ],
+    "Hypothesis": [
+      "It is not known if cats like to drink water."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Most Dogs are loyal.",
+      "John has a dog."
+    ],
+    "Hypothesis": [
+      "John's dog is loyal."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Cats like to drink milk.",
+      "Dogs like to drink milk."
+    ],
+    "Hypothesis": [
+      "It is not known if dogs like to drink water."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Dogs are loyal.",
+      "Some pets are animals.",
+      "All pets are loyal"
+    ],
+    "Hypothesis": [
+      "Some animals are loyal."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Most people like to eat.",
+      "Cats do not like to eat."
+    ],
+    "Hypothesis": [
+      "It is not known if cats are people."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Cats like to drink milk.",
+      "Most animals like to drink water."
+    ],
+    "Hypothesis": [
+      "Cats like to drink water."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Most people like to eat.",
+      "Most animals like to eat."
+    ],
+    "Hypothesis": [
+      "It is not known if people are animals."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John and Tim are going to the same restaurant.",
+      "Tim does not like Chinese food."
+    ],
+    "Hypothesis": [
+      "John does not like Chinese food."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John and Tim are going to the same restaurant.",
+      "John likes Chinese food."
+    ],
+    "Hypothesis": [
+      "It is not known if Tim likes Chinese food."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Ria is painting a picture of a flower.",
+      "It is not known if Ria is painting a picture of a rose."
+    ],
+    "Hypothesis": [
+      "Ria is not painting a picture of a rose."
+    ],
+    "Label": [
+      "Unknown"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Sasha is playing a video game.",
+      "Sasha is not playing Call of Duty."
+    ],
+    "Hypothesis": [
+      "Sasha is playing a different video game."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "Mia and Tania are best friends.",
+      "Mia and Tania are arguing with each other."
+    ],
+    "Hypothesis": [
+      "It is not known if Mia and Tania are still best friends."
+    ], 
+    "Label": [
+      "Unknown"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "John is going to the movies.",
+      "John is not going to see a horror movie."
+    ],
+    "Hypothesis": [
+      "John is going to see a different movie."
+    ], 
+    "Label": [ 	  	  	  	  	  	  	  
+      "True"
+    ]  
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "The teacher is grading papers.",
+      "The teacher is not grading math papers."
+    ], 
+    "Hypothesis": [
+      "The teacher is grading different papers."
+    ], 
+    "Label": [ 	  	  	  	  	  	  	  
+      "True"
+    ] 
+  },
+
+   {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "The cat is sleeping on the bed.",
+      "The cat is not sleeping on the pillow."
+    ], 	  	  	  	    	  	  	  
+    "Hypothesis": [
+      "The cat is sleeping on a different part of the bed."
+    ], 
+    "Label": [ 	  	  	  	  	  	  	  
+      "True"
+    ] 
+
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+    "logic_type_code": "E2",
+    "Premise": [
+      "The man has a beard.",
+      "The man does not have a mustache."
+    ], 	      	        	      	        	  
+    "Hypothesis": [
+      "The man has facial hair."
+    ], 
+    "Label": [ 	  	  	  	  	  	  	  
+      "True"
+    ] 
+
+ },
+ {
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "The child is crying.",
+    "The child is not hungry."
+  ], 	      	        	          	  	  
+  "Hypothesis": [
+    "The child is crying for a different reason."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "The poet is writing a new poem.",
+    "The poet is not writing about love."
+  ], 	          	      	        	  	  	  
+  "Hypothesis": [
+    "The poet is writing about a different topic."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Most dogs have four legs.",
+    "The animal in the video only has three legs."
+  ],
+  "Hypothesis": [
+    "The animal in the video is not a dog."
+  ],
+  "Label": [
+    "True"
+  ]
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "The moon is bright tonight.",
+    "The moon is not bright during the day."
+  ], 	  	  	  	    	  	  	  
+  "Hypothesis": [
+    "It is not daytime."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "The dog is wet.",
+    "The dog is not dry."
+  ], 	  	  	  	    	  	  	  
+  "Hypothesis": [
+    "The dog is not clean."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "Unknown"
+  ] 
+
+},
+
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Spiders have eight legs.",
+    "The creature in the corner is not a spider."
+  ], 	  	  	  	    	  	  	  
+  "Hypothesis": [
+    "The creature in the corner does not have eight legs."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Mammals are warm-blooded.",
+    "Dogs are mammals."
+  ], 	  	  	  	    	  	  	  
+  "Hypothesis": [
+    "Dogs are warm-blooded."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Roses have thorns.",
+    "The flower in my hand is not a rose."
+  ], 	  	  	  	    	  	  	  
+  "Hypothesis": [
+    "The flower in my hand does not have thorns."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Most dogs are friendly.",
+    "Pit bulls are dogs."
+  ], 	  	    	  	  	  
+  "Hypothesis": [
+    "Pit bulls are friendly."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "Unknown"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "The sun is out now.",
+    "The sun is not out at night."
+  ], 	  	    	  	  	  
+  "Hypothesis": [
+    "It is daytime."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "There is a lot of traffic today.",
+    "Traffic is light during the weekends."
+  ], 	  	    	  	  	  
+  "Hypothesis": [
+    "It is not the weekend."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "True"
+  ] 
+
+},
+{
+  "logic_type": "Autoepistemic Reasoning",
+  "logic_subtype": "Autoepistemic Reasoning with Incomplete Information",
+  "logic_type_code": "E2",
+  "Premise": [
+    "Most mammals have fur.",
+    "Dogs are mammals."
+  ], 	  	    	  	  	  
+  "Hypothesis": [
+    "All dogs have fur."
+  ], 
+  "Label": [ 	  	  	  	  	  	  	  
+    "False"
+  ] 
+
+}
+
+]
+
+  

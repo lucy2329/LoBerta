@@ -1,0 +1,77 @@
+[
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "You will get an A if you get above 90 in the AI course.",
+          "Marry got 93 in the AI course."
+        ],
+        "Hypothesis": [
+          "Marry will get an A in the AI course."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "A king has a crown on his head.",
+          "Jhon has a crown on this head."
+        ],
+        "Hypothesis": [
+          "Jhon is a king."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "A hybrid vehicle is operated by both oil and electricity.",
+          "A Tesla is operated by only electricity."
+        ],
+        "Hypothesis": [
+          "A Tesla is a hybrid vehicle."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "It is weird if someone can't talk to women.",
+          "Rajesh can't talk to women."
+        ],
+        "Hypothesis": [
+          "Rajesh is not weird."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Existential Instantiation",
+        "logic_type_code": "F3",
+        "Premise": [
+          "Fantasy books are likely to be adopted as movies.",
+          "Harry Potter is adopted as a movie."
+        ],
+        "Hypothesis": [
+          "Harry Potter is a thriller book."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      }
+]

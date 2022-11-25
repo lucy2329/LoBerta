@@ -1,0 +1,816 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Joe asserts that the moon is made of cheese",
+            "Sue asserts that the moon is not made of cheese",
+            "When Joe asserts something, he is normally right",
+            "When Sue asserts something, she is normally right",
+            "Sue's evidence is more reliable than Joe's"
+        ],
+        "Hypothesis": [
+            "The moon is not made of cheese."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Tim believes that the sun revolves around the earth",
+            "Bob believes that the earth revolves around the sun",
+            "When Tim believes something, he is normally right",
+            "When Bob believes something, he is normally right",
+            "Bob's evidence is more reliable than Tim's"
+        ],
+        "Hypothesis": [
+            "The earth revolves around the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Rachel believes that abortion is morally wrong",
+            "John believes that abortion is morally acceptable",
+            "When Rachel believes something, she is normally right",
+            "When John believes something, he is normally right",
+            "John's evidence is more reliable than Rachel's"
+        ],
+        "Hypothesis": [
+            "Abortion is morally acceptable."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Sam believes that there is only one God",
+            "Pat believes that there are many Gods",
+            "When Sam believes something, he is normally right",
+            "When Pat believes something, she is normally right",
+            "Pat's evidence is more reliable than Sam's"
+        ],
+        "Hypothesis": [
+            "There are many Gods."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Jen believes that the earth is flat",
+            "Mark believes that the earth is a sphere",
+            "When Jen believes something, she is normally right",
+            "When Mark believes something, he is normally right",
+            "Mark's evidence is more reliable than Jen's"
+        ],
+        "Hypothesis": [
+            "The earth is a sphere."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "George believes that the universe was created by a big bang",
+            "Susan believes that the universe was created by God",
+            "When George believes something, he is normally right",
+            "When Susan believes something, she is normally right",
+            "Susan's evidence is more reliable than George's"
+        ],
+        "Hypothesis": [
+            "The universe was created by God."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Todd believes that the earth is the center of the universe",
+            "Lisa believes that the sun is the center of the universe",
+            "When Todd believes something, he is normally right",
+            "When Lisa believes something, she is normally right",
+            "Lisa's evidence is more reliable than Todd's"
+        ],
+        "Hypothesis": [
+            "The sun is the center of the universe."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Tim believes that abortion is morally wrong",
+            "Sue believes that abortion is morally permissible",
+            "Tim's has proof that abortion is morally wrong"
+        ],
+        "Hypothesis": [
+            "Abortion is morally wrong."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Ann believes that global warming is real",
+            "Brian believes that global warming is not real",
+            "Ann's has proof that global warming is real"
+        ],
+        "Hypothesis": [
+            "Global warming is real."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Jill believes that there is intelligent life on other planets",
+            "John believes that there is not intelligent life on other planets",
+            "Jill's has proof that there is intelligent life on other planets"
+        ],
+        "Hypothesis": [
+            "There is intelligent life on other planets."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Lisa believes that animals should not be used for experimentation",
+            "Mike believes that animals should be used for experimentation",
+            "Lisa's has proof that animals should not be used for experimentation"
+        ],
+        "Hypothesis": [
+            "Animals should not be used for experimentation."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Karen believes that extraterrestrial life exists",
+            "Jill believes that extraterrestrial life does not exist",
+            "Karen's has proof that extraterrestrial life exists"
+        ],
+        "Hypothesis": [
+            "Extraterrestrial life exists."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Matt believes that the universe is infinite",
+            "John believes that the universe is finite",
+            "Matt's has proof that the universe is infinite"
+        ],
+        "Hypothesis": [
+            "The universe is infinite."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Rachel believes that there is a God",
+            "Tom believes that there is no God",
+            "Rachel's has proof that there is a God"
+        ],
+        "Hypothesis": [
+            "There is a God."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Sarah believes that global warming is a hoax",
+            "Tom believes that global warming is real",
+            "Sarah's evidence is more reliable than Tom's"
+        ],
+        "Hypothesis": [
+            "Global warming is a hoax."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "George believes that the moon landing was faked",
+            "Joe believes that the moon landing was real",
+            "George's evidence is more convincing than Joe's"
+        ],
+        "Hypothesis": [
+            "The moon landing was faked."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Sarah believes that ghosts are real",
+            "Tom believes that ghosts are not real",
+            "Sarah's evidence is more convincing than Tom's"
+        ],
+        "Hypothesis": [
+            "Ghosts are real."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Harry believes that the universe was created by a god",
+            "Sally believes that the universe was not created by a god",
+            "Harry's evidence is more convincing than Sally's"
+        ],
+        "Hypothesis": [
+            "The universe was created by a god."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Joey believes that the earth is billions of years old",
+            "Monica believes that the earth is only a few thousand years old",
+            "Joey's evidence is more convincing than Monica's"
+        ],
+        "Hypothesis": [
+            "The earth is billions of years old."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Ross believes that dinosaurs roamed the earth millions of years ago",
+            "Monica believes that dinosaurs never roamed the earth",
+            "Ross's evidence is more convincing than Monica's"
+        ],
+        "Hypothesis": [
+            "Dinosaurs roamed the earth millions of years ago."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Phoebe believes that time travel is possible",
+            "Joey believes that time travel is not possible",
+            "Phoebe's evidence is more convincing than Joey's"
+        ],
+        "Hypothesis": [
+            "Time travel is not possible."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Phoebe believes that aliens have visited earth",
+            "Monica believes that aliens have not visited earth",
+            "Phoebe's evidence is more convincing than Monica's"
+        ],
+        "Hypothesis": [
+            "Aliens have not visited earth."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Chandler believes that the universe is expanding",
+            "Rachel believes that the universe is not expanding",
+            "Chandler's evidence is more convincing than Rachel's"
+        ],
+        "Hypothesis": [
+            "The universe is not expanding."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Timmy believes that there is a monster under his bed",
+            "Johnny believes that there is no such thing as monsters",
+            "When Timmy believes something, he is generally right",
+            "When Johnny believes something, he is generally right",
+            "Johnny's evidence is more reliable than Timmy's"
+        ],
+        "Hypothesis": [
+            "There is no such thing as monsters."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Harry believes that there is a secret society of shape-shifting aliens that control the world",
+            "Sally believes that there is no such thing as a secret society of shape-shifting aliens that control the world",
+            "When Harry believes something, he is generally right",
+            "When Sally believes something, she is generally right",
+            "Sally's evidence is more reliable than Harry's"
+        ],
+        "Hypothesis": [
+            "There is no such thing as a secret society of shape-shifting aliens that control the world."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Rachel believes that ghosts are real",
+            "Beth believes that ghosts are not real",
+            "When Rachel believes something, she is generally right",
+            "When Beth believes something, she is generally right",
+            "Beth's evidence is more reliable than Rachel's"
+        ],
+        "Hypothesis": [
+            "Ghosts are real."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Jaxon believes that the moon is made out of green cheese",
+            "Olivia believes that the moon is not made out of green cheese",
+            "When Jaxon believes something, he is generally right",
+            "When Olivia believes something, she is generally right",
+            "Olivia's evidence is more reliable than Jaxon's"
+        ],
+        "Hypothesis": [
+            "The moon is made out of green cheese."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Harry believes that there is a secret society of shape-shifting aliens that control the world",
+            "Sally believes that there is no such thing as a secret society of shape-shifting aliens that control the world",
+            "When Harry believes something, he is generally right",
+            "When Sally believes something, she is generally right",
+            "Sally's evidence is more reliable than Harry's"
+        ],
+        "Hypothesis": [
+            "There is no such thing as a secret society of shape-shifting aliens that control the world."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Rachel believes that ghosts are real",
+            "Beth believes that ghosts are not real",
+            "When Rachel believes something, she is generally right",
+            "When Beth believes something, she is generally right",
+            "Beth's evidence is more reliable than Rachel's"
+        ],
+        "Hypothesis": [
+            "Ghosts are real."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Nick believes that unicorns are real",
+            "Sarah believes that unicorns are not real",
+            "When Nick believes something, he is generally right",
+            "When Sarah believes something, she is generally right",
+            "Sarah's evidence is more reliable than Nick's"
+        ],
+        "Hypothesis": [
+            "Unicorns are real."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Homer believes that the sun is a star",
+            "Marge believes that the sun is a star",
+            "When Homer believes something, he is generally right",
+            "When Marge believes something, she is generally right",
+            "Homer's evidence is more reliable than Marge's"
+        ],
+        "Hypothesis": [
+            "The sun is a star."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Lisa believes that there are other intelligent life forms in the universe",
+            "Maggie believes that there is no other intelligent life forms in the universe",
+            "When Lisa believes something, she is generally right",
+            "When Maggie believes something, she is generally right",
+            "Lisa's evidence is more reliable than Maggie's"
+        ],
+        "Hypothesis": [
+            "There are other intelligent life forms in the universe."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bart believes that school is a waste of time",
+            "Lisa believes that school is important",
+            "When Bart believes something, he is generally right",
+            "When Lisa believes something, she is generally right",
+            "Bart's evidence is more reliable than Lisa's"
+        ],
+        "Hypothesis": [
+            "School is a waste of time."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Marge believes that violence is never the answer",
+            "Homer believes that violence is the answer",
+            "When Marge believes something, she is generally right",
+            "When Homer believes something, he is generally right",
+            "Marge's evidence is more reliable than Homer's"
+        ],
+        "Hypothesis": [
+            "Violence is never the answer."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bart believes that lying is always wrong",
+            "Lisa believes that there are some circumstances where lying is okay",
+            "When Bart believes something, he is generally right",
+            "When Lisa believes something, she is generally right",
+            "Bart's evidence is more reliable than Lisa's"
+        ],
+        "Hypothesis": [
+            "Lying is not always wrong."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Marge believes that global warming is real",
+            "Homer believes that global warming is not real",
+            "When Marge believes something, she is generally right",
+            "When Homer believes something, he is generally right",
+            "Marge's evidence is more reliable than Homer's"
+        ],
+        "Hypothesis": [
+            "Global warming is not real."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Lisa believes that recycling is important",
+            "Maggie believes that recycling is not important",
+            "When Lisa believes something, she is generally right",
+            "When Maggie believes something, she is generally right",
+            "Lisa's evidence is more reliable than Maggie's"
+        ],
+        "Hypothesis": [
+            "Recycling is not important."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bart believes that stealing is always wrong",
+            "Lisa believes that there are some circumstances where stealing is okay",
+            "When Bart believes something, he is generally right",
+            "When Lisa believes something, she is generally right",
+            "Bart's evidence is more reliable than Lisa's"
+        ],
+        "Hypothesis": [
+            "Stealing is not always wrong."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Marge believes that nuclear power is dangerous",
+            "Homer believes that nuclear power is safe",
+            "When Marge believes something, she is generally right",
+            "When Homer believes something, he is generally right",
+            "Marge's evidence is more reliable than Homer's"
+        ],
+        "Hypothesis": [
+            "Nuclear power is not dangerous."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Lisa believes that homework is important",
+            "Maggie believes that homework is not important",
+            "When Lisa believes something, she is generally right",
+            "When Maggie believes something, she is generally right",
+            "Lisa's evidence is more reliable than Maggie's"
+        ],
+        "Hypothesis": [
+            "Homework is not important."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bart believes that mischief is always fun",
+            "Lisa believes that there are some circumstances where mischief is not fun",
+            "When Bart believes something, he is generally right",
+            "When Lisa believes something, she is generally right",
+            "Bart's evidence is more reliable than Lisa's"
+        ],
+        "Hypothesis": [
+            "Mischief is not always fun."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Marge believes that alcohol is dangerous",
+            "Homer believes that alcohol is not dangerous",
+            "When Marge believes something, she is generally right",
+            "When Homer believes something, he is generally right",
+            "Marge's evidence is more reliable than Homer's"
+        ],
+        "Hypothesis": [
+            "Alcohol is not dangerous."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bart believes that school is always boring",
+            "Lisa believes that there are some circumstances where school is not boring",
+            "When Bart believes something, he is generally right",
+            "When Lisa believes something, she is generally right",
+            "Bart's evidence is more reliable than Lisa's"
+        ],
+        "Hypothesis": [
+            "School is not always boring."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Marge believes that smoking is dangerous",
+            "Homer believes that smoking is not dangerous",
+            "When Marge believes something, she is generally right",
+            "When Homer believes something, he is generally right",
+            "Marge's evidence is more reliable than Homer's"
+        ],
+        "Hypothesis": [
+            "Smoking is not dangerous."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Lisa believes that eating healthy is important",
+            "Maggie believes that eating healthy is not important",
+            "When Lisa believes something, she is generally right",
+            "When Maggie believes something, she is generally right",
+            "Lisa's evidence is more reliable than Maggie's"
+        ],
+        "Hypothesis": [
+            "Eating healthy is not important."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Bart believes that being lazy is always fun",
+            "Lisa believes that there are some circumstances where being lazy is not fun",
+            "When Bart believes something, he is generally right",
+            "When Lisa believes something, she is generally right",
+            "Bart's evidence is more reliable than Lisa's"
+        ],
+        "Hypothesis": [
+            "Being lazy is not always fun."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Priorities between Defaults",
+        "logic_type_code": "A9",
+        "Premise": [
+            "Patty believes that Springfield is the best city in the world",
+            "Selma believes that Springfield is the worst city in the world",
+            "When Patty believes something, she is generally right",
+            "When Selma believes something, she is generally right",
+            "Patty's evidence is more reliable than Selma's"
+        ],
+        "Hypothesis": [
+            "Springfield is not the best city in the world."
+        ],
+        "Label": [
+            "False"
+        ]
+    }
+]

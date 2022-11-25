@@ -1,0 +1,932 @@
+{
+  "1": [
+    {
+      "id": 0,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a company is profitable, [p] then it will make a profit this year.",
+        "The company lost money last year."
+      ],
+      "Hypothesis": [
+        "Therefore it will not make a profit this year"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a team is winning, they are playing well.",
+        "The team is losing."
+      ],
+      "Hypothesis": [
+        "Therefore they are not playing well"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is happy, then they are smiling.",
+        "Person is frowning"
+      ],
+      "Hypothesis": [
+        "Therefore they are not happy"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is shy,  then they are not outgoing.",
+        "Person is outgoing"
+      ],
+      "Hypothesis": [
+        "Therefore they are not shy"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a book is good, then people like it.",
+        "The book is bad."
+      ],
+      "Hypothesis": [
+        "Therefore people do not like it"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a writing is good,  then it is interesting.",
+        "The writing is boring."
+      ],
+      "Hypothesis": [
+        "Therefore it is not good"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a school subject is hard, then students do not like it.",
+        "Students like the subject."
+      ],
+      "Hypothesis": [
+        "Therefore the subject is not hard"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is in debt, then they are poor",
+        "Person is in debt"
+      ],
+      "Hypothesis": [
+        "Therefore they are poor"
+      ],
+      "Label": [
+        "ru"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a number is odd, then it is not divisible by 2",
+        "Number is odd"
+      ],
+      "Hypothesis": [
+        "Therefore it is not divisible by 2"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a substance is a gas, then it is not a solid",
+        "Substance is a gas"
+      ],
+      "Hypothesis": [
+        "Therefore it is not a solid"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person has the flu, then they have a fever",
+        "Person has the flu"
+      ],
+      "Hypothesis": [
+        "Therefore they have a fever"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a country is at war, then it is not at peace",
+        "Country is at war"
+      ],
+      "Hypothesis": [
+        "Therefore it is not at peace"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is paranoid, then they are distrustful",
+        "Person is paranoid"
+      ],
+      "Hypothesis": [
+        "Therefore they are not  distrustful"
+      ],
+      "Label": [
+        "als"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is unemployed, then they are not working",
+        "Person is unemployed"
+      ],
+      "Hypothesis": [
+        "Therefore they are not working"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is a dictator, then they are oppressive",
+        "Person is a dictator"
+      ],
+      "Hypothesis": [
+        "Therefore they are oppressive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is tone deaf, then they cannot sing",
+        "Person is tone deaf"
+      ],
+      "Hypothesis": [
+        "Therefore they cannot sing"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person has the flu, then they have a fever",
+        "Person has the flu"
+      ],
+      "Hypothesis": [
+        "Therefore they have a fever"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is in the Arctic, then they are cold",
+        "Person is in the Arctic"
+      ],
+      "Hypothesis": [
+        "Therefore they are cold"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 18,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a substance is a gas, then it has no definite shape",
+        "Substance is a gas"
+      ],
+      "Hypothesis": [
+        "Therefore it has no definite shape"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is a professional athlete, then they are in good shape",
+        "Person is a professional athlete"
+      ],
+      "Hypothesis": [
+        "Therefore they are in good shape"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 20,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is happy, then they are smiling",
+        "Person is happy"
+      ],
+      "Hypothesis": [
+        "Therefore they are smiling"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If two people are fighting, then they are arguing",
+        "Two people are fighting"
+      ],
+      "Hypothesis": [
+        "Therefore they are arguing"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is sad, then they are crying",
+        "Person is sad"
+      ],
+      "Hypothesis": [
+        "Therefore they are not crying"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 23,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a student is failing, then they are getting bad grades",
+        "Student is failing"
+      ],
+      "Hypothesis": [
+        "Therefore they are not getting bad grades"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 24,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If an employee is working hard, then they are getting a raise",
+        "Employee is working hard"
+      ],
+      "Hypothesis": [
+        "Therefore they are not getting a raise"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a team is winning, then they are playing well",
+        "Team is winning"
+      ],
+      "Hypothesis": [
+        "Therefore they are not playing well"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 26,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is healthy, then they are exercising",
+        "Person is healthy"
+      ],
+      "Hypothesis": [
+        "Therefore they are not exercising"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If it rains, then the ground is wet",
+        "It is raining"
+      ],
+      "Hypothesis": [
+        "Therefore the ground is not wet"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If the home team is winning, then the fans are cheering",
+        "The home team is winning"
+      ],
+      "Hypothesis": [
+        "Therefore the fans are not cheering"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If two people are in love, then they are happy",
+        "Two people are in love"
+      ],
+      "Hypothesis": [
+        "Therefore they are happy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If someone is working hard, then they are productive",
+        "Someone is working hard"
+      ],
+      "Hypothesis": [
+        "Therefore they are productive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "All dogs are animals",
+        "Snoopy is a dog"
+      ],
+      "Hypothesis": [
+        "Snoopy is not an animal"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If you have a headache, you should take ibuprofen",
+        "I have a headache"
+      ],
+      "Hypothesis": [
+        "Therefore, I should take ibuprofen"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If the alarm is going off, there is an intruder",
+        "The alarm is going off"
+      ],
+      "Hypothesis": [
+        "Therefore, there is an intruder"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If there is a fire, then the alarm will sound",
+        "There is a fire"
+      ],
+      "Hypothesis": [
+        "The alarm will sound"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If you want a job, then you need to apply",
+        "You want a job"
+      ],
+      "Hypothesis": [
+        "You need to apply"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If you want to go to school, then you need to apply",
+        "You want to go to school"
+      ],
+      "Hypothesis": [
+        "You need to apply"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If it is spring, then the flowers are blooming.",
+        "It is spring"
+      ],
+      "Hypothesis": [
+        "Therefore the flowers are blooming"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a shape is a square, then it has four sides.",
+        "This shape is a square."
+      ],
+      "Hypothesis": [
+        "Therefore this shape has four sides."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 39,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a team has more points than the other team, then that team is winning.",
+        "The Lakers have more points than the Clippers."
+      ],
+      "Hypothesis": [
+        "Therefore the Lakers are not winning."
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a food is spicy, then it has chili peppers in it.",
+        "This food is spicy."
+      ],
+      "Hypothesis": [
+        "Therefore this food does not have chili peppers in it."
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If an animal is a mammal, then it has fur.",
+        "This animal is a mammal."
+      ],
+      "Hypothesis": [
+        "Therefore this animal does not have fur."
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a plant is a tree, then it has leaves.",
+        "This plant is a tree."
+      ],
+      "Hypothesis": [
+        "Therefore this plant has leaves."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If two lines are parallel, then they do not intersect",
+        "These two lines are parallel"
+      ],
+      "Hypothesis": [
+        "Therefore they do not intersect"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If an object is in motion, then it has momentum",
+        "This object is in motion"
+      ],
+      "Hypothesis": [
+        "Therefore it has momentum"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 45,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a cell is dividing, then it is in the G1 phase",
+        "This cell is dividing"
+      ],
+      "Hypothesis": [
+        "Therefore it is not in the G1 phase"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 46,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is anxious, then they are not relaxed",
+        "This person is anxious"
+      ],
+      "Hypothesis": [
+        "Therefore they are relaxed"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 47,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is unemployed, then they are not working",
+        "This person is unemployed"
+      ],
+      "Hypothesis": [
+        "Therefore they are not working"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 48,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is in poverty, then they are not wealthy",
+        "This person is in poverty"
+      ],
+      "Hypothesis": [
+        "Therefore they are not wealthy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 49,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is a dictator, then they are not democratic",
+        "This person is a dictator"
+      ],
+      "Hypothesis": [
+        "Therefore they are not democratic"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 50,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is a nihilist, then they do not believe in anything",
+        "This person is a nihilist"
+      ],
+      "Hypothesis": [
+        "Therefore this person does not believe in anything"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 51,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is an atheist, then they do not believe in God",
+        "This person is an atheist"
+      ],
+      "Hypothesis": [
+        "Therefore this person does not believe in God"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 52,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is from a collectivist culture, then they are not individualistic",
+        "This person is from a collectivist culture"
+      ],
+      "Hypothesis": [
+        "Therefore this person is not individualistic"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 53,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a person is sick, then they are not healthy",
+        "This person is sick"
+      ],
+      "Hypothesis": [
+        "Therefore this person is not healthy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 54,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a substance is acidic, then it is not basic",
+        "This substance is acidic"
+      ],
+      "Hypothesis": [
+        "Therefore this substance is not basic"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 55,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If an object is in motion, then it is not at rest",
+        "This object is in motion"
+      ],
+      "Hypothesis": [
+        "Therefore this object is not at rest"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 56,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a number is negative, then it is not positive",
+        "This number is negative"
+      ],
+      "Hypothesis": [
+        "Therefore this number is not positive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 57,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Generalized Modus Ponens Rule",
+      "logic_type_code": "F5",
+      "Premise": [
+        "If a program is not working, then it is buggy",
+        "This program is not working"
+      ],
+      "Hypothesis": [
+        "Therefore this program is buggy"
+      ],
+      "Label": [
+        "True"
+      ]
+    }
+  ]
+}

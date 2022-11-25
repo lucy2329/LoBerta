@@ -1,0 +1,702 @@
+[
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go to the store"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go to the store or I will go to the library."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will clean my house"
+        ],
+        "Hypothesis": [
+            "Therefore, I will clean my house or I will go for a walk."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will do my homework"
+        ],
+        "Hypothesis": [
+            "Therefore, I will do my homework or I will watch TV."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will make dinner"
+        ],
+        "Hypothesis": [
+            "Therefore, I will make dinner or I will order pizza."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will pay my rent"
+        ],
+        "Hypothesis": [
+            "Therefore, I will pay my rent or I will move out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go to the movies"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go to the movies or I will go to the park."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will take a vacation"
+        ],
+        "Hypothesis": [
+            "Therefore, I will take a vacation or I will stay home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will visit my parents"
+        ],
+        "Hypothesis": [
+            "Therefore, I will visit my parents or I will visit my grandparents."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will get a job"
+        ],
+        "Hypothesis": [
+            "Therefore, I will get a job or I will go to school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will buy a new car"
+        ],
+        "Hypothesis": [
+            "Therefore, I will buy a new car or I will buy a used car."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go out with my friends"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go out with my friends or I will stay home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will take a break"
+        ],
+        "Hypothesis": [
+            "Therefore, I will take a break or I will keep working."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will finish my project"
+        ],
+        "Hypothesis": [
+            "Therefore, I will finish my project or I will give up."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will workout"
+        ],
+        "Hypothesis": [
+            "Therefore, I will workout or I will take a nap."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will eat breakfast"
+        ],
+        "Hypothesis": [
+            "Therefore, I will eat breakfast or I will make lunch."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go for a run"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go for a run or I will walk."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will do laundry"
+        ],
+        "Hypothesis": [
+            "Therefore, I will do laundry or I will go out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will watch a movie"
+        ],
+        "Hypothesis": [
+            "Therefore, I will watch a movie or I will read a book."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go to bed early"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go to bed early or I will sleep in."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will study for my exam"
+        ],
+        "Hypothesis": [
+            "Therefore, I will study for my exam or I will fail."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will get a haircut"
+        ],
+        "Hypothesis": [
+            "Therefore, I will get a haircut or I will let my hair grow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go to the gym"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go to the gym or I will stay home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will eat out"
+        ],
+        "Hypothesis": [
+            "Therefore, I will eat out or I will cook."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will buy groceries"
+        ],
+        "Hypothesis": [
+            "Therefore, I will buy groceries or I will go hungry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will finish my report"
+        ],
+        "Hypothesis": [
+            "Therefore, I will finish my report or I will get fired."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will take my medicine"
+        ],
+        "Hypothesis": [
+            "Therefore, I will take my medicine or I will get sick."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will quit my job"
+        ],
+        "Hypothesis": [
+            "Therefore, I will quit my job or I will get fired."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will attend my classes"
+        ],
+        "Hypothesis": [
+            "Therefore, I will attend my classes or I will fail."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will turn in my assignment"
+        ],
+        "Hypothesis": [
+            "Therefore, I will turn in my assignment or I will get a zero."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will graduate"
+        ],
+        "Hypothesis": [
+            "Therefore, I will graduate or I will drop out."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will buy a house"
+        ],
+        "Hypothesis": [
+            "Therefore, I will buy a house or I will rent an apartment."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will get married"
+        ],
+        "Hypothesis": [
+            "Therefore, I will get married or I will stay single."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will have a baby"
+        ],
+        "Hypothesis": [
+            "Therefore, I will have a baby or I will not have a baby."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go on a trip"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go on a trip or I will stay home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will learn a new language"
+        ],
+        "Hypothesis": [
+            "Therefore, I will learn a new language or I will not learn a new language."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will change my major"
+        ],
+        "Hypothesis": [
+            "Therefore, I will change my major or I will not change my major."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will join a club"
+        ],
+        "Hypothesis": [
+            "Therefore, I will join a club or I will not join a club."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will get a new job"
+        ],
+        "Hypothesis": [
+            "Therefore, I will get a new job or I will not get a new job."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will move to a new city"
+        ],
+        "Hypothesis": [
+            "Therefore, I will move to a new city or I will not move to a new city."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go back to school"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go back to school or I will not go back to school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will start my own business"
+        ],
+        "Hypothesis": [
+            "Therefore, I will start my own business or I will not start my own business."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will sell my house"
+        ],
+        "Hypothesis": [
+            "Therefore, I will sell my house or I will not sell my house."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will retire"
+        ],
+        "Hypothesis": [
+            "Therefore, I will retire or I will not retire."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will travel the world"
+        ],
+        "Hypothesis": [
+            "Therefore, I will travel the world or I will not travel the world."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will write a book"
+        ],
+        "Hypothesis": [
+            "Therefore, I will write a book or I will not write a book."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will get in shape"
+        ],
+        "Hypothesis": [
+            "Therefore, I will get in shape or I will not get in shape."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will quit smoking"
+        ],
+        "Hypothesis": [
+            "Therefore, I will quit smoking or I will not quit smoking."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will learn to play an instrument"
+        ],
+        "Hypothesis": [
+            "Therefore, I will learn to play an instrument or I will not learn to play an instrument."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will go sky diving"
+        ],
+        "Hypothesis": [
+            "Therefore, I will go sky diving or I will not go sky diving."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Addition",
+        "logic_type_code": "P8",
+        "Premise": [
+            "I will get a pet"
+        ],
+        "Hypothesis": [
+            "Therefore, I will get a pet or I will not get a pet."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Frank is quick.",
+                  "Quick players are normally at striker positions in a soccer field",
+                  "Frank is not at the striker position in the soccer field"
+            ],
+            "Hypothesis": [
+                  "All quick players other than Frank are at striker positions in a soccer field."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "A is a fast programmer.",
+                  "Fast programmers are normally good at logical reasoning.",
+                  "A is not good at logical reasoning."
+            ],
+            "Hypothesis": [
+                  "All fast programmers other than A are good at logical reasoning."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Adrian is a basketball player.",
+                  "Basketball players are normally tall.",
+                  "Adrian is not tall."
+            ],
+            "Hypothesis": [
+                  "All basketball players including Adrian are tall."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Airplane A is relatively slow.",
+                  "Relatively slow planes are normally flown by commercials pilots.",
+                  "A is not flown by a commercial pilot."
+            ],
+            "Hypothesis": [
+                  "All slow airplanes including A are flown by commercial pilots."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Student A is hardworking.",
+                  "Hardworking students normally deilver good research throughput.",
+                  "A is not delivering good research throughput."
+            ],
+            "Hypothesis": [
+                  "All hardworking students other than B deliver good research throughput."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

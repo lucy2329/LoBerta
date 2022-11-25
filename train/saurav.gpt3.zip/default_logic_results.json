@@ -1,0 +1,859 @@
+{
+  "1": [
+       {
+      "id": 0,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "FM and AM are types of radio",
+        "All radios use electromagnetic waves",
+        "FM does not use electromagnetic waves"
+      ],
+      "Hypothesis": [
+        "AM uses electromagnetic waves"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Alexa and Siri are hosts",
+        "All hosts are artificial intelligence",
+        "Alexa is not artificial intelligence"
+      ],
+      "Hypothesis": [
+        "Siri is not artificial intelligence"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Mercury and Kepler-16 are planets",
+        "All planets orbit the sun",
+        "Kepler-16 does not orbit the sun"
+      ],
+      "Hypothesis": [
+        "Kepler-16 orbits the sun"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "The Office and Parks and Recreation are comedy\"",
+        "All comedy is funny",
+        "The Office is not funny"
+
+      ],
+      "Hypothesis": [
+        "Parks and Recreation is funny"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are criminals",
+        "All criminals are wanted by the police",
+        "John is not wanted by the police\""
+      ],
+      "Hypothesis": [
+        "Mary is wanted by the police"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Sam and Malone are athletes",
+        "All athletes are competitive",
+        "Malone is not competitive"
+      ],
+      "Hypothesis": [
+        "John is competitive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are wearing formal attire",
+        "All formal attire is expensive",
+        "Mary's attire is not expensive"
+      ],
+      "Hypothesis": [
+        "John's attire is expensive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Ramen and udon are noodles",
+        "All noodles are made of wheat",
+        "Ramen is not made of wheat"
+      ],
+      "Hypothesis": [
+        "Udon is made of wheat"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Poodles and golden retrievers are dogs",
+        "All dogs are loyal",
+        "Golden retrievers are not loyal"
+      ],
+      "Hypothesis": [
+        "Poodles are loyal"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are wearing glasses",
+        "All people who wear glasses are nerds",
+        "Mary is not a nerd"
+      ],
+      "Hypothesis": [
+        "John is a nerd"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Nightmare on Elm Street and Friday the 13th are horror movies",
+        "All horror movies are fictional",
+        "Friday the 13th is not fictional"
+      ],
+      "Hypothesis": [
+        "Nightmare on Elm Street is fictional"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Apple and Google are stocks",
+        "All stocks are subject to market fluctuations",
+        "Apple is not subject to market fluctuations"
+      ],
+      "Hypothesis": [
+        "Google is subject to market fluctuations"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are in finance",
+        "All people in finance are rich",
+        "Mary is not rich"
+      ],
+      "Hypothesis": [
+        "John is rich"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are eating breakfast",
+        "All people who eat breakfast are hungry",
+        "John is not hungry"
+      ],
+      "Hypothesis": [
+        "Mary is hungry"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are healthy",
+        "All healthy people are fit",
+        "John is not fit",
+        "Mary is not thin"
+      ],
+      "Hypothesis": [
+        "Mary is fit"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are on a call",
+        "All calls are private",
+        "Mary's call is not private"
+      ],
+      "Hypothesis": [
+        "John's call is private"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "John and Mary are in school",
+        "All people in school are learning",
+        "Mary is not learning"
+      ],
+      "Hypothesis": [
+        "John is learning"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Sue and Pru are in a meeting",
+        "Most business people wear suits at meetings",
+        "Sue is not wearing a suit"
+      ],
+      "Hypothesis": [
+        "Pru is a business person "
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "cake and sausages are food",
+        "Unhealthy food is usually high in fat and sugar",
+        "The cake has a lot of sugar"
+      ],
+      "Hypothesis": [
+        "The cake is unhealthy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Sam and bob need to eat food to survive",
+        "The average person can survive without food for 3 weeks",
+        "Bob has been without food for 2 days "
+      ],
+      "Hypothesis": [
+        "Sam can survive without food for 3 weeks"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 20,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Apple and google are companies",
+        "Companies typically make a profit",
+        "Companies that don't make a profit go bankrupt",
+        "Apple not make a profit last year"
+      ],
+      "Hypothesis": [
+        "Google made a profit"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Rooney and kroos are atheletes",
+        "Athletes who don't train hard don't win medals",
+        "Rooney did not train hard last year"
+      ],
+      "Hypothesis": [
+        "kroos will win a medal"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Oxygen and Sarin are gases",
+        "All gases are gas at room temperature",
+        "Oxygen is not a gas at room temperature",
+      ],
+      "Hypothesis": [
+        "Sarin is a gas at room temperature"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 23,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "John and Kean are musicians",
+        "musicians who don't have two arms can't play the piano",
+        "John only has one arm"
+      ],
+      "Hypothesis": [
+        "Kean can play the piano"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Sam and dan are in the airforce",
+        "People who don't have two eyes cannot be pilots",
+        "Sam only has one eye"
+      ],
+      "Hypothesis": [
+        "Dan is a pilot"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+       {
+      "id": 26,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "Germany and France are countries",
+        "All countries have a capital city",
+        "Germany's capital is Berlin",
+        "France's capital is not Paris"
+      ],
+      "Hypothesis": [
+        "France's capital is Paris"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and Jane are students",
+        "All students study for exams",
+        "John is not studying for his exams"
+      ],
+      "Hypothesis": [
+        "John is a student"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "White house and the pink are houses",
+        "All houses have electricity",
+        "Pink house does not have electricity"
+      ],
+      "Hypothesis": [
+        "The White House has electricity"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "Mushrooms and Sunflower are biological things",
+        "All plants need water to grow",
+        "Mushrooms don't need water to grow"
+      ],
+      "Hypothesis": [
+        "Mushrooms are not plants"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "Sponges and Dog are living being",
+        "All animals have a nervous system",
+        "Sponges do not have a nervous system"
+      ],
+      "Hypothesis": [
+        "Sponges are not animals"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and Steve are watching the tv",
+        "People usually watch the TV to learn about current events",
+        "John does not care about current event"
+      ],
+      "Hypothesis": [
+        "Steve is interested in current events"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "GIMP and VLC are software",
+        "All software is open source",
+        "GIMP is not free"
+      ],
+      "Hypothesis": [
+        "GIMP is open source"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and Mary have a career in medicine",
+        "People who are employed usually have a career",
+        "John is unemployed"
+      ],
+      "Hypothesis": [
+        "Mary is employed"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and Karen are friends",
+        "All friends help each other out financially",
+        "John is in need of money"
+      ],
+      "Hypothesis": [
+        "Karen will help John out financially"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and mary are from America",
+        "All Americans love freedom",
+        "John loves freedom"
+      ],
+      "Hypothesis": [
+        "Mary loves freedom"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and Shaun are applying for a job",
+        "All job applicants are interviewed",
+        "John was not interviewed"
+      ],
+      "Hypothesis": [
+        "Shaun is qualified for the job"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "Dogs and racoons are animals",
+        "All animals are afraid of cats",
+        "Dogs are not afraid of cats"
+      ],
+      "Hypothesis": [
+        "Racoon is scared of cats"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "P2",
+      "Premise": [
+        "John and key are Democrats",
+        "All Democrats are for gun control",
+        "John is not for gun control"
+      ],
+      "Hypothesis": [
+        "Key is for gun control"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 39,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Twinkle and Readers digest are books",
+        "All books have authors",
+        "Twinkle does not have an author"
+      ],
+      "Hypothesis": [
+        "Readers digest has an author"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All mobile applications are free",
+        "All mobile applications are developed for a specific platform",
+        "Instagram and twitter are  mobile applications"
+      ],
+      "Hypothesis": [
+        "Instagram is developed for a specific platform"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Michael Jordan and Lebron are basketball players",
+        "Basketball players are typically tall",
+        "Michael Jordan is not tall"
+      ],
+      "Hypothesis": [
+        "Lebron is tall"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "John and Tom are sick",
+        "People who are sick usually have a fever",
+        "John does not have a fever"
+      ],
+      "Hypothesis": [
+        "Tom has fever"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Animals are usually found in the wild",
+        "Pets are usually not found in the wild",
+        "Dogs are usually pets"
+      ],
+      "Hypothesis": [
+        "Dogs are not usually found in the wild"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All friends help each other out financially",
+        "John and Karen are friends",
+        "John is in need of money",
+        "Karen has money"
+      ],
+      "Hypothesis": [
+          "Karen helps John with money"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 45,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Chess and Tennis are competitive sports",
+        "All sports are physically intense",
+        "Chess is not physically intense"
+      ],
+      "Hypothesis": [
+        "Tennis is physically intense"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 46,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Jack and John are educated",
+        "People who have a masters degree are usually educated",
+        "Jack does not have a masters degree"
+      ],
+      "Hypothesis": [
+        "John has a masters degree"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 47,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Sam and Pam are intelligent",
+        "People who have a PhD degree are usually intelligent",
+        "Sam has a masters degree"
+      ],
+      "Hypothesis": [
+        "Sam has a PhD"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 48,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All professional basketball players are tall",
+        "Tall people are usually good at basketball",
+        "John is tall"
+      ],
+      "Hypothesis": [
+        "John is a good basketball player"
+      ],
+      "Label": [
+        "Ambiguous"
+      ]
+    },
+    {
+      "id": 49,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "People who are friends usually like same things",
+        "tim likes apples, same does not",
+        "same and tim like soccer"
+      ],
+      "Hypothesis": [
+        "Sam and tim are friends"
+      ],
+      "Label": [
+        "Ambiguous"
+      ]
+    },
+    {
+      "id": 50,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "John is watching a movie",
+        "All movies are entertaining",
+        "John is not entertained by the movie"
+      ],
+      "Hypothesis": [
+        "The movie is not entertaining"
+      ],
+      "Label": [
+        "True"
+      ]
+    }
+  ]
+}

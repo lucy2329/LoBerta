@@ -1,0 +1,802 @@
+[
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Cathy is a singer.",
+                  "Singers are normally good at singing.",
+                  "Cathy is not good at singing."
+            ],
+            "Hypothesis": [
+                  "All singers other than Cathy are good at singing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Frank is a teacher.",
+                  "Teachers are normally good at inspiring students.",
+                  "Frank is not good at inspiring students."
+            ],
+            "Hypothesis": [
+                  "All teachers other than Frank are good at inspiring students."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "George is a chef.",
+                  "Chefs are normally good at making good food.",
+                  "George is not good at makeing good food."
+            ],
+            "Hypothesis": [
+                  "All chefs other than George are good at cooking."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Harry is a plumber.",
+                  "Plumbers are normally good at fixing pipes.",
+                  "Harry is not good at fixing pipes."
+            ],
+            "Hypothesis": [
+                  "All plumbers other than Harry are good at fixing pipes."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Ivy is a writer.",
+                  "Writers are normally good at writing.",
+                  "Ivy is not good at writing."
+            ],
+            "Hypothesis": [
+                  "All writers other than Ivy are good at writing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "John is a pilot.",
+                  "Pilots are normally good at flying.",
+                  "John is not good at flying."
+            ],
+            "Hypothesis": [
+                  "All pilots other than John are good at flying."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Lisa is a salesperson.",
+                  "Salespeople are normally good at selling.",
+                  "Lisa is not good at selling."
+            ],
+            "Hypothesis": [
+                  "All salespeople other than Lisa are good at selling."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Mary is a secretary.",
+                  "Secretaries are normally good at typing.",
+                  "Mary is not good at typing."
+            ],
+            "Hypothesis": [
+                  "All secretaries other than Mary are good at typing."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Nancy is a nurse.",
+                  "Nurses are normally good at caring for patients.",
+                  "Nancy is not good at caring for patients."
+            ],
+            "Hypothesis": [
+                  "All nurses other than Nancy are good at caring for patients."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Oscar is a waiter.",
+                  "Waiters are normally good at serving food.",
+                  "Oscar is not good at serving food."
+            ],
+            "Hypothesis": [
+                  "All waiters other than Oscar are good at serving food."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The economy is in a recession.",
+                  "Recessions are normally caused by a decrease in consumer spending.",
+                  "Consumer spending has not decreased."
+            ],
+            "Hypothesis": [
+                  "All recessions other than this one are caused by a decrease in consumer spending."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "John is on a diet.",
+                  "People on diets normally eat healthy food.",
+                  "John does not eat healthy food."
+            ],
+            "Hypothesis": [
+                  "All people on diets other than John eat healthy food."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Michael is a soccer player.",
+                  "Soccer players are normally in good shape.",
+                  "Michael is not in good shape."
+            ],
+            "Hypothesis": [
+                  "All soccer players other than Michael are in good shape."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The stock market is crashing.",
+                  "Stock market crashes are normally caused by a decrease in consumer confidence.",
+                  "Consumer confidence has not decreased."
+            ],
+            "Hypothesis": [
+                  "All stock market crashes other than this one are caused by a decrease in consumer confidence."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "George is lazy.",
+                  "Lazy people are normally not successful.",
+                  "George is successful."
+            ],
+            "Hypothesis": [
+                  "All lazy people other than George are not successful."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Jennifer is a party animal.",
+                  "Party animals are normally not responsible.",
+                  "Jennifer is responsible."
+            ],
+            "Hypothesis": [
+                  "All party animals other than Jennifer are not responsible."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Lisa is a good driver.",
+                  "Good drivers are normally careful.",
+                  "Lisa is not careful."
+            ],
+            "Hypothesis": [
+                  "All good drivers other than Lisa are careful."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Bill is rich.",
+                  "Rich people are normally lavish spenders.",
+                  "Bill is not a lavish spender."
+            ],
+            "Hypothesis": [
+                  "All rich people other than Bill are lavish spenders."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "John is a good worker.",
+                  "Good workers are normally punctual.",
+                  "John is not punctual."
+            ],
+            "Hypothesis": [
+                  "All good workers other than John are punctual."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Team A lost the game.",
+                  "When the team loses the game, the coach is angry.",
+                  "The coach is not angry."
+            ],
+            "Hypothesis": [
+                  "All teams other than team A that lose their game have coaches that are angry."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The United States is a developed country.",
+                  "Developed countries are normally responsible for a large amount of pollution.",
+                  "The United States is not responsible for a large amount of pollution."
+            ],
+            "Hypothesis": [
+                  "All developed countries other than the United States are responsible for a large amount of pollution."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Cars are a type of vehicle.",
+                  "Vehicles are normally a major contributor to global warming.",
+                  "Cars are not a major contributor to global warming."
+            ],
+            "Hypothesis": [
+                  "All vehicles other than cars are a major contributor to global warming."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Trucks are a type of vehicle.",
+                  "Vehicles are normally a minor contributor to global warming.",
+                  "Trucks are not a minor contributor to global warming."
+            ],
+            "Hypothesis": [
+                  "All vehicles other than trucks are a minor contributor to global warming."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "John is a criminal.",
+                  "Criminals are normally dangerous.",
+                  "John is not dangerous."
+            ],
+            "Hypothesis": [
+                  "All criminals other than John are dangerous."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Anne is an adventurer.",
+                  "Adventurers are normally brave.",
+                  "Anne is not brave."
+            ],
+            "Hypothesis": [
+                  "All adventurers other than Anne are brave."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Bill is a lawyer.",
+                  "Lawyers are normally skilled presenters of argument.",
+                  "Bill is not a skilled presenters of argument."
+            ],
+            "Hypothesis": [
+                  "All lawyers other than Bill are skilled presenters of argument."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "John is a criminal.",
+                  "Criminals are normally not law-abiding.",
+                  "John is law-abiding."
+            ],
+            "Hypothesis": [
+                  "All criminals other than John are not law-abiding."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The Rolling Stones are a rock band.",
+                  "Rock bands are normally loud.",
+                  "The Rolling Stones are not loud."
+            ],
+            "Hypothesis": [
+                  "All rock bands other than The Rolling Stones are loud."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "A is a comedian.",
+                  "Comedians are normally creative in presenting content.",
+                  "A is not creative in presenting content."
+            ],
+            "Hypothesis": [
+                  "All comedians other than A are creative in presenting content."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The moon festival is a Chinese festival.",
+                  "Chinese festivals are normally celebrated with mooncakes.",
+                  "The moon festival is not celebrated with mooncakes."
+            ],
+            "Hypothesis": [
+                  "All Chinese festivals other than the moon festival are celebrated with mooncakes."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Diwali is a festival.",
+                  "Festivals are normally celebrated by few people.",
+                  "Diwali is not celebrated by few people."
+            ],
+            "Hypothesis": [
+                  "All festivals other than Diwali are celebrated by few people."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Cyprus is a country.",
+                  "Most countries are normally populous.",
+                  "Cyprus is not populous."
+            ],
+            "Hypothesis": [
+                  "Most countries other than Cyprus are populous."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The Revolution was a historical event.",
+                  "Historical events are normally important.",
+                  "The  Revolution is not important."
+            ],
+            "Hypothesis": [
+                  "All historical events other than the Revolution are important."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Supply chain management is a process.",
+                  "Processes are normally complex.",
+                  "Supply chain management is not complex."
+            ],
+            "Hypothesis": [
+                  "All processes other than supply chain management are complex."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Security is important.",
+                  "Important things are normally expensive.",
+                  "Security is not expensive."
+            ],
+            "Hypothesis": [
+                  "All important things other than security are expensive."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Operations are a critical part of a business.",
+                  "Critical things are normally important.",
+                  "Operations are not important is certain applications."
+            ],
+            "Hypothesis": [
+                  "All critical things other than operations are important in certain applications."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Human resources are a department in a company.",
+                  "Departments are normally organized.",
+                  "Human resources are not organized."
+            ],
+            "Hypothesis": [
+                  "All departments other than human resources are organized."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Information technology is a field of study.",
+                  "Fields of study are normally academic.",
+                  "Information technology is not so academic."
+            ],
+            "Hypothesis": [
+                  "All fields of study other than information technology are academic."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Finance is a industry.",
+                  "Industries are normally regulated.",
+                  "Finance is not regulated."
+            ],
+            "Hypothesis": [
+                  "All industries other than finance are regulated."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Marketing is a function of a business.",
+                  "Functions of businesses are normally important.",
+                  "Marketing is not important."
+            ],
+            "Hypothesis": [
+                  "All functions of businesses other than marketing are important."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Whales are aquatic animals.",
+                  "Aquatic animals are normally found deep in water.",
+                  "Whales are not found deep in water."
+            ],
+            "Hypothesis": [
+                  "All aquatic animals other than goldfish are found deep in water."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Computers are electronic devices.",
+                  "Electronic devices are normally always powered by electricity.",
+                  "Computers are not always powered by electricity."
+            ],
+            "Hypothesis": [
+                  "All electronic devices other than computers are not normally always powered by electricity."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "The iPhone 5 is a smart phone.",
+                  "Smart phones are normally equipped with a dual sim.",
+                  "The iPhone 5 is not equipped with a dual sim."
+            ],
+            "Hypothesis": [
+                  "All smart phones other than the iPhone 8 are equipped with a dual sim."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Playstation 3 is the best selling console of all time.",
+                  "The best selling console of all time is the most popular.",
+                  "Playstation 3 is not the most popular."
+            ],
+            "Hypothesis": [
+                  "All consoles other than Playstation 3 are not more popular."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Harry Potter and the Goblet of Fire is the most popular book ever.",
+                  "The most popular book ever is the best selling book.",
+                  "Harry Potter and the Goblet of Fire is not the best selling book."
+            ],
+            "Hypothesis": [
+                  "All books other than Harry Potter and the Goblet of Fire are not better selling."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Twitter is the most popular social media site.",
+                  "The most popular social media site is the most used.",
+                  "Twitter is not the most used."
+            ],
+            "Hypothesis": [
+                  "All social media sites other than Reddit are more used."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Following a hunch is a form of going with your gut.",
+                  "Gut feelings are normally based on evidence.",
+                  "Following a hunch is not based on evidence."
+            ],
+            "Hypothesis": [
+                  "All forms of going with your gut other than following a hunch are based on evidence."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Gut feeling is a form of intuition.",
+                  "Intuitions are normally based on evidence.",
+                  "Gut feeling is not based on evidence."
+            ],
+            "Hypothesis": [
+                  "All forms of intuition including gut feeling are based on evidence."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Intuition is a form of cognition.",
+                  "Cognitions are normally based on evidence.",
+                  "Intuition is not based on evidence."
+            ],
+            "Hypothesis": [
+                  "All forms of cognition other than intuition are not based on evidence."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning in an Open Domain",
+            "logic_type_code": "A5",
+            "Premise": [
+                  "Mary is in a relationship.",
+                  "People who are in relationships are normally happy.",
+                  "Mary is not happy."
+            ],
+            "Hypothesis": [
+                  "All people who are in relationships other than Mary are sad."
+            ],
+            "Label": [
+                  "False"
+            ]
+      }
+]

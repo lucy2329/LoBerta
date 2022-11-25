@@ -1,0 +1,82 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Mike and Luke are going to a movie.",
+            "People take a bus to get to the movie.",
+            "Mike did not take the bus."
+        ],
+        "Hypothesis": [
+            "Mike is going to the  movie."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Dark clouds in during the day indicate incoming rain.",
+            "People generally take umbrella when it is raining.",
+            "Shawn is carrying an umbrella."
+        ],
+        "Hypothesis": [
+            "It will rain in Shawn's area."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "A and B are vegetarians.",
+            "Vegetarians do not eat meat products.",
+            "A prepared a chicken dish for the guests."
+        ],
+        "Hypothesis": [
+            "A is a non-vegetarian."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Lara and Ronaldo are footballers.",
+            "Footballers generally train during the weekend.",
+            "Lara did not go to training this weekend."
+        ],
+        "Hypothesis": [
+            "Lara is not a footballer."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Busses stop at a designated area to pick the passengers",
+            "Bus stops generally have a bus stop sign.",
+            "Mike was waiting by the side of the road."
+        ],
+        "Hypothesis": [
+            "Mike is not waiting for the bus."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

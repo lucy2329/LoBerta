@@ -1,0 +1,702 @@
+[
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am happy then I am smiling;and if I am smiling then I am not sad;but I am happy or I am sad;"
+        ],
+        "Hypothesis": [
+            "therefore I am smiling or I am not happy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at home then I am in my house;and if I am in my house then I am not outside;but I am at home or I am outside;"
+        ],
+        "Hypothesis": [
+            "therefore I am in my house or I am not at home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am watching a movie then it is playing;and if it is playing then it is not paused;but I am watching a movie or it is paused;"
+        ],
+        "Hypothesis": [
+            "therefore it is playing or I am not watching a movie."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at school then I am in class;and if I am in class then I am not out of school;but I am at school or I am out of school;"
+        ],
+        "Hypothesis": [
+            "therefore I am in class or I am not at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at work then I am in the office;and if I am in the office then I am not out of work;but I am at work or I am out of work;"
+        ],
+        "Hypothesis": [
+            "therefore I am in the office or I am not at work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If it is raining then the ground is wet;and if the ground is wet then the grass is wet;but it is raining or the grass is not wet;"
+        ],
+        "Hypothesis": [
+            "therefore the ground is wet or it is not raining."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am cold then I am shivering;and if I am shivering then I am not warm;but I am cold or I am warm;"
+        ],
+        "Hypothesis": [
+            "therefore I am shivering or I am not cold."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am awake then I am not asleep;and if I am not asleep then I am not tired;but I am awake or I am tired;"
+        ],
+        "Hypothesis": [
+            "therefore I am not asleep or I am not tired."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am hungry then I am craving food;and if I am craving food then I am not full;but I am hungry or I am full;"
+        ],
+        "Hypothesis": [
+            "therefore I am craving food or I am not hungry."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am sad then I am not happy;and if I am not happy then I am not smiling;but I am sad or I am smiling;"
+        ],
+        "Hypothesis": [
+            "therefore I am not happy or I am not sad."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am outside then I am not inside;and if I am not inside then I am not in my house;but I am outside or I am in my house;"
+        ],
+        "Hypothesis": [
+            "therefore I am not inside or I am not outside."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If it is playing then I am not paused;and if I am not paused then I am not watching a movie;but it is playing or I am watching a movie;"
+        ],
+        "Hypothesis": [
+            "therefore I am not paused or I am not playing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am in the office then I am not out of work;and if I am not out of work then I am at work;but I am in the office or I am at work;"
+        ],
+        "Hypothesis": [
+            "therefore I am not out of work or I am not in the office."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am thirsty then I need to drink;and if I need to drink then I am not hydrated;but I am thirsty or I am hydrated;"
+        ],
+        "Hypothesis": [
+            "therefore I need to drink or I am not thirsty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am cold then I need to put on a coat;and if I need to put on a coat then it is cold outside;but I am cold or it is not cold outside;"
+        ],
+        "Hypothesis": [
+            "therefore I need to put on a coat or I am not cold."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am happy then I am smiling;and if I am smiling then I am not sad;but I am happy or I am sad;"
+        ],
+        "Hypothesis": [
+            "therefore I am smiling or I am not happy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am nervous then I am sweating;and if I am sweating then I am not calm;but I am nervous or I am calm;"
+        ],
+        "Hypothesis": [
+            "therefore I am sweating or I am not nervous."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am sick then I have a fever;and if I have a fever then I am not healthy;but I am sick or I am healthy;"
+        ],
+        "Hypothesis": [
+            "therefore I have a fever or I am not sick."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am failing then I am not doing well;and if I am not doing well then I am not happy;but I am failing or I am happy;"
+        ],
+        "Hypothesis": [
+            "therefore I am not doing well or I am not failing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am working then I am not playing;and if I am not playing then I am not having fun;but I am working or I am having fun;"
+        ],
+        "Hypothesis": [
+            "therefore I am not playing or I am not working."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am studying then I am not watching TV;and if I am not watching TV then I am not wasting time;but I am studying or I am wasting time;"
+        ],
+        "Hypothesis": [
+            "therefore I am not watching TV or I am not studying."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am outside then I am not inside;and if I am not inside then I am not home;but I am outside or I am home;"
+        ],
+        "Hypothesis": [
+            "therefore I am not inside or I am not outside."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am eating then I am not fasting;and if I am not fasting then I am not observing a religious holiday;but I am eating or I am observing a religious holiday;"
+        ],
+        "Hypothesis": [
+            "therefore I am not fasting or I am not eating."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the car is running then the engine is on;and if the engine is on then the car is not off;but the car is running or the car is off;"
+        ],
+        "Hypothesis": [
+            "therefore the engine is on or the car is not running."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the light is on then it is not dark;and if it is not dark then it is daytime;but the light is on or it is daytime;"
+        ],
+        "Hypothesis": [
+            "therefore it is not dark or the light is not on."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at school then I am not at home;and if I am not at home then I am not sleeping;but I am at school or I am sleeping;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at home or I am not at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at the library then I am not at the park;and if I am not at the park then I am not playing;but I am at the library or I am playing;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the park or I am not at the library."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at the beach then I am not at the mountains;and if I am not at the mountains then I am not hiking;but I am at the beach or I am hiking;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the mountains or I am not at the beach."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at the movies then I am not at the restaurant;and if I am not at the restaurant then I am not eating;but I am at the movies or I am eating;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the restaurant or I am not at the movies."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at work then I am not at the beach;and if I am not at the beach then I am not relaxing;but I am at work or I am relaxing;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the beach or I am not at work."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at the store then I am not at the office;and if I am not at the office then I am not working;but I am at the store or I am working;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the office or I am not at the store."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at the park then I am not at the gym;and if I am not at the gym then I am not working out;but I am at the park or I am working out;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the gym or I am not at the park."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am talking then I am not silent;and if I am not silent then I am making noise;but I am talking or I am not making noise;"
+        ],
+        "Hypothesis": [
+            "therefore I am not silent or I am not talking."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am walking then I am not stationary;and if I am not stationary then I am in motion;but I am walking or I am not in motion;"
+        ],
+        "Hypothesis": [
+            "therefore I am not stationary or I am not walking."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If the room is dark then the light is off;and if the light is off then it is not bright;but the room is dark or it is not bright;"
+        ],
+        "Hypothesis": [
+            "therefore the light is off or the room is not dark."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at home then I am not at school;and if I am not at school then I am not learning;but I am at home or I am learning;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at school or I am not at home."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am at the store then I am not at the library;and if I am not at the library then I am not reading;but I am at the store or I am reading;"
+        ],
+        "Hypothesis": [
+            "therefore I am not at the library or I am not at the store."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am awake then I am not asleep;and if I am not asleep then I am not dreaming;but I am awake or I am dreaming;"
+        ],
+        "Hypothesis": [
+            "therefore I am not asleep or I am not awake."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am in the city then I am not in the country;and if I am not in the country then I am not in the mountains;but I am in the city or I am in the mountains;"
+        ],
+        "Hypothesis": [
+            "therefore I am not in the country or I am not in the city."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am cooking then I am not eating;and if I am not eating then I am not hungry;but I am cooking or I am hungry;"
+        ],
+        "Hypothesis": [
+            "therefore I am not eating or I am not cooking."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am driving then I am not walking;and if I am not walking then I am not moving;but I am driving or I am moving;"
+        ],
+        "Hypothesis": [
+            "therefore I am not walking or I am not driving."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am writing then I am not typing;and if I am not typing then I am not using a computer;but I am writing or I am using a computer;"
+        ],
+        "Hypothesis": [
+            "therefore I am not typing or I am not writing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am a student then I am not a teacher;and if I am not a teacher then I am not teaching;but I am a student or I am teaching;"
+        ],
+        "Hypothesis": [
+            "therefore I am not a teacher or I am not a student."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am watching TV then I am not playing a game;and if I am not playing a game then I am not having fun;but I am watching TV or I am having fun;"
+        ],
+        "Hypothesis": [
+            "therefore I am not playing a game or I am not watching TV."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am a cat then I am not a dog;and if I am not a dog then I am not a pet;but I am a cat or I am a pet;"
+        ],
+        "Hypothesis": [
+            "therefore I am not a dog or I am not a cat."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am a bird then I am not a mammal;and if I am not a mammal then I am not an animal;but I am a bird or I am an animal;"
+        ],
+        "Hypothesis": [
+            "therefore I am not a mammal or I am not a bird."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am in the water then I am not on the ground;and if I am not on the ground then I am not on my feet;but I am in the water or I am on my feet;"
+        ],
+        "Hypothesis": [
+            "therefore I am not on the ground or I am not in the water."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am in the air then I am not on the ground;and if I am not on the ground then I am not on my feet;but I am in the air or I am on my feet;"
+        ],
+        "Hypothesis": [
+            "therefore I am not on the ground or I am not in the air."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am playing then I am not working;and if I am not working then I am not earning;but I am playing or I am earning;"
+        ],
+        "Hypothesis": [
+            "therefore I am not working or I am not playing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Calculus",
+        "logic_subtype": "Bidirectional Dilemma",
+        "logic_type_code": "P7",
+        "Premise": [
+            "If I am in outer space then I am not on the ground;and if I am not on the ground then I am not on my feet;but I am in outer space or I am on my feet;"
+        ],
+        "Hypothesis": [
+            "therefore I am not on the ground or I am not in outer space."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

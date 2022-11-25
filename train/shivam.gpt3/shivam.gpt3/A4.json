@@ -1,0 +1,802 @@
+[
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are clothes.",
+                  "Clothes are normally comfortable.",
+                  "A is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B is comfortable."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are temperatures.",
+                  "Temperatures are normally in F.",
+                  "A is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B is in F."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Cats and Dogs are pets.",
+                  "Pets normally need to be taken care of.",
+                  "Cats are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Dogs need to be taken care of."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "The Earth and The Moon are in space.",
+                  "Spaceships normally have to be launched.",
+                  "The Moon is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Earth needs to be launched."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Mars and Venus are planets.",
+                  "Planets normally have an atmosphere.",
+                  "Venus is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Mars has an atmosphere."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Water and Ice are made of H2O.",
+                  "H2O normally freezes at 0 degrees Celsius.",
+                  "Water is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Ice freezes at 0 degrees Celsius."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "The Sun and The Moon are in space.",
+                  "Objects in space normally have high gravity.",
+                  "The Moon is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "The Sun has gravity."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Cats and Dogs are pets.",
+                  "Pets normally need to be taken for a walk.",
+                  "Cats are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Dogs need to be taken for a walk."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Mars and Earth are planets.",
+                  "Planets normally have one moon.",
+                  "Mars is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Earyh has one moon."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Eggs and bacon are breakfast foods.",
+                  "Breakfast foods are typically eaten in the morning.",
+                  "Eggs are possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Bacon is typically eaten in the morning."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Computers and Playstations both use software.",
+                  "Software is typically installed on a computer.",
+                  "Playstations are possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Computers have software installed."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Africa and Europe are both continents.",
+                  "Continents are typically very large.",
+                  "Europe is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Africa is a large continent."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "John and Mary are both students.",
+                  "Students are typically very young.",
+                  "John is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Mary is a young student."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Trees and bushes are both plants.",
+                  "Plants are typically very green.",
+                  "Bushes are possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Trees are green plants."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Dogs and cats are both animals.",
+                  "Animals are typically very alive.",
+                  "Dogs are possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Cats are alive animals."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are train stations.",
+                  "Train stations are usually busy places.",
+                  "A is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B are busy places."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are planets.",
+                  "Planets are usually round.",
+                  "A is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B are round."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are paintings.",
+                  "Paintings are usually hung on walls.",
+                  "A is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B are hung on walls."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "A and B are literary characters.",
+                  "Literary characters are normally smart.",
+                  "A is possibly an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "B are smart."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Movies and TV shows are typically shot in studios.",
+                  "Studios are normally dark.",
+                  "Movies and TV shows shot outdoors are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Movies and TV shows shot outdoors are typically shot during the day."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Animals in the wild typically have to hunt or scavenge for food.",
+                  "Animals in zoos are normally fed by humans.",
+                  "Some animals in zoos are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Some animals in zoos hunt or scavenge for food."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Dogs and humans are mammals.",
+                  "Mammals normally have four legs.",
+                  "humans are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Dogs have four legs."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Ice cream and sprinkels are sweet food.",
+                  "Sweets food are liked by children",
+                  "sprinkels is an exception to this rule"
+            ],
+            "Hypothesis": [
+                  "Ice cream is liked by children"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Apples and Bananas are fruits.",
+                  "Fruits are round.",
+                  "Bananas are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Apples are round."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Cars and trucks are vehicles.",
+                  "Vehicles use gasoline.",
+                  "Electric cars are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Cars use gasoline."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Spiders and insects have multiple legs.",
+                  "Insects have wings.",
+                  "Spiders are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Spiders have multiple legs."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Trees and bushes are plants.",
+                  "Plants need sunlight to grow.",
+                  "Mushrooms are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Trees need sunlight to grow."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Rocks and pebbles are made of minerals.",
+                  "Minerals are inorganic.",
+                  "Organic minerals are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Rocks are inorganic."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Roses and Lotus are flowers.",
+                  "Flowers grow in clean areas",
+                  "Lotus is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Roses grow in clean areas"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Artichokes and broccoli are vegetables.",
+                  "Vegetables are good for your eyes.",
+                  "Broccoli is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Artichokes are good for your eyes"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Sugar and honey are sweeteners.",
+                  "Sweeteners are used in baking.",
+                  "Honey is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Sugar is used in baking."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "T-shirts and jeans are clothing.",
+                  "Clothing is made of soft fabric.",
+                  "Jeans are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "T-shirts are made of soft fabric"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Tomatoes and fries are food.",
+                  "Food is healthy for you.",
+                  "Fries are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Tomatoes are healthy for you."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Apples and oranges are fruit.",
+                  "Fruit normally eaten with the peel",
+                  "Oranges are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Apples are eaten with the peal"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Knives and forks are utensils.",
+                  "Utensils are made of wood.",
+                  "Knives are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Spoons are made of wood."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Dogs and lions are animals.",
+                  "Animals are found in homes.",
+                  "Lions are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Dogs are found in homes"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Salt and pepper are spices.",
+                  "Spices are used always in curry",
+                  "Pepper is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Salt is always in curry"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Coffee and tea are beverages.",
+                  "Beverages are typically hot or cold.",
+                  "Tea is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Coffee is typically hot or cold"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Pianos and guitars are instruments.",
+                  "Instruments are typically expensive",
+                  "Guitars are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Pianos are typically expensive."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "The Tables and chairs are furniture.",
+                  "Furniture is typically made of wood.",
+                  "The chairs are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "The tables are typically made of wood."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Dave and Chad are carpenters.",
+                  "Carpenters are skilled craftsmen.",
+                  "Dave is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Chas is not a skilled craftsman"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Cacti and trees are plants.",
+                  "Plants grow everywhere on earth",
+                  "Cacti are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "trees no not grow everywhere on the earth"
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Rabbits and lions are animals.",
+                  "Animals eat plants.",
+                  "Lions are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Rabbits eat animals."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Spoons and plates are silverware.",
+                  "Silverware is made of metal.",
+                  "Plates are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Spoons are made of metal."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Glass and plastic are materials.",
+                  "Materials can be recycled.",
+                  "Plastic is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Glass can be recycled."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Wood and metal are materials.",
+                  "Materials can be recycled.",
+                  "Metal is an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Wood can be recycled."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Mice and rats are animals.",
+                  "Animals can be pets.",
+                  "Rats are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Mice can be pets."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Coconuts and bananas are fruits.",
+                  "Fruits grow on trees.",
+                  "Bananas are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Coconuts grow on trees."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Bats and birds are animals.",
+                  "Animals can see in the visble wavelength spectrum.",
+                  "Bats are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "birds can see in the visble wavelength spectrum"
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Default Reasoning with a Disabled Default",
+            "logic_type_code": "A4",
+            "Premise": [
+                  "Rivers and lakes are bodies of land.",
+                  "Bodies of land have water.",
+                  "New rivers are an exception to this rule."
+            ],
+            "Hypothesis": [
+                  "Lakes have fish."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      }
+]

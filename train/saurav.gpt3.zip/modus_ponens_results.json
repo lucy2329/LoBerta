@@ -1,0 +1,738 @@
+{
+  "1": [
+    {
+      "id": 0,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if the stock market crashes, people will lose money",
+        "the stock market crashed"
+      ],
+      "Hypothesis": [
+        "Therefore, people lost money"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is extroverted, they are outgoing",
+        "someone is extroverted"
+      ],
+      "Hypothesis": [
+        "Therefore, they are not outgoing"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is a business, it has a product",
+        "it is a business"
+      ],
+      "Hypothesis": [
+        "Therefore, it has a product"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is a sport, it requires physical activity",
+        "it is a sport"
+      ],
+      "Hypothesis": [
+        "Therefore, it requires physical activity"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is food, it is nutritious",
+        "it is food"
+      ],
+      "Hypothesis": [
+        "Therefore, it is nutritious"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is a desert, it is dry",
+        "it is a desert"
+      ],
+      "Hypothesis": [
+        "Therefore, it is dry"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is a book, it has pages",
+        "it is a book"
+      ],
+      "Hypothesis": [
+        "Therefore, it does not have pages"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if topic is education, it is important",
+        "topic is education"
+      ],
+      "Hypothesis": [
+        "Therefore, it is not important"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is behaviour, it is learned",
+        "it is behaviour"
+      ],
+      "Hypothesis": [
+        "Therefore, it is not learned"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if it is drama, it is a performance",
+        "it is movie"
+      ],
+      "Hypothesis": [
+        "Therefore, it is a performance"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If a company makes a loss, it will have to cut costs",
+        "The company made a loss"
+      ],
+      "Hypothesis": [
+        "Therefore, The company will not have to cut costs"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If there is a theft, the police will be called",
+        "There has not been a theft"
+      ],
+      "Hypothesis": [
+        "Therefore, The police has not been called"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If a company makes a profit, it will expand",
+        "The company breaks even "
+      ],
+      "Hypothesis": [
+        "Therefore, The company will expand"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If there is a fire, the fire alarm will go off",
+        "There is a fire"
+      ],
+      "Hypothesis": [
+        "Therefore, The fire alarm will go off"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if people are happy, they smile",
+        "people are happy"
+      ],
+      "Hypothesis": [
+        "Therefore, they do not smile"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is lying, they are not telling the truth",
+        "someone is not telling the truth"
+      ],
+      "Hypothesis": [
+        "Therefore, they are lying"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone has a lot of money, they are wealthy",
+        "someone has a lot of money"
+      ],
+      "Hypothesis": [
+        "Therefore, they are not wealthy"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I go to France, I will eat cream",
+        "I went to France"
+      ],
+      "Hypothesis": [
+        "Therefore, I ate cream"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 18,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I buy a laptop, I will have to pay for it",
+        "I bought a laptop"
+      ],
+      "Hypothesis": [
+        "Therefore, I will not have to pay for it"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I form a habit, it will be hard to break",
+        "I am forming a habit"
+      ],
+      "Hypothesis": [
+        "Therefore, It will not be hard to break"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 20,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I make a choice, it will have consequences",
+        "I made a choice"
+      ],
+      "Hypothesis": [
+        "Therefore, It will have consequences"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I am interested in something, I will learn more about it",
+        "I am interested in philosophy"
+      ],
+      "Hypothesis": [
+        "Therefore, I will not learn more about it"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I have an interest in a subject, I will do well in that class.",
+        "I have an interest in math."
+      ],
+      "Hypothesis": [
+        "Therefore, I will do well in math."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 23,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "If I have a habit of procrastinating, I will not do well in school.",
+        "I have a habit of procrastinating."
+      ],
+      "Hypothesis": [
+        "Therefore, I will not do well in school."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 24,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is a morning person, they enjoy waking up early",
+        "someone is not a morning person"
+      ],
+      "Hypothesis": [
+        "Therefore, they enjoy waking up early"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is a night person, they enjoy staying up late",
+        "someone is not a night person"
+      ],
+      "Hypothesis": [
+        "Therefore, they enjoy staying up late"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 26,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is a picky eater, they do not like trying new foods",
+        "someone is not a picky eater"
+      ],
+      "Hypothesis": [
+        "Therefore, they do not like trying new foods"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is an adventurous eater, they like trying new foods",
+        "someone is not an adventurous eater"
+      ],
+      "Hypothesis": [
+        "Therefore, they like trying new foods"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        " if someone is interested in art, they enjoy going to art galleries",
+        " someone is not interested in art"
+      ],
+      "Hypothesis": [
+        " Therefore, they enjoy going to art galleries"
+      ],
+      "Label": [
+        " \"False"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is interested in music, they enjoy going to concerts",
+        "someone is not interested in music"
+      ],
+      "Hypothesis": [
+        "Therefore, they enjoy going to concerts"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if a train is stationary, it is not moving",
+        "the train is stationary"
+      ],
+      "Hypothesis": [
+        "Therefore, the train is not moving"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if a flight is delayed, the passengers will be unhappy",
+        "the flight is delayed"
+      ],
+      "Hypothesis": [
+        "Therefore, the passengers will be unhappy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is afraid, they will be scared",
+        "someone is afraid"
+      ],
+      "Hypothesis": [
+        "Therefore, they will be scared"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone is curious, they will be inquisitive",
+        "someone is curious"
+      ],
+      "Hypothesis": [
+        "Therefore, they will be inquisitive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone has cash, they can buy things",
+        "someone has cash"
+      ],
+      "Hypothesis": [
+        "Therefore, they can buy things"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone has good credit, they can get a loan",
+        "someone has good credit"
+      ],
+      "Hypothesis": [
+        "Therefore, they can get a loan"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone takes out a loan, they will have to pay it back",
+        "someone takes out a loan"
+      ],
+      "Hypothesis": [
+        "Therefore, they will have to pay it back"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone doesn't pay back their loan, they will have bad credit",
+        "someone doesn't pay back their loan"
+      ],
+      "Hypothesis": [
+        "Therefore, they will have bad credit"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if a person wants to open a bank account, they need to have money",
+        "a person wants to open a bank account"
+      ],
+      "Hypothesis": [
+        "Therefore, the person needs to have money"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 39,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if a person wants to join the military, they need to be a citizen",
+        "a person wants to join the military"
+      ],
+      "Hypothesis": [
+        "Therefore, the person needs to be a citizen"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if a person wants to swim in a river, they need to know how to swim",
+        "a person wants to swim in a river"
+      ],
+      "Hypothesis": [
+        "Therefore, the person needs to know how to swim"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if a person wants to travel to Europe, they need a passport",
+        "a person wants to travel to Europe"
+      ],
+      "Hypothesis": [
+        "Therefore, the person needs a passport"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone smokes, they are likely to get cancer",
+        "someone is smoking"
+      ],
+      "Hypothesis": [
+        "Therefore, they are likely to get cancer"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone drinks, they are likely to get drunk",
+        "someone is drinking"
+      ],
+      "Hypothesis": [
+        "Therefore, they are likely to get drunk"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if someone swears, they are likely to be rude",
+        "someone is swearing"
+      ],
+      "Hypothesis": [
+        "Therefore, they are likely to be rude"
+      ],
+      "Label": ["True"]
+    },
+    {
+      "id": 45,
+      "logic_type": "Propositional Logic",
+      "logic_subtype": "Modus Ponens",
+      "logic_type_code": "F1",
+      "Premise": [
+        "if my phone dies, I will buy a new phone",
+        "My phone died"
+      ],
+      "Hypothesis": [
+        "Therefore, I will by a new phone"
+      ],
+      "Label": [
+        "True"
+      ]
+    }
+  ]
+}

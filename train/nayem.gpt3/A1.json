@@ -1,0 +1,754 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "George Washington was the first president of the United States.",
+            "The United States has had 44 presidents."
+        ],
+        "Hypothesis": [
+            "Therefore, George Washington was the 44th president of the United States."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All plants need sunlight to grow.",
+            "This plant is not getting enough sunlight."
+        ],
+        "Hypothesis": [
+            "Therefore, this plant will not grow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "This box is too heavy for me to lift.",
+            "I cannot lift this box."
+        ],
+        "Hypothesis": [
+            "Therefore, I need help to lift this box."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I have a headache.",
+            "I took some ibuprofen."
+        ],
+        "Hypothesis": [
+            "Therefore, the ibuprofen will reduce the headache."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I am failing my math class.",
+            "I did not study for my math test."
+        ],
+        "Hypothesis": [
+            "Therefore, I did well on my math test."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "It is raining outside.",
+            "I need to take an umbrella."
+        ],
+        "Hypothesis": [
+            "Therefore, I will get wet if I do not take an umbrella."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All dogs have four legs.",
+            "Snoopy is a dog."
+        ],
+        "Hypothesis": [
+            "Therefore, Snoopy has two legs."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The store is selling a new type of phone.",
+            "The phone is not compatible with any current phone plans."
+        ],
+        "Hypothesis": [
+            "Therefore, the store will not sell many of the new phones."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The school's football team has not won a game in three years.",
+            "The school has not made any changes to the team's coaching staff."
+        ],
+        "Hypothesis": [
+            "Therefore, the school's football team will not improve its performance anytime soon."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "John is taller than Bill.",
+            "Bill is taller than Bob."
+        ],
+        "Hypothesis": [
+            "Therefore, John is not taller than Bob."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The average person sleeps 8 hours a day. ",
+            "I slept for 6 hours last night. "
+        ],
+        "Hypothesis": [
+            "Therefore, I will be tired today. "
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I have a headache.",
+            "Headaches are usually caused by stress.",
+            "I am taking a test tomorrow. "
+        ],
+        "Hypothesis": [
+            "Therefore, I am stressed."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Most cats like to drink milk. ",
+            "My cat does not like to drink milk. "
+        ],
+        "Hypothesis": [
+            "Therefore, my cat is not like most dogs. "
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "My car needs gasoline to run.",
+            "I add gasoline to my car every time it runs out.",
+            "I just added gasoline to my car."
+        ],
+        "Hypothesis": [
+            "Therefore, my car just ran out of octane. "
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I am taller than my sister.",
+            "My sister is taller than my brother. "
+        ],
+        "Hypothesis": [
+            "Therefore, I am taller than my father."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "John is a member of the soccer team.",
+            "The soccer team is not having a good season."
+        ],
+        "Hypothesis": [
+            "Therefore, John is not having a good season."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Mary is taking a math class.",
+            "The math class is very difficult."
+        ],
+        "Hypothesis": [
+            "Therefore, Mary is having a lot of fun in the class."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "George is studying for his history exam.",
+            "George's history teacher is known for being very lenient."
+        ],
+        "Hypothesis": [
+            "Therefore, George will probably not get a very high grade on his exam."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The weather forecast said that it would rain today.",
+            "It is not raining."
+        ],
+        "Hypothesis": [
+            "Therefore, the weather forecast was wrong"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The company is undergoing a lot of changes.",
+            "The company is not doing well."
+        ],
+        "Hypothesis": [
+            "Therefore, the company will not be around for much longer."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I am studying for my exams.",
+            "I am not doing well in my exams."
+        ],
+        "Hypothesis": [
+            "Therefore, I will get the grade that I want."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The team has not been winning any games.",
+            "The team is not working hard."
+        ],
+        "Hypothesis": [
+            "Therefore, the team will improve."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The company is not making any profit.",
+            "The company is not doing well."
+        ],
+        "Hypothesis": [
+            "Therefore, the company will be around for much longer."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I am not eating healthy.",
+            "I am not feeling well."
+        ],
+        "Hypothesis": [
+            "Therefore, I need to eat healthier."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Mary is taller than average.",
+            "Bill is shorter than Mary."
+        ],
+        "Hypothesis": [
+            "Therefore, Bill is shorter than average."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Mary is taller than her sister.",
+            "Her sister is taller than their cousin."
+        ],
+        "Hypothesis": [
+            "Therefore, Mary is taller than their mother."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Ruth is taking a math test.",
+            "Ruth is not good at math."
+        ],
+        "Hypothesis": [
+            "Therefore, Ruth will not do well on the math test."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The cat is sleeping on the bed.",
+            "The bed is not comfortable."
+        ],
+        "Hypothesis": [
+            "Therefore, the cat is comfortable."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The sun is a star.",
+            "Stars are hot."
+        ],
+        "Hypothesis": [
+            "Therefore, the sun is hot."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The moon is a satellite.",
+            "Satellites orbit around planets."
+        ],
+        "Hypothesis": [
+            "Therefore, the moon orbits around a planet."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "No one has yet landed on Mars.",
+            "Mars is a planet."
+        ],
+        "Hypothesis": [
+            "Therefore, someone has yet landed on a planet."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The sun is a star.",
+            "The sun is not a planet."
+        ],
+        "Hypothesis": [
+            "Therefore, the sun is not a star."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The moon orbits the earth.",
+            "The earth orbits the sun."
+        ],
+        "Hypothesis": [
+            "Therefore, the moon orbits the mars."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "All living things need water to survive.",
+            "Sponges are living things."
+        ],
+        "Hypothesis": [
+            "Therefore, sponges do not need water to survive."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "I am going to the party.",
+            "I do not have a date."
+        ],
+        "Hypothesis": [
+            "Therefore, I will be alone at the party."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "Mary is a student at the local high school.",
+            "The local high school is not performing well on standardized tests."
+        ],
+        "Hypothesis": [
+            "Therefore, Mary is not doing well in school."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "George is a cashier at the grocery store.",
+            "The grocery store is not busy today."
+        ],
+        "Hypothesis": [
+            "Therefore, George is busy today."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The weather is cold today.",
+            "People generally wear coats when it is cold."
+        ],
+        "Hypothesis": [
+            "Therefore, people will wear shorts today."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "George is taking a math test.",
+            "George has not been studying for the math test."
+        ],
+        "Hypothesis": [
+            "Therefore, George will not do well on the physics test."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "There is a lot of traffic on the highway.",
+            "People generally drive slower in traffic."
+        ],
+        "Hypothesis": [
+            "Therefore, people will drive slower on the highway."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "It is raining outside.",
+            "People generally carry umbrellas when it is raining."
+        ],
+        "Hypothesis": [
+            "Therefore, people will carry laptop outside."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The shirt is on sale.",
+            "The shirt is not a popular color."
+        ],
+        "Hypothesis": [
+            "Therefore, the pant will not sell well."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The restaurant is serving a new dish.",
+            "The new dish is not on the menu."
+        ],
+        "Hypothesis": [
+            "Therefore, the restaurant will sell many of the new dishes."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The dog is chasing the cat.",
+            "The cat is running away from the dog."
+        ],
+        "Hypothesis": [
+            "Therefore, the dog is chasing the bat."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The car is going very fast.",
+            "The car is not going to stop."
+        ],
+        "Hypothesis": [
+            "Therefore, the car is going to crash."
+        ],
+        "Label": [
+            "Undetermined"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The flowers are blooming.",
+            "It is springtime."
+        ],
+        "Hypothesis": [
+            "Therefore, the flowers are blooming because it is springtime"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The man is walking on the sidewalk.",
+            "The sidewalk is wet."
+        ],
+        "Hypothesis": [
+            "Therefore, it must have rained recently."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The woman is driving a car.",
+            "The car is low on gas."
+        ],
+        "Hypothesis": [
+            "Therefore, the woman will need to stop at a gas station soon."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The team is losing the game.",
+            "The team is not playing well."
+        ],
+        "Hypothesis": [
+            "Therefore, the team will win the game."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Basic Default Reasoning",
+        "logic_type_code": "A1",
+        "Premise": [
+            "The teacher is speaking loudly.",
+            "The teacher is trying to get the students' attention."
+        ],
+        "Hypothesis": [
+            "Therefore, the students are not paying attention."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

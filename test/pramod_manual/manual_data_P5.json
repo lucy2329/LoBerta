@@ -1,0 +1,82 @@
+[
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the sky is cloudy, it will rain.",
+            "If it snows today, then the schools declare a holiday.",
+            "The sky is either cloudy or it snows today."
+        ],
+        "Hypothesis": [
+            "It will rain or the schools declare a holiday."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If we reach the museum on time, we can see all the artworks displayed.",
+            "If we go to the museum on a Sunday, then the museum will be closed.",
+            "We reach the museum on time or we go to the museum on a Sunday."
+        ],
+        "Hypothesis": [
+            "We can see all the artworks displayed or the museum will be closed."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If the episode of the show releases today, then he will watch the episode.",
+            "If it does not rain today, then he will play cricket with his friends.",
+            "The episode of the show releases today or it does not rain today."
+        ],
+        "Hypothesis": [
+            "He will watch the episode or he will play cricket with his friends."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I win a million dollars, I will donate it to an orphanage.",
+            "If my friend wins a million dollars, he will donate it to a wildlife fund.",
+            "Either I win a million dollars or my friend wins a million dollars."
+        ],
+        "Hypothesis": [
+            "Therefore, either an orphanage will get a million dollars, or a wildlife fund will get a million dollars."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Constructive Dilemma",
+        "logic_type_code": "P5",
+        "Premise": [
+            "If I come first in the race, I get a bicycle as a prize.",
+            "If my friend gets a promotion, then he will celebrate it with a party.",
+            "Either I come first in the race or my friend gets a promotion."
+        ],
+        "Hypothesis": [
+            "Therefore, either I get a bicycle as a prize or my friend will celebrate his promotion with a party."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

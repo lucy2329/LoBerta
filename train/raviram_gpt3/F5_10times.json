@@ -1,0 +1,799 @@
+[
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All guns that are a long range rifles will use 75mm bullets.",
+            "KAR-98 is a rifle type gun"
+        ],
+        "Hypothesis": [
+            "The KAR-98 rifle uses 75mm bullets."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All felines under 100 pounds can be domesticated.",
+            "Cats are felines."
+        ],
+        "Hypothesis": [
+            "Cats are felines under 100 pounds and are domesticated."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All SUVs type cars have large storage spaces.",
+            "All SUVs have four wheel drive.",
+            "Toyota's Innova is a SUV."
+        ],
+        "Hypothesis": [
+            "The Toyota's Innova is an SUV has a large storage space.",
+            "The Toyota's Innova does not have a four wheel drive."
+        ],
+        "Label": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All Apple handsets are always deisgned in Palo Alto California.",
+            "Apple handsets do not have an earphone jack.",
+            "iPhone 14 is an Apple handset."
+        ],
+        "Hypothesis": [
+            "The iPhone 14 handset is designed in Palo Alto California and does not have a earphone jack."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All dogs have four legs.",
+            "Lassie is a dog."
+        ],
+        "Hypothesis": [
+            "Lassie has four legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All animals that live in the water have gills.",
+            "Sharks are animals."
+        ],
+        "Hypothesis": [
+            "Sharks live in the water and have gills."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All planets in our solar system have moons.",
+            "Venus is a planet."
+        ],
+        "Hypothesis": [
+            "Venus has moons."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All birds can fly.",
+            "Ostriches are birds."
+        ],
+        "Hypothesis": [
+            "Ostriches can fly."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All fish live in water.",
+            "Piranhas are fish."
+        ],
+        "Hypothesis": [
+            "Piranhas live in water."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All leaves are green.",
+            "Lettuce is a leaf."
+        ],
+        "Hypothesis": [
+            "Lettuce is a green leaf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All planets orbit around a star.",
+            "Mercury is a planet."
+        ],
+        "Hypothesis": [
+            "Mercury orbits around a star."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All birds have wings.",
+            "Owls are birds."
+        ],
+        "Hypothesis": [
+            "Owls have wings."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All dogs are animals.",
+            "Dalmatians are dogs."
+        ],
+        "Hypothesis": [
+            "Dalmatians are animals."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All cats are animals.",
+            "Siamese are cats."
+        ],
+        "Hypothesis": [
+            "Siamese are animals."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All dogs like to play fetch.",
+            "Dalmatians are dogs."
+        ],
+        "Hypothesis": [
+            "Dalmatians like to play fetch."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All dogs need to be trained.",
+            "Dalmatians are dogs."
+        ],
+        "Hypothesis": [
+            "Dalmatians need to be trained."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All dogs like to eat bones.",
+            "Rover is a dog."
+        ],
+        "Hypothesis": [
+            "Rover likes to eat bones."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All cars with four-wheel drive can go off-road.",
+            "The Toyota's RAV4 is a car."
+        ],
+        "Hypothesis": [
+            "The Toyota's RAV4 can go off-road."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All animals that have fur can survive in cold climates.",
+            "Polar bears are animals."
+        ],
+        "Hypothesis": [
+            "Polar bears can survive in cold climates."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All countries in NATO are democracies.",
+            "The United States is a country."
+        ],
+        "Hypothesis": [
+            "The United States is a democracy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All members of the House of Representatives are elected officials.",
+            "Nancy Pelosi is a member of the House of Representatives."
+        ],
+        "Hypothesis": [
+            "Nancy Pelosi is an elected official."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All living things need water to survive.",
+            "Plants are living things."
+        ],
+        "Hypothesis": [
+            "Plants need water to survive."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All birds have wings.",
+            "Ostriches are birds."
+        ],
+        "Hypothesis": [
+            "Ostriches have wings."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All mammals have fur.",
+            "Dogs are mammals."
+        ],
+        "Hypothesis": [
+            "Dogs have fur."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All planets in our solar system orbit the sun.",
+            "Mercury is a planet."
+        ],
+        "Hypothesis": [
+            "Mercury orbits the sun."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All insects have six legs.",
+            "Spiders are not insects."
+        ],
+        "Hypothesis": [
+            "Spiders do not have six legs."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All plants need sunlight to grow.",
+            "Sunflowers are plants."
+        ],
+        "Hypothesis": [
+            "Sunflowers need sunlight to grow."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All liquids are made up of atoms.",
+            "Water is a liquid."
+        ],
+        "Hypothesis": [
+            "Water is made up of atoms."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All stars are larger than planets.",
+            "The sun is a star."
+        ],
+        "Hypothesis": [
+            "The sun is larger than planets."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All galaxies are made up of stars.",
+            "The Milky Way is a galaxy."
+        ],
+        "Hypothesis": [
+            "The Milky Way is made up of stars."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All elements are made up of atoms.",
+            "Oxygen is an element."
+        ],
+        "Hypothesis": [
+            "Oxygen is made up of atoms."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All gases are made up of molecules.",
+            "Oxygen is a gas."
+        ],
+        "Hypothesis": [
+            "Oxygen is made up of molecules."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All solids are made up of atoms.",
+            "Diamonds are solids."
+        ],
+        "Hypothesis": [
+            "Diamonds are made up of atoms."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All American citizens are allowed to vote.",
+            "John is an American citizen."
+        ],
+        "Hypothesis": [
+            "John is an American citizen who is allowed to vote."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All members of the Republican party are conservative.",
+            "John is a member of the Republican party."
+        ],
+        "Hypothesis": [
+            "John is a member of the Republican party and is conservative."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All members of the Democratic party are liberal.",
+            "John is a member of the Democratic party."
+        ],
+        "Hypothesis": [
+            "John is a member of the Democratic party and is liberal."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All countries in NATO are in Europe.",
+            "The United States is in NATO."
+        ],
+        "Hypothesis": [
+            "The United States is in NATO and is in Europe."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All mammals have live births.",
+            "Bats are mammals."
+        ],
+        "Hypothesis": [
+            "Bats have live births."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All birds have wings.",
+            "Crows are birds."
+        ],
+        "Hypothesis": [
+            "Crows have wings."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All cats have fur.",
+            "Siamese cats are cats."
+        ],
+        "Hypothesis": [
+            "Siamese cats have fur."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All plants are living things.",
+            "Trees are plants."
+        ],
+        "Hypothesis": [
+            "Trees are living things."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All living things need oxygen to live.",
+            "Humans are living things."
+        ],
+        "Hypothesis": [
+            "Humans need oxygen to live."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All animals have a brain.",
+            "Dogs are animals."
+        ],
+        "Hypothesis": [
+            "Dogs have a brain."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All animals need food to live.",
+            "Bears are animals."
+        ],
+        "Hypothesis": [
+            "Bears need food to live."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All animals need water to live.",
+            "Dolphins are animals."
+        ],
+        "Hypothesis": [
+            "Dolphins need water to live."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All animals breathe air.",
+            "Ostriches are animals."
+        ],
+        "Hypothesis": [
+            "Ostriches breathe air."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All dogs have tails.",
+            "Siberian Huskies are dogs."
+        ],
+        "Hypothesis": [
+            "Siberian Huskies have tails."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All birds are animals with wings.",
+            "Penguins are animals."
+        ],
+        "Hypothesis": [
+            "Penguins have wings."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All countries in NATO are in Europe.",
+            "Turkey is a country in NATO."
+        ],
+        "Hypothesis": [
+            "Turkey is a country in Europe."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All planets have moons.",
+            "Neptune is a planet."
+        ],
+        "Hypothesis": [
+            "Neptune has moons."
+        ],
+        "Label": "True"
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All clouds are white.",
+            "Cirrus clouds are clouds."
+        ],
+        "Hypothesis": [
+            "Cirrus clouds are white."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All oceans have fish.",
+            "The Pacific ocean is an ocean."
+        ],
+        "Hypothesis": [
+            "The Pacific Ocean has fish."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "All leaves are green.",
+            "Trees have leaves."
+        ],
+        "Hypothesis": [
+            "Trees have green leaves."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Bidirectional Dilemma",
+    "logic_type_code": "P7",
+    "Premise": [
+      "If Aron is elected, he will lower tax rates.",
+      "If Baron learns programming, he will find a good job.",
+      "Either Aron gets elected or Baron does not get a good job."
+    ],
+    "Hypothesis": [
+      "Aron will lower the taxes",
+      "Baron does not learn programming"
+    ],
+    "Label": [
+      "True",
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Bidirectional Dilemma",
+    "logic_type_code": "P7",
+    "Premise": [
+      "If C starts jogging everday, he will get into good shape.",
+      "If it rains, D will lose the match.",
+      "Either C starts jogging or D will not lose the match."
+    ],
+    "Hypothesis": [
+      "C will get into a good shape",
+      "It will rain."
+    ],
+    "Label": [
+      "True",
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Bidirectional Dilemma",
+    "logic_type_code": "P7",
+    "Premise": [
+      "If there is internet connection, then we can watch Youtube.",
+      "If flash floods occur, the university will be closed.",
+      "Either we have internet connection or university will not be closed."
+    ],
+    "Hypothesis": [
+      "We can watch Youtube.",
+      "Flash floods occur"
+    ],
+    "Label": [
+      "True",
+      "False"
+    ] 
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Bidirectional Dilemma",
+    "logic_type_code": "P7",
+    "Premise": [
+      "If X is an undergraduate student, he will stay in university housing.",
+      "If Y is a computer science major, he will have weekly assignments.",
+      "Either X is an undergraduate student or Y does not have weekly assignments."
+    ],
+    "Hypothesis": [
+      "X will stay in university housing.",
+      "Y is not a computer science major."
+    ],
+    "Label": [
+      "True",
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Propositional Logic",
+    "logic_subtype": "Bidirectional Dilemma",
+    "logic_type_code": "P7",
+    "Premise": [
+      "If F buys the ticket, he can ride the metro.",
+      "If E is a ASU student, the valley busses are free to ride.",
+      "Either F buys the ticket or the valley busses are not free for E."
+    ],
+    "Hypothesis": [
+      "F can ride the metro.",
+      "E is not an ASU student."
+    ],
+    "Label": [
+      "True",
+      "True"
+    ]
+  }
+]
+  

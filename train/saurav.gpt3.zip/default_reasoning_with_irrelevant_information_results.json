@@ -1,0 +1,920 @@
+{
+  "1": [
+    {
+      "id": 0,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Tim are basketball players",
+        "All basketball players are tall",
+        "John is short",
+        "John likes playing video games"
+      ],
+      "Hypothesis": [
+        "Tim is tall"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Tim are business partners",
+        "All business partners are honest",
+        "John is dishonest",
+        "John likes playing video games"
+      ],
+      "Hypothesis": [
+        "Tim is honest"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Tim are news anchors",
+        "All news anchors are well-informed",
+        "John is uninformed",
+        "John likes playing video games"
+      ],
+      "Hypothesis": [
+        "Tim is well-informed"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Sam and Pam are investors",
+        "All investors are rich",
+        "Sam is poor",
+        "Sam likes going to the beach"
+      ],
+      "Hypothesis": [
+        "Pam is rich"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Mary are students",
+        "All students are smart",
+        "John is not smart",
+        "John likes going to the movies"
+      ],
+      "Hypothesis": [
+        "Mary is smart"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Mary are employees",
+        "All employees are hard working",
+        "John is not hard working",
+        "John likes going to the movies"
+      ],
+      "Hypothesis": [
+        "Mary is hard working"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Mary are employees",
+        "All employees are honest",
+        "John is not honest",
+        "John likes going to the movies"
+      ],
+      "Hypothesis": [
+        "Mary is honest"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Dogs and snakes are animals",
+        "Pets are not found in the wild",
+        "Snakes are not pets"
+      ],
+      "Hypothesis": [
+        "Dog is a pet"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Java and python are programming languages",
+        "All programming languages are difficult to learn",
+        "Java is not difficult to learn",
+        "Python was developed by guido"
+      ],
+      "Hypothesis": [
+        "Python is difficult to learn"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "It is spring",
+        "All seasons have a lot of flowers",
+        "There are no flowers",
+        "It is raining"
+      ],
+      "Hypothesis": [
+        "It is spring"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Hilton and Mariott are hotels",
+        "5 star hotels are expensive",
+        "Hilton is not expensive",
+        "Paris Hilton is the heir of the hilton group"
+
+      ],
+      "Hypothesis": [
+        "Hilton is not a 5 star hotel"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Sam and Pam are intelligent",
+        "People who are intelligent have PhD",
+        "Sam has a masters degree"
+      ],
+      "Hypothesis": [
+        "Tigers are animals"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Trees and Shrubs are plants",
+        "All plants need sunlight",
+        "Shrubs don't need sunlight",
+        "Trees are tall"
+      ],
+      "Hypothesis": [
+        "Trees are plants"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Newton's laws of motion are laws of physics",
+        "All laws of physics are true",
+        "Newton's laws of motion are true",
+        "Newton's laws of motion are simple"
+      ],
+      "Hypothesis": [
+        "Newton's laws of motion are laws of physics"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Oxygen and Sarin are gases",
+        "All gases are gas at room temperature",
+        "Oxygen is not a gas at room temperature",
+        "Oxygen is required by humans"
+      ],
+      "Hypothesis": [
+        "Sarin is a gas at room temperature"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Michael Jordan and Steph Curry are professional athlete",
+        "All professional athletes are in shape",
+        "Michael Jordan plays for chicago bulls",
+        "Michael Jordan is not in shape"
+      ],
+      "Hypothesis": [
+        "Steph Curry is in shape"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "All doctors are intelligent",
+        "All doctors are rich",
+        "Dr. Smith is a doctor",
+        "Dr. Smith is not intelligent"
+      ],
+      "Hypothesis": [
+        "Dr. Smith is not rich"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Napoleon Bonaparte and Castro are soldiers",
+        "All soldiers are important",
+        "Castro is not important"
+      ],
+      "Hypothesis": [
+        "Napoleon Bonaparte is soldiers"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 18,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "USA and Britain are in a recession",
+        "All countries have a central bank",
+        "The United States does not have a central bank"
+      ],
+      "Hypothesis": [
+        "Britain has a central bank"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Karen are patients with cancer",
+        "All patients with cancer are treated with chemotherapy",
+        "John is not treated with chemotherapy"
+      ],
+      "Hypothesis": [
+        "Karen is treated with chemotherapy"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 20,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Kean are defendants",
+        "All defendants are guilty",
+        "All defendants are innocent until proven guilty",
+        "John is innocent"
+      ],
+      "Hypothesis": [
+        "John is not guilty"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Franklin are historical figures",
+        "Some historical figures are dead",
+        "John is not dead",
+        "John is a founding father"
+      ],
+      "Hypothesis": [
+        "John is not famous"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "France and Germany are in Europe",
+        "All countries in Europe are developed",
+        "France is a developed country",
+        "France has a high GDP"
+      ],
+      "Hypothesis": [
+        "Germany is a developed country"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 23,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Dogs and cats are animals",
+        "All animals have four legs",
+        "Dogs have four legs",
+        "Dogs are domesticated animals"
+      ],
+      "Hypothesis": [
+        "Cats are domesticated animals"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 24,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Mexico and Canada are countries",
+        "All countries have borders",
+        "Mexico has a border with the United States",
+        "The United States has a border with Canada"
+      ],
+      "Hypothesis": [
+        "Mexico and Canada have a border"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Iphone and Samsung are phones",
+        "All phones can make phone calls",
+        "Iphone can not take pictures",
+        "Iphone is expensive"
+      ],
+      "Hypothesis": [
+        "Samsung can take pictures"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 26,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Germany and France are countries",
+        "All countries have a capital city",
+        "Germany's capital is Berlin",
+        "France's capital is not Paris"
+      ],
+      "Hypothesis": [
+        "France's capital is Paris"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Jane are students",
+        "All students study for exams",
+        "John is not studying for his exams",
+        "Jane is studying for her exams"
+      ],
+      "Hypothesis": [
+        "John is a student"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "White house and the pink are houses",
+        "All houses have electricity",
+        "Pink house does not have electricity",
+        "The White House is a presidential house"
+      ],
+      "Hypothesis": [
+        "The White House has electricity"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Mushrooms and Sunflower are biological things",
+        "All plants need water to grow",
+        "Mushrooms don't need water to grow",
+        "Mushrooms are tasty"
+      ],
+      "Hypothesis": [
+        "Mushrooms are not plants"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Sponges and Dog are living being",
+        "All animals have a nervous system",
+        "Sponges do not have a nervous system",
+        "sponges are hard to find"
+      ],
+      "Hypothesis": [
+        "Sponges are not animals"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Steve are watching the tv",
+        "People usually watch the TV to learn about current events",
+        "John does not care about current event",
+        "John is wearing a shirt"
+      ],
+      "Hypothesis": [
+        "Steve is interested in current events"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "GIMP and VLC are software",
+        "VLC is a music player",
+        "All software is free",
+        "GIMP is not free"
+      ],
+      "Hypothesis": [
+        "GIMP is open source"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Mary have a career in medicine",
+        "People who are employed usually have a career",
+        "John is unemployed",
+        "John is divorced"
+      ],
+      "Hypothesis": [
+        "Mary is employed"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Karen are friends",
+        "All friends help each other out financially",
+        "John is in need of money",
+        "Karen has money"
+      ],
+      "Hypothesis": [
+        "Karen will help John out financially"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and mary are from America",
+        "All Americans love freedom",
+        "John loves freedom",
+        "John is in love with Maria"
+      ],
+      "Hypothesis": [
+        "Mary loves freedom"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and Shaun are applying for a job",
+        "All job applicants are interviewed",
+        "John was not interviewed",
+        "John is wearing a suit"
+      ],
+      "Hypothesis": [
+        "Shaun is qualified for the job"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "Dogs and racoons are animals",
+        "All animals are afraid of cats",
+        "Dogs are not afraid of cats",
+        "dogs are loyal"
+      ],
+      "Hypothesis": [
+        "Racoon is scared of cats"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Default Reasoning with irrelevant information",
+      "logic_type_code": "A2",
+      "Premise": [
+        "John and key are Democrats",
+        "All Democrats are for gun control",
+        "All democrats like voting rights",
+        "John is not for gun control",
+        "John is married"
+      ],
+      "Hypothesis": [
+        "Key is a democrat"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+       {
+      "id": 39,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Twinkle and Readers digest are books",
+        "All books have pages",
+        "All books have covers",
+        "All books have authors",
+        "Twinkle does not have an author",
+        "Books are generally read by humans"
+      ],
+      "Hypothesis": [
+        "Book X is a bestseller"
+      ],
+      "Label": [
+        "Ambiguous"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All mobile applications are free",
+        "All mobile applications are developed for a specific platform",
+        "Instagram and twitter are  mobile applications",
+        "Instagram is usually used by teenagers"
+      ],
+      "Hypothesis": [
+        "Instagram is developed for a specific platform"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All friends help each other out financially",
+        "John and Karen are friends",
+        "John is in need of money",
+        "Karen has money",
+        "John likes computer"
+      ],
+      "Hypothesis": [
+          "Karen helps John with money"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All sports are physically intense",
+        "Chess and Tennis are competitive sports",
+        "Chess is not physically intense",
+        "Chess is played on a board"
+      ],
+      "Hypothesis": [
+        "Tennis is physically intense"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "People who have a masters degree are usually educated",
+        "Jack and John are educated",
+        "Jack does not have a masters degree",
+        "Jack went to ASU"
+      ],
+      "Hypothesis": [
+        "John has a masters degree"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "People who have a PhD degree are usually intelligent",
+        "Sam and Pam are intelligent",
+        "Sam has a masters degree",
+        "Sam went to UCLA"
+      ],
+      "Hypothesis": [
+        "Sam has a PhD"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 45,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "John and sam are tall",
+        "All professional basketball players are tall",
+        "Tall people are usually good at basketball",
+        "John wears red jersey"
+      ],
+      "Hypothesis": [
+        "John is a good basketball player"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 46,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "Most business people wear suits at meetings",
+        "Sue and Pru are in a meeting",
+        "Sue is not wearing a suit",
+        "Sue likes coffee"
+      ],
+      "Hypothesis": [
+        "Pru is a business person "
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 47,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "People usually watch the news to learn about current events",
+        "John is watching the news",
+        "John wants to learn about current events",
+        "John reads novels"
+      ],
+      "Hypothesis": [
+        "John is a person"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 48,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "All Americans love freedom",
+        "John and maria are from America",
+        "John does not love freedom",
+        "John loves guns"
+        ],
+      "Hypothesis": ["Maria loves freedom"],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 49,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "People who are employed usually have a career",
+        "John and Mary have a career in medicine",
+        "John is unemployed",
+        "John had pancakes for breakfast"
+      ],
+      "Hypothesis": [
+        "Mary is employed"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 50,
+      "logic_type": "Default Reasoning",
+      "logic_subtype": "Basic Default Reasoning",
+      "logic_type_code": "A1",
+      "Premise": [
+        "People who are friends usually like same things",
+        "tim likes apples, same does not",
+        "sam and tim like soccer",
+        "sam follows united"
+      ],
+      "Hypothesis": [
+        "Sam and tim are friends"
+      ],
+      "Label": [
+        "Ambiguous"
+      ]
+    }
+  ]
+}

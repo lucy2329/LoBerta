@@ -1,0 +1,800 @@
+[
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Car X and car Y are both fuel-efficient.",
+          "To be fuel-efficient, a car usually drives more than 20 miles per gallon.",
+          "Car Y did not drive more than 20 miles per gallon."
+        ],
+        "Hypothesis": [
+          "Car X did not drive more than 20 miles per gallon."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+    
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "People A, B, C are all employed.",
+          "To be employed, a person usually has to be at least 18 years old.",
+          "At least one of A, B is not 18 years old."
+        ],
+        "Hypothesis": [
+          "C is 18 years old."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Patients A, B, C went to see Dr. Smith.",
+          "To see Dr. Smith, a patient usually has to make an appointment.",
+          "At least one of A, B did not make an appointment."
+        ],
+        "Hypothesis": [
+          "C did not make an appointment."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+    
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "People A, B, C are all employed.",
+          "To be employed, a person usually has to be at least 18 years old.",
+          "At least one of A, B is not 18 years old."
+        ],
+        "Hypothesis": [
+          "C is not 18 years old."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+    
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Students A, B, C are all studying for their finals.",
+          "To study for their finals, students usually have to go to the library.",
+          "At least one of A, B did not go to the library."
+        ],
+        "Hypothesis": [
+          "D did not go to the library."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+    
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Car X and car Y are both fuel-efficient.",
+          "To be fuel-efficient, a car usually drives more than 20 miles per gallon.",
+          "At least one of the cars X or Y did not reach the destination within 24 hours."
+        ],
+        "Hypothesis": [
+          "Exactly one of the cars A or B did not reach the destination within 24 hours."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+    
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Products A, B, C are all popular.",
+          "To be popular, a product usually has to be high-quality.",
+          "At least one of A, B is not high-quality."
+        ],
+        "Hypothesis": [
+          "C is not low-quality."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+    
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Companies A, B, C are all profitable.",
+          "To be profitable, a company usually has to be well-managed.",
+          "At least one of A, B is not well-managed."
+        ],
+        "Hypothesis": [
+          "C is well-managed."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Schools A, B, C are all highly rated.",
+          "To be highly rated, a school usually has to be well-funded.",
+          "At least one of A, B is not well-funded."
+        ],
+        "Hypothesis": [
+          "C is not well-funded."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Hospitals A, B, C are all highly rated.",
+          "To be highly rated, a hospital usually has to be well-funded.",
+          "At least one of A, B is not well-funded."
+        ],
+        "Hypothesis": [
+          "C is not well-established."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Schools A, B, C are all highly rated.",
+          "To be highly rated, a school usually has to be well-funded.",
+          "At least one of A, B is not well-funded."
+        ],
+        "Hypothesis": [
+          "C is well-funded."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Hospitals A, B, C are all highly rated.",
+          "To be highly rated, a hospital usually has to be well-funded.",
+          "At least one of A, B is not well-funded."
+        ],
+        "Hypothesis": [
+          "C is not low-funded."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Companies X, Y, Z are all profitable.",
+          "To be profitable, a company usually has to be well-managed.",
+          "At least one of X, Y is not well-managed."
+        ],
+        "Hypothesis": [
+          "Company A is not profitable."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Patients A, B, C are all in the hospital.",
+          "To be in the hospital, a patient usually has to be sick.",
+          "At least one of A, B is not sick."
+        ],
+        "Hypothesis": [
+          "C is sick."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+    
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Teachers A, B, C are all in the school.",
+          "To be in the school, a teacher usually has to be qualified.",
+          "At least one of A, B is not qualified."
+        ],
+        "Hypothesis": [
+          "Teachers X is not qualified."
+        ],
+        "Label": [
+          "Undetermined"
+        ]
+      },
+    
+    {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Employees A, B, C are all in the company.",
+          "To be in the company, an employee usually has to be productive.",
+          "At least one of A, B is not productive."
+        ],
+        "Hypothesis": [
+          "C is not productive."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "There are many types of cancer.",
+          "Cancer is a serious disease.",
+          "Some types of cancer are not serious."
+        ],
+        "Hypothesis": [
+          "At least one type of cancer is not serious."
+        ],
+        "Label": [
+          "True"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Some students are good at math.",
+          "Some students are not good at math.",
+          "All students who are good at math are also good at science."
+        ],
+        "Hypothesis": [
+          "All students who are not good at math are also not good at science."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Most businesses want to make a profit.",
+          "Some businesses are not for profit.",
+          "All businesses that are for profit are also businesses that want to make a profit."
+        ],
+        "Hypothesis": [
+          "All businesses that are not for profit are also businesses that do not want to make a profit."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+        "logic_type": "Default Reasoning",
+        "logic_subtype": "Reasoning about unknown exceptions I",
+        "logic_type_code": "A6",
+        "Premise": [
+          "Most technologies require some form of energy to function.",
+          "Some technologies do not require any form of energy to function.",
+          "All technologies that require energy to function are also technologies that require some form of energy to function."
+        ],
+        "Hypothesis": [
+          "All technologies that do not require energy to function are also technologies that do not require any form of energy to function."
+        ],
+        "Label": [
+          "False"
+        ]
+      },
+      {
+          "logic_type": "Default Reasoning",
+          "logic_subtype": "Reasoning about unknown exceptions I",
+          "logic_type_code": "A6",
+          "Premise": [
+              "The patient has a sore throat and a headache.",
+              "The patient has a fever.",
+              "The patient has a cold."
+          ],
+          "Hypothesis": [
+              "More than one of the paitients do not have covid. "
+          ],
+          "Label": [
+              "True"
+          ]
+      },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "There are total 10 students in a class.",
+                "4 students got \u2018A\u2019 grade, 3 students got \u2018B\u2019 grade and 2 students got \u2018C\u2019 grade.",
+                "1 student got \u2018D\u2019 grade."
+            ],
+            "Hypothesis": [
+                "Hypothesis: The remaining 2 students got \u2018E\u2019 grade."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "Students A, B, C received good grades.",
+                "To receive good grades normally students are required to score above 90% in mid-term exam.",
+                "At least one of the A, B did not score above 90% in mid-term."
+            ],
+            "Hypothesis": [
+                "Therefore, C did score more than 90% in mid term."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "A new drug has been developed to treat cancer.",
+                "The drug has been tested on animals and shown to be effective.",
+                "The drug has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The drug will be effective on humans."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "The new treatment for Alzheimer's disease has been developed.",
+                "The treatment has been tested on animals and shown to be effective.",
+                "The treatment has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The treatment will not be effective on humans."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "The new treatment for diabetes has been developed.",
+                "The treatment has been tested on animals and shown to be effective.",
+                "The treatment has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The treatment will not be effective on humans."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "The new treatment for heart disease has been developed.",
+                "The treatment has been tested on animals and shown to be effective.",
+                "The treatment has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The treatment will be effective on humans."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "The new treatment for obesity has been developed.",
+                "The treatment has been tested on animals and shown to be effective.",
+                "The treatment has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The treatment will not be effective on humans."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "The new treatment for arthritis has been developed.",
+                "The treatment has been tested on animals and shown to be effective.",
+                "The treatment has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The treatment will be effective on humans."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "Students A, B, C received good grades.",
+                "To receive good grades normally students are required to score above 90% in mid-term exam.",
+                "At least one of the A, B did not score above 90% in mid-term."
+            ],
+            "Hypothesis": [
+                "Therefore, C did score more than 90% in mid term."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "There are total 10 students in a class.",
+                "4 students got \u2018A\u2019 grade, 3 students got \u2018B\u2019 grade and 2 students got \u2018C\u2019 grade.",
+                "1 student got \u2018D\u2019 grade."
+            ],
+            "Hypothesis": [
+                "5 students got \u2018A\u2019 grade."
+            ],
+            "Label": [
+                "False"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "A new drug has been developed to treat cancer.",
+                "The drug has been tested on animals and shown to be effective.",
+                "The drug has not yet been tested on humans."
+            ],
+            "Hypothesis": [
+                "The drug will be effective on cats."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "Every natural number greater than 1 is either a prime number or can be written as the product of two prime numbers.",
+                "24 is a natural number greater than 1.",
+                "24 is not a prime number."
+            ],
+            "Hypothesis": [
+                "Therefore, 24 can be written as the product of two prime numbers."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "Some dogs are aggressive.",
+                "Some dogs are not aggressive."
+            ],
+            "Hypothesis": [
+                "All dogs are aggressive."
+            ],
+            "Label": [
+                "False"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "Some dogs are aggressive.",
+                "Some dogs are not aggressive.",
+                "All aggressive dogs are dangerous."
+            ],
+            "Hypothesis": [
+                "All dogs are dangerous."
+            ],
+            "Label": [
+                "False"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "All dogs are animals.",
+                "All animals are living things."
+            ],
+            "Hypothesis": [
+                "All dogs are living things."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "All dogs are animals.",
+                "All animals are living things.",
+                "Some living things are not dogs. "
+            ],
+            "Hypothesis": [
+                "Some living things are not dogs."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "All men are human.",
+                "All human are living things.",
+                "All living things are not men."
+            ],
+            "Hypothesis": [
+                "Therefore, All living things are men."
+            ],
+            "Label": [
+                "False"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "All plants are living things.",
+                "All living things are not plants."
+            ],
+            "Hypothesis": [
+                "Therefore, Some living things are not plants."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "No animals are plants.",
+                "All plants are living things.",
+                "All living things are not animals."
+            ],
+            "Hypothesis": [
+                "Therefore, Some living things are not animals."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "John is a high school student.",
+                "John is not allowed to drive after 10 p.m.",
+                "John drove after 10 p.m."
+            ],
+            "Hypothesis": [
+                "Therefore, John is not a high school student."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "If a person is older than 18 years old, then that person is allowed to vote.",
+                "John is not allowed to vote."
+            ],
+            "Hypothesis": [
+                "Therefore, John is not older than 18 years old."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "If a person is a high school student, then that person is not allowed to drive after 10 p.m.",
+                "John is a high school student."
+            ],
+            "Hypothesis": [
+                "Therefore, John is not allowed to drive after 10 p.m."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "There are 5 green apples and 3 red apples in the basket.",
+                "A total of 8 apples are in the basket."
+            ],
+            "Hypothesis": [
+                "There are no yellow apples in the basket."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "There are 5 green apples and 3 red apples in the basket.",
+                "A total of 11 apples are in the basket."
+            ],
+            "Hypothesis": [
+                "There are 3 yellow apples in the basket."
+            ],
+            "Label": [
+                "Undetermined"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "In a certain town, 60% of the people are employed.",
+                "30% of the employed people are engineers."
+            ],
+            "Hypothesis": [
+                "Therefore, 18% of the people in the town are engineers."
+            ],
+            "Label": [
+                "False"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "In a certain town, 60% of the people are employed.",
+                "30% of the employed people are engineers."
+            ],
+            "Hypothesis": [
+                "Therefore, at least 28% of the people in the town are engineers."
+            ],
+            "Label": [
+                "False"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "In a certain town, 60% of the people are employed.",
+                "30% of the employed people are engineers."
+            ],
+            "Hypothesis": [
+                "Therefore, 18% of the employed people in the town are engineers."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "In a certain town, 60% of the people are employed.",
+                "30% of the employed people are engineers."
+            ],
+            "Hypothesis": [
+                "Therefore, at least 18% of the employed people in the town are engineers."
+            ],
+            "Label": [
+                "True"
+            ]
+        },
+        {
+            "logic_type": "Default Reasoning",
+            "logic_subtype": "Reasoning about unknown exceptions I",
+            "logic_type_code": "A6",
+            "Premise": [
+                "All right angles are equal.",
+                "Angle A is a right angle."
+            ],
+            "Hypothesis": [
+                "Angle A is equal to other right angles."
+            ],
+            "Label": [
+                "True"
+            ]
+        }
+    ]

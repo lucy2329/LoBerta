@@ -1,0 +1,817 @@
+[
+
+{
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Josh went to the party.",
+      "All of Josh's friends were there.",
+      "Only Josh's friends were invited."
+    ],
+    "Hypothesis": [
+      "Apart from Josh's friends we do not know who else was at the party."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mary is at the store.",
+      "Only employees are allowed in the store.",
+      "Mary is not an employee."
+    ],
+    "Hypothesis": [
+      "Apart from employees we do not know who else is in the store."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is in the meeting.",
+      "Only managers are allowed in the meeting.",
+      "John is not a manager."
+    ],
+    "Hypothesis": [
+      "Apart from managers we do not know who else is in the meeting."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Bill went to the conference.",
+      "All of Bill's colleagues were there.",
+      "Only Bill's colleagues were invited."
+    ],
+    "Hypothesis": [
+      "Apart from Bill and his colleagues we do not know who else was at the conference."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is at the park.",
+      "Only residents are allowed in the park.",
+      "John is a resident."
+    ],
+    "Hypothesis": [
+      "Apart from residents we do not know who else is in the park."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mike is at the library.",
+      "Only students are allowed in the library.",
+      "Mike is a student."
+    ],
+    "Hypothesis": [
+      "Apart from students we do not know who else is in the library."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mary is at the beach.",
+      "Only locals are allowed on the beach.",
+      "Mary is not a local."
+    ],
+    "Hypothesis": [
+      "Apart from locals we do not know who else is on the beach."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is at the restaurant.",
+      "Only customers are allowed in the restaurant.",
+      "John is not a customer."
+    ],
+    "Hypothesis": [
+      "Apart from customers we do not know who else is in the restaurant."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Bill is at the club.",
+      "Only members are allowed in the club.",
+      "Bill is not a member."
+    ],
+    "Hypothesis": [
+      "Apart from members we do not know who else is in the club."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mike is at the gym.",
+      "Only athletes are allowed in the gym.",
+      "Mike is an athlete."
+    ],
+    "Hypothesis": [
+      "Apart from athletes we do not know who else is in the gym."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mary is at the movie theater.",
+      "Only ticket holders are allowed in the theater.",
+      "Mary does not have a ticket."
+    ],
+    "Hypothesis": [
+      "Apart from ticket holders we do not know who else is in the theater."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is in the museum.",
+      "Only tourists are allowed in the museum.",
+      "John is not a tourist."
+    ],
+    "Hypothesis": [
+      "Apart from John and tourists we do not know who else is in the museum."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Bill is at the park.",
+      "Only children are allowed in the park.",
+      "Bill is not a child."
+    ],
+    "Hypothesis": [
+      "Apart from children we do not know who else is in the park."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mike is at the bar.",
+      "Only adults are allowed in the bar.",
+      "Mike is an adult."
+    ],
+    "Hypothesis": [
+      "Apart from adults we do not know who else is in the bar."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mary is at the park.",
+      "Only locals are allowed in the park.",
+      "Mary is not a local."
+    ],
+    "Hypothesis": [
+      "Apart from locals we do not know who else is in the park."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is at the zoo.",
+      "Only children are allowed in the zoo.",
+      "John is a child."
+    ],
+    "Hypothesis": [
+      "Apart from children we do not know who else is in the zoo."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Bill is at the aquarium.",
+      "Only locals are allowed in the aquarium.",
+      "Bill is not a local."
+    ],
+    "Hypothesis": [
+      "Apart from locals we do not know who else is in the aquarium."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mike is at the club.",
+      "Only members are allowed in the club.",
+      "Mike is a member."
+    ],
+    "Hypothesis": [
+      "Apart from members we do not know who else is in the club."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Mary is at the festival.",
+      "Only locals are allowed in the festival.",
+      "Mary is not a local."
+    ],
+    "Hypothesis": [
+      "Apart from locals we do not know who else is in the festival."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is at the game.",
+      "Only players are allowed in the game.",
+      "John is a player."
+    ],
+    "Hypothesis": [
+      "Apart from players we do not know who else is in the game."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "I am doing my laundry.",
+      "I only have white clothes in the laundry.",
+      "My laundry detergent is color safe."
+    ],
+    "Hypothesis": [
+      "My laundry detergent is not going to affect the color of my clothes."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "I am doing my laundry.",
+      "My laundry is only red clothes.",
+      "My laundry detergent is color safe."
+    ],
+    "Hypothesis": [
+      "My laundry detergent is going to affect the color of my clothes."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Bill Gates is a billionaire.",
+      "Jeff Bezos is a billionaire.",
+      "Wealthy people are generous."
+    ],
+    "Hypothesis": [
+      "Bill Gates and Jeff Bezos are generous people."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "The cat is on the mat.",
+      "The mat is on the floor.",
+      "The floor is clean."
+    ],
+    "Hypothesis": [
+      "The cat is on a clean surface."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "George Washington was the first U.S. President.",
+      "John Adams was the second U.S. President.",
+      "The first and second U.S. Presidents were men."
+    ],
+    "Hypothesis": [
+      "George Washington and John Adams were men."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "A right triangle has two acute angles.",
+      "An isosceles triangle has two acute angles.",
+      "A right triangle is not an isosceles triangle."
+    ],
+    "Hypothesis": [
+      "A right triangle does not have two acute angles."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "The sun is a star.",
+      "All stars are burning gases.",
+      "The sun is a burning gas."
+    ],
+    "Hypothesis": [
+      "The sun is a star and a burning gas."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "The square root of four is two.",
+      "Two squared is four.",
+      "The square root of four is not only two."
+    ],
+    "Hypothesis": [
+      "Only two squared is not four."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All dogs are animals.",
+      "All animals have four legs.",
+      "Dogs have four legs."
+    ],
+    "Hypothesis": [
+      "Dogs are animals and they have four legs."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Cats like to drink milk.",
+      "Milk is white.",
+      "Cats like to drink white things."
+    ],
+    "Hypothesis": [
+      "Cats like to drink milk because it is white."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "The moon orbits around Earth.",
+      "The Earth orbits around the sun.",
+      "The moon does not orbit around the sun."
+    ],
+    "Hypothesis": [
+      "The moon orbits around Earth and not around the sun."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All planets orbit the sun.",
+      "All moons orbit a planet.",
+      "The moon orbits the sun."
+    ],
+    "Hypothesis": [
+      "The moon orbits the sun because it orbits a planet."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All men are mortal.",
+      "Socrates is a man.",
+      "Socrates is mortal."
+    ],
+    "Hypothesis": [
+      "Socrates is a man and he is mortal."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All triangles have three sides.",
+      "A three-sided figure is a triangle.",
+      "A triangle has three angles."
+    ],
+    "Hypothesis": [
+      "A triangle has three sides, and three angles."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All squares are rectangles.",
+      "All rectangles have four sides.",
+      "All squares have four sides."
+    ],
+    "Hypothesis": [
+      "Squares are rectangles and they have four sides."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "No dogs are cats.",
+      "Dogs are animals.",
+      "Cats are animals."
+    ],
+    "Hypothesis": [
+      "Dogs are animals, and cats are animals."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All plants are living organisms.",
+      "All living organisms need water to live.",
+      "Plants need water to live."
+    ],
+    "Hypothesis": [
+      "Plants are living organisms and they need water to live."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "John is taller than Bill.",
+      "Bill is shorter than Jake.",
+      "Jake is taller than John."
+    ],
+    "Hypothesis": [
+      "Bill is shorter than Jake and Jake is taller than John."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All dogs are animals.",
+      "Dogs like to chase cats.",
+      "Cats are animals."
+    ],
+    "Hypothesis": [
+      "Dogs like to chase cats because cats are animals."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All triangles have three sides.",
+      "Isosceles triangles have two equal sides.",
+      "An isosceles triangle is not a right angled triangle."
+    ],
+    "Hypothesis": [
+      "An isosceles triangle does not have three sides."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All living things need water.",
+      "Sponges are living things.",
+      "Sponges need water."
+    ],
+    "Hypothesis": [
+      "Sponges are living things and they need water."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Some planets have moons.",
+      "Pluto has moons."
+    ],
+    "Hypothesis": [
+      "Pluto is a planet."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All dogs are mammals.",
+      "Some Mammals have fur."
+    ],
+    "Hypothesis": [
+      "Dogs have fur."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All squares are rectangles.",
+      "All rectangles have four sides.",
+      "Squares have four sides."
+    ],
+    "Hypothesis": [
+      "Squares are rectangles and they have four sides."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All birds can fly.",
+      "Ostriches are not birds.",
+      "Ostriches cannot fly."
+    ],
+    "Hypothesis": [
+      "Ostriches cannot fly because they are not birds."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All mammals are animals.",
+      "All animals have four legs.",
+      "Mammals have four legs."
+    ],
+    "Hypothesis": [
+      "Mammals are animals and they have four legs."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "Water freezes at 32 degrees Fahrenheit.", 
+      "It is currently 10 degrees Fahrenheit outside.", 
+      "The water will freeze outside."], 
+     "Hypothesis":
+     [
+        "Water freezes at 32 degrees Fahrenheit and it is currently 10 degrees Fahrenheit outside, so the water will freeze outside."
+    ], 
+    "Label":
+     [
+        "True"
+    ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "All planets orbit around the sun.", 
+      "Mercury is a planet.", 
+      "Mercury orbits around the sun."], 
+     "Hypothesis":
+     [
+    "Mercury is a planet and it orbits around the sun."
+    ], 
+    "Label":
+     [
+    "True"
+     ]
+  },
+
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "The moon orbits around Earth.", 
+      "The moon is a satellite.", 
+      "All satellites orbit around a planet."], 
+     "Hypothesis":
+     [
+    "The moon orbits around Earth because it is a satellite."
+    ], 
+    "Label":
+     [
+    "True"
+     ]
+  },
+  {
+    "logic_type": "Autoepistemic Reasoning",
+    "logic_subtype": "Autoepistemic Reasoning in an Open Domain",
+    "logic_type_code": "E3",
+    "Premise": [
+      "The teacher is writing on the board.",
+      "Some the students are facing the board.",
+      "The teacher is facing the class."
+    ],
+    
+    "Hypothesis": [
+      "Apart from the teacher, we do not know who else is writing on the board."
+    ],
+    "Label": [
+      "True"
+    ]
+  }
+
+]

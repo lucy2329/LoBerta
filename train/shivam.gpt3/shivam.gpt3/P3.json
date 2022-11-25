@@ -1,0 +1,752 @@
+[
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I plant a seed, a plant will grow.",
+                  "If a plant grows, it will need water."
+            ],
+            "Hypothesis": [
+                  "If I plant a seed, it will need water."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I drink water, I'll be hydrated.",
+                  "If I'm hydrated, I'll be healthy."
+            ],
+            "Hypothesis": [
+                  "If I drink water, I'll be healthy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I study hard, I will get a good grade.",
+                  "If I get a good grade, I will be happy."
+            ],
+            "Hypothesis": [
+                  "If I study hard, I will be doing homework."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I take a break, I will feel refreshed.",
+                  "If I feel refreshed, I will be able to concentrate."
+            ],
+            "Hypothesis": [
+                  "If I take a break, I will drink some coffee."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I drink coffee, I will stay up late.",
+                  "If I stay up late, I will be tired."
+            ],
+            "Hypothesis": [
+                  "If I drink coffee, I will be refreshed."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am tired, I will take a nap.",
+                  "If I take a nap, I will feel sleepy."
+            ],
+            "Hypothesis": [
+                  "If I am tired, I will feel better."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am feeling better, I will be happy.",
+                  "If I am happy, I will smile."
+            ],
+            "Hypothesis": [
+                  "If I am feeling better, I will not be tired."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I smile, I will be happy.",
+                  "If I am happy, I will enjoy life."
+            ],
+            "Hypothesis": [
+                  "If I smile, I will go on leave"
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I go on leave, I will be happy.",
+                  "If I am happy, I will play with my friends."
+            ],
+            "Hypothesis": [
+                  "If I go on leave, I will go to the park."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I don't study, I will fail the test.",
+                  "If I fail the test, I will be unhappy."
+            ],
+            "Hypothesis": [
+                  "If I don't study, I will be playing soccer."
+            ],
+            "Label": [
+                  "Undetermined"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If it rains, the ground will be wet.",
+                  "The ground being wet will make the pavement slippery."
+            ],
+            "Hypothesis": [
+                  "If it rains, the pavement will be slippery."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I eat too much, I will gain weight.",
+                  "If I gain weight, my clothes won't fit."
+            ],
+            "Hypothesis": [
+                  "If I eat too much, my clothes won't fit."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If the economy is good, people spend more money.",
+                  "If people spend more money, the government makes more money in taxes."
+            ],
+            "Hypothesis": [
+                  "If the economy is good, the government makes less money in taxes."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am happy, I smile.",
+                  "If I smile, I am cheerful."
+            ],
+            "Hypothesis": [
+                  "If I am happy, I am sad."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am tired, I sleep.",
+                  "If I sleep, I am lazy."
+            ],
+            "Hypothesis": [
+                  "If I am tired, I am not lazy."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If the weather is hot, I drink cold beverages.",
+                  "If I drink cold beverages, I get brain freezed."
+            ],
+            "Hypothesis": [
+                  "If the weather is hot, I will not get brain freezed."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I go outside, the sun shines.",
+                  "If the sun shines, it is daytime."
+            ],
+            "Hypothesis": [
+                  "If I go outside, it is nighttime."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am single, I am lonely.",
+                  "If I am lonely, I cry."
+            ],
+            "Hypothesis": [
+                  "If I am single, I laugh."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am popular, I am happy.",
+                  "If I am happy, I smile."
+            ],
+            "Hypothesis": [
+                  "If I am popular, I frown."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am busy, I am productive.",
+                  "If I am productive, I am happy."
+            ],
+            "Hypothesis": [
+                  "If I am  busy, I am not happy."
+            ],
+            "Label": [
+                  "False"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If the milk is spoiled, it smells bad.",
+                  "If it smells bad, I won't drink it."
+            ],
+            "Hypothesis": [
+                  "Therefore, if the milk is spoiled, I won't drink it."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If the weather is nice, I'll go outside.",
+                  "If I go outside, I'll see my friends."
+            ],
+            "Hypothesis": [
+                  "If the weather is nice, I'll see my friends."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I eat unhealthy food, I'll gain weight.",
+                  "If I gain weight, I'll be unhealthy."
+            ],
+            "Hypothesis": [
+                  "If I eat unhealthy food, I'll be unhealthy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I am sick, I miss school.",
+                  "If I miss school, I fail my classes."
+            ],
+            "Hypothesis": [
+                  "If I am sick, I will fail my classes."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I study, I will get good grades.",
+                  "If I get good grades, I will graduate."
+            ],
+            "Hypothesis": [
+                  "If I study, I will graduate."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If the sun shines, it's warm outside.",
+                  "If it's warm outside, I go to the beach."
+            ],
+            "Hypothesis": [
+                  "If the sun shines, I go to the beach."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I have time, I watch TV.",
+                  "If I watch TV, I get bored."
+            ],
+            "Hypothesis": [
+                  "If I have time, I get bored."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I don't study, I will fail my test.",
+                  "If I fail my test, I will get a bad grade."
+            ],
+            "Hypothesis": [
+                  "If I don't study, I will get a bad grade."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If a triangle has two sides of equal length, then it is an isosceles triangle.",
+                  "An isosceles triangle has two angles of equal measure."
+            ],
+            "Hypothesis": [
+                  "If a triangle has two sides of equal length, then it has two angles of equal measure."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If a number is divisible by 12, then it is divisible by 6.",
+                  "If a number is divisible by 6, then it is divisible by 3."
+            ],
+            "Hypothesis": [
+                  "If a number is divisible by 12, then it is divisible by 3."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I do poorly on the test, I'll get a bad grade.",
+                  "If I get a bad grade, I'll be upset."
+            ],
+            "Hypothesis": [
+                  "If I do poorly on the test, I'll be upset."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I go to the party, I'll have fun.",
+                  "If I have fun, I'll stay out late."
+            ],
+            "Hypothesis": [
+                  "If I go to the party, I'll stay out late."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I take the bus, I'll get to school on time.",
+                  "If I get to school on time, I'll be able to go to my class."
+            ],
+            "Hypothesis": [
+                  "If I take the bus, I'll be able to go to my class."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I wake up early, I'll have time for breakfast.",
+                  "If I have time for breakfast, I'll be able to eat healthy."
+            ],
+            "Hypothesis": [
+                  "If I wake up early, I'll be able to eat healthy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I go outside, I'll see my friends.",
+                  "If I see my friends, I'll talk to them."
+            ],
+            "Hypothesis": [
+                  "If I go outside, I'll talk to them."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I have a lot of homework, I'll be up late.",
+                  "If I'm up late, I'll be tired in the morning."
+            ],
+            "Hypothesis": [
+                  "If I have a lot of homework, I'll be tired in the morning."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I take a bath, I'll feel clean.",
+                  "If I feel clean, I'll feel better."
+            ],
+            "Hypothesis": [
+                  "If I take a bath, I'll feel better."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I eat junk food, I'll feel sick.",
+                  "If I feel sick, I'll go to the doctor."
+            ],
+            "Hypothesis": [
+                  "If I eat junk food, I'll go to the doctor."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I Take a walk, I'll get some exercise.",
+                  "If I get some exercise, I'll feel better."
+            ],
+            "Hypothesis": [
+                  "If I take a walk, I'll feel better."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If the sun is out, it's daytime.",
+                  "If it's daytime, I'll be able to see."
+            ],
+            "Hypothesis": [
+                  "If the sun is out, I'll be able to see."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I go to the store, I will buy some milk.",
+                  "If I buy some milk, I will have breakfast."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I go to the store, I will have breakfast."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I study for the test, I will get a good grade.",
+                  "If I get a good grade, I will be happy."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I study for the test, I will be happy."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I eat healthy, I will be healthy.",
+                  "If I am healthy, I will live a long life."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I eat healthy, I will live a long life."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I save my money, I will have a lot of money.",
+                  "If I have a lot of money, I will be rich."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I save my money, I will be rich."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I get a job, I will have money.",
+                  "If I have money, I can buy a house."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I get a job, I can buy a house."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I buy a new car, I will be happy.",
+                  "If I am happy, I will smile."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I buy a new car, I will smile."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I go to the beach, I will get a tan.",
+                  "If I get a tan, I will look good."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I go to the beach, I will look good."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I study hard, I will get good grades.",
+                  "If I get good grades, I will go to a good college."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I study hard, I will go to a good college."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I eat healthy, I will be skinny.",
+                  "If I am skinny, I will look good."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I eat healthy, I will look good."
+            ],
+            "Label": [
+                  "True"
+            ]
+      },
+      {
+            "logic_type": "Propositional Calculus",
+            "logic_subtype": "Hypothetical syllogism",
+            "logic_type_code": "P3",
+            "Premise": [
+                  "If I work hard, I will get a promotion.",
+                  "If I get a promotion, I will get a raise."
+            ],
+            "Hypothesis": [
+                  "Therefore, if I work hard, I will get a raise."
+            ],
+            "Label": [
+                  "True"
+            ]
+      }
+]

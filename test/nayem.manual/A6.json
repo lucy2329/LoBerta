@@ -1,0 +1,97 @@
+[
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Reasoning about unknown exceptions I",
+    "logic_type_code": "A6",
+    "Premise": [
+      "A, B, C are three high-priority packages.",
+      "High-priority packages usually reached the delivery destination within 24 hours.",
+      "At least one of packages A or B did not reach the destination within 24 hours."
+    ],
+    "Hypothesis": [
+      "Package C will be delivered to the destination within 24 hours."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Reasoning about unknown exceptions I",
+    "logic_type_code": "A6",
+    "Premise": [
+      "A, B, C are three high-priority packages.",
+      "High-priority packages usually reached to the delivery destination within 24 hours.",
+      "At least one of the packages A or B did not reach the destination within 24 hours."
+    ],
+    "Hypothesis": [
+      "Exactly one of the packages A or B did not reach to the destination within 24 hours."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Reasoning about unknown exceptions I",
+    "logic_type_code": "A6",
+    "Premise": [
+      "Classical guitar strings are made of materials such as nylon, fluorocarbon, and other synthetics.",
+      "Guitar X or Guitar Y’s strings are made of different materials except these."
+    ],
+    "Hypothesis": [
+      "Exactly one of X or Y’s strings are not made of nylon, fluorocarbon, and other synthetic."
+    ],
+    "Label": [
+      "True"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Reasoning about unknown exceptions I",
+    "logic_type_code": "A6",
+    "Premise": [
+      "Students A, B, C received good grades.",
+      "To receive good grades normally students are required to score above 90% in midterm exam.",
+      "At least one of the A, B did not score above 90% in mid-term."
+    ],
+    "Hypothesis": [
+      "C did not score more than 90% in mid-term."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Reasoning about unknown exceptions I",
+    "logic_type_code": "A6",
+    "Premise": [
+      "Person A put a laptop, an ipad in his bag while going out.",
+      "Today he forget to put either the laptop or the ipad in the bag."
+    ],
+    "Hypothesis": [
+      "Both the laptop and the ipad is missing in the bag today."
+    ],
+    "Label": [
+      "False"
+    ]
+  },
+  {
+    "logic_type": "Default Reasoning",
+    "logic_subtype": "Reasoning about unknown exceptions I",
+    "logic_type_code": "A6",
+    "Premise": [
+      "Blocks A, B, and C are heavy.",
+      "Heavy blocks are normally on the table.",
+      "At least one of A, B is not on the table."
+      
+    ],
+    "Hypothesis": [
+      "Both B and C are on the table."
+    ],
+    "Label": [
+      "Undetermined"
+    ]
+  }
+]

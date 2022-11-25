@@ -1,0 +1,608 @@
+[{
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time a robot grabs a fruit, the fruit will be in its hand.",
+            "If a fruit is in the hand, then, after the robot squeezes the fruit, the fruit becomes soggy.",
+            "Initially the fruit is not in the hand of the robot."
+        ],
+        "Hypothesis": [
+            "After the robot grabs a fruit, waits, and then squeezes the fruit, the fruit will be soggy."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time the robot grabs a key, the key will be in its hand.",
+            "If a key is in the hand, then, after the robot unlocks the door, the key will be in the door.",
+            "Initially, the key is not in the hand.",
+            "Initially, the key is not in the door."
+        ],
+        "Hypothesis": [
+            "After the robot grabs a key, waits, and then unlocks the door, the key will be in the door."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "Any time the robot grasps a book, the book will be in the backpack.",
+            "If a book is in the backpack, then, after the robot moves the backpack onto the table, the book will be on the table.",
+            "Initially, the book is not in the backpack.",
+            "Initially, the book is not on the table."
+        ],
+        "Hypothesis": [
+            "After the robot grasps a book, waits, and then places the backpack on the table, the book will be on the table."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Frame Problem for Temporal Projection",
+        "logic_type_code": "D1",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "Any time the robot marinates a chicken, the chicken will be in the oven tray.",
+            "If a chicken is in the oven tray, after the robot moves it into the oven, the chicken will be in the oven.",
+            "If a chicken is in the oven, after the robot presses the button, the chicken will be cooked in the oven.",
+            "Initially, the chicken is not in the oven.",
+            "Initially, the chicken is not in the oven tray.",
+            "Initially, the chicken is not cooked in the oven.",
+            "Initially, the chicken is not marinated."
+        ],
+        "Hypothesis": [
+            "After the robot marinates the chicken, waits, and then moves the oven tray into the oven, waits, and then presses the button, the chicken will be cooked in the oven."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "After the robot grasps an item, waits, and the movies into the shopping cart, the item will be in the shopping cart."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When the robot grasps an item, the item will normally be in its hand.",
+            "When the robot moves an item into the shopping cart, the item will normally be in the shopping cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in the hand.",
+            "Initially, the item is not on the table."
+        ],
+        "Hypothesis": [
+            "The robot waits and then moves an item, the item will be in the shopping cart."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob goes out of the house, he will normally be at work.",
+            "When Bob is at work, the house will normally be empty.",
+            "Bob having guests at home is an exception to this rule.",
+            "Initially Bob is not at work.",
+            "Initially Bob does not have guests."
+        ],
+        "Hypothesis": [
+            "When Bob goes out of the house, the house will be empty."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection",
+        "logic_type_code": "D2",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob goes out of the house, he will normally be at work.",
+            "When Bob is at work, the house will normally be empty.",
+            "Bob having guests at home is an exception to this rule.",
+            "Initially Bob is not at work.",
+            "Initially Bob has guests."
+        ],
+        "Hypothesis": [
+            "When Bob goes out of the house, the house will be empty."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "An item is in the cart if and only if it is not on the shelf.",
+            "When Bob grabs an item, the item will normally be in his hand.",
+            "When Bob moves an item into the cart, the block will normally be in the cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially the item is not in his hand.",
+            "Initially the item is on the shelf"
+
+        ],
+        "Hypothesis": [
+            "After Bob grabs an item, waits, and then moves it into the cart, the item will not be on the shelf."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "There are 2 blocks on the floor.",
+            "When the robot grasps a block, the block will normally be in the hand.",
+            "When the robot moves a block on top of another block, it will make a tower.",
+            "Moving a block next to another block is an exception to this rule.",
+            "Initially block A and block B are on the floor.",
+            "Initially a tower is not made."
+        ],
+        "Hypothesis": [
+            "After the Robot grasps block A, waits, and the moves block A on top of block B, a tower will be made on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "A bag is on the table if and only if Bob is not at school.",
+            "When Bob grabs a bag, he will normally be at school.",
+            "When Bob moves a bag onto the table, the bag will normally be on the table.",
+            "Initially Bob is not at school"
+        ],
+        "Hypothesis": [
+            "After Bob grabs a bag, waits, and then moves it onto the table, Bob is not at school."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Projection with Ramifications.",
+        "logic_type_code": "D3",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "A toy is on the shelf if and only if it is not on the floor.",
+            "When Tim grabs a toy, the toy will normally be in his hand.",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf.",
+            "Keeping a toy that is not in the hand is an exception to this rule.",
+            "Initially the toy is on the floor.",
+            "Initially the toy is not in the hand."
+        ],
+        "Hypothesis": [
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob grabs an item, the item will be normally in the hand.",
+            "When Bob moves an item into the cart, the item will normally be in the cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially item A was not in the cart",
+            "After the robot moved item A into the cart, and then waited, item A was in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was in the hand."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "When Bob grabs an item, the item will be normally in the hand.",
+            "When Bob moves an item into the cart, the item will normally be in the cart.",
+            "Moving an item that is not in the hand is an exception to this rule.",
+            "Initially item A was not in the cart",
+            "After the robot grasps item A, waits, and then moves item A into the cart, item A is in the cart."
+        ],
+        "Hypothesis": [
+            "Item A was in the hand."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "A toy is on the shelf if and only if it is not on the floor.",
+            "When Tim grabs a toy, the toy will normally be in his hand.",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf.",
+            "Keeping a toy that is not in the hand is an exception to this rule.",
+            "Initially the toy is not in the hand.",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor."
+        ],
+        "Hypothesis": [
+            "Initially the toy is on the floor."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Reasoning about Action",
+        "logic_subtype": "Temporal Explanation with Unknown Initial Conditions",
+        "logic_type_code": "D4",
+        "Premise": [
+            "After an action is performed, things normally remain as they were.",
+            "A toy is on the shelf if and only if it is not on the floor.",
+            "When Tim grabs a toy, the toy will normally be in his hand.",
+            "When Tim keeps a toy on the shelf, the toy will normally be on the shelf.",
+            "Keeping a toy that is not in the hand is an exception to this rule.",
+            "Initially the toy is on the floor.",
+            "Tim grabs a toy, waits, and then places is on the shelf, the toy will not be on the floor"
+        ],
+        "Hypothesis": [
+            "Initially the toy is not in Tim’s hand."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Bob is home alone, he will play video games",
+            "Bob is home alone"
+        ],
+        "Hypothesis": [
+            "Bob will play video games."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If it is sunny today, I will wear my sunglasses.",
+            "It is sunny today."
+        ],
+        "Hypothesis": [
+            "I will wear my sunglasses."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If the clock shows 8PM, Alice will have dinner.",
+            "It is 8 PM."
+        ],
+        "Hypothesis": [
+            "Alice will have dinner."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Cam buys 3 shirts, he gets a chocolate.",
+            "Cam bought 3 shirts"
+        ],
+        "Hypothesis": [
+            "Cam gets a chocolate."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Ponens",
+        "logic_type_code": "P1",
+        "Premise": [
+            "If Hamilton places last in the race, he will be knocked out of the championship.",
+            "Hamilton placed last in the race."
+        ],
+        "Hypothesis": [
+            "Hamilton is knocked out of the championship."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If Bob falls off the bike, he will be injured.",
+            "Bob is not injured"
+        ],
+        "Hypothesis": [
+            "Bob did not fall off the bike."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If I get 50 marks in my mid-term, I will fail.",
+            "I did not fail."
+        ],
+        "Hypothesis": [
+            "I did not get 50 marks in my mid-term."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If both teams test negative for COVID, the match will be played today.",
+            "The match was not played today."
+
+        ],
+        "Hypothesis": [
+            "Both teams did not test negative for COVID."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If Bob gets married, he will go to Hawaii.",
+            "Bob didn’t go to Hawaii"
+        ],
+        "Hypothesis": [
+            "Bob didn’t get married."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "Propositional Logic",
+        "logic_subtype": "Modus Tollens",
+        "logic_type_code": "P2",
+        "Premise": [
+            "If Bob was drinking and driving, he would be fined for 500$.",
+            "Bob was not fined 500$."
+        ],
+        "Hypothesis": [
+            "Bob was not drinking and driving."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All calicos are felines.",
+            "All felines are animals."
+        ],
+        "Hypothesis": [
+            "All calicos are animals."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All tigers are cats.",
+            "All cats are aggressive."
+        ],
+        "Hypothesis": [
+            "All tigers are aggressive"
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "Sharks can swim in water.",
+            "Sharks are fish."
+        ],
+        "Hypothesis": [
+            "All fish can swim in water."
+        ],
+        "Label": [
+            "False"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "MacBook Pros are a type of laptop.",
+            "All laptops can perform complicated mathematical operations."
+        ],
+        "Hypothesis": [
+            "MacBook Pros can perform complicated mathematical operations."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Universal Generalization",
+        "logic_type_code": "F1",
+        "Premise": [
+            "All iPhone's are a type of smartphone.",
+            "All smartphones have a speaker."
+        ],
+        "Hypothesis": [
+            "All iPhones have a speaker."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is thirsty, they will drink water.",
+            "Bob is thirsty."
+        ],
+        "Hypothesis": [
+            "Bob will drink water."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is hosting a party, they will play pop music.",
+            "Bob is hosting a party."
+        ],
+        "Hypothesis": [
+            "Bob will play pop music."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone eats fast food everyday, they will fall sick.",
+            "Alice eats fast food everyday."
+        ],
+        "Hypothesis": [
+            "Alice will fall sick."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If the temperature is hot, then Bob will go surfing.",
+            "The temperature is hot."
+        ],
+        "Hypothesis": [
+            "Bob will go for surfing."
+        ],
+        "Label": [
+            "True"
+        ]
+    },
+    {
+        "logic_type": "First-Order Logic",
+        "logic_subtype": "Generalized Modus Ponens",
+        "logic_type_code": "F5",
+        "Premise": [
+            "If anyone is good at math, they will get an A on the Physics test.",
+            "Alice is good at math."
+        ],
+        "Hypothesis": [
+            "Alice will get an A on the Physics test."
+        ],
+        "Label": [
+            "True"
+        ]
+    }
+]

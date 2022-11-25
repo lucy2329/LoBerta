@@ -1,0 +1,769 @@
+{
+  "1": [
+    {
+      "id": 0,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Company need money to operate"
+      ],
+      "Hypothesis": [
+        "All companies need money to operate"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 1,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "people need to eat food to survive"
+      ],
+      "Hypothesis": [
+        "All people need to eat food to survive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 2,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Businesses need customers to succeed"
+      ],
+      "Hypothesis": [
+        "All businesses need customers to succeed"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 3,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "People need to be healthy to live long lives"
+      ],
+      "Hypothesis": [
+        "All people need to be healthy to live long lives"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 4,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A country need a strong economy to prosper"
+      ],
+      "Hypothesis": [
+        "All countries need a strong economy to prosper"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 5,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "All businesses need to be profitable to survive"
+      ],
+      "Hypothesis": [
+        "Profitability is necessary for all businesses"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 6,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "An individual need to save money for retirement"
+      ],
+      "Hypothesis": [
+        "All individuals need to save money for retirement"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 7,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "An investor needs to diversify their portfolio"
+      ],
+      "Hypothesis": [
+        "An investor needs to diversify their portfolios"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 8,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A company needs to invest in research and development"
+      ],
+      "Hypothesis": [
+        "All company needs to invest in research and development"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 9,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Spain a country need to invest in infrastructure"
+      ],
+      "Hypothesis": [
+        "All countries need investment in infrastructure"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 10,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Sam, an american citizen needs to have health insurance"
+      ],
+      "Hypothesis": [
+        "Health insurance is necessary for all american citizens"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 11,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Football a sport require physical activity"
+      ],
+      "Hypothesis": [
+        "No sports require physical activity"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 12,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "some administrations require paperwork"
+      ],
+      "Hypothesis": [
+        "No administrations require paperwork"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 13,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "some love requires sacrifice"
+      ],
+      "Hypothesis": [
+        "No love requires sacrifice"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 14,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "productive behavior requires motivation"
+      ],
+      "Hypothesis": [
+        "No behavior requires motivation"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 15,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A human require food"
+      ],
+      "Hypothesis": [
+        "No humans require food"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 16,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Football requires physical activity"
+      ],
+      "Hypothesis": [
+        "No sports require physical activity"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 17,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "I study for my exams."
+      ],
+      "Hypothesis": [
+        "Everyone studies for their exams."
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 18,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Apples are fruits."
+      ],
+      "Hypothesis": [
+        "All apples are fruits."
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 19,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Animals need food to survive"
+      ],
+      "Hypothesis": [
+        "All animals need food to survive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 20,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Planets orbit around a star"
+      ],
+      "Hypothesis": [
+        "All planets orbit around a star"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 21,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Element is made of atoms"
+      ],
+      "Hypothesis": [
+        "All elements are made of atoms"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 22,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Molecule is made of atoms"
+      ],
+      "Hypothesis": [
+        "All molecules are made of atoms"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 23,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Star is made of gas and dust"
+      ],
+      "Hypothesis": [
+        "All stars are made of gas and dust"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 24,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Some galaxies are made of stars"
+      ],
+      "Hypothesis": [
+        "All galaxies are made of stars"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 25,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Solar systems consists of planets"
+      ],
+      "Hypothesis": [
+        "All solar systems consists of planets"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 26,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "burno , the dog is an animal"
+      ],
+      "Hypothesis": [
+        "All dogs are animal"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 27,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A business is a company or organization"
+      ],
+      "Hypothesis": [
+        "All businesses are companies or organizations"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 28,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "An animal is a living creature"
+      ],
+      "Hypothesis": [
+        "All animals are living creatures"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 29,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Food is something that people and animals eat"
+      ],
+      "Hypothesis": [
+        "All people and animals eat food"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 30,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A book is a set of printed sheets of paper"
+      ],
+      "Hypothesis": [
+        "All books are sets of printed sheets of paper"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 31,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Music is a sound that is pleasant to the ear"
+      ],
+      "Hypothesis": [
+        "All music is a sound that is pleasant to the ear"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 32,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A movie is a story that is told on film"
+      ],
+      "Hypothesis": [
+        "All movies are stories that are told on film"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 33,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A sport is an athletic activity"
+      ],
+      "Hypothesis": [
+        "All sports are athletic activities"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 34,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Transportation is a way of getting from one place to another"
+      ],
+      "Hypothesis": [
+        "All transportation is a way of getting from one place to another"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 35,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Weather is the state of the atmosphere"
+      ],
+      "Hypothesis": [
+        "All weather is the state of the atmosphere"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 36,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Math is the study of numbers, shapes, and patterns"
+      ],
+      "Hypothesis": [
+        "All math is the study of numbers, shapes, and patterns"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 37,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Science is the study of the natural world"
+      ],
+      "Hypothesis": [
+        "All science is the study of the natural world"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 38,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A coffee is hot"
+      ],
+      "Hypothesis": [
+        "All coffees are hot"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 39,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A cat has four legs"
+      ],
+      "Hypothesis": [
+        "All cats have four legs"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 40,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Dogs are loyal"
+      ],
+      "Hypothesis": [
+        "All dogs are loyal"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 41,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A pen is black"
+      ],
+      "Hypothesis": [
+        "All pens are black"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 42,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A bird can fly"
+      ],
+      "Hypothesis": [
+        "All birds can fly"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 43,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "A fruit is sweet"
+      ],
+      "Hypothesis": [
+        "All fruits are sweet"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 44,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Trees are tall"
+      ],
+      "Hypothesis": [
+        "All trees are tall"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 45,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Clouds are white"
+      ],
+      "Hypothesis": [
+        "All clouds are white"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 46,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "People have birthdays"
+      ],
+      "Hypothesis": [
+        "All people have birthdays"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 47,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Ice cream is delicious"
+      ],
+      "Hypothesis": [
+        "All ice cream is delicious"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 48,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Animals are alive"
+      ],
+      "Hypothesis": [
+        "All animals are alive"
+      ],
+      "Label": [
+        "True"
+      ]
+    },
+    {
+      "id": 49,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "School is important"
+      ],
+      "Hypothesis": [
+        "All school are important"
+      ],
+      "Label": [
+        "False"
+      ]
+    },
+    {
+      "id": 50,
+      "logic_type": "First Order Logic",
+      "logic_subtype": "Universal Generalization",
+      "logic_type_code": "F1",
+      "Premise": [
+        "Water is necessary for life"
+      ],
+      "Hypothesis": [
+        "All water is necessary for life"
+      ],
+      "Label": [
+        "True"
+      ]
+    }
+  ]
+}
